@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CACBAM
+_audit_creation_date 2015-11-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CACBAM
+_database_code_depnum_ccdc_archive 'CCDC 1439058'
+_chemical_formula_sum 'C25 H21 Cu2 O10 S16'
+_chemical_formula_moiety
+;
+C10 H8 S8 1+,C10 H8 S8,n(C5 H5 Cu2 O10 1-)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2015
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Zhang Bin"
+_chemical_name_systematic
+;
+catena-[bis(bis(ethylenedithio)tetrathiafulvalene) 
+pentakis(\m-formato)-di-copper(ii)]
+;
+_cell_volume   1929.331
+_exptl_special_details
+;
+The authors state the tetrathiafulvalene molecules have a formal 0.5+ charge
+
+;
+_diffrn_ambient_temperature 110
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+C8,O3 and C9,O4 disordered over two sites with occupancies 0.586:0.414.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0475
+_refine_ls_wR_factor_gt 0.0475
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -x,y,1/2-z
+4 x,-y,-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2-x,1/2+y,1/2-z
+8 1/2+x,1/2-y,-z
+_cell_length_a 4.116(1)
+_cell_length_b 41.463(3)
+_cell_length_c 11.305(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu -0.0120(5) 0.50000 0.50000
+O1 O -0.0072(15) 0.47725(10) 0.3474(4)
+O2 O 0.231(4) 0.4506(4) 0.5800(8)
+O3 O -0.206(4) 0.4584(4) 0.5693(15)
+C1 C 0.00000 0.4917(2) 0.25000
+C2 C 0.529(5) 0.4417(6) 0.606(4)
+H1 H 0.00000 0.51460 0.25000
+C3 C 0.00000 0.2124(2) 0.75000
+C4 C 0.00000 0.24579(19) 0.75000
+C5 C 0.0666(15) 0.15232(14) 0.6957(6)
+C6 C 0.0606(17) 0.30607(14) 0.6946(6)
+C7 C -0.025(2) 0.08602(14) 0.6838(6)
+H2 H -0.26150 0.08700 0.66750
+H3 H 0.05700 0.06540 0.65130
+C8 C -0.0350(18) 0.37163(14) 0.6837(5)
+H4 H 0.03780 0.39240 0.64990
+H5 H -0.27270 0.37000 0.67160
+S1 S 0.1530(5) 0.19025(3) 0.63187(13)
+S2 S 0.1418(4) 0.26835(4) 0.63000(13)
+S3 S 0.1734(5) 0.11922(3) 0.60649(15)
+S4 S 0.1615(4) 0.33904(3) 0.60419(14)
+C9? C 0.514(6) 0.4579(7) 0.580(3)
+O4? O 0.547(5) 0.4853(3) 0.5317(12)
+O2C O 0.231(4) 0.5494(4) 0.4200(8)
+O1C O -0.0072(15) 0.52275(10) 0.6526(4)
+O3C O -0.206(4) 0.5416(4) 0.4307(15)
+C2C C 0.529(5) 0.5583(6) 0.394(4)
+O1B O 0.0072(15) 0.47725(10) 0.1526(4)
+O3* O 0.794(4) 0.4584(4) 0.5693(15)
+O3C* O 0.794(4) 0.5416(4) 0.4307(15)
+Cu1A Cu 0.0120(5) 0.50000 0.00000
+Cu1* Cu 0.9880(5) 0.50000 0.50000
+C5B C -0.0666(15) 0.15232(14) 0.8043(6)
+C6B C -0.0606(17) 0.30607(14) 0.8054(6)
+C7B C 0.025(2) 0.08602(14) 0.8162(6)
+H2B H 0.26150 0.08700 0.83250
+H3B H -0.05700 0.06540 0.84870
+C8B C 0.0350(18) 0.37163(14) 0.8163(5)
+H4B H -0.03780 0.39240 0.85010
+H5B H 0.27270 0.37000 0.82840
+S1B S -0.1530(5) 0.19025(3) 0.86813(13)
+S2B S -0.1418(4) 0.26835(4) 0.87000(13)
+S3B S -0.1734(5) 0.11922(3) 0.89351(15)
+S4B S -0.1615(4) 0.33904(3) 0.89581(14)
+#END

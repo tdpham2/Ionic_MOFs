@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOYPOF
+_audit_creation_date 2020-01-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOYPOF
+_database_code_depnum_ccdc_archive 'CCDC 1975321'
+_chemical_formula_sum 'C22 H12 Bi1 N1 O8 S6'
+_chemical_formula_moiety
+;
+(C20 H4 Bi1 O8 S6 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 4
+_journal_volume 142
+_journal_year 2019
+_journal_page_first 318
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"A.Garcia-Sanchez"
+"M.Gomez-Mendoza"
+"M.Barawi"
+"I.J.Villar-Garcia"
+"M.Liras"
+"F.Gandara"
+"V.A.de la P.OShea"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+bis(\m-[3,2-b:2',3'-d]thiophene-2,6-dicarboxylato)-bismuth(iii) unknown 
+solvate]
+;
+_chemical_name_common
+;
+IEF-6
+;
+_cell_volume   3921.807
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Disordered dimethylammonium cation and solvent molecules were not modelled 
+and the disordered density was taken into account using the MASK/OLEX2 
+program.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0761
+_refine_ls_wR_factor_gt 0.0761
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 24.257(5)
+_cell_length_b 15.144(3)
+_cell_length_c 10.676(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.48
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.73202(3) 0.75000 0.62461(6)
+S1 S 0.71600(18) 0.3807(2) 0.7510(3)
+S2 S 0.7879(3) 0.25000 0.4465(4)
+S3 S 0.4059(3) 0.75000 0.1516(6)
+S4 S 0.5316(3) 0.75000 0.3776(6)
+S5 S 0.5629(3) 0.75000 -0.0072(7)
+O1 O 0.3029(6) 0.75000 0.0132(13)
+O2 O 0.6920(6) 0.75000 0.4384(13)
+O3 O 0.7457(7) 0.6014(6) 0.5760(11)
+O4 O 0.7038(6) 0.5819(6) 0.7567(10)
+C1 C 0.7288(5) 0.5555(10) 0.6643(13)
+C2 C 0.7398(6) 0.2976(8) 0.6544(12)
+O5 O 0.3360(7) 0.75000 -0.177(2)
+O6 O 0.6210(8) 0.75000 0.5722(18)
+C3 C 0.7635(6) 0.3314(8) 0.5475(13)
+C4 C 0.7390(7) 0.4590(9) 0.6445(12)
+C5 C 0.3429(9) 0.75000 -0.061(2)
+C6 C 0.6387(9) 0.75000 0.463(2)
+C7 C 0.7634(6) 0.4206(8) 0.5424(13)
+H1 H 0.77829 0.45264 0.47632
+C8 C 0.5217(10) 0.75000 0.218(2)
+C9 C 0.6033(10) 0.75000 0.356(2)
+C10 C 0.6172(11) 0.75000 0.234(2)
+H2 H 0.65328 0.75000 0.20428
+C11 C 0.4781(10) 0.75000 0.136(2)
+C12 C 0.3985(10) 0.75000 -0.008(2)
+C13 C 0.5700(11) 0.75000 0.157(3)
+C14 C 0.4905(10) 0.75000 0.013(3)
+C15 C 0.4467(11) 0.75000 -0.070(3)
+H3 H 0.45019 0.75000 -0.15720
+S1F S 0.71600(18) 0.1193(2) 0.7510(3)
+O3F O 0.7457(7) -0.1014(6) 0.5760(11)
+O4F O 0.7038(6) -0.0819(6) 0.7567(10)
+C1F C 0.7288(5) -0.0555(10) 0.6643(13)
+C2F C 0.7398(6) 0.2024(8) 0.6544(12)
+C3F C 0.7635(6) 0.1686(8) 0.5475(13)
+C4F C 0.7390(7) 0.0410(9) 0.6445(12)
+C7F C 0.7634(6) 0.0794(8) 0.5424(13)
+H1F H 0.77829 0.04736 0.47632
+Bi1* Bi 0.73202(3) -0.25000 0.62461(6)
+Bi1C Bi 0.23202(3) 0.75000 -0.12461(6)
+O1C O 0.8029(6) 0.75000 0.4868(13)
+O3F* O 0.7457(7) 0.8986(6) 0.5760(11)
+O5C O 0.8360(7) 0.75000 0.677(2)
+#END

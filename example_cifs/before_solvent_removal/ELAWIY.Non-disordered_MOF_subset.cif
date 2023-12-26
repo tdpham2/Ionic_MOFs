@@ -1,0 +1,156 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ELAWIY
+_audit_creation_date 2011-03-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ELAWIY
+_database_code_depnum_ccdc_archive 'CCDC 776088'
+_chemical_formula_sum 'C14 H25 Fe3 N2 O18'
+_chemical_formula_moiety
+;
+(C3 H10 N1 1+)n,n(C8 H8 Fe3 O17 1-),n(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 155
+_journal_volume 365
+_journal_year 2011
+_journal_page_first 513
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"M.P.Yutkin"
+"M.S.Zavakhina"
+"A.V.Virovets"
+"D.N.Dybtsev"
+"V.P.Fedin"
+"T.Kusamoto"
+"H.Nishihara"
+_chemical_name_systematic
+;
+catena-(Trimethylammonium 
+(\m~3~-oxo)-heptakis(\m~2~-formato)-(formato-O)-trio-iron dimethylformamide 
+solvate)
+;
+_cell_volume   2547.951
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.765
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0326
+_refine_ls_wR_factor_gt 0.0326
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,1/2+z
+4 -x,y,z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2+x,1/2-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a 9.0422(3)
+_cell_length_b 20.8672(10)
+_cell_length_c 13.5037(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe -0.31745(5) 0.47465(3) 0.35537(5)
+Fe2 Fe -0.50000 0.36484(4) 0.48583(6)
+C1 C -0.2441(4) 0.3332(2) 0.3536(4)
+H1 H -0.18160 0.30100 0.32660
+C2 C -0.2465(4) 0.4441(2) 0.5672(3)
+H2 H -0.18570 0.45240 0.62320
+C3 C 0.00000 0.4940(3) 0.3362(4)
+H3 H 0.00000 0.46220 0.38650
+C4 C -0.50000 0.4684(3) 0.1716(5)
+H4 H -0.50000 0.46430 0.10160
+C5 C -0.50000 0.5924(3) 0.3804(4)
+H5 H -0.50000 0.63690 0.39550
+C6 C -0.50000 0.2880(4) 0.6691(5)
+H6 H -0.50000 0.32790 0.70280
+O1 O -0.2135(3) 0.38990(15) 0.3320(2)
+O2 O -0.3490(3) 0.31425(15) 0.4072(2)
+O3 O -0.2255(3) 0.47803(14) 0.4925(2)
+O4 O -0.3406(3) 0.39993(14) 0.5757(2)
+O5 O -0.1236(3) 0.51400(14) 0.3047(2)
+O6 O -0.3760(3) 0.47072(16) 0.2120(2)
+O7 O -0.3764(3) 0.56681(14) 0.3717(2)
+O8 O -0.50000 0.2889(2) 0.5764(3)
+O9 O -0.50000 0.2390(2) 0.7193(3)
+H7 H 0.50000 0.177(4) 0.622(6)
+O10 O -0.50000 0.43883(19) 0.4009(3)
+N1 N 0.50000 0.1447(3) 0.5669(4)
+C7 C 0.50000 0.0826(3) 0.6191(5)
+H8? H 0.40590 0.07710 0.65400
+H9 H 0.58150 0.08160 0.66690
+H10? H 0.48730 0.04790 0.57100
+C8 C 0.3629(5) 0.1527(2) 0.5047(3)
+H11 H 0.27510 0.14790 0.54660
+H12 H 0.36280 0.19540 0.47440
+H13 H 0.36160 0.12000 0.45260
+C9 C 0.00000 0.7964(5) 0.1571(6)
+H14 H 0.00000 0.81370 0.22220
+C10 C 0.00000 0.6917(5) 0.2326(7)
+H15? H -0.00740 0.64680 0.21210
+H16? H -0.08450 0.70270 0.27480
+H17 H 0.09200 0.69810 0.26970
+C11 C 0.00000 0.7050(5) 0.0505(6)
+H18? H 0.09120 0.68050 0.04030
+H19? H 0.00570 0.73960 0.00160
+H20 H -0.08550 0.67660 0.04280
+N2 N 0.00000 0.7316(3) 0.1477(4)
+O11 O 0.00000 0.8349(3) 0.0861(4)
+Fe1C Fe -0.68255(5) 0.47465(3) 0.35537(5)
+Fe1C* Fe 0.31745(5) 0.47465(3) 0.35537(5)
+C1C C -0.7559(4) 0.3332(2) 0.3536(4)
+H1C H -0.81840 0.30100 0.32660
+C2C C -0.7535(4) 0.4441(2) 0.5672(3)
+H2C H -0.81430 0.45240 0.62320
+O1C O -0.7865(3) 0.38990(15) 0.3320(2)
+O2C O -0.6510(3) 0.31425(15) 0.4072(2)
+O3C O -0.7745(3) 0.47803(14) 0.4925(2)
+O4C O -0.6594(3) 0.39993(14) 0.5757(2)
+O5C O 0.1236(3) 0.51400(14) 0.3047(2)
+O5C* O -0.8764(3) 0.51400(14) 0.3047(2)
+O6C O -0.6240(3) 0.47072(16) 0.2120(2)
+O7C O -0.6236(3) 0.56681(14) 0.3717(2)
+H9C H 0.41850 0.08160 0.66690
+C8C C 0.6371(5) 0.1527(2) 0.5047(3)
+H11C H 0.72490 0.14790 0.54660
+H12C H 0.63720 0.19540 0.47440
+H13C H 0.63840 0.12000 0.45260
+H17C H -0.09200 0.69810 0.26970
+H20C H 0.08550 0.67660 0.04280
+#END

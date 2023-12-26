@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LABSAL
+_audit_creation_date 2016-02-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LABSAL
+_database_code_depnum_ccdc_archive 'CCDC 1427060; CCDC 429958'
+_chemical_formula_sum 'C6 H12 Fe1 Li1 Mn1 O18'
+_chemical_formula_moiety
+;
+H12 Mn1 O6 2+,n(C6 Fe1 Li1 O12 2-)
+;
+_journal_coden_Cambridge 211
+_journal_volume 69
+_journal_year 2016
+_journal_page_first 365
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"A.Schneider"
+"H.Schmidt"
+"Wolfgang Voigt"
+_chemical_name_systematic
+;
+catena-[Hexa-aqua-manganese(ii) tris(\m~2~-oxalato)-iron(iii)-lithium]
+;
+_cell_volume    772.722
+_exptl_crystal_colour 'green yellow'
+_exptl_crystal_density_diffrn 2.105
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 200
+_diffrn_special_details
+;
+twin
+
+;
+_refine_special_details
+;
+Mn1 and Fe2 disordered over two sites with occupancies 0.95:0.05.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0384
+_refine_ls_wR_factor_gt 0.0384
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31 c'
+_symmetry_Int_Tables_number 159
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 y,x,1/2+z
+4 -x+y,-x,z
+5 -x,-x+y,1/2+z
+6 x-y,-y,1/2+z
+_cell_length_a 9.341(3)
+_cell_length_b 9.341(3)
+_cell_length_c 10.226(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+Li 1.28
+Mn 1.61
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 1.00000 1.00000 -0.00848(13)
+O1 O 0.9846(5) 0.8177(5) 0.1059(3)
+O2 O 0.8319(6) 0.8071(6) -0.1098(4)
+O3 O 0.6827(5) 0.5293(6) -0.1020(4)
+O4 O 0.8336(6) 0.5421(5) 0.1279(4)
+C1 C 0.7868(7) 0.6669(6) -0.0586(5)
+C2 C 0.8739(7) 0.6712(6) 0.0705(5)
+Li1 Li 0.66670 0.33330 0.018(2)
+Mn1 Mn 0.33330 0.66670 0.00643(18)
+O5 O 0.1688(6) 0.4575(5) 0.1267(4)
+H1 H 0.172(10) 0.480(9) 0.206(3)
+H2 H 0.174(9) 0.371(6) 0.129(6)
+O6 O 0.1257(5) 0.6317(5) -0.1096(4)
+H3 H 0.067(8) 0.533(4) -0.107(6)
+H4 H 0.133(9) 0.660(7) -0.187(3)
+Fe2? Fe 0.33330 0.66670 0.00643(18)
+O1A O 0.1823(5) 0.1669(5) 0.1059(3)
+O2A O 0.1929(6) 0.0248(6) -0.1098(4)
+O3A O 0.4707(5) 0.1534(6) -0.1020(4)
+O4A O 0.4579(6) 0.2915(5) 0.1279(4)
+C1A C 0.3331(7) 0.1199(6) -0.0586(5)
+C2A C 0.3288(7) 0.2027(6) 0.0705(5)
+O1C O 0.8331(5) 0.0154(5) 0.1059(3)
+O2C O 0.9752(6) 0.1681(6) -0.1098(4)
+O3C O 0.8466(5) 0.3173(6) -0.1020(4)
+O4C O 0.7085(6) 0.1664(5) 0.1279(4)
+C1C C 0.8801(7) 0.2132(6) -0.0586(5)
+C2C C 0.7973(7) 0.1261(6) 0.0705(5)
+Fe1* Fe 0.00000 0.00000 -0.00848(13)
+Fe1** Fe 1.00000 0.00000 -0.00848(13)
+O1A* O 1.1823(5) 1.1669(5) 0.1059(3)
+O1C* O 0.8331(5) 1.0154(5) 0.1059(3)
+O2A* O 1.1929(6) 1.0248(6) -0.1098(4)
+O2C* O 0.9752(6) 1.1681(6) -0.1098(4)
+O5A O 0.5425(6) 0.7113(5) 0.1267(4)
+H1A H 0.52(1) 0.692(9) 0.206(3)
+H2A H 0.629(9) 0.803(6) 0.129(6)
+O6A O 0.3683(5) 0.4940(5) -0.1096(4)
+H3A H 0.467(8) 0.534(4) -0.107(6)
+H4A H 0.340(9) 0.473(7) -0.187(3)
+O5C O 0.2887(6) 0.8312(5) 0.1267(4)
+H1C H 0.308(10) 0.828(9) 0.206(3)
+H2C H 0.197(9) 0.826(6) 0.129(6)
+O6C O 0.5060(5) 0.8743(5) -0.1096(4)
+H3C H 0.466(8) 0.933(4) -0.107(6)
+H4C H 0.527(9) 0.867(7) -0.187(3)
+#END

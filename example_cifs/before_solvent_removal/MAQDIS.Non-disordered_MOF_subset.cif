@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAQDIS
+_audit_creation_date 2005-11-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAQDIS
+_database_code_depnum_ccdc_archive 'CCDC 255838'
+_chemical_formula_sum 'C12 H10 Co2 K1 Na1 O16'
+_chemical_formula_moiety
+;
+(C12 H6 Co2 O14 2-)n,n(K1 1+),n(Na1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 1295
+_journal_volume 8
+_journal_year 2005
+_journal_page_first 638
+_journal_name_full 'Inorg.Chem.Commun. '
+loop_
+_publ_author_name
+"Li-Juan Zhang"
+"Jie-Hui Yu"
+"Ji-Qing Xu"
+"Jing Lu"
+"Hai-Ying Bie"
+"Xiao Zhang"
+_chemical_name_systematic
+;
+catena-(Potassium sodium 
+(\m~6~-1,2,4,5-benzenetetracarboxylato)-(\m~2~-oxalato)-bis(aqua-cobalt(ii)) 
+dihydrate)
+;
+_cell_volume    883.998
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 2.217
+_exptl_special_details
+;
+isostructural with the nickel analogue
+
+;
+_exptl_crystal_description 'columnar'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0251
+_refine_ls_wR_factor_gt 0.0251
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.5944(17)
+_cell_length_b 8.7911(18)
+_cell_length_c 13.495(3)
+_cell_angle_alpha 72.74(3)
+_cell_angle_beta 88.79(3)
+_cell_angle_gamma 66.04(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+K 1.33
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.92914(3) 0.78438(4) 0.81469(2)
+Co2 Co -0.47315(3) 1.61401(4) 0.63027(2)
+O1 O 0.6845(2) 1.1297(2) 0.87163(14)
+O2 O -0.0829(2) 1.2622(2) 0.95397(13)
+O3 O -0.5054(3) 1.8628(2) 0.64102(17)
+O4 O 1.0094(2) 0.9807(2) 0.83485(14)
+O5 O 0.68370(19) 0.9917(2) 0.75641(12)
+O6 O -0.21843(19) 1.4705(2) 0.69001(13)
+O7 O 1.1936(2) 0.6264(2) 0.84838(12)
+O8 O -0.18112(19) 1.6308(2) 0.77945(13)
+O9 O 0.1320(2) 1.2757(2) 1.03729(12)
+O10 O 0.3848(2) 1.3196(2) 0.51242(12)
+O11 O 0.54970(18) 1.3755(2) 0.60874(12)
+O12 O 1.43685(19) 0.5626(2) 0.77449(12)
+O13 O 1.01334(19) 0.8251(2) 0.66138(12)
+O14 O 1.25411(19) 0.7396(2) 0.58497(12)
+C1 C -0.1269(2) 1.5042(3) 0.74407(15)
+C2 C 0.0550(3) 1.2755(3) 0.95797(16)
+C3 C 0.1537(3) 1.3900(3) 0.67547(15)
+H1 H 0.09570 1.45390 0.60880
+C4 C 0.0622(2) 1.3860(3) 0.76152(15)
+C5 C 0.4302(3) 1.3330(3) 0.59632(15)
+C6 C 0.3250(3) 1.1898(3) 0.87275(16)
+H2 H 0.38220 1.11950 0.93890
+C7 C 0.3318(3) 1.2990(3) 0.68790(15)
+C8 C 0.1480(3) 1.2858(3) 0.86158(15)
+C9 C 0.4178(3) 1.1966(3) 0.78757(16)
+C10 C 0.6109(3) 1.0994(3) 0.80674(16)
+C11 C 1.1729(3) 0.7434(3) 0.66239(16)
+C12 C 1.2765(3) 0.6349(3) 0.77189(16)
+O15 O 0.5710(3) 0.6566(3) 0.94558(17)
+O16 O 0.8275(3) 0.8462(3) 0.47808(16)
+K1 K 0.88464(7) 0.18705(7) 0.62001(4)
+Na1 Na 1.37417(12) 0.63127(13) 1.06980(8)
+Co1* Co -0.07086(3) 1.78438(4) 0.81469(2)
+Co1A Co 0.07086(3) 1.21562(4) 1.18531(2)
+Co2A Co 0.47315(3) 1.38599(4) 0.36973(2)
+Co2* Co 0.52685(3) 1.61401(4) 0.63027(2)
+Co2** Co 1.52685(3) 0.61401(4) 0.63027(2)
+O8* O 0.81888(19) 0.6308(2) 0.77945(13)
+O9A O 0.8680(2) 0.7243(2) 0.96271(12)
+O10A O -0.3848(2) 1.6804(2) 0.48758(12)
+O11* O -0.45030(18) 1.3755(2) 0.60874(12)
+O12* O -0.56315(19) 1.5626(2) 0.77449(12)
+O14* O -0.74589(19) 1.7396(2) 0.58497(12)
+#END

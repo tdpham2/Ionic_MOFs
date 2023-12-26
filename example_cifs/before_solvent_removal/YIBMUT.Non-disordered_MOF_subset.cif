@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YIBMUT
+_audit_creation_date 2013-06-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YIBMUT
+_database_code_depnum_ccdc_archive 'CCDC 908312'
+_chemical_formula_sum 'C20 H22 Cd1 N2 O7'
+_chemical_formula_moiety
+;
+(C15 H7 Cd1 O6 1-)n,n(C3 H7 N1 O1),n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 15
+_journal_year 2013
+_journal_page_first 5476
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"Ting Liu"
+"Suna Wang"
+"Jing Lu"
+"Jianmin Dou"
+"Meiju Niu"
+"Dacheng Li"
+"Junfeng Bai"
+_chemical_name_systematic
+;
+catena-[Dimethylammonium (\m~4~-biphenyl-3,4',5-tricarboxylato)-cadmium 
+dimethylformamide solvate]
+;
+_cell_volume   1824.956
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.741
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 121.4
+_refine_special_details
+;
+C19,C20,C21,N2,O7 disordered by symmetry over two sites with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.081
+_refine_ls_wR_factor_gt 0.081
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.9411(8)
+_cell_length_b 17.0817(12)
+_cell_length_c 7.6680(18)
+_cell_angle_alpha 90
+_cell_angle_beta 91.974(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.12674(6) 0.52202(5) 0.35893(19)
+O1 O 0.0862(6) 0.4716(5) 0.6247(16)
+O2 O -0.0231(5) 0.3817(5) 0.6732(13)
+O3 O 0.0733(5) 0.1024(5) 0.7502(13)
+O4 O 0.2237(5) 0.0706(4) 0.7314(12)
+O5 O 0.7596(5) 0.3820(5) 0.7113(12)
+O6 O 0.7262(5) 0.4436(5) 0.4667(13)
+C1 C 0.0639(8) 0.4023(7) 0.6511(18)
+C2 C 0.1601(7) 0.1208(6) 0.7205(17)
+C3 C 0.1388(7) 0.3402(6) 0.6542(17)
+C4 C 0.1139(7) 0.2619(6) 0.6805(17)
+H1 H 0.05000 0.24840 0.69450
+C5 C 0.1846(7) 0.2039(6) 0.6858(17)
+C6 C 0.2795(7) 0.2252(6) 0.6627(16)
+H2 H 0.32660 0.18660 0.66360
+C7 C 0.3059(7) 0.3032(6) 0.6382(16)
+C8 C 0.2338(7) 0.3597(7) 0.6342(17)
+H3 H 0.25020 0.41180 0.61770
+C9 C 0.7014(8) 0.4004(6) 0.5871(18)
+C10 C 0.6011(7) 0.3707(6) 0.5932(16)
+C11 C 0.5295(8) 0.4054(6) 0.4913(17)
+H4 H 0.54620 0.44460 0.41380
+C12 C 0.4336(7) 0.3842(6) 0.5000(16)
+H5 H 0.38670 0.40850 0.42980
+C13 C 0.4093(7) 0.3248(6) 0.6181(16)
+C14 C 0.4809(7) 0.2873(6) 0.7166(17)
+H6 H 0.46510 0.24610 0.78950
+C15 C 0.5755(7) 0.3108(7) 0.7070(17)
+H7 H 0.62250 0.28660 0.77690
+N1 N 0.1354(15) 0.6208(11) 0.783(3)
+H8 H 0.18020 0.59230 0.72960
+H9 H 0.08030 0.61060 0.72230
+C16 C 0.1577(18) 0.7014(12) 0.725(4)
+H10 H 0.10560 0.72090 0.65240
+H11 H 0.21540 0.70080 0.65990
+H12 H 0.16670 0.73460 0.82510
+C17 C 0.1225(16) 0.5759(14) 0.947(3)
+H13 H 0.11360 0.61170 1.04150
+H14 H 0.17850 0.54450 0.97140
+H15 H 0.06730 0.54270 0.93340
+N2? N 0.5452(15) 0.4579(13) 0.014(3)
+O7? O 0.4052(18) 0.5026(17) -0.051(4)
+C18? C 0.4518(16) 0.4444(15) -0.001(3)
+H16? H 0.42280 0.39660 0.02110
+C19? C 0.587(2) 0.5345(15) -0.026(5)
+H17? H 0.61180 0.55760 0.08070
+H18? H 0.53890 0.56810 -0.07780
+H19? H 0.63830 0.52780 -0.10490
+C20? C 0.6160(19) 0.3976(15) 0.071(4)
+H20? H 0.66320 0.42050 0.14900
+H21? H 0.64690 0.37670 -0.02910
+H22? H 0.58330 0.35620 0.12930
+Cd1B Cd -0.12674(6) 0.47798(5) 0.64107(19)
+Cd1B* Cd 0.87326(6) 0.47798(5) 0.64107(19)
+Cd1C Cd 0.12674(6) -0.02202(5) 0.85893(19)
+O2B O 0.0231(5) 0.6183(5) 0.3268(13)
+O3C O 0.0733(5) 0.3976(5) 0.2502(13)
+O4C O 0.2237(5) 0.4294(4) 0.2314(12)
+O5B O 0.2404(5) 0.6180(5) 0.2887(12)
+O6B O 0.2738(5) 0.5564(5) 0.5333(13)
+#END

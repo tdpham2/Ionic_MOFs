@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEFMUI01
+_audit_creation_date 2017-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEFMUI01
+_database_code_depnum_ccdc_archive 'CCDC 1537298'
+_chemical_formula_sum 'C8 H16 Al1 N2 Na1 O12'
+_chemical_formula_moiety
+;
+C2 H10 N2 2+,n(C6 H6 Al1 Na1 O12 2-)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 23
+_journal_year 2017
+_journal_page_first 9857
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Yao Yu"
+"Ran Shang"
+"Sa Chen"
+"Bin-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[(ethane-1,2-diaminium) 
+tetrakis(\m-formato)-bis(formato)-aluminium(iii)-sodium]
+;
+_cell_volume    387.178
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.639
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0454
+_refine_ls_wR_factor_gt 0.0454
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.5206(5)
+_cell_length_b 7.9109(5)
+_cell_length_c 8.0857(4)
+_cell_angle_alpha 95.017(4)
+_cell_angle_beta 91.516(5)
+_cell_angle_gamma 110.988(6)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.21
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1 Al 0.50000 0.50000 0.50000
+Na1 Na 0.00000 0.00000 0.50000
+O1 O 0.2498(3) 0.2913(2) 0.42053(18)
+O2 O -0.0120(3) 0.1232(2) 0.2310(2)
+O3 O 0.6159(3) 0.3461(2) 0.60633(18)
+O4 O 0.7671(3) 0.1388(2) 0.6254(2)
+O5 O 0.6374(3) 0.4704(2) 0.30302(18)
+O6 O 0.8101(3) 0.5664(2) 0.0765(2)
+C1 C 0.1491(4) 0.2618(3) 0.2777(3)
+H1 H 0.20080 0.35160 0.20250
+C2 C 0.6953(4) 0.2338(4) 0.5457(3)
+H2 H 0.70060 0.22060 0.42810
+C3 C 0.7351(4) 0.5931(3) 0.2099(3)
+H3 H 0.75110 0.71490 0.24650
+C4 C 0.5203(4) 0.0997(3) 0.0149(3)
+H4 H 0.41300 0.12900 -0.05490
+H5 H 0.50040 0.13160 0.13290
+N1 N 0.7471(3) 0.2070(3) -0.0266(2)
+H6 H 0.84480 0.17260 0.03110
+H7 H 0.77540 0.32750 0.00130
+H8 H 0.76040 0.18680 -0.13760
+O1A O -0.2498(3) -0.2913(2) 0.57947(18)
+O2A O 0.0120(3) -0.1232(2) 0.7690(2)
+C1A C -0.1491(4) -0.2618(3) 0.7223(3)
+H1A H -0.20080 -0.35160 0.79750
+O3A O 0.3841(3) 0.6539(2) 0.39367(18)
+O4A O 0.2329(3) 0.8612(2) 0.3746(2)
+C2A C 0.3047(4) 0.7662(4) 0.4543(3)
+H2A H 0.29940 0.77940 0.57190
+O5A O 0.3626(3) 0.5296(2) 0.69698(18)
+O6A O 0.1899(3) 0.4336(2) 0.9235(2)
+C3A C 0.2649(4) 0.4069(3) 0.7901(3)
+H3A H 0.24890 0.28510 0.75350
+Al1* Al -0.50000 -0.50000 0.50000
+Na1* Na 0.00000 1.00000 0.50000
+Na1** Na 1.00000 0.00000 0.50000
+O1A* O 0.7502(3) 0.7087(2) 0.57947(18)
+O4* O -0.2329(3) 0.1388(2) 0.6254(2)
+O4A* O 0.2329(3) -0.1388(2) 0.3746(2)
+C4A C 0.4797(4) -0.0997(3) -0.0149(3)
+H4A H 0.58700 -0.12900 0.05490
+H5A H 0.49960 -0.13160 -0.13290
+N1A N 0.2529(3) -0.2070(3) 0.0266(2)
+H6A H 0.15520 -0.17260 -0.03110
+H7A H 0.22460 -0.32750 -0.00130
+H8A H 0.23960 -0.18680 0.13760
+#END

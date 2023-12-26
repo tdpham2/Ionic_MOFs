@@ -1,0 +1,156 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOMSUP
+_audit_creation_date 2014-06-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOMSUP
+_database_code_depnum_ccdc_archive 'CCDC 973744'
+_chemical_formula_sum 'C31 H29 In1 N2 O10'
+_chemical_formula_moiety
+;
+(C28 H16 In1 O8 1-)n,n(C1 H6 N1 1+),n(C2 H5 N1 O1),n(H2 O1)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 16
+_journal_year 2014
+_journal_page_first 7434
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"Jinjie Qian"
+"Feilong Jiang"
+"Kongzhao Su"
+"Qipeng Li"
+"Kang Zhou"
+"Mingyan Wu"
+"Daqiang Yuan"
+"Maochun Hong"
+_chemical_name_systematic
+;
+catena-(Methylammonium bis(\m~2~-biphenyl-3,3'-dicarboxylato)-indium 
+N-methylformamide solvate monohydrate)
+;
+_chemical_name_common
+;
+InOF-4
+;
+_cell_volume   1673.380
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.181
+_exptl_crystal_description 'polyhedral'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The SQUEEZE/PLATON program has been used to model some disorder.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0511
+_refine_ls_wR_factor_gt 0.0511
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P -4 2 c'
+_symmetry_Int_Tables_number 112
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 y,-x,-z
+3 -x,-y,z
+4 -y,x,-z
+5 x,-y,1/2-z
+6 -x,y,1/2-z
+7 -y,-x,1/2+z
+8 y,x,1/2+z
+_cell_length_a 10.7454(1)
+_cell_length_b 10.7454(1)
+_cell_length_c 14.4927(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.00000 0.00000 0.00000
+C1 C 0.0819(7) -0.2111(8) 0.0485(8)
+C2 C 0.1263(7) -0.3430(8) 0.0777(9)
+O1 O 0.0775(6) -0.1960(6) -0.0352(6)
+C3 C 0.2031(6) -0.5811(10) 0.1267(11)
+H1 H 0.23060 -0.66160 0.14450
+O2 O 0.0516(5) -0.1407(7) 0.1120(6)
+C4 C 0.1348(6) -0.3709(8) 0.1687(9)
+H2 H 0.11680 -0.30850 0.21320
+C5 C 0.1696(5) -0.4896(10) 0.1982(8)
+C6 C 0.1586(8) -0.4299(10) 0.014(1)
+H3 H 0.15670 -0.40800 -0.04950
+C7 C 0.1954(10) -0.5531(12) 0.039(1)
+H4 H 0.21380 -0.61330 -0.00700
+C1D C 0.0819(7) -0.7889(8) 0.4515(8)
+C2D C 0.1263(7) -0.6570(8) 0.4223(9)
+O1D O 0.0775(6) -0.8040(6) 0.5352(6)
+C3D C 0.2031(6) -0.4189(10) 0.3733(11)
+H1D H 0.23060 -0.33840 0.35550
+O2D O 0.0516(5) -0.8593(7) 0.3880(6)
+C4D C 0.1348(6) -0.6291(8) 0.3313(9)
+H2D H 0.11680 -0.69150 0.28680
+C5D C 0.1696(5) -0.5104(10) 0.3018(8)
+C6D C 0.1586(8) -0.5701(10) 0.486(1)
+H3D H 0.15670 -0.59200 0.54950
+C7D C 0.1954(10) -0.4469(12) 0.461(1)
+H4D H 0.21380 -0.38670 0.50700
+C1A C -0.2111(7) -0.0819(8) -0.0485(8)
+C2A C -0.3430(7) -0.1263(8) -0.0777(9)
+O1A O -0.1960(6) -0.0775(6) 0.0352(6)
+C3A C -0.5811(6) -0.2031(10) -0.1267(11)
+H1A H -0.66160 -0.23060 -0.14450
+O2A O -0.1407(5) -0.0516(7) -0.1120(6)
+C4A C -0.3709(6) -0.1348(8) -0.1687(9)
+H2A H -0.30850 -0.11680 -0.21320
+C5A C -0.4896(5) -0.1696(10) -0.1982(8)
+C6A C -0.4299(8) -0.1586(10) -0.014(1)
+H3A H -0.40800 -0.15670 0.04950
+C7A C -0.5531(10) -0.1954(12) -0.039(1)
+H4A H -0.61330 -0.21380 0.00700
+C1F C -0.7889(7) -0.0819(8) -0.4515(8)
+C2F C -0.6570(7) -0.1263(8) -0.4223(9)
+O1F O -0.8040(6) -0.0775(6) -0.5352(6)
+C3F C -0.4189(6) -0.2031(10) -0.3733(11)
+H1F H -0.33840 -0.23060 -0.35550
+O2F O -0.8593(5) -0.0516(7) -0.3880(6)
+C4F C -0.6291(6) -0.1348(8) -0.3313(9)
+H2F H -0.69150 -0.11680 -0.28680
+C5F C -0.5104(5) -0.1696(10) -0.3018(8)
+C6F C -0.5701(8) -0.1586(10) -0.486(1)
+H3F H -0.59200 -0.15670 -0.54950
+C7F C -0.4469(10) -0.1954(12) -0.461(1)
+H4F H -0.38670 -0.21380 -0.50700
+In1D In -1.00000 0.00000 -0.50000
+In1D* In 0.00000 -1.00000 0.50000
+O1B O -0.0775(6) 0.1960(6) -0.0352(6)
+O1C O 0.1960(6) 0.0775(6) 0.0352(6)
+O2B O -0.0516(5) 0.1407(7) 0.1120(6)
+O2C O 0.1407(5) 0.0516(7) -0.1120(6)
+#END

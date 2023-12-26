@@ -1,0 +1,189 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEPWAW
+_audit_creation_date 2013-05-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEPWAW
+_database_code_depnum_ccdc_archive 'CCDC 918395'
+_chemical_formula_sum 'C16 H38 Cu5 K4 O38'
+_chemical_formula_moiety
+;
+(K1 1+)4n,n(C16 H14 Cu5 O26 4-),12n(H2 O1)
+;
+_journal_coden_Cambridge 29
+_journal_volume 639
+_journal_year 2013
+_journal_page_first 280
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"S.Albrecht"
+"P.Klufers"
+_chemical_name_systematic
+;
+catena-[tetrakis(Potassium) 
+(\m~5~-2,3-dioxidobutanedioato)-(\m~4~-2,3-dioxidobutanedioato)-(\m~4~-2-hydro
+xy-3-oxidobutanedioato)-(\m~2~-2-hydroxy-3-oxidobutanedioato)-diaqua-penta-cop
+per(ii) dodecahydrate]
+;
+_chemical_name_common
+;
+catena-[tetrakis(Potassium) (mu!5$-tartrate tetra-anion)-(mu!4$-tartrate 
+tetra-anion)-(mu!4$-tartrate tri-anion)-(mu!2$-tartrate 
+tri-anion)-diaqua-penta-copper(ii) dodecahydrate]
+;
+_cell_volume   8763.736
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.884
+_exptl_special_details
+;
+The tartrate H atoms have not been located and have been placed arbitrarily 
+in the 2D diagram. Due to the disordered potassium cation positions it is not 
+possible to accurately represent a repeating unit
+;
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The potassium cations are disordered over a total of 2 full- and 13 
+partial-occupancy sites.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0604
+_refine_ls_wR_factor_gt 0.0604
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 21.2779(11)
+_cell_length_b 16.4760(9)
+_cell_length_c 24.9982(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+K 2.03
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.16802(3) 0.60720(4) 0.04202(3)
+Cu2 Cu 0.24984(3) 0.59924(4) 0.16104(3)
+Cu3 Cu 0.25396(3) 0.74848(4) 0.08060(3)
+Cu4 Cu 0.03889(3) 0.57664(4) -0.02842(3)
+Cu5 Cu 0.17252(3) 0.52788(4) -0.07001(3)
+O1 O 0.1458(3) 0.6027(4) 0.1902(2)
+O2 O 0.2027(2) 0.3916(3) -0.09885(18)
+C1 C 0.3133(3) 0.6476(4) 0.2525(3)
+C2 C 0.3514(3) 0.6875(4) 0.2074(2)
+H1 H 0.38950 0.71230 0.22220
+C3 C 0.3112(3) 0.7520(4) 0.1806(2)
+H2 H 0.29750 0.79110 0.20770
+C4 C 0.3531(3) 0.7957(4) 0.1397(3)
+O3 O 0.2700(2) 0.5992(3) 0.23843(17)
+O4 O 0.3248(3) 0.6667(4) 0.2994(2)
+O5 O 0.3679(2) 0.6288(4) 0.16874(19)
+O6 O 0.25743(17) 0.7179(2) 0.15563(15)
+O7 O 0.33942(19) 0.7880(3) 0.09058(17)
+O8 O 0.3985(2) 0.8349(3) 0.15697(19)
+C5 C 0.2021(3) 0.7862(3) -0.0150(2)
+C6 C 0.1461(3) 0.7670(3) 0.0214(2)
+H3 H 0.12860 0.81820 0.03460
+C7 C 0.0954(3) 0.7221(3) -0.0085(3)
+H4 H 0.09070 0.74770 -0.04370
+C8 C 0.0323(3) 0.7241(4) 0.0189(3)
+O9 O 0.25655(18) 0.7751(3) 0.00515(17)
+O10 O 0.1929(2) 0.8141(3) -0.05988(19)
+O11 O 0.16609(16) 0.7202(2) 0.06616(15)
+O12 O 0.11419(17) 0.6405(2) -0.01674(16)
+O13 O 0.0158(2) 0.7851(4) 0.0444(4)
+O14 O -0.00219(18) 0.6615(3) 0.0126(2)
+C9 C 0.2908(3) 0.5425(4) -0.0315(2)
+C10 C 0.2558(2) 0.4959(3) 0.0120(2)
+H5 H 0.26550 0.43810 0.00770
+C11 C 0.2766(3) 0.5213(3) 0.0677(2)
+H6 H 0.32130 0.53550 0.06560
+C12 C 0.2696(3) 0.4554(3) 0.1102(2)
+O15 O 0.3484(2) 0.5522(4) -0.0282(2)
+O16 O 0.25855(19) 0.5669(3) -0.07127(17)
+O17 O 0.19014(16) 0.5059(2) 0.00537(14)
+O18 O 0.24352(17) 0.5920(2) 0.08355(15)
+O19 O 0.2530(2) 0.4809(3) 0.15662(18)
+O20 O 0.2842(2) 0.3845(3) 0.1000(2)
+C13 C 0.1081(3) 0.5219(4) -0.1633(2)
+C14 C 0.0630(2) 0.4839(3) -0.1232(2)
+H7 H 0.06000 0.42550 -0.13020
+C15 C -0.0022(2) 0.5227(3) -0.1307(2)
+H8 H -0.01830 0.51200 -0.16670
+C16 C -0.0479(2) 0.4895(3) -0.0878(2)
+O21 O 0.15833(18) 0.5532(3) -0.14481(17)
+O22 O 0.0946(2) 0.5211(4) -0.21166(17)
+O23 O 0.08501(16) 0.4960(2) -0.07031(14)
+O24 O 0.00698(18) 0.6070(2) -0.12272(17)
+O25 O -0.08631(18) 0.4360(3) -0.09964(16)
+O26 O -0.04198(16) 0.5192(2) -0.04170(15)
+O27 O 0.0487(6) 0.9100(7) 0.1125(5)
+O28 O 0.1614(7) 0.7240(9) 0.2592(6)
+O29 O 0.1993(4) 0.8912(4) 0.2398(3)
+O30 O 0.3908(3) 0.7094(4) -0.0580(4)
+O31 O 0.1250(4) 0.4411(5) 0.2417(3)
+O32 O 0.0258(12) 0.7052(16) 0.162(1)
+K1 K 0.37273(5) 0.85832(7) -0.00526(5)
+K2 K 0.13510(12) 0.79137(14) 0.16501(10)
+K3 K 0.22296(19) 0.4777(4) 0.31383(16)
+O33 O 0.0322(7) 0.4108(9) 0.3072(6)
+O34 O 0.0868(9) 0.2737(12) 0.3368(7)
+O35 O 0.0362(10) 1.0520(14) 0.2147(9)
+O36 O -0.0393(7) 0.6712(10) 0.4129(6)
+O37 O 0.0500(4) 1.0138(11) 0.0333(4)
+K4? K 0.2015(5) 0.7813(5) 0.3441(3)
+K5? K 0.1450(16) 0.7770(19) 0.3515(13)
+K6? K 0.2033(10) 0.5440(13) 0.3257(8)
+K7? K 0.2133(5) 0.3814(12) 0.3251(4)
+K8? K 0.1806(10) 0.3432(12) 0.3403(8)
+K9? K 0.0952(13) 0.4711(17) 0.3688(11)
+K10? K 0.0719(14) 0.7698(18) 0.3235(11)
+K11? K 0.1044(16) 0.931(2) 0.1866(14)
+K12? K 0.0125(14) 1.1003(18) 0.2498(12)
+K13? K 0.0386(15) 0.816(2) 0.2528(13)
+K14? K 0.0980(18) 0.615(2) 0.3772(15)
+K15? K 0.2139(7) 0.4165(17) 0.3222(7)
+Cu1D Cu -0.16802(3) 0.39280(4) -0.04202(3)
+Cu3G Cu 0.24604(3) 0.24848(4) 0.08060(3)
+Cu4D Cu -0.03889(3) 0.42336(4) 0.02842(3)
+O20G O 0.2158(2) 0.8845(3) 0.1000(2)
+O25D O 0.08631(18) 0.5640(3) 0.09964(16)
+O26D O 0.04198(16) 0.4808(2) 0.04170(15)
+#END

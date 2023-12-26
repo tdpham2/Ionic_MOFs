@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YIGVIU
+_audit_creation_date 2007-11-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YIGVIU
+_database_code_depnum_ccdc_archive 'CCDC 602597'
+_chemical_formula_sum 'C2 H2 Mn1 Na1 O6 P1'
+_chemical_formula_moiety
+;
+(Na1 1+)n,n(C2 H2 Mn1 O6 P1 1-)
+;
+_journal_coden_Cambridge 211
+_journal_volume 60
+_journal_year 2007
+_journal_page_first 1247
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"Lianyi Cui"
+"Zhengang Sun"
+"Hui Chen"
+"Lei Meng"
+"Dapeng Dong"
+"Cuihua Tian"
+"Zaiming Zhu"
+"Wansheng You"
+_chemical_name_systematic
+;
+catena-(Sodium (\m~4~-2-hydroxyphosphonoacetato)-manganese(ii))
+;
+_cell_volume   1113.362
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.755
+_exptl_special_details
+;
+isomorphous with the cobalt analogue
+
+;
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0194
+_refine_ls_wR_factor_gt 0.0194
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 10.4309(18)
+_cell_length_b 9.7913(17)
+_cell_length_c 10.9012(19)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+Na 0.97
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.67587(3) 1.08383(3) 0.60429(3)
+P1 P 0.59888(4) 0.77449(5) 0.46072(4)
+Na1 Na 0.87462(8) 0.91436(8) 0.42323(8)
+O1 O 0.67222(13) 0.89299(14) 0.51672(13)
+O2 O 0.65151(13) 0.63617(14) 0.50037(13)
+O3 O 0.45436(13) 0.78109(14) 0.47844(13)
+O4 O 0.76217(13) 0.77571(13) 0.26706(12)
+H1 H 0.77730 0.69450 0.25600
+O5 O 0.68498(13) 1.01682(14) 0.23105(14)
+O6 O 0.47801(12) 0.97513(14) 0.26566(13)
+C1 C 0.62805(18) 0.79329(18) 0.29458(17)
+H2 H 0.57570 0.72850 0.24780
+C2 C 0.59386(18) 0.93997(19) 0.26116(18)
+Mn1G Mn 0.82413(3) 0.58383(3) 0.60429(3)
+Mn1D Mn 0.32413(3) 0.91617(3) 0.39571(3)
+Mn1A Mn 0.82413(3) 0.91617(3) 0.10429(3)
+O2G O 0.84849(13) 1.13617(14) 0.50037(13)
+O3D O 0.54564(13) 1.21891(14) 0.52156(13)
+O4A O 0.73783(13) 1.22429(13) 0.76706(12)
+H1A H 0.72270 1.30550 0.75600
+O5A O 0.81502(13) 0.98318(14) 0.73105(14)
+O6D O 0.52199(12) 1.02487(14) 0.73434(13)
+#END

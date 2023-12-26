@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIRJIQ
+_audit_creation_date 2008-04-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIRJIQ
+_database_code_depnum_ccdc_archive 'CCDC 632133'
+_chemical_formula_sum 'C10 H20 Co2 N2 O12'
+_chemical_formula_moiety
+;
+(C4 H14 N2 2+)n,n(C6 H6 Co2 O12 2-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 46
+_journal_year 2007
+_journal_page_first 8439
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Zheming Wang"
+"Xueyu Zhang"
+"S.R.Batten"
+"M.Kurmoo"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-(N,N'-Dimethylethylenediammonium 
+hexakis(\m~2~-formato-O,O')-di-cobalt(ii))
+;
+_cell_volume    850.767
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.866
+_exptl_special_details
+;
+magnetic properties
+isostructural with the manganese analogue
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The nitrogen atoms of the cation are each disordered over three positions by 
+symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0321
+_refine_ls_wR_factor_gt 0.0321
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x+y,y,1/2-z
+5 x,x-y,1/2-z
+6 -y,-x,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 x-y,-y,-1/2+z
+11 -x,-x+y,-1/2+z
+12 y,x,-1/2+z
+_cell_length_a 8.1805(4)
+_cell_length_b 8.1805(4)
+_cell_length_c 14.6798(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.00000 0.00000
+Co2 Co 0.33330 0.66670 0.25000
+O1 O 0.2180(3) 0.2067(3) 0.08090(12)
+O2 O 0.3437(3) 0.4588(3) 0.16993(12)
+C1 C 0.2103(4) 0.3265(4) 0.12826(18)
+H1 H 0.09290 0.31760 0.13360
+C2 C 0.66670 0.33330 0.2057(5)
+C3 C 0.66670 0.33330 0.0382(4)
+N1 N 0.5851(11) 0.2555(11) 0.1304(5)
+Co2* Co -0.66670 -0.33330 0.25000
+Co2** Co 0.33330 -0.33330 0.25000
+Co2K Co -0.33330 -0.66670 -0.25000
+Co2K* Co 0.66670 0.33330 -0.25000
+Co2K** Co -0.33330 0.33330 -0.25000
+O1A O -0.2067(3) 0.0113(3) 0.08090(12)
+O1B O -0.0113(3) -0.2180(3) 0.08090(12)
+O1F O -0.2180(3) -0.2067(3) -0.08090(12)
+O1G O 0.2067(3) -0.0113(3) -0.08090(12)
+O1H O 0.0113(3) 0.2180(3) -0.08090(12)
+O2A O -0.4588(3) -0.1151(3) 0.16993(12)
+O2B O 0.1151(3) -0.3437(3) 0.16993(12)
+O2F O -0.3437(3) -0.4588(3) -0.16993(12)
+O2G O 0.4588(3) 0.1151(3) -0.16993(12)
+O2H O -0.1151(3) 0.3437(3) -0.16993(12)
+O2A* O 0.5412(3) 0.8849(3) 0.16993(12)
+O2B* O 0.1151(3) 0.6563(3) 0.16993(12)
+O2C O 0.1151(3) 0.4588(3) 0.33007(12)
+O2D O 0.3437(3) 0.8849(3) 0.33007(12)
+O2E O 0.5412(3) 0.6563(3) 0.33007(12)
+C1A C -0.3265(4) -0.1162(4) 0.12826(18)
+C1B C 0.1162(4) -0.2103(4) 0.12826(18)
+C1F C -0.2103(4) -0.3265(4) -0.12826(18)
+C1G C 0.3265(4) 0.1162(4) -0.12826(18)
+C1H C -0.1162(4) 0.2103(4) -0.12826(18)
+H1A H -0.31760 -0.22470 0.13360
+H1B H 0.22470 -0.09290 0.13360
+H1F H -0.09290 -0.31760 -0.13360
+H1G H 0.31760 0.22470 -0.13360
+H1H H -0.22470 0.09290 -0.13360
+C2C C 0.66660 0.33330 0.2943(5)
+C3C C 0.66660 0.33330 0.4618(4)
+N1C N 0.6704(11) 0.2555(11) 0.3696(5)
+N1D N 0.5851(11) 0.3296(11) 0.3696(5)
+N1E N 0.7445(11) 0.4149(11) 0.3696(5)
+N1A N 0.7445(11) 0.3296(11) 0.1304(5)
+N1B N 0.6704(11) 0.4149(11) 0.1304(5)
+#END

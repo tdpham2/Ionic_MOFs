@@ -1,0 +1,174 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XACLOF
+_audit_creation_date 2016-01-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XACLOF
+_database_code_depnum_ccdc_archive 'CCDC 1431247'
+_chemical_formula_sum 'C8 H14 Fe2 N1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Fe2 O12 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1695
+_journal_volume 4
+_journal_year 2016
+_journal_page_first 1186
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"M.Maczka"
+"A.Ciupa"
+"A.Gagor"
+"A.Sieradzki"
+"A.Pikul"
+"M.Ptak"
+_chemical_name_systematic
+;
+catena-(Ethylammonium hexakis(\m~2~-formato-O,O')-di-iron)
+;
+_cell_volume    828.259
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.716
+_exptl_crystal_description 'rhomboidal'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+The cation is disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0379
+_refine_ls_wR_factor_gt 0.0379
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.2294(2)
+_cell_length_b 8.2294(2)
+_cell_length_c 14.1221(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.66670 0.33330 0.25000
+Fe2 Fe 1.00000 0.00000 0.00000
+O1 O 0.6620(4) 0.1154(4) 0.16758(19)
+O2 O 0.7947(4) -0.0083(4) 0.08033(18)
+C1 C 0.7912(6) 0.1265(6) 0.1188(3)
+H1 H 0.89490 0.24530 0.10980
+C2 C 0.2680(16) 0.7320(16) 0.25000
+H2 H 0.36860 0.84870 0.27330
+H3 H 0.22010 0.64190 0.30050
+H4 H 0.16960 0.75100 0.22610
+C3 C 0.33330 0.66670 0.1786(11)
+H5 H 0.27840 0.53460 0.19380
+H6 H 0.46540 0.72160 0.19380
+N1 N 0.33330 0.66670 0.0800(8)
+H7 H 0.22560 0.57160 0.05900
+O1A O 0.8846(4) -0.4534(4) 0.16758(19)
+O2A O 1.0083(4) -0.1970(4) 0.08033(18)
+C1A C 0.8735(6) -0.3353(6) 0.1188(3)
+H1A H 0.75470 -0.35040 0.10980
+O1A* O 0.8846(4) 0.5466(4) 0.16758(19)
+O2A* O 1.0083(4) 0.8030(4) 0.08033(18)
+C1A* C 0.8735(6) 0.6647(6) 0.1188(3)
+H1A* H 0.75470 0.64960 0.10980
+O1B O 0.4534(4) 0.3380(4) 0.16758(19)
+O2B O 0.1970(4) 0.2053(4) 0.08033(18)
+C1B C 0.3353(6) 0.2088(6) 0.1188(3)
+H1B H 0.35040 0.10510 0.10980
+O1B* O 1.4534(4) 0.3380(4) 0.16758(19)
+O2B* O 1.1970(4) 0.2053(4) 0.08033(18)
+C1B* C 1.3353(6) 0.2088(6) 0.1188(3)
+H1B* H 1.35040 0.10510 0.10980
+O1C O 0.8846(4) 0.3380(4) 0.33242(19)
+O2C O 1.0083(4) 0.2053(4) 0.41967(18)
+C1C C 0.8735(6) 0.2088(6) 0.3812(3)
+H1C H 0.75470 0.10510 0.39020
+Fe1* Fe 0.66670 -0.66670 0.25000
+Fe1** Fe 1.66670 0.33330 0.25000
+Fe2* Fe 0.00000 0.00000 0.00000
+Fe2** Fe 1.00000 1.00000 0.00000
+Fe2C Fe 1.00000 0.00000 0.50000
+O1D O 0.4534(4) 0.1154(4) 0.33242(19)
+O1E O 0.6620(4) 0.5466(4) 0.33242(19)
+O2F O 1.2053(4) 0.0083(4) -0.08033(18)
+O2G O 0.9917(4) 0.1970(4) -0.08033(18)
+O2H O 0.8030(4) -0.2053(4) -0.08033(18)
+C2A C 0.2680(16) 0.5360(16) 0.25000
+H2A H 0.15130 0.51990 0.27330
+H3A H 0.35810 0.57820 0.30050
+H4A H 0.24900 0.41860 0.22610
+H5A H 0.46540 0.74380 0.19380
+H6A H 0.27840 0.74380 0.19380
+H7A H 0.42840 0.65400 0.05900
+C2B C 0.4640(16) 0.7320(16) 0.25000
+H2B H 0.48010 0.63140 0.27330
+H3B H 0.42180 0.77990 0.30050
+H4B H 0.58140 0.83040 0.22610
+H5B H 0.25620 0.72160 0.19380
+H6B H 0.25620 0.53460 0.19380
+H7B H 0.34600 0.77440 0.05900
+H2C H 0.15130 0.63140 0.22670
+H3C H 0.35810 0.77990 0.19950
+H4C H 0.24900 0.83040 0.27390
+C3C C 0.33330 0.66670 0.3214(11)
+H5C H 0.46540 0.72160 0.30620
+H6C H 0.27840 0.53460 0.30620
+N1C N 0.33330 0.66670 0.4200(8)
+H7C H 0.42840 0.77440 0.44100
+H2D H 0.48010 0.84870 0.22670
+H3D H 0.42180 0.64190 0.19950
+H4D H 0.58140 0.75100 0.27390
+H5D H 0.25620 0.53460 0.30620
+H6D H 0.25620 0.72160 0.30620
+H7D H 0.34600 0.57160 0.44100
+H2E H 0.36860 0.51990 0.22670
+H3E H 0.22010 0.57820 0.19950
+H4E H 0.16960 0.41860 0.27390
+H5E H 0.27840 0.74380 0.30620
+H6E H 0.46540 0.74380 0.30620
+H7E H 0.22560 0.65400 0.44100
+#END

@@ -1,0 +1,162 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DADVAG04
+_audit_creation_date 2018-08-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DADVAG04
+_database_code_depnum_ccdc_archive 'CCDC 1845704'
+_chemical_formula_sum 'C5 H11 N1 Ni1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Ni1 O6 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 1350
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 5348
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"S.Sobczak"
+"A.Chitnis"
+"M.Andrzejewski"
+"M.Maczka"
+"S.Gohil"
+"N.Garg"
+"A.Katrusiak"
+_chemical_name_systematic
+;
+catena-(dimethylammonium tris(\m~2~-formato)-nickel(ii))
+;
+_cell_volume   1195.621
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.032
+_exptl_special_details
+;
+DMF
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 1900000.0
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.3333.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,1/2-z
+5 -x,-x+y,1/2-z
+6 y,x,1/2-z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3+x-y,1/3-y,5/6-z
+11 2/3-x,1/3-x+y,5/6-z
+12 2/3+y,1/3+x,5/6-z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3+x-y,2/3-y,1/6-z
+17 1/3-x,2/3-x+y,1/6-z
+18 1/3+y,2/3+x,1/6-z
+19 -x,-y,-z
+20 y,-x+y,-z
+21 x-y,x,-z
+22 -x+y,y,-1/2+z
+23 x,x-y,-1/2+z
+24 -y,-x,-1/2+z
+25 -2/3-x,-1/3-y,-1/3-z
+26 -2/3+y,-1/3-x+y,-1/3-z
+27 -2/3+x-y,-1/3+x,-1/3-z
+28 -2/3-x+y,-1/3+y,-5/6+z
+29 -2/3+x,-1/3+x-y,-5/6+z
+30 -2/3-y,-1/3-x,-5/6+z
+31 -1/3-x,-2/3-y,-2/3-z
+32 -1/3+y,-2/3-x+y,-2/3-z
+33 -1/3+x-y,-2/3+x,-2/3-z
+34 -1/3-x+y,-2/3+y,-1/6+z
+35 -1/3+x,-2/3+x-y,-1/6+z
+36 -1/3-y,-2/3-x,-1/6+z
+_cell_length_a 8.0016(16)
+_cell_length_b 8.0016(16)
+_cell_length_c 21.563(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.00000 0.00000 0.00000
+C1 C 0.1229(6) -0.2104(6) 0.08330
+O1 O -0.0142(3) -0.2187(3) 0.05384(11)
+H1 H 0.243(10) -0.09(1) 0.08330
+N1 N 0.2502(14) -0.33330 -0.08330
+C2 C 0.33330 -0.33330 -0.0267(3)
+H2 H 0.351(16) -0.432(14) -0.019(7)
+H3 H 0.26(7) -0.21(4) -0.07(3)
+O1Q O 0.114633(300) -0.347533(300) 0.112827(110)
+C1A C 0.2104(6) 0.3333(6) 0.08330
+O1A O 0.2187(3) 0.2045(3) 0.05384(11)
+H1A H 0.09(1) 0.333(10) 0.08330
+O1P O 0.347533(300) 0.462167(300) 0.112827(110)
+C1B C -0.3333(6) -0.1229(6) 0.08330
+O1B O -0.2045(3) 0.0142(3) 0.05384(11)
+H1B H -0.333(10) -0.243(10) 0.08330
+O1O O -0.462167(300) -0.114633(300) 0.112827(110)
+Ni1O Ni -0.66667 -0.33333 0.16667
+Ni1O* Ni 0.33333 -0.33333 0.16667
+Ni1O** Ni 0.33333 0.66667 0.16667
+O1R O 0.0142(3) 0.2187(3) -0.05384(11)
+O1S O -0.2187(3) -0.2045(3) -0.05384(11)
+O1T O 0.2045(3) -0.0142(3) -0.05384(11)
+N1A N 0.3333(14) -0.41650 -0.08330
+H2A H 0.432(16) -0.217(14) -0.019(7)
+H3A H 0.21(7) -0.53(4) -0.07(3)
+N1B N 0.4165(14) -0.25020 -0.08330
+H2B H 0.217(16) -0.351(14) -0.019(7)
+H3B H 0.53(7) -0.26(4) -0.07(3)
+C2I C 0.33327 -0.33337 -0.139967(300)
+H2I H 0.449667(16000) -0.234667(14000) -0.147667(7000)
+H3I H 0.136667(70000) -0.456667(40000) -0.096667(30000)
+H2J H 0.315667(16000) -0.449667(14000) -0.147667(7000)
+H3J H 0.406667(70000) -0.136667(40000) -0.096667(30000)
+H2K H 0.234667(16000) -0.315667(14000) -0.147667(7000)
+H3K H 0.456667(70000) -0.406667(40000) -0.096667(30000)
+#END

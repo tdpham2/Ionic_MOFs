@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUKZUE
+_audit_creation_date 2010-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUKZUE
+_database_code_depnum_ccdc_archive 'CCDC 694048'
+_chemical_formula_sum 'C4 H10 Cl2 N2 O4 Zn1'
+_chemical_formula_moiety
+;
+(C4 H6 Cl2 N1 O4 Zn1 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 208
+_journal_volume 182
+_journal_year 2009
+_journal_page_first 2698
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"Lu-Bin Ni"
+"Rong-Hua Zhang"
+"Qiong-Xin Liu"
+"Wen-Sheng Xia"
+"Hongxin Wang"
+"Zhao-Hui Zhou"
+_chemical_name_systematic
+;
+catena-(Ammonium (\m~2~-2,2'-iminio-diacetato)-dichloro-zinc(ii))
+;
+_cell_volume    955.170
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.992
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0302
+_refine_ls_wR_factor_gt 0.0302
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.3123(1)
+_cell_length_b 16.1727(4)
+_cell_length_c 8.4717(2)
+_cell_angle_alpha 90
+_cell_angle_beta 107.561(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.40931(3) 0.132294(15) 0.73330(3)
+Cl1 Cl 0.19502(7) 0.22430(3) 0.77939(7)
+Cl2 Cl 0.31003(7) 0.01034(3) 0.80695(6)
+O1 O 0.82436(19) 0.06323(9) 0.84192(17)
+O2 O 1.15076(18) 0.08287(9) 1.40368(17)
+O3 O 1.44034(18) 0.14011(9) 1.50854(16)
+O4 O 0.65647(19) 0.17345(9) 0.87697(18)
+N1 N 1.1381(2) 0.10441(10) 1.08631(19)
+H1 H 1.16680 0.10130 0.98790
+H2 H 1.10930 0.05180 1.11280
+C1 C 0.9655(3) 0.15730(13) 1.0616(2)
+H3 H 0.99770 0.21520 1.04280
+H4 H 0.92390 0.15590 1.16250
+C2 C 1.2948(2) 0.11691(12) 1.3890(2)
+C3 C 1.3112(2) 0.13385(13) 1.2176(2)
+H5 H 1.32710 0.19400 1.20430
+H6 H 1.42630 0.10560 1.20540
+C4 C 0.8032(2) 0.12748(13) 0.9145(2)
+N2 N 0.8394(2) 0.10244(12) 1.5215(2)
+H7 H 0.830(3) 0.0846(13) 1.6125(15)
+H8 H 0.802(3) 0.0658(10) 1.4473(18)
+H9 H 0.9464(16) 0.1242(11) 1.531(3)
+H10 H 0.752(2) 0.1387(10) 1.503(3)
+Zn1* Zn 1.40931(3) 0.132294(15) 1.73330(3)
+O3* O 0.44034(18) 0.14011(9) 0.50854(16)
+#END

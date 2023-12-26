@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YAZWOL
+_audit_creation_date 1994-10-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YAZWOL
+_database_code_depnum_ccdc_fiz 'CSD 400006'
+_chemical_formula_sum 'C10 H15 Cs2 O10 Pr1'
+_chemical_formula_moiety
+;
+(C10 H15 O10 Pr1 2-)n,2n(Cs1 1+)
+;
+_journal_coden_Cambridge 29
+_journal_volume 619
+_journal_year 1993
+_journal_page_first 2021
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"A.Lossin"
+"G.Meyer"
+_chemical_name_systematic
+;
+catena-(Cesium (\m~2~-Acetato)-(triacetato-O,O')-(acetato-O)-di-praseodymium)
+;
+_cell_volume   2042.276
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.061
+_refine_ls_wR_factor_gt 0.061
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 43'
+_symmetry_Int_Tables_number 78
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,3/4+z
+3 -x,-y,1/2+z
+4 y,-x,1/4+z
+_cell_length_a 11.745(2)
+_cell_length_b 11.745(2)
+_cell_length_c 14.805(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cs 1.00
+O 0.74
+Pr 1.80
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pr1 Pr 0.07437 0.33704 -0.50000
+Cs1 Cs 0.38823 0.11402 -0.51822
+Cs2 Cs 0.69934 0.32061 -0.52049
+O1 O 0.06478 0.35979 -0.32312
+O2 O -0.09322 0.31922 -0.39093
+C1 C -0.04119 0.34147 -0.31692
+C2 C -0.10363 0.33597 -0.23351
+O3 O -0.08442 0.47678 -0.55951
+O4 O 0.04195 0.55097 -0.47476
+C3 C -0.04667 0.56355 -0.51857
+C4 C -0.10581 0.67514 -0.52688
+O5 O 0.12043 0.37721 -0.66969
+O6 O 0.19299 0.22429 -0.61637
+C5 C 0.16962 0.28512 -0.68459
+C6 C 0.20232 0.24781 -0.77722
+O7 O 0.12966 0.15754 -0.42879
+O8 O 0.21601 0.06054 -0.32935
+C7 C 0.12212 0.08230 -0.36934
+C8 C 0.01506 0.02427 -0.35095
+O9 O 0.44751 0.36807 -0.46438
+O10 O 0.26686 0.39375 -0.46644
+C9 C 0.36359 0.41603 -0.49529
+C10 C 0.3782(16) 0.5075(15) -0.5639(12)
+O8A O -0.06054 0.21601 -0.57935
+Pr1C Pr 0.33704 -0.07437 -0.25000
+#END

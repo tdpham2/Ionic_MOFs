@@ -1,0 +1,181 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOCLEV
+_audit_creation_date 2019-04-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOCLEV
+_database_code_depnum_ccdc_archive 'CCDC 1879969'
+_chemical_formula_sum 'C36 H34 N16 O9 Pr1.333 Re4 Te4'
+_chemical_formula_moiety
+;
+(C36 H22 N16 O3 Pr1 Re4 Te4 1-)n,0.333n(Pr1 3+),6n(H2 O1)
+;
+_journal_coden_Cambridge 1133
+_journal_volume 30
+_journal_year 2019
+_journal_page_first 1195
+_journal_name_full 'J.Cluster Sci. '
+loop_
+_publ_author_name
+"Y.M.Litvinova"
+"Y.M.Gayfulin"
+"D.G.Samsonenko"
+"D.A.Piryazev"
+"Y.V.Mironov"
+_chemical_name_systematic
+;
+catena-(praseodymium 
+tetrakis(\m-tellurido)-bis(\m-cyano)-triaqua-decacyano-bis(1,10-phenanthroline
+)-praseodymium-tetra-rhenium hexahydrate)
+;
+_cell_volume   2648.313
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.857
+_exptl_crystal_description 'stick'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+The second praseodymium cation is present with an occupancy of 1/3. Some of 
+the water molecules are disordered.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0255
+_refine_ls_wR_factor_gt 0.0255
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 13.35391(18)
+_cell_length_b 14.39153(15)
+_cell_length_c 14.9310(2)
+_cell_angle_alpha 80.1493(10)
+_cell_angle_beta 72.4966(12)
+_cell_angle_gamma 76.8261(10)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Pr 2.03
+Re 1.51
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Re1 Re 0.76260(2) 0.73961(2) 0.38599(2)
+Re2 Re 0.94615(2) 0.82548(2) 0.29598(2)
+Re3 Re 0.74274(2) 0.94367(2) 0.36790(2)
+Re4 Re 0.85430(2) 0.82373(2) 0.49601(2)
+Te1 Te 0.78620(2) 0.84692(2) 0.22182(2)
+Te2 Te 0.64552(2) 0.84509(2) 0.52312(2)
+Te3 Te 0.92163(2) 0.97432(2) 0.38817(2)
+Te4 Te 0.95120(2) 0.66666(2) 0.41540(2)
+C1 C 0.6154(4) 0.7411(3) 0.3613(4)
+N1 N 0.5399(3) 0.7365(3) 0.3414(3)
+C2 C 0.8078(4) 0.6235(4) 0.3048(4)
+N2 N 0.8306(4) 0.5576(4) 0.2645(4)
+C3 C 0.7137(4) 0.6270(4) 0.4872(4)
+N3 N 0.6857(4) 0.5629(4) 0.5383(4)
+C4 C 1.1059(4) 0.8090(4) 0.2947(4)
+N4 N 1.1966(3) 0.7988(3) 0.2859(3)
+C5 C 1.0182(4) 0.7293(4) 0.1943(4)
+N5 N 1.0590(4) 0.6790(4) 0.1357(4)
+C6 C 0.9991(4) 0.9223(4) 0.1784(4)
+N6 N 1.0310(4) 0.9737(4) 0.1130(4)
+C7 C 0.7622(4) 1.0602(4) 0.2626(4)
+N7 N 0.7692(4) 1.1273(4) 0.2080(4)
+C8 C 0.5909(4) 0.9769(4) 0.3444(4)
+N8 N 0.5087(3) 0.9965(3) 0.3292(3)
+C9 C 0.6728(4) 1.0603(4) 0.4470(4)
+N9 N 0.6316(4) 1.1281(3) 0.4847(3)
+C10 C 0.8140(4) 0.9168(4) 0.6006(4)
+N10 N 0.7974(4) 0.9642(3) 0.6604(3)
+C11 C 1.0027(4) 0.8022(4) 0.5263(4)
+N11 N 1.0843(4) 0.7886(4) 0.5427(4)
+C12 C 0.8254(4) 0.7259(4) 0.6186(4)
+N12 N 0.8109(4) 0.6730(4) 0.6866(4)
+Pr1 Pr 0.39218(2) 0.71978(2) 0.26889(2)
+O1 O 0.3797(3) 0.8900(3) 0.2840(3)
+O2 O 0.3182(3) 0.7318(3) 0.4422(2)
+O3 O 0.2673(3) 0.6059(3) 0.3498(3)
+N13 N 0.5734(3) 0.7244(3) 0.1300(3)
+N14 N 0.3851(3) 0.8321(3) 0.1009(3)
+C13 C 0.6646(4) 0.6704(4) 0.1405(4)
+H1 H 0.66260 0.62670 0.19620
+C14 C 0.7638(4) 0.6742(5) 0.0744(4)
+H2 H 0.82720 0.63410 0.08520
+C15 C 0.7677(5) 0.7366(5) -0.0060(5)
+H3 H 0.83450 0.74190 -0.05090
+C16 C 0.6735(4) 0.7924(5) -0.0221(4)
+C17 C 0.6717(5) 0.8543(5) -0.1069(5)
+H4 H 0.73720 0.85890 -0.15390
+C18 C 0.5813(5) 0.9058(5) -0.1226(5)
+H5 H 0.58270 0.94560 -0.18060
+C19 C 0.4811(4) 0.9016(4) -0.0517(4)
+C20 C 0.3847(5) 0.9531(4) -0.0684(4)
+H6 H 0.38390 0.99260 -0.12620
+C21 C 0.2920(5) 0.9450(5) 0.0004(4)
+H7 H 0.22550 0.98030 -0.00800
+C22 C 0.2960(5) 0.8849(4) 0.0827(4)
+H8 H 0.23040 0.88090 0.12970
+C23 C 0.4789(4) 0.8412(4) 0.0319(4)
+C24 C 0.5768(4) 0.7847(4) 0.0487(4)
+N15 N 0.5000(3) 0.5430(3) 0.2948(3)
+N16 N 0.3976(3) 0.5968(3) 0.1533(3)
+C25 C 0.5495(4) 0.5148(4) 0.3629(4)
+H9 H 0.55520 0.56250 0.39700
+C26 C 0.5935(5) 0.4193(4) 0.3872(4)
+H10 H 0.62770 0.40310 0.43660
+C27 C 0.5864(5) 0.3498(4) 0.3389(4)
+H11 H 0.61700 0.28470 0.35350
+C28 C 0.5339(4) 0.3751(4) 0.2678(4)
+C29 C 0.5206(5) 0.3057(4) 0.2153(5)
+H12 H 0.55000 0.23990 0.22810
+C30 C 0.4683(5) 0.3314(5) 0.1496(5)
+H13 H 0.45980 0.28350 0.11730
+C31 C 0.4244(4) 0.4299(4) 0.1264(4)
+C32 C 0.3701(5) 0.4598(5) 0.0562(4)
+H14 H 0.36090 0.41350 0.02240
+C33 C 0.3303(5) 0.5547(5) 0.0358(4)
+H15 H 0.29330 0.57540 -0.01150
+C34 C 0.3461(4) 0.6203(4) 0.0872(4)
+H16 H 0.31790 0.68630 0.07350
+C35 C 0.4372(4) 0.5015(4) 0.1738(4)
+C36 C 0.4925(4) 0.4733(4) 0.2464(4)
+O4 O 1.0574(4) 1.1247(4) 0.2180(4)
+O5 O 1.0121(5) 1.1723(5) 0.0207(4)
+O6 O 0.7958(7) 1.4356(7) 0.1422(8)
+O7 O 0.8778(10) 1.3507(8) 0.2987(10)
+O8 O 0.9361(6) 1.4833(6) -0.0386(6)
+O9 O 0.1489(3) 0.5301(3) 0.2729(3)
+Pr2? Pr 0.8907(5) 1.2591(5) 0.2258(8)
+O10? O 1.0725(11) 1.3682(9) 0.1756(9)
+O11? O 0.9005(13) 1.4097(13) 0.0314(15)
+O12? O 1.0145(11) 1.3839(10) 0.2129(11)
+Pr3? Pr 0.9025(3) 1.2589(3) 0.1663(5)
+N4* N 0.1966(3) 0.7988(3) 0.2859(3)
+Pr1* Pr 1.39218(2) 0.71978(2) 0.26889(2)
+#END

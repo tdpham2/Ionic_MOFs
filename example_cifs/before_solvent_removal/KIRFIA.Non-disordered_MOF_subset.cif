@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KIRFIA
+_audit_creation_date 1991-10-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KIRFIA
+_database_code_depnum_ccdc_archive 'CCDC 1197425'
+_chemical_formula_sum 'C18 H32 Cu2 N2 O14'
+_chemical_formula_moiety
+;
+(C6 Cu2 O12 2-)n,2n(C6 H16 N1 O1 1+)
+;
+_journal_coden_Cambridge 3075
+_journal_year 1991
+_journal_page_first 526
+_journal_name_full 'J.Chem.Soc.Chem.Comm. '
+loop_
+_publ_author_name
+"M.R.Sundberg"
+"R.Kivekas"
+"J.K.Koskimies"
+_chemical_name_systematic
+;
+catena-(bis(Diethyl(2-hydroxyethyl)ammonium) 
+tris(\m~2~-oxalato-O,O',O'',O''')-di-copper(ii))
+;
+_cell_volume   2534.318
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.64
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The solvent oxygen is disordered between two positions O71 and O72 with 
+occupancies 0.38:0.45.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.047
+_refine_ls_wR_factor_gt 0.047
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.297(3)
+_cell_length_b 10.472(2)
+_cell_length_c 18.539(3)
+_cell_angle_alpha 90
+_cell_angle_beta 114.068(13)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cu 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.42007(6) 0.37395(8) 0.09131(4)
+O1 O 0.3733(4) 0.2472(5) 0.0027(3)
+O2 O 0.2693(3) 0.3508(4) 0.0796(2)
+O3 O 0.5604(3) 0.3960(4) 0.0792(3)
+O4 O 0.3837(4) 0.5264(5) 0.0069(3)
+O5 O 0.4629(4) 0.4894(5) 0.1845(3)
+O6 O 0.4732(4) 0.2342(5) 0.1839(3)
+C1 C 0.2800(5) 0.2190(7) -0.0229(4)
+C2 C 0.5509(5) 0.4626(6) 0.0202(4)
+C3 C 0.50000 0.4335(1) 0.25000
+C4 C 0.50000 0.2872(9) 0.25000
+N1 N 0.7433(5) 0.2566(6) 0.1500(4)
+C5 C 0.6173(8) 0.0832(9) 0.089(1)
+C6 C 0.7198(7) 0.1180(9) 0.1221(6)
+C7 C 0.7543(7) 0.2779(9) 0.2366(5)
+C8 C 0.8474(7) 0.210(1) 0.2982(5)
+C9 C 0.8329(8) 0.298(1) 0.1324(6)
+C10 C 0.8518(9) 0.441(1) 0.1391(8)
+O7 O 0.898(2) 0.474(1) 0.2083(1)
+O8? O 0.571(1) 0.148(2) 0.0118(1)
+O2E O 0.2307(3) 0.1492(4) -0.0796(2)
+Cu1E Cu 0.07993(6) 0.12605(8) -0.09131(4)
+O1E O 0.1267(4) 0.2528(5) -0.0027(3)
+C1E C 0.2200(5) 0.2810(7) 0.0229(4)
+O4D O 0.6163(4) 0.4736(5) -0.0069(3)
+Cu1D Cu 0.57993(6) 0.62605(8) -0.09131(4)
+O3D O 0.4396(3) 0.6040(4) -0.0792(3)
+C2D C 0.4491(5) 0.5374(6) -0.0202(4)
+O5B O 0.5371(4) 0.4894(5) 0.3155(3)
+Cu1B Cu 0.57993(6) 0.37395(8) 0.40869(4)
+O6B O 0.5268(4) 0.2342(5) 0.3161(3)
+O3E O -0.0604(3) 0.1040(4) -0.0792(3)
+O4E O 0.1163(4) -0.0264(5) -0.0069(3)
+O5E O 0.0371(4) 0.0106(5) -0.1845(3)
+O6E O 0.0268(4) 0.2658(5) -0.1839(3)
+#END

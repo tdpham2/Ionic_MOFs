@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IYUSED
+_audit_creation_date 2021-08-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IYUSED
+_database_code_depnum_ccdc_archive 'CCDC 2082185'
+_chemical_formula_sum 'C12 H24 F2 N2 O6 P2 Zr1'
+_chemical_formula_moiety
+;
+(C8 H8 F2 O6 P2 Zr1 2-)n,2(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 182
+_journal_volume 57
+_journal_year 2021
+_journal_page_first 8452
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Jiarong Zhang"
+"Long Chen"
+"Xing Dai"
+"Lixi Chen"
+"Fuwan Zhai"
+"Weifeng Yu"
+"Shikai Guo"
+"Lijiang Yang"
+"Lanhua Chen"
+"Yugang Zhang"
+"Linwei He"
+"Changlun Chen"
+"Zhifang Chai"
+"Shuao Wang"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) 
+(\m-[1,4-phenylenebis(methylene)]bis(phosphonato))-difluoro-zirconium(iv)]
+;
+_cell_volume    485.059
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'schistose'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0995
+_refine_ls_wR_factor_gt 0.0995
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.3254(10)
+_cell_length_b 8.7035(16)
+_cell_length_c 11.343(2)
+_cell_angle_alpha 92.747(10)
+_cell_angle_beta 102.575(10)
+_cell_angle_gamma 107.729(10)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+O 0.68
+P 1.05
+Zr 1.75
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+P1 P -1.0099(5) -0.3614(3) -0.16386(19)
+O1 O -0.9282(18) -0.1985(9) -0.2093(7)
+O2 O -0.7778(16) -0.3870(11) -0.0756(8)
+O3 O -1.2488(16) -0.3793(11) -0.1038(8)
+C1 C -1.112(3) -0.5231(16) -0.2851(10)
+H1 H -0.95031 -0.52895 -0.30868
+H2 H -1.18901 -0.62413 -0.25386
+F1 F -0.6678(13) -0.6862(8) -0.1312(5)
+Zr1 Zr -0.50000 -0.50000 0.00000
+C2 C -1.776(3) -0.6029(16) -0.5207(11)
+C3 C -1.312(3) -0.5127(19) -0.3968(12)
+C4 C -1.579(3) -0.6108(19) -0.4165(12)
+C5 C -0.605(5) 0.023(3) 0.3353(17)
+C6 C -0.725(3) -0.0596(17) 0.1112(14)
+N1 N -0.615(2) 0.0773(13) 0.2113(10)
+P1A P -1.9901(5) -0.6386(3) -0.83614(19)
+O1A O -2.0718(18) -0.8015(9) -0.7907(7)
+O2A O -2.2222(16) -0.6130(11) -0.9244(8)
+O3A O -1.7512(16) -0.6207(11) -0.8962(8)
+C1A C -1.888(3) -0.4769(16) -0.7149(10)
+H1A H -2.04969 -0.47105 -0.69132
+H2A H -1.81099 -0.37587 -0.74614
+C2A C -1.224(3) -0.3971(16) -0.4793(11)
+C3A C -1.688(3) -0.4873(19) -0.6032(12)
+C4A C -1.421(3) -0.3892(19) -0.5835(12)
+F1A F -0.3322(13) -0.3138(8) 0.1312(5)
+O2A* O -0.2222(16) -0.6130(11) 0.0756(8)
+O3* O -0.2488(16) -0.3793(11) -0.1038(8)
+O3A* O -0.7512(16) -0.6207(11) 0.1038(8)
+Zr1* Zr -2.50000 -0.50000 -1.00000
+Zr1** Zr -1.50000 -0.50000 -1.00000
+Zr1*** Zr -1.50000 -0.50000 0.00000
+#END

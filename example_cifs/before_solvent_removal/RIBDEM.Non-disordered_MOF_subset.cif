@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RIBDEM
+_audit_creation_date 2007-08-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RIBDEM
+_database_code_depnum_ccdc_archive 'CCDC 645768'
+_chemical_formula_sum 'C14 H20 Li2 N6 O6 Ru1'
+_chemical_formula_moiety
+;
+(C14 H12 Li1 N6 O2 Ru1 1-)n,n(H8 Li1 O4 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 129
+_journal_year 2007
+_journal_page_first 4014
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"T.Lazarides"
+"T.L.Easun"
+"C.Veyne-Marti"
+"W.Z.Alsindi"
+"M.W.George"
+"N.Deppermann"
+"C.A.Hunter"
+"H.Adams"
+"M.D.Ward"
+_chemical_name_systematic
+;
+catena-(Tetra-aqua-lithium 
+bis(\m~2~-cyano-C,N)-diaqua-(2,2'-bipyridine-N,N')-dicyano-lithium-ruthenium)
+;
+_cell_volume   1027.796
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.562
+_exptl_special_details
+;
+luminescent
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0207
+_refine_ls_wR_factor_gt 0.0207
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 2/n'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-y,-1/2+z
+_cell_length_a 6.8956(6)
+_cell_length_b 14.5781(12)
+_cell_length_c 10.5162(9)
+_cell_angle_alpha 90
+_cell_angle_beta 103.531(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Li 0.97
+N 0.68
+O 0.68
+Ru 1.40
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ru1 Ru 0.25000 0.251059(9) 0.75000
+O1 O -0.0259(2) 0.24828(7) 0.25002(13)
+H1 H 0.02910 0.24530 0.17430
+H2 H 0.08730 0.25080 0.32320
+O2 O -0.1676(2) 0.42025(9) 0.38786(12)
+H3 H -0.11840 0.41340 0.48060
+H4 H -0.11530 0.47810 0.36750
+O3 O -0.40882(19) 0.55767(8) 0.61104(12)
+H5 H -0.37550 0.61530 0.57740
+H6 H -0.55110 0.56060 0.59880
+N1 N 0.05898(19) 0.13767(9) 0.68946(12)
+N2 N 0.1537(2) 0.24910(8) 1.03274(16)
+N3 N -0.0566(2) 0.41138(9) 0.66947(13)
+C1 C -0.1340(2) 0.14316(11) 0.62429(14)
+H7 H -0.19300 0.20200 0.60570
+C2 C -0.2491(2) 0.06599(12) 0.58341(15)
+H8 H -0.38400 0.07200 0.53630
+C3 C -0.1646(3) -0.02022(11) 0.61221(16)
+H9 H -0.24120 -0.07410 0.58630
+C4 C 0.0336(2) -0.02639(11) 0.67941(15)
+H10 H 0.09420 -0.08470 0.70050
+C5 C 0.1431(2) 0.05364(10) 0.71581(13)
+C6 C 0.1865(3) 0.25066(8) 0.92939(17)
+C7 C 0.0539(2) 0.3503(1) 0.69661(14)
+Li1 Li -0.25000 0.4858(3) 0.75000
+Li2 Li -0.25000 0.3296(3) 0.25000
+O1A O -0.4741(2) 0.24828(7) 0.24998(13)
+H1A H -0.52910 0.24530 0.32570
+H2A H -0.58730 0.25080 0.17680
+O2A O -0.3324(2) 0.42025(9) 0.11214(12)
+H3A H -0.38160 0.41340 0.01940
+H4A H -0.38470 0.47810 0.13250
+O3A O -0.09118(19) 0.55767(8) 0.88896(12)
+H5A H -0.12450 0.61530 0.92260
+H6A H 0.05110 0.56060 0.90120
+N1A N 0.44102(19) 0.13767(9) 0.81054(12)
+N2A N 0.3463(2) 0.24910(8) 0.46726(16)
+N3A N 0.5566(2) 0.41138(9) 0.83053(13)
+N3A* N -0.4434(2) 0.41138(9) 0.83053(13)
+C1A C 0.6340(2) 0.14316(11) 0.87571(14)
+H7A H 0.69300 0.20200 0.89430
+C2A C 0.7491(2) 0.06599(12) 0.91659(15)
+H8A H 0.88400 0.07200 0.96370
+C3A C 0.6646(3) -0.02022(11) 0.88779(16)
+H9A H 0.74120 -0.07410 0.91370
+C4A C 0.4664(2) -0.02639(11) 0.82059(15)
+H10A H 0.40580 -0.08470 0.79950
+C5A C 0.3569(2) 0.05364(10) 0.78419(13)
+C6A C 0.3135(3) 0.25066(8) 0.57061(17)
+C7A C 0.4461(2) 0.3503(1) 0.80339(14)
+Li1* Li 0.75000 0.4858(3) 0.75000
+#END

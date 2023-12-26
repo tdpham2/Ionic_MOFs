@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DINSEB01
+_audit_creation_date 2018-11-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DINSEB01
+_database_code_depnum_ccdc_archive 'CCDC 1869381'
+_chemical_formula_sum 'C18 H28 Cd1 N10'
+_chemical_formula_moiety
+;
+C12 H28 N1 1+,n(C6 Cd1 N9 1-)
+;
+_journal_coden_Cambridge 1326
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 29951
+_journal_name_full 'Phys.Chem.Chem.Phys.(PCCP) '
+loop_
+_publ_author_name
+"M.Maczka"
+"A.Gagor"
+"M.Ptak"
+"D.Stefanska"
+"A.Sieradzki"
+_chemical_name_systematic
+;
+catena-[tetrapropylammonium tris(\m-dicyanamido)-cadmium(ii)]
+;
+_cell_volume   2287.633
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.443
+_exptl_special_details
+;
+phase II polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 119.7
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0222
+_refine_ls_wR_factor_gt 0.0222
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.9243(3)
+_cell_length_b 15.2819(3)
+_cell_length_c 13.7228(3)
+_cell_angle_alpha 90
+_cell_angle_beta 93.079(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.77019(2) 0.21152(2) 0.72747(2)
+N1 N 0.69564(13) 0.32048(8) 0.82676(10)
+N2 N 0.94587(13) 0.21218(9) 0.82917(10)
+N3 N 0.68865(13) 0.10423(8) 0.82421(10)
+N4 N 0.84319(13) 0.32376(8) 0.63329(10)
+N5 N 0.85007(13) 0.10088(8) 0.63458(10)
+N6 N 0.59301(13) 0.21338(10) 0.62476(10)
+C1 C 0.68423(14) 0.38395(9) 0.87052(11)
+C2 C 0.98232(14) 0.20444(10) 0.90868(11)
+C3 C 0.83789(16) 0.39582(10) 0.60942(11)
+N7 N 0.66948(14) 0.45061(8) 0.92884(9)
+N8 N 1.0272(2) 0.18457(11) 0.99498(12)
+N9 N 0.83426(19) 0.47474(9) 0.57322(11)
+C4 C 0.66012(14) 0.52933(10) 0.89137(10)
+C5 C 1.06129(15) 0.24251(11) 1.06018(12)
+C6 C 0.82144(15) 0.54133(10) 0.63116(11)
+N10 N 0.27135(11) 0.12568(8) 0.73132(9)
+C7 C 0.38438(14) 0.06838(10) 0.72438(11)
+H1 H 0.45497 0.10611 0.71830
+H2 H 0.39683 0.03621 0.78503
+C8 C 0.38032(16) 0.00340(11) 0.64066(13)
+H3 H 0.31410 -0.03792 0.64822
+H4 H 0.36490 0.03410 0.57936
+C9 C 0.50148(17) -0.04546(12) 0.63917(15)
+H5 H 0.56719 -0.00424 0.63433
+H6 H 0.49977 -0.08421 0.58405
+H7 H 0.51397 -0.07877 0.69818
+C10 C 0.15550(14) 0.07115(9) 0.73548(11)
+H8 H 0.14423 0.03887 0.67479
+H9 H 0.08634 0.11057 0.73933
+C11 C 0.15265(16) 0.00671(11) 0.81929(13)
+H10 H 0.16828 0.03708 0.88077
+H11 H 0.21591 -0.03717 0.81314
+C12 C 0.02729(16) -0.03706(11) 0.81762(14)
+H12 H -0.03473 0.00649 0.82553
+H13 H 0.02561 -0.07872 0.86989
+H14 H 0.01199 -0.06653 0.75640
+C13 C 0.25783(14) 0.1838(1) 0.64116(11)
+H15 H 0.23956 0.14682 0.58480
+H16 H 0.33605 0.21183 0.63204
+C14 C 0.15982(16) 0.25449(11) 0.64338(12)
+H17 H 0.07949 0.22770 0.64530
+H18 H 0.17336 0.29020 0.70139
+C15 C 0.16541(16) 0.31152(11) 0.55238(12)
+H19 H 0.24395 0.33968 0.55217
+H20 H 0.10209 0.35507 0.55254
+H21 H 0.15370 0.27566 0.49520
+C16 C 0.28660(14) 0.18037(10) 0.82363(11)
+H22 H 0.30225 0.14113 0.87844
+H23 H 0.20960 0.20988 0.83335
+C17 C 0.38782(16) 0.24871(11) 0.82556(12)
+H24 H 0.46716 0.22022 0.82537
+H25 H 0.37844 0.28567 0.76819
+C18 C 0.37998(16) 0.30387(10) 0.91734(12)
+H26 H 0.30150 0.33218 0.91681
+H27 H 0.44357 0.34730 0.91929
+H28 H 0.38993 0.26695 0.97380
+N5A N 0.64993(13) 0.60088(8) 0.86542(10)
+N6C N 1.09301(13) 0.28662(10) 1.12476(10)
+N3A N 0.81135(13) 0.60423(8) 0.67579(10)
+Cd1A Cd 0.72981(2) 0.71152(2) 0.77253(2)
+Cd1C Cd 1.27019(2) 0.28848(2) 1.22747(2)
+#END

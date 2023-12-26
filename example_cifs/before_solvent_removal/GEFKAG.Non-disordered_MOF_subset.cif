@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEFKAG
+_audit_creation_date 2017-08-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEFKAG
+_database_code_depnum_ccdc_archive 'CCDC 1566663'
+_chemical_formula_sum 'C50.14 H61.16 Cl6 Co1.43 Fe2 N6.47 O16.9'
+_chemical_formula_moiety
+;
+1.43(C10 H10 Co1 1+),1.57(C2 H8 N1 1+),n(C18 Cl6 Fe2 O12 3-),4.9(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 139
+_journal_year 2017
+_journal_page_first 4175
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"J.A.DeGayner"
+"Ie-Rang Jeon"
+"Lei Sun"
+"M.Dinca"
+"T.David Harris"
+_chemical_name_systematic
+;
+catena-[tris((bis(\h^5^-cyclopentadienyl)-cobalt(iii)) dimethylammonium) 
+tris(\m-3,6-dichlorobenzene-1,2,4,5-tetrolato trianion radical)-di-iron(iii) 
+N,N-dimethylformamide solvate]
+;
+_cell_volume   1386.927
+_exptl_crystal_colour 'black'
+_exptl_crystal_description 'hexagonal'
+_diffrn_ambient_temperature 100.0
+_refine_special_details
+;
+The MASK/OLEX2 program has been used to model some disorder.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1222
+_refine_ls_wR_factor_gt 0.1222
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_symmetry_Int_Tables_number 162
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,-z
+5 -x+y,y,-z
+6 x,x-y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,z
+11 x-y,-y,z
+12 -x,-x+y,z
+_cell_length_a 13.5835(11)
+_cell_length_b 13.5835(11)
+_cell_length_c 8.6796(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.33330 0.66670 1.00000
+Cl1 Cl 0.00000 0.3925(3) 0.6815(5)
+O1 O 0.2016(5) 0.5575(5) 0.8654(7)
+C1 C 0.00000 0.4529(8) 0.8549(15)
+C2 C 0.1035(7) 0.5283(6) 0.9262(10)
+N1 N 0.00000 0.796(2) 0.727(4)
+H1 H 0.00000 0.83890 0.80700
+H2 H 0.00000 0.82750 0.63440
+C3 C 0.1029(16) 0.750(3) 0.742(6)
+H3 H 0.17970 0.81570 0.73800
+H4 H 0.09250 0.70990 0.84070
+H5 H 0.09250 0.69780 0.65730
+Cl1E Cl 0.00000 0.6075(3) 1.3185(5)
+O1E O 0.2016(5) 0.6441(5) 1.1346(7)
+C1E C 0.00000 0.5471(8) 1.1451(15)
+C2E C 0.1035(7) 0.5752(6) 1.0738(10)
+O1F O -0.2016(5) 0.4425(5) 1.1346(7)
+C2F C -0.1035(7) 0.4717(6) 1.0738(10)
+O1K O -0.2016(5) 0.3559(5) 0.8654(7)
+C2K C -0.1035(7) 0.4248(6) 0.9262(10)
+Cl1A Cl 0.60750 0.6075(3) 0.6815(5)
+O1A O 0.4425(5) 0.6441(5) 0.8654(7)
+C1A C 0.54710 0.5471(8) 0.8549(15)
+C2A C 0.4717(7) 0.5752(6) 0.9262(10)
+Cl1D Cl 0.39250 0.3925(3) 1.3185(5)
+O1D O 0.3559(5) 0.5575(5) 1.1346(7)
+C1D C 0.45290 0.4529(8) 1.1451(15)
+C2D C 0.4248(7) 0.5283(6) 1.0738(10)
+O1G O 0.5575(5) 0.3559(5) 1.1346(7)
+C2G C 0.5283(7) 0.4248(6) 1.0738(10)
+O1J O 0.6441(5) 0.4425(5) 0.8654(7)
+C2J C 0.5752(7) 0.4717(6) 0.9262(10)
+Cl1B Cl 0.39250 1.0000(3) 0.6815(5)
+O1B O 0.3559(5) 0.7984(5) 0.8654(7)
+C1B C 0.45290 1.0000(8) 0.8549(15)
+C2B C 0.4248(7) 0.8965(6) 0.9262(10)
+Cl1C Cl 0.60750 1.0000(3) 1.3185(5)
+O1C O 0.4425(5) 0.7984(5) 1.1346(7)
+C1C C 0.54710 1.0000(8) 1.1451(15)
+C2C C 0.4717(7) 0.8965(6) 1.0738(10)
+O1H O 0.6441(5) 1.2016(5) 1.1346(7)
+C2H C 0.5752(7) 1.1035(6) 1.0738(10)
+O1I O 0.5575(5) 1.2016(5) 0.8654(7)
+C2I C 0.5283(7) 1.1035(6) 0.9262(10)
+Fe1F Fe -0.33330 0.33330 1.00000
+Fe1F* Fe 0.66670 0.33330 1.00000
+Fe1F** Fe 0.66670 1.33330 1.00000
+O1G* O -0.4425(5) 0.3559(5) 1.1346(7)
+O1H* O -0.3559(5) 0.2016(5) 1.1346(7)
+O1I* O -0.4425(5) 0.2016(5) 0.8654(7)
+O1J* O -0.3559(5) 0.4425(5) 0.8654(7)
+C3K C -0.1029(16) 0.6471(30) 0.742(6)
+H3K H -0.17970 0.63600 0.73800
+H4K H -0.09250 0.61740 0.84070
+H5K H -0.09250 0.60530 0.65730
+#END

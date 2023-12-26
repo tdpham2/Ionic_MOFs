@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZACDAL
+_audit_creation_date 2016-01-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZACDAL
+_database_code_depnum_ccdc_archive 'CCDC 1445624'
+_chemical_formula_sum 'C62 H124 Cl6 Fe2 N16 O28'
+_chemical_formula_moiety
+;
+(C18 Cl6 Fe2 O12 4-)n,4n(C2 H8 N1 1+),4n(H2 O1),12n(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 137
+_journal_year 2015
+_journal_page_first 15699
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Ie-Rang Jeon"
+"B.Negru"
+"R.P.Van Duyne"
+"T.David Harris"
+_chemical_name_systematic
+;
+catena-(tetrakis(Dimethylammonium) 
+tris(\m~2~-2,5-dichloro-3,6-dioxy-1,4-benzoquinone)-tri-iron 
+dimethylformamide solvate tetrahydrate)
+;
+_cell_volume   1393.188
+_exptl_crystal_colour 'metallic dark black'
+_exptl_crystal_density_diffrn 1.549
+_exptl_crystal_description 'hexagonal'
+_diffrn_ambient_temperature 100.0
+_refine_special_details
+;
+O1 disordered by symmetry over three configurations with occupancy 0.3333. 
+The MASK/OLEX2 program was used to model some disordered dimethylformamide 
+solvent molecules.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0954
+_refine_ls_wR_factor_gt 0.0954
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_symmetry_Int_Tables_number 162
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,-z
+5 -x+y,y,-z
+6 x,x-y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,z
+11 x-y,-y,z
+12 -x,-x+y,z
+_cell_length_a 13.5632(5)
+_cell_length_b 13.5632(5)
+_cell_length_c 8.7449(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.256(4) 0.00000 0.253(7)
+H1 H 0.25000 0.00000 0.35670
+H2 H 0.19450 0.00000 0.21170
+C1 C 0.359(3) 0.1000(16) 0.204(4)
+H3 H 0.38480 0.08420 0.10760
+H4 H 0.41800 0.12080 0.28230
+H5 H 0.34400 0.16300 0.19000
+Fe1 Fe 0.66670 0.33330 0.50000
+Cl1 Cl 0.61138(16) 0.00000 0.1841(2)
+O1 O 0.6455(3) 0.2007(3) 0.3707(4)
+C2 C 0.5500(4) 0.00000 0.3569(8)
+C3 C 0.5772(3) 0.1021(4) 0.4257(5)
+O2 O 0.6309(14) 0.262(3) 0.00000
+C1J C 0.259(3) -0.1000(16) 0.204(4)
+H3J H 0.30060 -0.08420 0.10760
+H4J H 0.29720 -0.12080 0.28230
+H5J H 0.18100 -0.16300 0.19000
+Cl1D Cl 0.38862(16) 0.00000 0.8159(2)
+O1D O 0.5552(3) 0.2007(3) 0.6293(4)
+C2D C 0.4500(4) 0.00000 0.6431(8)
+C3D C 0.5249(3) 0.1021(4) 0.5743(5)
+O1F O 0.3545(3) -0.2007(3) 0.6293(4)
+C3F C 0.4228(3) -0.1021(4) 0.5743(5)
+O1J O 0.4448(3) -0.2007(3) 0.3707(4)
+C3J C 0.4751(3) -0.1021(4) 0.4257(5)
+Cl1A Cl 1.00000(16) 0.61138 0.1841(2)
+O1A O 0.7993(3) 0.4448(3) 0.3707(4)
+C2A C 1.0000(4) 0.55000 0.3569(8)
+C3A C 0.8979(3) 0.4751(4) 0.4257(5)
+Cl1C Cl 1.00000(16) 0.38862 0.8159(2)
+O1C O 0.7993(3) 0.3545(3) 0.6293(4)
+C2C C 1.0000(4) 0.45000 0.6431(8)
+C3C C 0.8979(3) 0.4228(4) 0.5743(5)
+O1G O 1.2007(3) 0.5552(3) 0.6293(4)
+C3G C 1.1021(3) 0.5249(4) 0.5743(5)
+O1I O 1.2007(3) 0.6455(3) 0.3707(4)
+C3I C 1.1021(3) 0.5772(4) 0.4257(5)
+Cl1B Cl 0.38862(16) 0.38862 0.1841(2)
+O1B O 0.5552(3) 0.3545(3) 0.3707(4)
+C2B C 0.4500(4) 0.45000 0.3569(8)
+C3B C 0.5249(3) 0.4228(4) 0.4257(5)
+Cl1E Cl 0.61138(16) 0.61138 0.8159(2)
+O1E O 0.6455(3) 0.4448(3) 0.6293(4)
+C2E C 0.5500(4) 0.55000 0.6431(8)
+C3E C 0.5772(3) 0.4751(4) 0.5743(5)
+O1H O 0.4448(3) 0.6455(3) 0.6293(4)
+C3H C 0.4751(3) 0.5772(4) 0.5743(5)
+O1K O 0.3545(3) 0.5552(3) 0.3707(4)
+C3K C 0.4228(3) 0.5249(4) 0.4257(5)
+Fe1F Fe 0.33330 -0.33330 0.50000
+Fe1F* Fe 0.33330 0.66670 0.50000
+Fe1F** Fe 1.33330 0.66670 0.50000
+O1G* O 0.2007(3) -0.4448(3) 0.6293(4)
+O1H* O 0.4448(3) -0.3545(3) 0.6293(4)
+O1I* O 0.2007(3) -0.3545(3) 0.3707(4)
+O1K* O 0.3545(3) -0.4448(3) 0.3707(4)
+#END

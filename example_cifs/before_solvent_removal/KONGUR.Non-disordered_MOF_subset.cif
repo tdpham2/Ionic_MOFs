@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KONGUR
+_audit_creation_date 2014-07-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KONGUR
+_database_code_depnum_ccdc_archive 'CCDC 957585'
+_chemical_formula_sum 'C8 H5 Gd1 K1 N4 O10.5 S2'
+_chemical_formula_moiety
+;
+(C8 H2 Gd1 N4 O9 S2 1-)n,1.5n(H2 O1),n(K1 1+)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 16
+_journal_year 2014
+_journal_page_first 10181
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"Tingting Zhao"
+"Lirong Zhang"
+"Dongmei Wang"
+"Guanghua Li"
+"Qisheng Huo"
+"Yunling Liu"
+_chemical_name_systematic
+;
+catena-(Potassium 
+(\m~3~-1,2,5-thiadiazole-3,4-dicarboxylato)-(\m~2~-1,2,5-thiadiazole-3,4-dicar
+boxylato)-aqua-gadolinium sesquihydrate)
+;
+_cell_volume   3031.015
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.567
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0181
+_refine_ls_wR_factor_gt 0.0181
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.9598(11)
+_cell_length_b 8.3889(5)
+_cell_length_c 20.1191(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90.639(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Gd 1.96
+K 2.03
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Gd1 Gd 0.207966(8) 0.015997(17) 0.480171(7)
+S1 S 0.15179(6) -0.44123(13) 0.21333(5)
+S2 S -0.02656(5) -0.49308(10) 0.62588(5)
+O1 O 0.13141(12) -0.1028(3) 0.38306(11)
+O2 O 0.25238(12) -0.1462(3) 0.38969(11)
+O3 O 0.28346(14) -0.5319(3) 0.40232(12)
+O4 O 0.36570(14) -0.4310(4) 0.33167(13)
+O5 O 0.11653(13) -0.1690(3) 0.52131(12)
+O6 O 0.18084(12) -0.3782(3) 0.48843(11)
+O7 O 0.18690(11) -0.6933(2) 0.52221(11)
+O8 O 0.08757(12) -0.8400(2) 0.50344(11)
+O9 O 0.19350(15) 0.1989(3) 0.38769(12)
+N1 N 0.13321(15) -0.2956(3) 0.26439(14)
+N2 N 0.2258(2) -0.5109(4) 0.25099(17)
+N3 N 0.02372(15) -0.3533(3) 0.59409(14)
+N4 N 0.01438(15) -0.6456(3) 0.59273(15)
+C1 C 0.18513(17) -0.2960(4) 0.31112(16)
+C2 C 0.23808(18) -0.4213(4) 0.30339(16)
+C3 C 0.18888(18) -0.1726(4) 0.36422(16)
+C4 C 0.30223(19) -0.4625(4) 0.34930(16)
+C5 C 0.07529(17) -0.4207(4) 0.55658(15)
+C6 C 0.06940(17) -0.5904(4) 0.55639(15)
+C7 C 0.12891(17) -0.3140(4) 0.51938(16)
+C8 C 0.11746(16) -0.7143(4) 0.52385(15)
+H1 H 0.222(2) 0.290(4) 0.387(2)
+H2 H 0.162(2) 0.187(5) 0.3525(18)
+K1 K 0.00642(4) -0.00850(9) 0.59930(5)
+O10 O -0.08460(18) -0.2001(4) 0.71393(14)
+H3 H -0.110(2) -0.135(3) 0.7408(15)
+H4 H -0.0533(14) -0.261(4) 0.7385(16)
+O11 O 0.00000 0.0879(6) 0.75000
+H5 H -0.038(2) 0.164(4) 0.746(3)
+Gd1* Gd 0.207966(8) -0.984003(17) 0.480171(7)
+Gd1F Gd 0.292034(8) -0.515997(17) 0.519829(7)
+O3F O 0.21654(14) 0.0319(3) 0.59768(12)
+O6F O 0.31916(12) -0.1218(3) 0.51157(11)
+O7* O 0.18690(11) 0.3067(2) 0.52221(11)
+O7F O 0.31310(11) 0.1933(2) 0.47779(11)
+O8* O 0.08757(12) 0.1600(2) 0.50344(11)
+H5A H 0.038(2) 0.164(4) 0.754(3)
+#END

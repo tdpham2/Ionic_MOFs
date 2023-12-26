@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAZXED
+_audit_creation_date 2017-08-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAZXED
+_database_code_depnum_ccdc_archive 'CCDC 1425817'
+_chemical_formula_sum 'C4 H8 Cl2 Fe2 Li2 O12'
+_chemical_formula_moiety
+;
+(C2 H6 Fe1 Li1 O7 1+)n,n(C2 H2 Cl2 Fe1 Li1 O5 1-)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 29
+_journal_year 2017
+_journal_page_first 6616
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"Wenjiao Yao"
+"L.Clark"
+"Mingjun Xia"
+"Teng Li"
+"S.L.Lee"
+"Philip Lightfoot"
+_chemical_name_systematic
+;
+catena-[(\m-oxalato)-triaqua-iron(ii)-lithium 
+(\m-oxalato)-aqua-dichloro-iron(ii)-lithium]
+;
+_cell_volume   1328.046
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.224
+_exptl_crystal_description 'platelet'
+_exptl_crystal_preparation 'Hydrothermal'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0395
+_refine_ls_wR_factor_gt 0.0395
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,-y,z
+4 1/2-x,y,1/2+z
+_cell_length_a 11.449(2)
+_cell_length_b 11.435(2)
+_cell_length_c 10.144(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+Li 1.28
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.82450(7) 0.02337(7) 0.55934(6)
+Cl1 Cl 0.80804(12) 0.23836(12) 0.59693(14)
+Cl2 Cl 0.84496(13) -0.19162(12) 0.52818(16)
+O1 O 0.6395(4) -0.0005(3) 0.5806(4)
+O2 O 0.7629(4) 0.0320(3) 0.3587(4)
+O3 O 0.6001(4) 0.0037(3) 0.2419(4)
+O4 O 0.4821(3) -0.0384(3) 0.4575(4)
+O5 O 0.5558(4) 0.2111(3) 0.7213(4)
+H1 H 0.61870 0.23950 0.69990
+C1 C 0.5856(5) -0.0121(4) 0.4751(6)
+C2 C 0.6566(6) 0.0099(4) 0.3483(6)
+Li1 Li 0.5771(9) 0.0438(9) 0.7642(10)
+H2 H 0.498(6) 0.205(6) 0.660(7)
+Fe2 Fe 0.07146(7) 0.49254(7) 0.41697(7)
+O6 O -0.1111(4) 0.5153(3) 0.3961(4)
+O7 O -0.2733(3) 0.5280(3) 0.5197(4)
+O8 O -0.1504(4) 0.5309(3) 0.7351(4)
+O9 O 0.0149(4) 0.5121(3) 0.6189(4)
+O10 O 0.1102(4) 0.6768(3) 0.3926(4)
+H3 H 0.17280 0.69190 0.42800
+O11 O 0.0492(4) 0.3088(3) 0.4355(4)
+H4 H 0.01020 0.29460 0.50140
+O12 O 0.1401(4) 0.2784(4) 0.7177(5)
+C3 C -0.1659(5) 0.5224(4) 0.5046(6)
+C4 C -0.0928(5) 0.5227(4) 0.6308(6)
+Li2 Li 0.1688(8) 0.4495(9) 0.7115(10)
+H5 H 0.157(7) 0.248(6) 0.790(4)
+H6 H 0.194(5) 0.247(6) 0.676(7)
+H7 H 0.025(7) 0.275(7) 0.368(5)
+H8 H 0.117(7) 0.715(6) 0.323(5)
+Fe1B Fe 0.32450(7) -0.02337(7) 0.55934(6)
+Fe1C Fe 0.67550(7) 0.02337(7) 0.05934(6)
+O2C O 0.7371(4) 0.0320(3) 0.8587(4)
+O3A O 0.3999(4) -0.0037(3) 0.7419(4)
+O3C O 0.8999(4) 0.0037(3) 0.7419(4)
+O4A O 0.5179(3) 0.0384(3) 0.9575(4)
+O4B O 0.9821(3) 0.0384(3) 0.4575(4)
+Li1A Li 0.4229(9) -0.0438(9) 0.2642(10)
+Li1C Li 0.9229(9) 0.0438(9) 0.2642(10)
+Fe2A Fe -0.07146(7) 0.50746(7) 0.91697(7)
+Fe2B Fe -0.42854(7) 0.50746(7) 0.41697(7)
+O6A O 0.1111(4) 0.4847(3) 0.8961(4)
+O7B O 0.2267(3) 0.4720(3) 0.5197(4)
+O8A O 0.1504(4) 0.4691(3) 0.2351(4)
+O8B O 0.3496(4) 0.4691(3) 0.7351(4)
+Li2A Li -0.1688(8) 0.5505(9) 0.2115(10)
+Li2B Li -0.3312(8) 0.5505(9) 0.7115(10)
+#END

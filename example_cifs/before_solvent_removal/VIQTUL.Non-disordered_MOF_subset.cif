@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIQTUL
+_audit_creation_date 2008-04-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIQTUL
+_database_code_depnum_ccdc_archive 'CCDC 641673'
+_chemical_formula_sum 'C4 H20 Cl1 Cs3 Cu1 Mo5 Na2 O33 P2'
+_chemical_formula_moiety
+;
+(C4 H8 Cl1 Cu1 Mo5 O27 P2 5-)n,3n(Cs1 1+),2n(Na1 1+),6n(H2 O1)
+;
+_journal_coden_Cambridge 1133
+_journal_volume 18
+_journal_year 2007
+_journal_page_first 697
+_journal_name_full 'J.Cluster Sci. '
+loop_
+_publ_author_name
+"E.V.Chubarova"
+"C.Klock"
+"M.H.Dickman"
+"U.Kortz"
+_chemical_name_systematic
+;
+catena-(Tri-cesium di-sodium 
+bis(\m~6~-phosphonoacetato)-pentakis(\m~2~-oxo)-diaqua-chloro-decaoxo-copper(i
+i)-penta-molybdenum hexahydrate)
+;
+_cell_volume   3392.836
+_exptl_crystal_colour 'blue'
+_exptl_crystal_description 'rod'
+_diffrn_ambient_temperature 223
+_refine_special_details
+;
+There is some disorder amongst the alkali metals and unbound water molecules.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0522
+_refine_ls_wR_factor_gt 0.0522
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.9543(6)
+_cell_length_b 12.2830(6)
+_cell_length_c 28.0365(16)
+_cell_angle_alpha 90
+_cell_angle_beta 98.212(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cs 1.67
+Cu 1.52
+Mo 1.40
+Na 0.97
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mo1 Mo 1.36168(8) 0.79979(7) 0.03095(3)
+Mo2 Mo 1.60447(8) 0.67283(7) 0.10783(3)
+Mo3 Mo 1.45995(9) 0.57031(7) 0.20118(3)
+Mo4 Mo 1.12130(8) 0.60879(7) 0.17963(3)
+Mo5 Mo 1.03789(8) 0.71176(7) 0.06817(3)
+P1 P 1.2969(2) 0.54298(19) 0.08384(8)
+P2 P 1.3306(3) 0.8092(2) 0.14860(8)
+Cu1 Cu 1.17882(13) 0.1704(1) 0.13286(4)
+Cl1 Cl 0.9242(4) 0.1532(3) 0.10969(14)
+C1 C 1.3652(10) 0.4162(8) 0.0658(3)
+H1 H 1.32920 0.40180 0.03200
+H2 H 1.46410 0.42240 0.06820
+C2 C 1.3221(11) 0.8901(8) 0.2022(4)
+H3 H 1.24460 0.86700 0.21770
+H4 H 1.40510 0.88010 0.22520
+C3 C 1.3304(11) 0.3216(8) 0.0964(3)
+C4 C 1.3066(11) 1.0086(8) 0.1875(3)
+O1 O 1.3603(8) 0.9331(6) 0.0121(2)
+O2 O 1.2200(9) 0.0749(6) 0.0794(3)
+O3 O 1.3780(8) 0.7308(6) -0.0209(3)
+O4 O 1.6865(8) 0.5959(6) 0.0711(3)
+O5 O 1.1948(8) 0.2583(6) 0.1949(3)
+O6 O 1.7305(8) 0.7385(7) 0.1440(3)
+O7 O 1.4500(8) 0.4374(6) 0.2193(3)
+O8 O 1.5726(8) 0.6254(7) 0.2466(3)
+O9 O 1.0361(8) 0.6914(6) 0.2143(2)
+O10 O 1.0846(8) 0.4776(6) 0.1949(2)
+O11 O 0.9239(7) 0.6650(6) 0.0215(2)
+O12 O 0.9640(7) 0.8292(6) 0.0834(2)
+O13 O 1.3942(7) 0.6346(5) 0.0731(2)
+O14 O 1.2043(7) 0.2997(6) 0.0953(2)
+O15 O 1.3442(7) 0.8822(5) 0.1061(2)
+O16 O 1.5430(7) 0.7930(6) 0.0647(2)
+O17 O 1.4088(8) 1.0665(6) 0.1889(3)
+O18 O 1.1752(7) 0.7746(5) 0.0353(2)
+O19 O 1.2898(6) 0.5360(5) 0.1384(2)
+O20 O 1.4246(8) 0.2717(6) 0.1213(3)
+O21 O 1.1859(7) 1.0398(6) 0.1719(2)
+O22 O 1.4541(6) 0.7339(5) 0.1600(2)
+O23 O 1.5689(7) 0.5530(6) 0.1506(2)
+O24 O 1.1594(7) 0.5629(5) 0.0553(2)
+O25 O 1.1981(7) 0.7444(5) 0.1383(2)
+O26 O 1.2968(7) 0.6310(5) 0.2191(2)
+O27 O 1.0046(7) 0.6167(5) 0.1196(2)
+Na1 Na 1.4674(5) 0.2482(4) 0.20427(14)
+Cs1 Cs 0.90244(7) 0.40854(6) 0.05915(2)
+Cs2 Cs 1.42518(11) 0.93524(9) -0.09133(4)
+Cs3 Cs 1.57502(14) 0.42296(10) 0.32394(4)
+Cs4 Cs 1.00000 1.00000 0.00000
+Cs5? Cs 0.9478(5) 1.0144(5) 0.01595(18)
+O28 O 1.2805(8) 0.1787(7) 0.0037(3)
+O29 O 1.794(2) 0.4123(17) 0.1639(9)
+O30 O 1.692(3) 0.226(2) 0.1985(10)
+O31? O 1.694(3) 0.358(3) 0.1370(11)
+Cu1* Cu 1.17882(13) 1.1704(1) 0.13286(4)
+O21* O 1.1859(7) 0.0398(6) 0.1719(2)
+#END

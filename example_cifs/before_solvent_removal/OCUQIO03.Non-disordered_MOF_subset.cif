@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OCUQIO03
+_audit_creation_date 2012-01-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OCUQIO03
+_database_code_depnum_ccdc_archive 'CCDC 833132'
+_chemical_formula_sum 'C12 H22 Cu2 N2 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Cu2 O12 2-)n,2n(C3 H8 N1 1+)
+;
+_journal_coden_Cambridge 179
+_journal_volume 50
+_journal_year 2011
+_journal_page_first 11441
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Bin Zhou"
+"Y.Imai"
+"A.Kobayashi"
+"Zhe-Ming Wang"
+"H.Kobayashi"
+_chemical_name_systematic
+;
+catena-(bis(Azetidinium) hexakis(\m~2~-formato)-di-copper)
+;
+_cell_volume    896.238
+_exptl_crystal_density_diffrn 1.903
+_exptl_special_details
+;
+monoclinic polymorph
+phase transition around 286 K
+
+;
+_diffrn_ambient_temperature 243
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0449
+_refine_ls_wR_factor_gt 0.0449
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.673(4)
+_cell_length_b 8.796(3)
+_cell_length_c 8.749(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.892(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.45
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0254(3) 0.2883(4) 0.7491(4)
+H1 H -0.037(6) 0.230(7) 0.686(8)
+C2 C 0.2493(3) 0.5234(5) 0.4975(4)
+H2 H 0.257(3) 0.431(5) 0.567(6)
+C3 C 0.4937(3) 0.3028(4) 0.7644(4)
+H3 H 0.548(7) 0.248(8) 0.715(8)
+Cu1 Cu 0.00000 0.50000 0.50000
+Cu2 Cu 0.50000 0.50000 0.50000
+O1 O 0.06127(19) 0.4096(3) 0.6932(3)
+O2 O 0.0640(2) 0.2334(3) 0.8735(3)
+O3 O 0.15400(19) 0.5843(3) 0.4648(3)
+O4 O 0.34181(19) 0.5745(3) 0.4539(3)
+O5 O 0.4553(2) 0.4204(3) 0.6977(3)
+O6 O 0.4608(2) 0.2503(3) 0.8852(3)
+C4 C 0.7384(4) 0.5728(5) 0.8710(5)
+H4 H 0.789(5) 0.645(7) 0.819(7)
+H5 H 0.662(5) 0.570(6) 0.821(6)
+C5 C 0.7865(5) 0.4137(6) 0.9094(5)
+H6 H 0.757(4) 0.327(7) 0.842(6)
+H7 H 0.873(6) 0.407(6) 0.911(6)
+C6 C 0.7428(5) 0.4324(5) 1.0678(5)
+H8 H 0.793(4) 0.410(5) 1.161(6)
+H9 H 0.667(5) 0.398(5) 1.077(5)
+N1 N 0.7350(4) 0.6022(4) 1.0402(4)
+H10 H 0.676(5) 0.644(6) 1.070(5)
+H11 H 0.801(5) 0.653(6) 1.072(6)
+C1B C -0.0254(3) 0.7117(4) 0.2509(4)
+H1B H 0.037(6) 0.770(7) 0.314(8)
+C2B C -0.2493(3) 0.4766(5) 0.5025(4)
+H2B H -0.257(3) 0.569(5) 0.433(6)
+C3B C 0.5063(3) 0.6972(4) 0.2356(4)
+H3B H 0.452(7) 0.752(8) 0.285(8)
+Cu1A Cu 0.00000 0.00000 1.00000
+Cu1A* Cu 0.00000 1.00000 0.00000
+Cu2A Cu 0.50000 0.00000 1.00000
+Cu2* Cu -0.50000 0.50000 0.50000
+Cu2A* Cu 0.50000 1.00000 0.00000
+O1B O -0.06127(19) 0.5904(3) 0.3068(3)
+O2B O -0.0640(2) 0.7666(3) 0.1265(3)
+O2A O -0.0640(2) 0.7334(3) 0.6265(3)
+O2C O 0.0640(2) 0.2666(3) 0.3735(3)
+O3B O -0.15400(19) 0.4157(3) 0.5352(3)
+O4B O -0.34181(19) 0.4255(3) 0.5461(3)
+O4B* O 0.65819(19) 0.4255(3) 0.5461(3)
+O5B O 0.5447(2) 0.5796(3) 0.3023(3)
+O6B O 0.5392(2) 0.7497(3) 0.1148(3)
+O6A O 0.5392(2) 0.7503(3) 0.6148(3)
+O6C O 0.4608(2) 0.2497(3) 0.3852(3)
+#END

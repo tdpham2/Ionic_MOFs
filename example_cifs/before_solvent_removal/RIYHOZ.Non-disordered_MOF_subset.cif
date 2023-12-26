@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RIYHOZ
+_audit_creation_date 2019-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RIYHOZ
+_database_code_depnum_ccdc_archive 'CCDC 1851397'
+_chemical_formula_sum 'C14 H19 Cl1 Mn1 N9 P1'
+_chemical_formula_moiety
+;
+C8 H19 Cl1 P1 1+,(C6 Mn1 N9 1-)n
+;
+_journal_coden_Cambridge 1220
+_journal_volume 25
+_journal_year 2019
+_journal_page_first 6447
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Meng-Meng Zhao"
+"Lin Zhou"
+"Ping-Ping Shi"
+"Xuan Zheng"
+"Xiao-Gang Chen"
+"Ji-Xing Gao"
+"Lei He"
+"Qiong Ye"
+"Cai-Ming Liu"
+"Da-Wei Fu"
+_chemical_name_systematic
+;
+catena-[(2-chloroethyl)(triethyl)phosphonium tris(\m-dicyanamido)-manganese]
+;
+_cell_volume   2097.439
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.377
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0833
+_refine_ls_wR_factor_gt 0.0833
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.015(2)
+_cell_length_b 12.173(2)
+_cell_length_c 17.282(4)
+_cell_angle_alpha 90
+_cell_angle_beta 95.43(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.61
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7566(4) 0.6714(3) 0.4136(2)
+N1 N 0.8347(4) 1.0892(3) 0.2860(2)
+N2 N 0.5239(3) 0.7595(3) 0.2329(2)
+N3 N 0.3552(4) 0.8518(3) 0.3033(2)
+N4 N 0.7601(4) 0.6902(3) 0.3505(2)
+N5 N 0.7180(4) 0.7383(3) 0.59864(19)
+C2 C 0.7342(4) 0.6963(3) 0.5424(2)
+C3 C 0.8145(4) 0.9871(3) 0.2641(2)
+N6 N 0.7864(4) 0.8992(3) 0.2468(2)
+Mn1 Mn 0.74046(5) 0.72375(4) 0.22469(3)
+N7 N 0.3053(3) 1.0474(3) 0.2968(2)
+C4 C 0.4475(4) 0.8063(3) 0.2651(2)
+N8 N 1.0445(4) 1.1852(3) 0.2796(2)
+N9 N 0.7583(6) 0.6352(3) 0.4837(2)
+C5 C 0.3330(4) 0.9568(3) 0.2969(2)
+C6 C 0.9492(4) 1.1355(3) 0.2806(2)
+C7 C 0.6014(4) 0.4039(3) 0.9251(2)
+H1 H 0.50650 0.41670 0.91170
+H2 H 0.63940 0.37860 0.87870
+C8 C 0.6185(4) 0.3153(3) 0.9864(2)
+H3 H 0.54390 0.26460 0.97730
+H4 H 0.61140 0.34940 1.03650
+C9 C 0.9189(4) 0.3197(4) 1.0052(2)
+H5 H 0.99610 0.27250 1.00150
+H6 H 0.91640 0.37150 0.96240
+Cl1 Cl 0.67885(13) 0.52866(9) 0.95576(9)
+P1 P 0.77047(10) 0.23658(8) 0.99280(6)
+C10 C 0.7740(4) 0.1598(3) 0.9042(2)
+H7 H 0.69880 0.10920 0.90030
+H8 H 0.76040 0.21050 0.86090
+C11 C 0.9401(4) 0.3840(4) 1.0810(3)
+H9 H 0.87250 0.43980 1.08160
+H10 H 1.02720 0.41760 1.08500
+H11 H 0.93380 0.33500 1.12400
+C12 C 0.7672(4) 0.1453(4) 1.0744(2)
+H12 H 0.83750 0.09100 1.07180
+H13 H 0.78770 0.18730 1.12180
+C13 C 0.9015(5) 0.0944(4) 0.8954(3)
+H14 H 0.97440 0.14410 0.88970
+H15 H 0.88820 0.04840 0.85020
+H16 H 0.92220 0.04950 0.94060
+C14 C 0.6337(5) 0.0852(4) 1.0795(3)
+H17 H 0.56560 0.13740 1.08980
+H18 H 0.64360 0.03220 1.12070
+H19 H 0.60810 0.04860 1.03120
+N5C N 0.7180(4) 0.7617(3) 0.09864(19)
+Mn1A Mn 0.25954(5) 1.22375(4) 0.27531(3)
+Mn1A* Mn 1.25954(5) 1.22375(4) 0.27531(3)
+Mn1C Mn 0.74046(5) 0.77625(4) 0.72469(3)
+N7A N 0.6947(3) 0.5474(3) 0.2032(2)
+N8A N 0.9555(4) 0.6852(3) 0.2204(2)
+#END

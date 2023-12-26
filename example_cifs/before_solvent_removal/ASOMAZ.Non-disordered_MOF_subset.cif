@@ -1,0 +1,169 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ASOMAZ
+_audit_creation_date 2021-05-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ASOMAZ
+_database_code_depnum_ccdc_archive 'CCDC 2057007'
+_chemical_formula_sum 'C11 H24 Er2 N2 O22 Se2'
+_chemical_formula_moiety
+;
+(C6 H2 Er2 O18 Se2 2-)n,C5 H14 N2 2+,4(H2 O1)
+;
+_journal_coden_Cambridge 8
+_journal_volume 154
+_journal_year 2021
+_journal_page_first 184708
+_journal_name_full 'AIP J.Chem.Phys. '
+loop_
+_publ_author_name
+"Qianxiang Ai"
+"D.M.Williams"
+"M.Danielson"
+"L.G.Spooner"
+"J.A.Engler"
+"Zihui Ding"
+"M.Zeller"
+"A.J.Norquist"
+"J.Schrier"
+_chemical_name_systematic
+;
+catena-[2-methylpiperazine-1,4-diium tris(\m-oxalato)-bis(\m-hydrogen 
+selenito)-di-erbium(iii) tetrahydrate]
+;
+_cell_volume   1267.024
+_exptl_crystal_colour 'pink'
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+piperazine is disordered by symmetry: C7,N1,N2 disordered by symmetry over 
+two configurations with occupancy 0.5000; O13 disordered by symmetry over two 
+configurations with occupancy 0.5000; O14 disordered by symmetry over two 
+configurations with occupancy 0.5000; O9,Se1 and O10,O11,Se2 disordered over 
+two sites with occupancies 0.512:0.488.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0222
+_refine_ls_wR_factor_gt 0.0222
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C m'
+_symmetry_Int_Tables_number 8
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,z
+4 1/2+x,1/2-y,z
+_cell_length_a 11.59880(3)
+_cell_length_b 16.10460(4)
+_cell_length_c 8.61010(3)
+_cell_angle_alpha 90
+_cell_angle_beta 128.020(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Er 1.89
+N 0.68
+O 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Er1 Er 0.25966(15) 0.308909(10) 0.2342(3)
+Se1 Se 0.00357(19) 0.19475(6) -0.2304(3)
+O1 O 0.3467(8) 0.4300(3) 0.4413(10)
+O2 O 0.1769(9) 0.4314(3) 0.0493(10)
+O3 O 0.4527(8) 0.3509(4) 0.2333(11)
+O4 O 0.3697(12) 0.1932(3) 0.2040(16)
+O5 O 0.6405(10) 0.3078(3) 0.2423(17)
+O6 O 0.5640(7) 0.1503(4) 0.2288(10)
+O7 O -0.0791(6) 0.2409(3) -0.4516(8)
+O8 O 0.100(1) 0.2797(4) -0.0901(9)
+O9 O -0.1464(12) 0.1786(7) -0.2298(17)
+C1 C 0.3140(11) 0.50000 0.3624(15)
+C2 C 0.2165(11) 0.50000 0.1350(15)
+C3 C 0.5294(12) 0.2966(6) 0.2318(16)
+C4 C 0.4819(12) 0.2060(6) 0.2200(15)
+H1 H -0.13820 0.12460 -0.17620
+O10 O 0.3988(8) 0.00000 0.0928(13)
+O11 O 0.4054(11) 0.4665(6) -0.0464(14)
+O12 O 0.1731(11) 0.0311(8) -0.8862(16)
+C5 C 0.3187(12) 0.0456(5) -0.3757(19)
+C6 C 0.2373(18) 0.0963(10) -0.333(2)
+H2 H 0.40910 0.05010 -0.24720
+H3 H 0.29950 0.14080 -0.24570
+H4 H 0.20980 0.06370 -0.26900
+H5 H 0.15390 0.11930 -0.45010
+H6 H 0.50980 0.09510 -0.21850
+C7 C 0.4983(11) 0.0449(5) -0.4422(13)
+H7 H 0.50200 0.06340 -0.54440
+H8 H 0.58430 0.06340 -0.31850
+H9 H 0.39760 0.14010 -0.41740
+N1 N 0.4336(14) 0.0872(7) -0.3545(16)
+Se2? Se 0.08055(19) 0.20529(7) -0.2457(3)
+O13? O 0.2100(13) 0.2210(8) -0.2879(18)
+O14? O -0.1830(17) 0.1242(9) -0.2541(19)
+H10? H 0.21410 0.27860 -0.30890
+H11? H 0.39980 0.13890 -0.42710
+N2? N 0.3739(13) 0.0827(6) -0.472(2)
+H12? H 0.29610 0.08300 -0.61010
+H13? H 0.25010 0.05160 -0.51500
+O1B O 0.3467(8) 0.5700(3) 0.4413(10)
+O2B O 0.1769(9) 0.5686(3) 0.0493(10)
+Er1B Er 0.25966(15) 0.691091(10) 0.2342(3)
+Se1B Se 0.00357(19) 0.80525(6) -0.2304(3)
+O3B O 0.4527(8) 0.6491(4) 0.2333(11)
+O4B O 0.3697(12) 0.8068(3) 0.2040(16)
+O5B O 0.6405(10) 0.6922(3) 0.2423(17)
+O6B O 0.5640(7) 0.8497(4) 0.2288(10)
+O7B O -0.0791(6) 0.7591(3) -0.4516(8)
+O8B O 0.100(1) 0.7203(4) -0.0901(9)
+O9B O -0.1464(12) 0.8214(7) -0.2298(17)
+C3B C 0.5294(12) 0.7034(6) 0.2318(16)
+C4B C 0.4819(12) 0.7940(6) 0.2200(15)
+H1B H -0.13820 0.87540 -0.17620
+Er1A Er -0.24034(15) 0.808909(10) -0.7658(3)
+Er1A* Er 0.75966(15) 0.808909(10) 0.2342(3)
+Er1C Er -0.24034(15) 0.191091(10) -0.7658(3)
+Er1C* Er 0.75966(15) 0.191091(10) 0.2342(3)
+O5A O 0.1405(10) 0.8078(3) 0.2423(17)
+O5C O 0.1405(10) 0.1922(3) 0.2423(17)
+O6A O 0.0640(7) 0.6503(4) 0.2288(10)
+O6C O 0.0640(7) 0.3497(4) 0.2288(10)
+O7A O 0.4209(6) 0.7409(3) 0.5484(8)
+O7C O 0.4209(6) 0.2591(3) 0.5484(8)
+C5B C 0.3187(12) -0.0456(5) -0.3757(19)
+C6B C 0.2373(18) -0.0963(10) -0.333(2)
+H2B H 0.40910 -0.05010 -0.24720
+H3B H 0.29950 -0.14080 -0.24570
+H4B H 0.20980 -0.06370 -0.26900
+H5B H 0.15390 -0.11930 -0.45010
+H6B H 0.50980 -0.09510 -0.21850
+C7B C 0.4983(11) -0.0449(5) -0.4422(13)
+H7B H 0.50200 -0.06340 -0.54440
+H8B H 0.58430 -0.06340 -0.31850
+H9B H 0.39760 -0.14010 -0.41740
+N1B N 0.4336(14) -0.0872(7) -0.3545(16)
+#END

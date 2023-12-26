@@ -1,0 +1,229 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EDASIO
+_audit_creation_date 2017-10-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EDASIO
+_database_code_depnum_ccdc_archive 'CCDC 1537509'
+_chemical_formula_sum 'C36 H50 Cu6 I7 N12 Na1 O6 P2'
+_chemical_formula_moiety
+;
+(C30 H30 Cu6 I7 N12 O2 P2 1-)n,Na1 1+,H2 O1,3(C2 H6 O1)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 29
+_journal_year 2017
+_journal_page_first 8093
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"Muxin Yu"
+"Lian Chen"
+"Feilong Jiang"
+"Kang Zhou"
+"Caiping Liu"
+"Cai Sun"
+"Xingjun Li"
+"Yan Yang"
+"Maochun Hong"
+_chemical_name_systematic
+;
+catena-[sodium heptakis(\m-iodo)-bis(\m-N,N',N''-tripyridin-3-ylphosphoric 
+triamide)-hexa-copper(i) ethanol solvate]
+;
+_cell_volume   8565.187
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.318
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+Disordered ethanol solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0341
+_refine_ls_wR_factor_gt 0.0341
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,1/2-z
+5 -x,-x+y,1/2-z
+6 y,x,1/2-z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3+x-y,1/3-y,5/6-z
+11 2/3-x,1/3-x+y,5/6-z
+12 2/3+y,1/3+x,5/6-z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3+x-y,2/3-y,1/6-z
+17 1/3-x,2/3-x+y,1/6-z
+18 1/3+y,2/3+x,1/6-z
+19 -x,-y,-z
+20 y,-x+y,-z
+21 x-y,x,-z
+22 -x+y,y,-1/2+z
+23 x,x-y,-1/2+z
+24 -y,-x,-1/2+z
+25 -2/3-x,-1/3-y,-1/3-z
+26 -2/3+y,-1/3-x+y,-1/3-z
+27 -2/3+x-y,-1/3+x,-1/3-z
+28 -2/3-x+y,-1/3+y,-5/6+z
+29 -2/3+x,-1/3+x-y,-5/6+z
+30 -2/3-y,-1/3-x,-5/6+z
+31 -1/3-x,-2/3-y,-2/3-z
+32 -1/3+y,-2/3-x+y,-2/3-z
+33 -1/3+x-y,-2/3+x,-2/3-z
+34 -1/3-x+y,-2/3+y,-1/6+z
+35 -1/3+x,-2/3+x-y,-1/6+z
+36 -1/3-y,-2/3-x,-1/6+z
+_cell_length_a 14.3640(2)
+_cell_length_b 14.3640(2)
+_cell_length_c 47.9353(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+I 1.40
+N 0.68
+Na 1.66
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 1.00000 1.00000 0.50000
+I2 I 1.04647(3) 0.84256(3) 0.42734(2)
+Cu1 Cu 0.90335(7) 0.87515(7) 0.45141(2)
+P1 P 0.66667 0.33333 0.48451(5)
+N1 N 0.7902(4) 0.7324(4) 0.46935(10)
+C1 C 0.7214(4) 0.5442(4) 0.47773(12)
+N2 N 0.7299(4) 0.4537(4) 0.47030(9)
+H1 H 0.77399 0.46262 0.45650
+C2 C 0.7875(4) 0.6406(4) 0.46346(11)
+H2 H 0.83246 0.64026 0.44896
+C3 C 0.6554(5) 0.5444(5) 0.49870(13)
+H3 H 0.61040 0.48116 0.50904
+C4 C 0.6573(5) 0.6409(5) 0.50417(15)
+H4 H 0.61163 0.64331 0.51815
+C5 C 0.7242(5) 0.7317(5) 0.48957(14)
+H5 H 0.72448 0.79653 0.49374
+O1 O 0.66667 0.33333 0.51522(14)
+Na1 Na 0.66667 0.33333 0.5595(4)
+O2 O 0.8790(19) 0.5285(19) 0.5664(4)
+N1A N 0.2676(4) 0.0578(4) 0.46935(10)
+C1A C 0.4558(4) 0.1772(4) 0.47773(12)
+N2A N 0.5463(4) 0.2762(4) 0.47030(9)
+H1A H 0.53738 0.31137 0.45650
+C2A C 0.3594(4) 0.1469(4) 0.46346(11)
+H2A H 0.35974 0.19220 0.44896
+C3A C 0.4556(5) 0.1110(5) 0.49870(13)
+H3A H 0.51884 0.12924 0.50904
+C4A C 0.3591(5) 0.0164(5) 0.50417(15)
+H4A H 0.35669 -0.03168 0.51815
+C5A C 0.2683(5) -0.0075(5) 0.48957(14)
+H5A H 0.20347 -0.07205 0.49374
+N1B N 0.9422(4) 0.2098(4) 0.46935(10)
+C1B C 0.8228(4) 0.2786(4) 0.47773(12)
+N2B N 0.7238(4) 0.2701(4) 0.47030(9)
+H1B H 0.68863 0.22601 0.45650
+C2B C 0.8531(4) 0.2125(4) 0.46346(11)
+H2B H 0.80780 0.16754 0.44896
+C3B C 0.8890(5) 0.3446(5) 0.49870(13)
+H3B H 0.87076 0.38960 0.50904
+C4B C 0.9836(5) 0.3427(5) 0.50417(15)
+H4B H 1.03168 0.38837 0.51815
+C5B C 1.0075(5) 0.2758(5) 0.48957(14)
+H5B H 1.07205 0.27552 0.49374
+I2A I 0.15744(3) 0.20391(3) 0.42734(2)
+Cu1A Cu 0.12485(7) 0.02820(7) 0.45141(2)
+I2B I -0.20391(3) -0.04647(3) 0.42734(2)
+Cu1B Cu -0.02820(7) 0.09665(7) 0.45141(2)
+I2R I 0.95353(3) 1.15744(3) 0.57266(2)
+Cu1R Cu 1.09665(7) 1.12485(7) 0.54859(2)
+P1R P 1.33333 1.66667 0.51549(5)
+N1R N 1.2098(4) 1.2676(4) 0.53065(10)
+C1R C 1.2786(4) 1.4558(4) 0.52227(12)
+N2R N 1.2701(4) 1.5463(4) 0.52970(9)
+H1R H 1.22601 1.53738 0.54350
+C2R C 1.2125(4) 1.3594(4) 0.53654(11)
+H2R H 1.16754 1.35974 0.55104
+C3R C 1.3446(5) 1.4556(5) 0.50130(13)
+H3R H 1.38960 1.51884 0.49096
+C4R C 1.3427(5) 1.3591(5) 0.49583(15)
+H4R H 1.38837 1.35669 0.48185
+C5R C 1.2758(5) 1.2683(5) 0.51043(14)
+H5R H 1.27552 1.20347 0.50626
+O1R O 1.33333 1.66667 0.48478(14)
+N1S N 1.7324(4) 1.9422(4) 0.53065(10)
+C1S C 1.5442(4) 1.8228(4) 0.52227(12)
+N2S N 1.4537(4) 1.7238(4) 0.52970(9)
+H1S H 1.46262 1.68863 0.54350
+C2S C 1.6406(4) 1.8531(4) 0.53654(11)
+H2S H 1.64026 1.80780 0.55104
+C3S C 1.5444(5) 1.8890(5) 0.50130(13)
+H3S H 1.48116 1.87076 0.49096
+C4S C 1.6409(5) 1.9836(5) 0.49583(15)
+H4S H 1.64331 2.03168 0.48185
+C5S C 1.7317(5) 2.0075(5) 0.51043(14)
+H5S H 1.79653 2.07205 0.50626
+N1T N 1.0578(4) 1.7902(4) 0.53065(10)
+C1T C 1.1772(4) 1.7214(4) 0.52227(12)
+N2T N 1.2762(4) 1.7299(4) 0.52970(9)
+H1T H 1.31137 1.77399 0.54350
+C2T C 1.1469(4) 1.7875(4) 0.53654(11)
+H2T H 1.19220 1.83246 0.55104
+C3T C 1.1110(5) 1.6554(5) 0.50130(13)
+H3T H 1.12924 1.61040 0.49096
+C4T C 1.0164(5) 1.6573(5) 0.49583(15)
+H4T H 0.96832 1.61163 0.48185
+C5T C 0.9925(5) 1.7242(5) 0.51043(14)
+H5T H 0.92795 1.72448 0.50626
+I2S I 0.84256(3) 0.79609(3) 0.57266(2)
+Cu1S Cu 0.87515(7) 0.97180(7) 0.54859(2)
+I2T I 1.20391(3) 1.04647(3) 0.57266(2)
+Cu1T Cu 1.02820(7) 0.90335(7) 0.54859(2)
+I1* I 0.00000 0.00000 0.50000
+I2* I 0.04647(3) -0.15744(3) 0.42734(2)
+I2B* I 0.79609(3) 0.95353(3) 0.42734(2)
+Cu1* Cu -0.09665(7) -0.12485(7) 0.45141(2)
+Cu1A* Cu 1.12485(7) 1.02820(7) 0.45141(2)
+Cu1B* Cu 0.97180(7) 0.09665(7) 0.45141(2)
+Cu1B** Cu 0.97180(7) 1.09665(7) 0.45141(2)
+Cu1S* Cu 1.87515(7) 1.97180(7) 0.54859(2)
+Cu1T* Cu 1.02820(7) 1.90335(7) 0.54859(2)
+N1B* N -0.0578(4) 0.2098(4) 0.46935(10)
+N1S* N 0.7324(4) 0.9422(4) 0.53065(10)
+N1T* N 1.0578(4) 0.7902(4) 0.53065(10)
+#END

@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUSYUM
+_audit_creation_date 2015-11-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUSYUM
+_database_code_depnum_ccdc_archive 'CCDC 1438462'
+_chemical_formula_sum 'C18.5 H14.5 Cu1 N6.5 O0.5'
+_chemical_formula_moiety
+;
+(C12 H4 Cu1 N4 1-)n,C5 H7 N2 1+,0.5(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2015
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"B.F.Abrahams"
+"R.W.Elliott"
+"T.A.Hudson"
+"R.Robson"
+"A.L.Sutton"
+_chemical_name_systematic
+;
+catena-(1-methylpyrazin-1-ium (\m-7,7,8,8-tetracyanoquinodimethanide)-copper 
+N,N-dimethylformamide solvate)
+;
+_cell_volume   2095.288
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.266
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0976
+_refine_ls_wR_factor_gt 0.0976
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.2415(6)
+_cell_length_b 12.4248(6)
+_cell_length_c 20.6580(12)
+_cell_angle_alpha 90
+_cell_angle_beta 97.899(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.071(2) 0.3655(15) 0.2986(10)
+C2 C -0.024(2) 0.2724(19) 0.2959(12)
+H1 H -0.09650 0.25500 0.25740
+C3 C 0.090(4) 0.231(2) 0.3975(13)
+H2 H 0.10050 0.18030 0.43250
+C4 C 0.193(2) 0.329(2) 0.4049(11)
+H3 H 0.26570 0.34540 0.44340
+C5 C 0.274(2) 0.4946(16) 0.3501(11)
+H4 H 0.33520 0.50630 0.39360
+H5 H 0.20040 0.55590 0.33860
+H6 H 0.35000 0.48780 0.31800
+N1 N 0.1730(16) 0.3923(12) 0.3505(7)
+N2 N -0.013(3) 0.2095(15) 0.3467(14)
+C6 C 0.1400(9) 0.6218(6) 0.1670(3)
+C7 C 0.1640(9) 0.5299(5) 0.1313(3)
+C8 C -0.0267(9) 0.5922(6) 0.0342(4)
+H7 H -0.04610 0.65590 0.05750
+C9 C 0.0839(8) 0.5153(5) 0.0639(3)
+C10 C 0.1086(9) 0.4230(5) 0.0286(4)
+H8 H 0.18250 0.36950 0.04760
+C11 C 0.2691(8) 0.4532(5) 0.1629(3)
+N3 N 0.1158(10) 0.6972(6) 0.1956(3)
+N4 N 0.3527(8) 0.3887(5) 0.1915(3)
+Cu1 Cu 0.50000 0.2962(1) 0.25000
+C12? C 0.323(3) 0.566(3) 0.3369(12)
+H9? H 0.20430 0.55500 0.33300
+H10? H 0.36860 0.52020 0.30530
+H11? H 0.34550 0.64180 0.32800
+C13? C 0.363(5) 0.429(2) 0.4228(17)
+H12? H 0.40240 0.37690 0.39290
+H13? H 0.24460 0.41970 0.42230
+H14? H 0.41920 0.41710 0.46710
+C14? C 0.483(3) 0.602(3) 0.4422(14)
+N5? N 0.396(2) 0.5391(14) 0.4015(8)
+O1? O 0.535(4) 0.579(3) 0.4972(16)
+H15? H 0.06140 0.41130 0.26140
+C6D C -0.1400(9) 0.3782(6) -0.1670(3)
+C7D C -0.1640(9) 0.4701(5) -0.1313(3)
+C8D C 0.0267(9) 0.4078(6) -0.0342(4)
+H7D H 0.04610 0.34410 -0.05750
+C9D C -0.0839(8) 0.4847(5) -0.0639(3)
+C10D C -0.1086(9) 0.5770(5) -0.0286(4)
+H8D H -0.18250 0.63050 -0.04760
+C11D C -0.2691(8) 0.5468(5) -0.1629(3)
+N3D N -0.1158(10) 0.3028(6) -0.1956(3)
+N4D N -0.3527(8) 0.6113(5) -0.1915(3)
+N3B N 0.6158(10) 0.1972(6) 0.1956(3)
+N3C N 0.3842(10) 0.1972(6) 0.3044(3)
+N4A N 0.6473(8) 0.3887(5) 0.3085(3)
+Cu1B Cu 0.00000 0.7962(1) 0.25000
+Cu1D Cu -0.50000 0.7038(1) -0.25000
+Cu1F Cu 0.00000 0.2038(1) -0.25000
+#END

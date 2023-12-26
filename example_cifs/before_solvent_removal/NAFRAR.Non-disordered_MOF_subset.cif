@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NAFRAR
+_audit_creation_date 2020-11-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NAFRAR
+_database_code_depnum_ccdc_archive 'CCDC 2013020'
+_chemical_formula_sum 'C20 H22 Cd1 N4 O12'
+_chemical_formula_moiety
+;
+(C16 H6 Cd1 N2 O12 2-)n,2(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 169
+_journal_volume 225
+_journal_year 2021
+_journal_page_first 133
+_journal_name_full 'Faraday Discuss. '
+loop_
+_publ_author_name
+"D.Watkins"
+"T.M.Roseveare"
+"M.R.Warren"
+"S.P.Thompson"
+"A.J.Fletcher"
+"L.Brammer"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) 
+bis(\m-2-nitrobenzene-1,4-dicarboxylato)-cadmium(ii) unknown solvate]
+;
+_chemical_name_common
+;
+SHF-81-DMF
+;
+_cell_volume   2438.150
+_exptl_crystal_colour 'orange'
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'N,N-dimethylformamide'
+_diffrn_ambient_temperature 100
+_diffrn_special_details
+;
+twin
+
+;
+_refine_special_details
+;
+Disordereddimethylammonium and  solvent molecules were not modelled and the 
+disordered density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0335
+_refine_ls_wR_factor_gt 0.0335
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 x-y,-y,2/3-z
+5 -x,-x+y,1/3-z
+6 y,x,-z
+_cell_length_a 14.8744(10)
+_cell_length_b 14.8744(10)
+_cell_length_c 12.7248(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd -0.49969(15) -0.49969(15) 0.00000
+C1 C -0.4980(14) -0.3683(12) -0.1557(13)
+O1 O -0.5898(12) -0.4402(12) -0.1183(12)
+C2 C -0.5958(6) -0.3300(11) -0.2921(13)
+H1 H -0.65866 -0.38636 -0.26623
+C3 C -0.5023(10) -0.3027(12) -0.2425(10)
+C4 C -0.4103(6) -0.2202(13) -0.2804(12)
+C5 C -0.4117(7) -0.1650(11) -0.3679(12)
+H2 H -0.34876 -0.10867 -0.39376
+C6 C -0.5051(10) -0.1923(11) -0.4175(9)
+C7 C -0.5972(6) -0.2748(12) -0.3796(12)
+H3 H -0.66105 -0.29342 -0.41355
+O2 O -0.4219(13) -0.3532(13) -0.1127(11)
+O3 O -0.4264(12) -0.0733(9) -0.5567(11)
+C8 C -0.5146(14) -0.1347(16) -0.5145(15)
+O4 O -0.5935(12) -0.1381(13) -0.5341(12)
+N1 N -0.3165(17) -0.1772(15) -0.2348(16)
+O5 O -0.246(3) -0.182(3) -0.276(2)
+O6 O -0.300(3) -0.134(3) -0.142(3)
+C1E C -0.3683(14) -0.4980(12) 0.1557(13)
+O1E O -0.4402(12) -0.5898(12) 0.1183(12)
+C2E C -0.3300(6) -0.5958(11) 0.2921(13)
+H1E H -0.38636 -0.65866 0.26623
+C3E C -0.3027(10) -0.5023(12) 0.2425(10)
+C4E C -0.2202(6) -0.4103(13) 0.2804(12)
+C5E C -0.1650(7) -0.4117(11) 0.3679(12)
+H2E H -0.10867 -0.34876 0.39376
+C6E C -0.1923(10) -0.5051(11) 0.4175(9)
+C7E C -0.2748(6) -0.5972(12) 0.3796(12)
+H3E H -0.29342 -0.66105 0.41355
+O2E O -0.3532(13) -0.4219(13) 0.1127(11)
+O3E O -0.0733(12) -0.4264(9) 0.5567(11)
+C8E C -0.1347(14) -0.5146(16) 0.5145(15)
+O4E O -0.1381(12) -0.5935(13) 0.5341(12)
+N1E N -0.1772(17) -0.3165(15) 0.2348(16)
+O5E O -0.182(3) -0.246(3) 0.276(2)
+O6E O -0.134(3) -0.300(3) 0.142(3)
+Cd1A Cd -0.50031(15) 0.00000(15) -0.66667
+Cd1B Cd 0.00000(15) -0.50031(15) 0.66667
+O3B O -0.6469(12) -0.5736(9) 0.109967(1100)
+O3D O -0.5736(12) -0.6469(9) -0.109967(1100)
+O4B O -0.5446(12) -0.4065(13) 0.132567(1200)
+O4D O -0.4065(12) -0.5446(13) -0.132567(1200)
+#END

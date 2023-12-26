@@ -1,0 +1,319 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SONVAT
+_audit_creation_date 2009-07-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SONVAT
+_database_code_depnum_ccdc_archive 'CCDC 686794'
+_chemical_formula_sum 'C80 H132 Cu12 Ge1 N2 O130 W12'
+_chemical_formula_moiety
+;
+(C4 H12 N1 1+)2n,n(H2 Ge1 O40 W12 2-),n(C72 H46 Cu12 O60),30n(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 131
+_journal_year 2009
+_journal_page_first 1883
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Chun-Yan Sun"
+"Shu-Xia Liu"
+"Da-Dong Liang"
+"Kui-Zhan Shao"
+"Yuan-Hang Ren"
+"Zhong-Min Su"
+_chemical_name_systematic
+;
+catena-(dodecakis(tetramethylammonium) 
+octakis(\m~6~-benzene-1,3,5-tricarboxylato)-dodecaaqua-dodeca-copper 
+(\m~12~-germanetetrolato)-tetracosakis(\m~2~-oxo)-dodecaoxo-dodeca-tungsten 
+hydrate)
+;
+_cell_volume  18230.694
+_exptl_special_details
+;
+Isomorphous with the silicate-tungsten, phosphate-tungsten, 
+silicate-molybdenum, arsenate-molybdenum and phosphate-molybdenum analogues
+;
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The germanetetrol oxygen atoms are disordered by symmetry over two sites with 
+occupancy 0.50.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0493
+_refine_ls_wR_factor_gt 0.0493
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,z
+3 -x,-y,z
+4 y,-x,z
+5 x,-y,-z
+6 y,x,-z
+7 -x,y,-z
+8 -y,-x,-z
+9 z,x,y
+10 -x,z,y
+11 -z,-x,y
+12 x,-z,y
+13 z,-x,-y
+14 x,z,-y
+15 -z,x,-y
+16 -x,-z,-y
+17 y,z,x
+18 -z,-y,-x
+19 -z,y,x
+20 z,y,-x
+21 z,-y,x
+22 y,-z,-x
+23 -y,-z,x
+24 -y,z,-x
+25 x,1/2+y,1/2+z
+26 -y,1/2+x,1/2+z
+27 -x,1/2-y,1/2+z
+28 y,1/2-x,1/2+z
+29 x,1/2-y,1/2-z
+30 y,1/2+x,1/2-z
+31 -x,1/2+y,1/2-z
+32 -y,1/2-x,1/2-z
+33 z,1/2+x,1/2+y
+34 -x,1/2+z,1/2+y
+35 -z,1/2-x,1/2+y
+36 x,1/2-z,1/2+y
+37 z,1/2-x,1/2-y
+38 x,1/2+z,1/2-y
+39 -z,1/2+x,1/2-y
+40 -x,1/2-z,1/2-y
+41 y,1/2+z,1/2+x
+42 -z,1/2-y,1/2-x
+43 -z,1/2+y,1/2+x
+44 z,1/2+y,1/2-x
+45 z,1/2-y,1/2+x
+46 y,1/2-z,1/2-x
+47 -y,1/2-z,1/2+x
+48 -y,1/2+z,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-y,x,1/2+z
+51 1/2-x,-y,1/2+z
+52 1/2+y,-x,1/2+z
+53 1/2+x,-y,1/2-z
+54 1/2+y,x,1/2-z
+55 1/2-x,y,1/2-z
+56 1/2-y,-x,1/2-z
+57 1/2+z,x,1/2+y
+58 1/2-x,z,1/2+y
+59 1/2-z,-x,1/2+y
+60 1/2+x,-z,1/2+y
+61 1/2+z,-x,1/2-y
+62 1/2+x,z,1/2-y
+63 1/2-z,x,1/2-y
+64 1/2-x,-z,1/2-y
+65 1/2+y,z,1/2+x
+66 1/2-z,-y,1/2-x
+67 1/2-z,y,1/2+x
+68 1/2+z,y,1/2-x
+69 1/2+z,-y,1/2+x
+70 1/2+y,-z,1/2-x
+71 1/2-y,-z,1/2+x
+72 1/2-y,z,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-y,1/2+x,z
+75 1/2-x,1/2-y,z
+76 1/2+y,1/2-x,z
+77 1/2+x,1/2-y,-z
+78 1/2+y,1/2+x,-z
+79 1/2-x,1/2+y,-z
+80 1/2-y,1/2-x,-z
+81 1/2+z,1/2+x,y
+82 1/2-x,1/2+z,y
+83 1/2-z,1/2-x,y
+84 1/2+x,1/2-z,y
+85 1/2+z,1/2-x,-y
+86 1/2+x,1/2+z,-y
+87 1/2-z,1/2+x,-y
+88 1/2-x,1/2-z,-y
+89 1/2+y,1/2+z,x
+90 1/2-z,1/2-y,-x
+91 1/2-z,1/2+y,x
+92 1/2+z,1/2+y,-x
+93 1/2+z,1/2-y,x
+94 1/2+y,1/2-z,-x
+95 1/2-y,1/2-z,x
+96 1/2-y,1/2+z,-x
+97 -x,-y,-z
+98 y,-x,-z
+99 x,y,-z
+100 -y,x,-z
+101 -x,y,z
+102 -y,-x,z
+103 x,-y,z
+104 y,x,z
+105 -z,-x,-y
+106 x,-z,-y
+107 z,x,-y
+108 -x,z,-y
+109 -z,x,y
+110 -x,-z,y
+111 z,-x,y
+112 x,z,y
+113 -y,-z,-x
+114 z,y,x
+115 z,-y,-x
+116 -z,-y,x
+117 -z,y,-x
+118 -y,z,x
+119 y,z,-x
+120 y,-z,x
+121 -x,-1/2-y,-1/2-z
+122 y,-1/2-x,-1/2-z
+123 x,-1/2+y,-1/2-z
+124 -y,-1/2+x,-1/2-z
+125 -x,-1/2+y,-1/2+z
+126 -y,-1/2-x,-1/2+z
+127 x,-1/2-y,-1/2+z
+128 y,-1/2+x,-1/2+z
+129 -z,-1/2-x,-1/2-y
+130 x,-1/2-z,-1/2-y
+131 z,-1/2+x,-1/2-y
+132 -x,-1/2+z,-1/2-y
+133 -z,-1/2+x,-1/2+y
+134 -x,-1/2-z,-1/2+y
+135 z,-1/2-x,-1/2+y
+136 x,-1/2+z,-1/2+y
+137 -y,-1/2-z,-1/2-x
+138 z,-1/2+y,-1/2+x
+139 z,-1/2-y,-1/2-x
+140 -z,-1/2-y,-1/2+x
+141 -z,-1/2+y,-1/2-x
+142 -y,-1/2+z,-1/2+x
+143 y,-1/2+z,-1/2-x
+144 y,-1/2-z,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+y,-x,-1/2-z
+147 -1/2+x,y,-1/2-z
+148 -1/2-y,x,-1/2-z
+149 -1/2-x,y,-1/2+z
+150 -1/2-y,-x,-1/2+z
+151 -1/2+x,-y,-1/2+z
+152 -1/2+y,x,-1/2+z
+153 -1/2-z,-x,-1/2-y
+154 -1/2+x,-z,-1/2-y
+155 -1/2+z,x,-1/2-y
+156 -1/2-x,z,-1/2-y
+157 -1/2-z,x,-1/2+y
+158 -1/2-x,-z,-1/2+y
+159 -1/2+z,-x,-1/2+y
+160 -1/2+x,z,-1/2+y
+161 -1/2-y,-z,-1/2-x
+162 -1/2+z,y,-1/2+x
+163 -1/2+z,-y,-1/2-x
+164 -1/2-z,-y,-1/2+x
+165 -1/2-z,y,-1/2-x
+166 -1/2-y,z,-1/2+x
+167 -1/2+y,z,-1/2-x
+168 -1/2+y,-z,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+y,-1/2-x,-z
+171 -1/2+x,-1/2+y,-z
+172 -1/2-y,-1/2+x,-z
+173 -1/2-x,-1/2+y,z
+174 -1/2-y,-1/2-x,z
+175 -1/2+x,-1/2-y,z
+176 -1/2+y,-1/2+x,z
+177 -1/2-z,-1/2-x,-y
+178 -1/2+x,-1/2-z,-y
+179 -1/2+z,-1/2+x,-y
+180 -1/2-x,-1/2+z,-y
+181 -1/2-z,-1/2+x,y
+182 -1/2-x,-1/2-z,y
+183 -1/2+z,-1/2-x,y
+184 -1/2+x,-1/2+z,y
+185 -1/2-y,-1/2-z,-x
+186 -1/2+z,-1/2+y,x
+187 -1/2+z,-1/2-y,-x
+188 -1/2-z,-1/2-y,x
+189 -1/2-z,-1/2+y,-x
+190 -1/2-y,-1/2+z,x
+191 -1/2+y,-1/2+z,-x
+192 -1/2+y,-1/2-z,x
+_cell_length_a 26.3189(12)
+_cell_length_b 26.3189(12)
+_cell_length_c 26.3189(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.11
+Ge 1.17
+N 0.68
+O 0.68
+W 1.32
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.50000(4) 0.28520(4) -0.28520
+Ge1 Ge 0.00000 0.00000 0.00000
+W1 W -0.095011(18) 0.095011(18) 0.00000
+C1 C 0.3666(3) 0.3666(3) -0.1987(4)
+H1 H 0.38090 0.38090 -0.22760
+C2 C 0.4314(3) 0.2976(4) -0.2024(3)
+C3 C 0.3885(3) 0.3231(4) -0.1769(3)
+C4 C 0.2843(18) 0.2843(18) 0.2843(18)
+H2? H 0.18550 0.20640 0.26600
+N1 N 0.25000 0.25000 0.25000
+O1 O 0.5000(3) 0.34390 -0.3439(3)
+O2 O 0.44730(19) 0.3168(2) -0.2435(2)
+O3 O -0.0382(6) 0.0382(6) -0.0382(6)
+O4 O -0.1398(3) 0.1398(3) 0.00000
+O5 O -0.0491(3) 0.1206(5) -0.0491(3)
+O6 O 0.0751(11) 0.2470(11) 0.00000
+W1M W -0.095011(18) 0.000000(18) -0.09501
+W1L W 0.000000(18) 0.095011(18) -0.09501
+C1NA C 0.3666(3) 0.3013(3) -0.1334(4)
+C3DB C 0.3231(3) 0.3885(4) -0.1769(3)
+C4BA C 0.2843(18) 0.2157(18) 0.2157(18)
+C4VB C 0.2157(18) 0.2157(18) 0.2843(18)
+C4BB C 0.2157(18) 0.2843(18) 0.2157(18)
+O2O O 0.55270(19) 0.2435(2) -0.3168(2)
+O2VC O 0.55270(19) 0.3168(2) -0.2435(2)
+O2AD O 0.44730(19) 0.2435(2) -0.3168(2)
+O2EE O 0.44730(19) 0.2565(2) -0.1832(2)
+O3A O -0.0382(6) -0.0382(6) -0.0382(6)
+O3B O 0.0382(6) -0.0382(6) -0.0382(6)
+O3C O 0.0382(6) 0.0382(6) -0.0382(6)
+O3D O -0.0382(6) -0.0382(6) 0.0382(6)
+O3E O 0.0382(6) -0.0382(6) 0.0382(6)
+O3F O 0.0382(6) 0.0382(6) 0.0382(6)
+O3G O -0.0382(6) 0.0382(6) 0.0382(6)
+O5G O -0.1206(3) 0.0491(5) 0.0491(3)
+O5S O -0.0491(3) 0.1206(5) 0.0491(3)
+O5V O -0.1206(3) 0.0491(5) -0.0491(3)
+#END

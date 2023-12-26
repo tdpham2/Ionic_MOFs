@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NEZBOK
+_audit_creation_date 2007-06-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NEZBOK
+_database_code_depnum_ccdc_archive 'CCDC 272629'
+_chemical_formula_sum 'C6 H14 Mn2 N2 O10 P2'
+_chemical_formula_moiety
+;
+(C4 H12 N2 2+)n,n(C2 H2 Mn2 O10 P2 2-)
+;
+_journal_coden_Cambridge 1145
+_journal_volume 17
+_journal_year 2007
+_journal_page_first 980
+_journal_name_full 'J.Mater.Chem. '
+loop_
+_publ_author_name
+"S.Mandal"
+"M.A.Green"
+"S.K.Pati"
+"S.Natarajan"
+_chemical_name_systematic
+;
+catena-(Piperazinium (\m~4~-oxalato)-bis(\m~3~-phosphito)-di-manganese(ii))
+;
+_cell_volume    668.102
+_exptl_crystal_colour 'pale pink'
+_exptl_crystal_density_diffrn 2.217
+_exptl_crystal_description 'Cubic'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0247
+_refine_ls_wR_factor_gt 0.0247
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.0627(8)
+_cell_length_b 10.7122(15)
+_cell_length_c 10.3872(14)
+_cell_angle_alpha 90
+_cell_angle_beta 97.956(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn -0.11358(4) -0.38705(3) 1.40845(3)
+P1 P 0.03461(8) -0.15644(5) 1.22871(5)
+H1 H 0.17810 -0.19890 1.23000
+O1 O -0.0672(3) -0.20650(13) 1.34478(14)
+O2 O -0.1015(3) -0.18927(14) 1.10090(14)
+O3 O 0.0874(2) -0.01696(13) 1.24742(13)
+O4 O -0.2308(2) 0.05855(14) 1.01646(14)
+O5 O -0.4822(2) -0.11665(13) 0.88402(15)
+C1 C -0.4280(3) 0.05091(17) 1.03926(18)
+C2 C 0.5003(4) -0.3728(2) -0.9547(2)
+H2 H 0.42730 -0.32890 -1.03060
+H3 H 0.53770 -0.31230 -0.88560
+C3 C 0.3451(4) -0.4696(2) -0.9125(2)
+H4 H 0.41350 -0.50820 -0.83240
+H5 H 0.20810 -0.42980 -0.89600
+N1 N 0.7064(3) -0.43314(17) -0.98614(17)
+H6 H 0.79560 -0.37500 -1.01430
+H7 H 0.77980 -0.46800 -0.91380
+Mn1C Mn -0.11358(4) -0.11295(3) 0.90845(3)
+Mn1A Mn 0.11358(4) 0.11295(3) 1.09155(3)
+Mn1A* Mn -0.88642(4) 0.11295(3) 1.09155(3)
+Mn1B Mn 0.11358(4) 0.38705(3) 1.59155(3)
+Mn1* Mn -0.11358(4) 0.61295(3) 1.40845(3)
+Mn1C* Mn -1.11358(4) -0.11295(3) 0.90845(3)
+P1A P -0.03461(8) 0.34356(5) 1.27129(5)
+H1A H -0.17810 0.30110 1.27000
+O1A O 0.0672(3) 0.29350(13) 1.15522(14)
+O2C O -0.1015(3) -0.31073(14) 1.60090(14)
+O2B O 0.1015(3) 0.18927(14) 0.89910(14)
+O2A O 0.1015(3) 0.31073(14) 1.39910(14)
+O3A O -0.0874(2) -0.51696(13) 1.25258(13)
+O3A* O -0.0874(2) 0.48304(13) 1.25258(13)
+O4A O 0.2308(2) -0.44145(14) 1.48354(14)
+O4C O -0.2308(2) -0.55855(14) 1.51646(14)
+O4B O 0.2308(2) -0.05855(14) 0.98354(14)
+O4B* O -0.7692(2) -0.05855(14) 0.98354(14)
+O5C O -0.4822(2) -0.38335(13) 1.38402(15)
+O5B O 0.4822(2) 0.11665(13) 1.11598(15)
+O5B* O -0.5178(2) 0.11665(13) 1.11598(15)
+C1B C -0.5720(3) -0.05091(17) 0.96074(18)
+C2B C 0.4997(4) -0.6272(2) -1.0453(2)
+H2B H 0.57270 -0.67110 -0.96940
+H3B H 0.46230 -0.68770 -1.11440
+C3B C 0.6549(4) -0.5304(2) -1.0875(2)
+H4B H 0.58650 -0.49180 -1.16760
+H5B H 0.79190 -0.57020 -1.10400
+N1B N 0.2936(3) -0.56686(17) -1.01386(17)
+H6B H 0.20440 -0.62500 -0.98570
+H7B H 0.22020 -0.53200 -1.08620
+#END

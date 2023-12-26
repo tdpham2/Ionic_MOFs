@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YEDLAX
+_audit_creation_date 2017-09-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YEDLAX
+_database_code_depnum_ccdc_archive 'CCDC 1454209'
+_chemical_formula_sum 'C2 H4 F6 In2 K2 O6'
+_chemical_formula_moiety
+;
+(C2 H4 F6 In2 O6 2-)n,2(K1 1+)
+;
+_journal_coden_Cambridge 82
+_journal_volume 58
+_journal_year 2017
+_journal_page_first 207
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"R.L.Davidovich"
+"V.B.Logvinova"
+"V.V.Tkachev"
+"G.V.Shilov"
+_chemical_name_systematic
+;
+catena-[di-potassium (\m-oxalato)-bis(\m-fluoro)-diaqua-tetrafluoro-di-indium]
+;
+_cell_volume    549.352
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 3.3
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0248
+_refine_ls_wR_factor_gt 0.0248
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.6943(2)
+_cell_length_b 9.8135(2)
+_cell_length_c 7.7252(2)
+_cell_angle_alpha 90
+_cell_angle_beta 109.648(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+In 1.42
+K 2.03
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.767278(15) 0.040348(13) 0.873141(16)
+F1 F 0.86380(15) 0.22477(12) 0.82457(15)
+F2 F 0.70173(15) -0.14558(12) 0.95344(16)
+F3 F 0.97860(15) 0.05028(11) 1.13846(15)
+O1 O 0.73891(18) -0.01725(17) 0.5777(2)
+O2 O 0.53308(19) -0.05562(15) 0.29906(19)
+O3 O 0.63639(18) 0.15838(16) 1.03515(19)
+H1 H 0.721(2) 0.190(3) 1.144(2)
+H2 H 0.5179(18) 0.141(2) 1.041(3)
+C1 C 0.5786(2) -0.0206(2) 0.4647(3)
+K1 K 0.89592(6) -0.16893(5) 0.34200(6)
+O1B O 0.26109(18) 0.01725(17) 0.4223(2)
+O2B O 0.46692(19) 0.05562(15) 0.70094(19)
+C1B C 0.4214(2) 0.0206(2) 0.5353(3)
+In1B In 0.232722(15) -0.040348(13) 0.126859(16)
+F1B F 0.13620(15) -0.22477(12) 0.17543(15)
+F2B F 0.29827(15) 0.14558(12) 0.04656(16)
+F3B F 0.02140(15) -0.05028(11) -0.13846(15)
+O3B O 0.36361(18) -0.15838(16) -0.03515(19)
+H1B H 0.279(2) -0.190(3) -0.144(2)
+H2B H 0.4821(18) -0.141(2) -0.041(3)
+In1* In -0.232722(15) 0.040348(13) -0.126859(16)
+In1B* In 1.232722(15) -0.040348(13) 1.126859(16)
+F3* F -0.02140(15) 0.05028(11) 0.13846(15)
+F3B* F 1.02140(15) -0.05028(11) 0.86154(15)
+#END

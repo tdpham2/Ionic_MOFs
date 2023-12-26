@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HEHJAH
+_audit_creation_date 2012-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HEHJAH
+_database_code_depnum_ccdc_archive 'CCDC 879986'
+_chemical_formula_sum 'C24 H16 Cu1 I4 N4 Pb1'
+_chemical_formula_moiety
+;
+(C24 H16 Cu1 I1 N4 1+)n,n(I3 Pb1 1-)
+;
+_journal_coden_Cambridge 1295
+_journal_volume 23
+_journal_year 2012
+_journal_page_first 137
+_journal_name_full 'Inorg.Chem.Commun. '
+loop_
+_publ_author_name
+"Guan-E Wang"
+"Ming-Sheng Wang"
+"Ming-Jian Zhang"
+"Li-Zhen Cai"
+"Bin-Wen Liu"
+"Cui-Juan Zhang"
+"Guo-Cong Guo"
+"Jin-Shun Huang"
+_chemical_name_systematic
+;
+catena-[Iodo-bis(1,10-phenanthroline)-copper(ii) tris(\m~2~-iodo)-lead]
+;
+_cell_volume   2895.393
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.612
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0255
+_refine_ls_wR_factor_gt 0.0255
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 18.717(2)
+_cell_length_b 19.673(3)
+_cell_length_c 7.8746(8)
+_cell_angle_alpha 90
+_cell_angle_beta 93.080(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+I 1.40
+N 0.68
+Pb 1.51
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1 Pb 0.15496(1) -0.748620(9) 0.29255(2)
+I1 I 0.150260(17) -0.620050(17) 0.55952(4)
+I2 I 0.036130(17) -0.811580(17) 0.52559(4)
+I3 I 0.282220(18) -0.808040(19) 0.55790(4)
+I4 I 0.35734(2) -0.368740(19) 0.01513(4)
+Cu1 Cu 0.32469(3) -0.40373(3) 0.32325(7)
+N1 N 0.4129(2) -0.36109(19) 0.4339(5)
+N2 N 0.3572(2) -0.4830(2) 0.4930(5)
+N3 N 0.2345(2) -0.4485(2) 0.2347(5)
+N4 N 0.2516(2) -0.35470(19) 0.4798(5)
+C1 C 0.4406(3) -0.3006(3) 0.4019(6)
+H1 H 0.41750 -0.27330 0.31970
+C2 C 0.5031(3) -0.2761(3) 0.4862(7)
+H2 H 0.52030 -0.23310 0.46130
+C3 C 0.5382(3) -0.3152(3) 0.6040(7)
+H3 H 0.58040 -0.29980 0.65850
+C4 C 0.5109(2) -0.3794(3) 0.6440(6)
+C5 C 0.4479(2) -0.4002(2) 0.5557(5)
+C6 C 0.4171(2) -0.4652(2) 0.5871(5)
+C7 C 0.4502(3) -0.5075(3) 0.7108(6)
+C8 C 0.5157(3) -0.4851(3) 0.7967(6)
+H4 H 0.53900 -0.51360 0.87590
+C9 C 0.5442(3) -0.4243(3) 0.7657(6)
+H5 H 0.58630 -0.41120 0.82450
+C10 C 0.2271(3) -0.4948(3) 0.1127(7)
+H6 H 0.26740 -0.50880 0.05810
+C11 C 0.1610(3) -0.5232(3) 0.0633(8)
+H7 H 0.15780 -0.55550 -0.02300
+C12 C 0.1017(3) -0.5040(3) 0.1407(8)
+H8 H 0.05770 -0.52310 0.10790
+C13 C 0.1065(3) -0.4553(3) 0.2709(7)
+C14 C 0.1753(2) -0.4290(2) 0.3146(6)
+C15 C 0.0479(3) -0.4319(3) 0.3627(8)
+H9 H 0.00250 -0.44980 0.33720
+C16 C 0.0561(3) -0.3850(3) 0.4847(9)
+H10 H 0.01630 -0.37040 0.54040
+C17 C 0.1246(3) -0.3567(3) 0.5314(7)
+C18 C 0.1844(2) -0.3792(2) 0.4457(6)
+C19 C 0.4160(3) -0.5698(3) 0.7377(7)
+H11 H 0.43560 -0.59980 0.81900
+C20 C 0.3553(3) -0.5871(3) 0.6477(8)
+H12 H 0.33240 -0.62800 0.66860
+C21 C 0.3274(3) -0.5424(3) 0.5222(7)
+H13 H 0.28650 -0.55510 0.45740
+C22 C 0.2604(3) -0.3088(2) 0.6003(6)
+H14 H 0.30630 -0.29210 0.62550
+C23 C 0.2044(3) -0.2837(3) 0.6924(8)
+H15 H 0.21320 -0.25090 0.77610
+C24 C 0.1369(3) -0.3076(3) 0.6588(8)
+H16 H 0.09920 -0.29150 0.71980
+Pb1C Pb 0.15496(1) -0.751380(9) 0.79255(2)
+I1C I 0.150260(17) -0.879950(17) 0.05952(4)
+I2C I 0.036130(17) -0.688420(17) 0.02559(4)
+I3C I 0.282220(18) -0.691960(19) 0.05790(4)
+#END

@@ -1,0 +1,179 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IROHED
+_audit_creation_date 2011-07-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IROHED
+_database_code_depnum_ccdc_archive 'CCDC 767770'
+_chemical_formula_sum 'C2 H29 Ge1 K2 Na3 O54 Rb1 W11 Y1'
+_chemical_formula_moiety
+;
+(C2 H5 Ge1 O42 W11 Y1 6-)n,12n(H2 O1),3n(Na1 1+),2n(K1 1+),n(Rb1 1+)
+;
+_journal_coden_Cambridge 155
+_journal_volume 363
+_journal_year 2010
+_journal_page_first 4324
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"F.Hussain"
+"A.Degonda"
+"S.Sandriesser"
+"T.Fox"
+"S.S.Mal"
+"U.Kortz"
+"G.R.Patzke"
+_chemical_name_systematic
+;
+catena-(dipotassium rubidium tri-sodium 
+tris(\m~4~-oxo)-(\m~3~-oxo)-(\m~2~-acetato)-tetracosa(\m~2~-oxo)-aqua-undecaox
+o-germanium-undeca-tungstern-yttrium(iii) dodecahydrate)
+;
+_cell_volume   5033.589
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Study temperature given as 183 K and 293 K in the CIF
+
+;
+_exptl_crystal_description 'diamond plate'
+_diffrn_ambient_temperature 183
+_refine_special_details
+;
+Rb2 disordered by symmetry over two sites with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0317
+_refine_ls_wR_factor_gt 0.0317
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 20.1244(3)
+_cell_length_b 12.6619(2)
+_cell_length_c 21.1518(3)
+_cell_angle_alpha 90
+_cell_angle_beta 110.946(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ge 1.17
+K 1.30
+Na 0.86
+O 0.68
+Rb 1.60
+W 1.42
+Y 1.69
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0743(6) 0.9906(9) -0.0672(5)
+C2 C 0.1335(8) 0.9197(11) -0.0717(7)
+H1 H 0.14340 0.86560 -0.03780
+H2 H 0.11880 0.88780 -0.11570
+H3 H 0.17550 0.96110 -0.06440
+O1 O -0.4947(4) 1.1290(6) -0.4335(4)
+O2 O -0.4447(4) 0.8382(6) -0.2722(4)
+O3 O -0.3246(5) 0.8566(6) -0.4368(4)
+O4 O -0.3511(4) 1.0555(6) -0.3905(4)
+O5 O -0.4165(4) 1.0466(6) -0.3033(4)
+O6 O -0.3274(4) 0.9004(6) -0.3057(4)
+O7 O -0.2302(4) 1.0251(6) -0.4092(4)
+O8 O -0.3769(4) 1.2623(6) -0.4076(4)
+O9 O -0.4428(4) 1.2543(6) -0.3180(4)
+O10 O -0.4026(4) 1.0047(6) -0.1772(4)
+O11 O -0.3100(4) 0.8524(6) -0.1762(4)
+O12 O -0.2036(4) 0.8630(6) -0.3219(4)
+O13 O -0.3121(4) 1.2103(6) -0.2858(3)
+O14 O -0.2842(4) 1.0440(6) -0.1911(4)
+O15 O -0.2135(4) 1.0509(6) -0.2844(4)
+O16 O -0.1170(4) 1.1558(6) -0.4058(4)
+O17 O -0.2379(4) 1.2244(6) -0.3798(3)
+O18 O -0.2899(4) 1.4341(6) -0.4072(4)
+O19 O -0.3479(4) 1.4028(6) -0.3087(4)
+O20 O -0.4223(4) 1.4230(6) -0.2227(4)
+O21 O -0.3815(4) 1.2103(6) -0.1870(4)
+O22 O -0.3778(5) 1.1312(6) -0.0627(4)
+O23 O -0.2766(4) 0.9891(6) -0.0753(3)
+O24 O -0.1864(4) 0.8153(6) -0.0601(4)
+O25 O -0.1844(4) 0.8819(6) -0.1898(4)
+O26 O -0.0672(4) 0.8198(6) -0.2267(4)
+O27 O -0.1032(4) 1.0077(6) -0.3075(4)
+O28 O -0.1163(4) 1.2144(6) -0.2788(4)
+O29 O -0.2074(4) 1.3608(6) -0.2803(4)
+O30 O -0.2833(4) 1.3492(6) -0.1765(4)
+O31 O -0.2579(4) 1.1983(6) -0.0891(4)
+O32 O -0.1474(4) 1.0139(6) -0.0864(4)
+O33 O -0.0777(4) 1.0158(6) -0.1744(4)
+O34 O -0.1782(4) 1.2031(6) -0.1775(3)
+O35 O -0.0652(4) 1.4203(6) -0.2279(4)
+O36 O -0.1431(4) 1.3892(6) -0.1434(3)
+O37 O -0.2030(4) 1.3979(6) -0.0441(4)
+O38 O -0.1123(4) 1.2411(6) -0.0452(4)
+O39 O -0.0403(4) 1.2473(6) -0.1465(3)
+O40 O 0.0321(4) 0.9570(6) -0.0380(4)
+O41 O 0.0665(4) 1.0797(6) -0.0929(4)
+O42 O 0.0420(5) 1.2190(6) 0.0026(4)
+O43 O 0.0332(6) 1.1890(8) -0.3844(5)
+O44 O 0.1756(6) 1.1035(8) -0.1809(5)
+O45 O -0.4610(6) 1.4008(9) -0.0853(6)
+O46 O -0.2312(5) 0.6103(7) -0.0320(4)
+O47 O -0.0791(6) 0.6269(9) 0.0973(5)
+O48 O -0.6326(6) 1.1989(8) -0.3896(5)
+O49 O -0.5305(8) 1.2874(11) -0.5545(7)
+O50 O -0.5278(5) 1.4048(7) -0.4061(5)
+O51 O 0.1652(6) 0.3998(8) 0.1301(5)
+O52 O -0.2568(6) 0.8181(8) 0.2497(5)
+O53 O -0.3153(4) 0.8782(6) 0.0197(4)
+O54 O -0.6062(5) 1.1137(8) -0.1784(5)
+Na1 Na -0.0517(3) 1.4615(5) 0.0209(3)
+Na2 Na -0.5930(3) 1.2555(4) -0.4794(3)
+Na3 Na -0.4527(4) 1.4466(5) -0.4878(3)
+K1 K -0.19061(19) 0.7629(3) 0.06820(16)
+K2 K -0.52837(14) 1.1315(2) -0.26145(13)
+Ge1 Ge -0.24497(7) 1.12850(9) -0.23305(6)
+Y1 Y -0.04665(6) 1.11049(9) -0.07373(5)
+W1 W -0.41373(3) 1.15086(4) -0.36890(2)
+W2 W -0.37695(3) 0.92723(4) -0.24569(2)
+W3 W -0.28479(3) 0.93871(4) -0.36989(2)
+W4 W -0.16152(3) 1.12490(4) -0.35298(2)
+W5 W -0.28836(3) 1.33549(4) -0.35212(2)
+W6 W -0.36993(3) 1.32854(4) -0.23960(2)
+W7 W -0.33734(3) 1.10557(4) -0.12007(2)
+W8 W -0.21583(3) 0.92035(4) -0.11664(2)
+W9 W -0.12529(3) 0.92614(4) -0.23848(2)
+W10 W -0.11061(3) 1.31811(4) -0.20831(2)
+W11 W -0.19134(3) 1.30278(4) -0.09713(2)
+Rb1 Rb 0.02904(12) 1.11838(18) -0.23136(11)
+Rb2 Rb -0.32691(13) 1.34138(18) -0.01014(11)
+O40B O -0.0321(4) 1.0430(6) 0.0380(4)
+Y1B Y 0.04665(6) 0.88951(9) 0.07373(5)
+#END

@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FICNEK
+_audit_creation_date 1999-07-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FICNEK
+_database_code_depnum_ccdc_archive 'CCDC 127858'
+_chemical_formula_sum 'C6 H6 N1 Na1 O6 Pb1'
+_chemical_formula_moiety
+;
+(C6 H6 N1 O6 Pb1 1-)n,n(Na1 1+)
+;
+_journal_coden_Cambridge 41
+_journal_volume 43
+_journal_year 1998
+_journal_page_first 812
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"A.B.Ilyukhin"
+"A.L.Poznyak"
+"V.S.Sergienko"
+"L.V.Stopolyanskaya"
+_chemical_name_systematic
+;
+catena-(Sodium (\m~4~-nitrilotriacetato)-lead(ii))
+;
+_cell_volume    935.097
+_exptl_crystal_density_diffrn 2.97
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.039
+_refine_ls_wR_factor_gt 0.039
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 z,x,y
+5 -x,1/2+y,1/2-z
+6 1/2-z,-x,1/2+y
+7 1/2+z,1/2-x,-y
+8 -z,1/2+x,1/2-y
+9 y,z,x
+10 1/2+y,1/2-z,-x
+11 -y,1/2+z,1/2-x
+12 1/2-y,-z,1/2+x
+_cell_length_a 9.7788(5)
+_cell_length_b 9.7788(5)
+_cell_length_c 9.7788(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 0.97
+O 0.68
+Pb 1.60
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1 Pb 0.15694(2) 0.15694 0.15694
+O1 O 0.60293(53) 0.25204(67) 0.09507(59)
+O2 O 0.38254(60) 0.23335(70) 0.05006(61)
+N1 N 0.3075(5) 0.30750 0.30750
+C1 C 0.48159(65) 0.25298(70) 0.13042(66)
+C2 C 0.45138(65) 0.26945(76) 0.28147(71)
+H1 H 0.47280(65) 0.18221(76) 0.33031(71)
+H2 H 0.51109(65) 0.34279(76) 0.32033(71)
+Na1 Na 0.6793(3) 0.67930 0.67930
+O1G O -0.09507(53) 0.10293(67) 0.24796(59)
+O1K O 0.24796(53) -0.09507(67) 0.10293(59)
+O2C O 0.05006(60) 0.38254(70) 0.23335(61)
+O2H O 0.23335(60) 0.05006(70) 0.38254(61)
+C2C C 0.28147(65) 0.45138(76) 0.26945(71)
+C2H C 0.26945(65) 0.28147(76) 0.45138(71)
+C1C C 0.13042(65) 0.48159(70) 0.25298(66)
+C1H C 0.25298(65) 0.13042(70) 0.48159(66)
+O1B O 0.10293(53) 0.24796(67) -0.09507(59)
+H1C H 0.33031(65) 0.47280(76) 0.18221(71)
+H2C H 0.32033(65) 0.51109(76) 0.34279(71)
+H1H H 0.18221(65) 0.33031(76) 0.47280(71)
+H2H H 0.34279(65) 0.32033(76) 0.51109(71)
+O1C O 0.09507(53) 0.60293(67) 0.25204(59)
+O1H O 0.25204(53) 0.09507(67) 0.60293(59)
+Pb1B Pb 0.65694(2) 0.34306 -0.15694
+Pb1D Pb -0.15694(2) 0.65694 0.34306
+Pb1A Pb 0.34306(2) -0.15694 0.65694
+#END

@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KOZMAN
+_audit_creation_date 1992-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KOZMAN
+_chemical_formula_sum 'C12 H24 Bi2 Br6 O6'
+_chemical_formula_moiety
+;
+(C12 H24 Bi1 Br2 O6 1+)n,0.5n(Bi2 Br8 2-)
+;
+_journal_coden_Cambridge 4
+_journal_volume 114
+_journal_year 1992
+_journal_page_first 2967
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"R.D.Rogers"
+"A.H.Bond"
+"S.Aguinaga"
+"A.Reyes"
+_chemical_name_systematic
+;
+catena-((18-Crown-6)-dibromo-bismuth(iii) 
+bis(\m~2~-bromo)-dibromo-bismuth(iii))
+;
+_chemical_melting_point 474.15
+_cell_volume   1281.217
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 3.01
+_exptl_special_details
+;
+Melting point range 474.15-484.15K
+The complex is isostructural with the Cl analogue
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.294(9)
+_cell_length_b 11.363(4)
+_cell_length_c 15.299(4)
+_cell_angle_alpha 110.72(2)
+_cell_angle_beta 97.26(5)
+_cell_angle_gamma 102.84(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.66
+Br 1.21
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.2378(1) 0.44768(8) 0.04938(7)
+Bi2 Bi 0.2741(1) 0.82996(8) 0.63187(6)
+Br1 Br 0.0487(4) 0.2107(2) 0.0270(2)
+Br2 Br -0.0011(3) 0.5798(2) 0.1361(2)
+Br3 Br 0.4789(3) 0.3224(2) -0.0317(2)
+Br4 Br 0.3993(4) 0.5118(2) 0.2309(2)
+Br5 Br 0.4742(4) 0.6963(3) 0.5449(2)
+Br6 Br 0.0687(4) 0.7779(3) 0.4652(2)
+O1 O 0.349(2) 0.785(2) 0.789(1)
+O2 O 0.111(2) 0.617(2) 0.627(1)
+O3 O -0.002(2) 0.829(2) 0.697(1)
+O4 O 0.192(3) 1.054(2) 0.708(2)
+O5 O 0.437(2) 1.028(1) 0.606(1)
+O6 O 0.566(2) 0.984(1) 0.767(1)
+C1 C 0.259(4) 0.664(2) 0.786(2)
+C2 C 0.202(3) 0.567(2) 0.688(2)
+C3 C -0.071(3) 0.592(3) 0.622(2)
+C4 C -0.102(3) 0.706(2) 0.701(2)
+C5 C 0.001(5) 0.949(3) 0.767(2)
+C6 C 0.073(4) 1.059(2) 0.757(3)
+C7 C 0.276(4) 1.165(2) 0.693(2)
+C8 C 0.344(4) 1.113(3) 0.604(2)
+C9 C 0.612(3) 1.087(3) 0.662(2)
+C10 C 0.629(3) 1.108(3) 0.766(2)
+C11 C 0.572(3) 0.984(2) 0.859(2)
+C12 C 0.513(4) 0.851(3) 0.852(3)
+H1 H 0.32800 0.63400 0.82300
+H2 H 0.16200 0.67400 0.81200
+H3 H 0.13100 0.48700 0.68500
+H4 H 0.29900 0.55100 0.66400
+H5 H -0.12200 0.59100 0.56200
+H6 H -0.12000 0.51100 0.62500
+H7 H -0.06000 0.70200 0.76100
+H8 H -0.21900 0.70100 0.69400
+H9 H -0.11500 0.94500 0.76300
+H10 H 0.04900 0.95200 0.82800
+H11 H 0.12200 1.12400 0.82000
+H12 H -0.00900 1.08700 0.72600
+H13 H 0.19700 1.21200 0.68500
+H14 H 0.36900 1.22300 0.74500
+H15 H 0.40900 1.18400 0.59300
+H16 H 0.24800 1.06600 0.55200
+H17 H 0.67700 1.03000 0.63400
+H18 H 0.65500 1.16900 0.65800
+H19 H 0.56700 1.16500 0.79600
+H20 H 0.74500 1.14300 0.79900
+H21 H 0.68400 1.02600 0.89600
+H22 H 0.49700 1.03000 0.88800
+H23 H 0.51000 0.85000 0.91400
+H24 H 0.59000 0.80500 0.82500
+Br2A Br 0.0011(3) 0.4202(2) -0.1361(2)
+Br3A Br 0.5211(3) 0.6776(2) 0.0317(2)
+Bi1A Bi -0.2378(1) 0.55232(8) -0.04938(7)
+Bi1A* Bi 0.7622(1) 0.55232(8) -0.04938(7)
+Br1A Br -0.0487(4) 0.7893(2) -0.0270(2)
+Br3* Br -0.5211(3) 0.3224(2) -0.0317(2)
+Br3A* Br -0.4789(3) 0.6776(2) 0.0317(2)
+Br4A Br -0.3993(4) 0.4882(2) -0.2309(2)
+#END

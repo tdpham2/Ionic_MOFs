@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AYIREI
+_audit_creation_date 2021-07-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AYIREI
+_database_code_depnum_ccdc_archive 'CCDC 2058803'
+_chemical_formula_sum 'C16 H16 Cd1 N10'
+_chemical_formula_moiety
+;
+(C6 Cd1 N9 1-)n,n(C10 H16 N1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 50
+_journal_year 2021
+_journal_page_first 10580
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"M.Maczka"
+"A.Gagor"
+"J.K.Zareba"
+"M.Trzebiatowska"
+"D.Stefanska"
+"E.Kucharska"
+"J.Hanuza"
+"N.Palka"
+"E.Czerwinska"
+"A.Sieradzki"
+_chemical_name_systematic
+;
+catena-(benzyl(trimethyl)ammonium tris(\m-dicyanamide)-cadmium)
+;
+_cell_volume    956.162
+_exptl_crystal_density_diffrn 1.6
+_exptl_special_details
+;
+P21 polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 119.7
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0531
+_refine_ls_wR_factor_gt 0.0531
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 8.1130(6)
+_cell_length_b 14.0621(6)
+_cell_length_c 8.9405(3)
+_cell_angle_alpha 90
+_cell_angle_beta 110.376(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd -0.00325(6) 0.4833(3) 0.43242(7)
+N1 N 0.2189(9) 0.5796(6) 0.5817(11)
+N2 N 0.3227(15) 0.7241(7) 0.7761(13)
+N3 N 0.2224(10) 0.8872(6) 0.6925(12)
+N4 N 0.1148(11) 0.3859(6) 0.7045(13)
+N5 N 0.2139(12) 0.2475(7) 0.9127(13)
+N6 N 0.1068(11) 0.0866(6) 0.8264(12)
+N7 N -0.1158(10) 0.5799(6) 0.5684(12)
+N8 N -0.0811(13) 0.7116(6) 0.7834(12)
+N9 N -0.1007(11) 0.8811(6) 0.7017(13)
+C1 C 0.1555(12) 0.3186(7) 0.7960(12)
+C2 C 0.1532(11) 0.1633(7) 0.8614(12)
+C3 C 0.2602(11) 0.6513(7) 0.6652(12)
+C4 C 0.2640(11) 0.8092(7) 0.7244(12)
+C5 C -0.1034(10) 0.6451(7) 0.6628(13)
+C6 C -0.0916(11) 0.8010(7) 0.7334(12)
+N10 N 0.4018(9) 0.5486(6) 0.2225(10)
+C7 C 0.4121(8) 0.7209(4) 0.3154(11)
+C8 C 0.2505(10) 0.7629(5) 0.2568(14)
+H1 H 0.15565 0.72628 0.25816
+C9 C 0.2126(11) 0.8528(5) 0.1962(15)
+H2 H 0.09682 0.87403 0.15627
+C10 C 0.3468(9) 0.9111(5) 0.1950(12)
+H3 H 0.32676 0.97284 0.15548
+C11 C 0.5121(11) 0.8735(5) 0.2551(14)
+H4 H 0.60774 0.91115 0.25910
+C12 C 0.5406(11) 0.7819(4) 0.3097(13)
+H5 H 0.65575 0.75965 0.34538
+C13 C 0.4475(11) 0.6208(8) 0.3793(13)
+H6 H 0.37387 0.60573 0.44139
+H7 H 0.56964 0.61404 0.44729
+C14 C 0.4353(12) 0.4523(8) 0.2995(15)
+H8 H 0.54478 0.45311 0.38757
+H9 H 0.44106 0.40578 0.22282
+H10 H 0.34168 0.43629 0.33735
+C15 C 0.5020(12) 0.5672(8) 0.1131(12)
+H11 H 0.62500 0.57287 0.17458
+H12 H 0.46106 0.62522 0.05556
+H13 H 0.48438 0.51549 0.03909
+C16 C 0.2296(11) 0.5575(8) 0.0678(13)
+H14 H 0.12827 0.54132 0.09453
+H15 H 0.23825 0.51503 -0.01314
+H16 H 0.21844 0.62168 0.02876
+Cd1A Cd 0.00325(6) -0.0167(3) 0.56758(7)
+Cd1A* Cd 0.00325(6) 0.9833(3) 0.56758(7)
+N3A N -0.2224(10) 0.3872(6) 0.3075(12)
+N6A N -0.1068(11) 0.5866(6) 0.1736(12)
+N9A N 0.1007(11) 0.3811(6) 0.2983(13)
+#END

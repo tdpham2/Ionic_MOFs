@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_REZBEG
+_audit_creation_date 2018-02-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD REZBEG
+_database_code_depnum_ccdc_archive 'CCDC 1570363'
+_chemical_formula_sum 'C8 H14 Cr1 Mn1 N1 O13'
+_chemical_formula_moiety
+;
+(C6 H6 Cr1 Mn1 O12 1-)n,n(C2 H8 N1 O1 1+)
+;
+_journal_coden_Cambridge 208
+_journal_volume 260
+_journal_year 2018
+_journal_page_first 7
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"M.Maczka"
+"Jan Janczak"
+"K.Hermanowicz"
+"A.Pikul"
+"J.Hanuza"
+_chemical_name_systematic
+;
+catena-(2-hydroxyethylammonium 
+hexakis(\m-formato)-chromium(iii)-manganese(ii))
+;
+_cell_volume    832.128
+_exptl_crystal_colour 'violet'
+_exptl_crystal_density_diffrn 1.753
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+The cation is disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0235
+_refine_ls_wR_factor_gt 0.0235
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.2675(3)
+_cell_length_b 8.2675(3)
+_cell_length_c 14.0576(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.00000 0.50000
+Mn1 Mn 0.33330 0.66670 0.75000
+O1 O 0.20337(13) 0.19097(13) 0.57954(7)
+O2 O 0.33690(17) 0.44933(16) 0.66542(8)
+C1 C 0.20914(19) 0.3334(2) 0.61572(9)
+H1 H 0.10690 0.35260 0.60360
+N1 N 0.4643(8) 0.7322(4) 0.25000
+O3 O 0.2167(10) 0.6543(9) 0.4313(4)
+C2 C 0.33330 0.66670 0.4105(5)
+C3 C 0.33330 0.66670 0.3002(6)
+O1A O -0.19097(13) 0.01240(13) 0.57954(7)
+O2A O -0.44933(17) -0.11243(16) 0.66542(8)
+C1A C -0.33340(19) -0.12426(20) 0.61572(9)
+H1A H -0.35260 -0.24570 0.60360
+O1B O -0.01240(13) -0.20337(13) 0.57954(7)
+O2B O 0.11243(17) -0.33690(16) 0.66542(8)
+C1B C 0.12426(19) -0.20914(20) 0.61572(9)
+H1B H 0.24570 -0.10690 0.60360
+O1D O -0.01240(13) 0.19097(13) 0.92046(7)
+O2D O 0.11243(17) 0.44933(16) 0.83458(8)
+C1D C 0.12426(19) 0.3334(2) 0.88428(9)
+H1D H 0.24570 0.35260 0.89640
+O1F O -0.20337(13) -0.19097(13) 0.42046(7)
+O2F O -0.33690(17) -0.44933(16) 0.33458(8)
+C1F C -0.20914(19) -0.3334(2) 0.38428(9)
+H1F H -0.10690 -0.35260 0.39640
+O1H O 0.01240(13) 0.20337(13) 0.42046(7)
+O2H O -0.11243(17) 0.33690(16) 0.33458(8)
+C1H C -0.12426(19) 0.20914(20) 0.38428(9)
+H1H H -0.24570 0.10690 0.39640
+Cr1C Cr 0.00000 0.00000 1.00000
+Mn1* Mn -0.66670 -0.33330 0.75000
+Mn1** Mn 0.33330 -0.33330 0.75000
+Mn1F Mn -0.33330 -0.66670 0.25000
+Mn1F* Mn -0.33330 0.33330 0.25000
+O1G O 0.19097(13) -0.01240(13) 0.42046(7)
+O2A* O 0.55067(17) 0.88757(16) 0.66542(8)
+O2B* O 0.11243(17) 0.66310(16) 0.66542(8)
+O2C O 0.55067(17) 0.66310(16) 0.83458(8)
+O2E O 0.33690(17) 0.88757(16) 0.83458(8)
+N1A N 0.2678(8) 0.7321(4) 0.25000
+O3A O 0.3457(10) 0.5624(9) 0.4313(4)
+N1B N 0.2679(8) 0.5357(4) 0.25000
+O3B O 0.4376(10) 0.7833(9) 0.4313(4)
+O3C O 0.3457(10) 0.7833(9) 0.0687(4)
+C2C C 0.33330 0.66670 0.0895(5)
+C3C C 0.33330 0.66670 0.1998(6)
+O3D O 0.4376(10) 0.6543(9) 0.0687(4)
+O3E O 0.2167(10) 0.5624(9) 0.0687(4)
+#END

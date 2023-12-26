@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEYQIW
+_audit_creation_date 2001-11-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEYQIW
+_database_code_depnum_ccdc_archive 'CCDC 151826'
+_chemical_formula_sum 'C12 H26 N2 O15 Zn2'
+_chemical_formula_moiety
+;
+(C3 H10 N1 1+)2n,n(C6 O12 Zn2 2-),3n(H2 O1)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 11
+_journal_year 1999
+_journal_page_first 3636
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"R.Vaidhyanathan"
+"S.Natarajan"
+"A.K.Cheetham"
+"C.N.R.Rao"
+_chemical_name_systematic
+;
+catena-(bis(n-Propylammonium) tris(\m~2~-oxalato-O,O',O'',O''')-di-zinc 
+trihydrate)
+;
+_cell_volume   2539.618
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.08
+_refine_ls_wR_factor_gt 0.08
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.847(1)
+_cell_length_b 9.685(1)
+_cell_length_c 18.333(1)
+_cell_angle_alpha 90
+_cell_angle_beta 115.5(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.4180(1) 1.1249(1) 0.5861(1)
+O1 O 0.3584(3) 1.2847(5) 0.5024(3)
+O2 O 0.3936(3) 0.9650(5) 0.5025(2)
+O3 O 0.4669(3) 1.2626(4) 0.6827(2)
+O4 O 0.4662(3) 0.9861(4) 0.6835(2)
+O5 O 0.2217(3) 1.3855(4) 0.4312(3)
+O6 O 0.4592(3) 0.8645(4) 0.4313(3)
+C1 C 0.50000 1.2047(8) 0.75000
+C2 C 0.50000 1.0440(8) 0.75000
+C3 C 0.2727(4) 1.3007(6) 0.4808(3)
+C4 C 0.4575(3) 0.9501(6) 0.4807(3)
+O7 O 0.4703(16) 1.4278(20) 0.4407(13)
+O8 O 0.4644(14) 0.5548(18) 0.6795(11)
+O9 O 0.2801(13) 1.3183(19) 0.0529(12)
+N1 N 0.1721(12) 1.1247(10) 0.0947(10)
+C5 C 0.1738(18) 1.0745(28) 0.1735(12)
+C6 C 0.2583(19) 1.1696(29) 0.2030(16)
+C7 C 0.2645(18) 1.1158(19) 0.2833(15)
+O10? O 0.4673(14) 0.6993(19) 0.6726(12)
+C3F C 0.2273(4) 1.1993(6) 0.5192(3)
+O1F O 0.1416(3) 1.2153(5) 0.4976(3)
+O5F O 0.2783(3) 1.1145(4) 0.5688(3)
+C4D C 0.5425(3) 1.0499(6) 0.5193(3)
+O2D O 0.6064(3) 1.0350(5) 0.4975(2)
+O6D O 0.5408(3) 1.1355(4) 0.5687(3)
+O3A O 0.5331(3) 1.2626(4) 0.8173(2)
+O4A O 0.5338(3) 0.9861(4) 0.8165(2)
+Zn1F Zn 0.0820(1) 1.3751(1) 0.4139(1)
+Zn1D Zn 0.5820(1) 0.8751(1) 0.4139(1)
+Zn1A Zn 0.5820(1) 1.1249(1) 0.9139(1)
+O2F O 0.1064(3) 1.5350(5) 0.4975(2)
+O3F O 0.0331(3) 1.2374(4) 0.3173(2)
+O4F O 0.0338(3) 1.5139(4) 0.3165(2)
+O6B O -0.0408(3) 1.3645(4) 0.4313(3)
+#END

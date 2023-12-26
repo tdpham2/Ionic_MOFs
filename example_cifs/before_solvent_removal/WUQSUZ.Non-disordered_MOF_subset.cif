@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WUQSUZ
+_audit_creation_date 2020-07-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WUQSUZ
+_database_code_depnum_ccdc_archive 'CCDC 2012683'
+_chemical_formula_sum 'C8 H10 Cl1 N1 O4 Pb1 S1'
+_chemical_formula_moiety
+;
+(C6 H2 Cl1 O4 Pb1 S1 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 182
+_journal_volume 56
+_journal_year 2020
+_journal_page_first 10078
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Xueling Song"
+"Chengdong Peng"
+"Xiaoxiang Xu"
+"Jinlin Yin"
+"Honghan Fei"
+_chemical_name_systematic
+;
+catena-(dimethylammonium (\m-chloro)-(\m-thiophene-2,5-dicarboxylato)-lead)
+;
+_cell_volume   1889.561
+_exptl_crystal_density_diffrn 2.42
+_exptl_crystal_description 'bulk'
+_diffrn_ambient_temperature 296.1
+_refine_special_details
+;
+C7,C8,N1 and C7',C8',N1' disordered over two sites with occupancies 
+0.618:0.382.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0238
+_refine_ls_wR_factor_gt 0.0238
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 61'
+_symmetry_Int_Tables_number 169
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 -x,-y,1/2+z
+5 y,-x+y,5/6+z
+6 x-y,x,1/6+z
+_cell_length_a 10.0345(9)
+_cell_length_b 10.0345(9)
+_cell_length_c 21.669(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+O 0.68
+Pb 1.46
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1 Pb 1.06593(3) 0.16577(3) 0.59994(3)
+S1 S 0.5777(3) 0.0844(3) 0.43433(13)
+Cl1 Cl 1.2277(3) 0.2014(3) 0.71522(12)
+O1 O 0.7911(10) 0.1312(10) 0.5422(4)
+C1 C 0.8208(11) 0.0787(10) 0.4969(4)
+O2 O 0.9339(7) 0.0599(8) 0.4930(3)
+C2 C 0.7153(9) 0.0309(10) 0.4422(4)
+O3 O 0.3376(7) 0.0719(8) 0.3478(3)
+C3 C 0.7164(12) -0.0504(12) 0.3922(5)
+H1 H 0.78520 -0.08630 0.38760
+C4 C 0.6037(10) -0.0748(13) 0.3480(5)
+H2 H 0.58670 -0.13290 0.31240
+O4 O 0.3429(8) -0.0934(8) 0.2819(3)
+C5 C 0.5216(10) -0.004(1) 0.3631(4)
+C6 C 0.3909(10) -0.0084(10) 0.3293(4)
+N1 N 0.6044(18) 0.1241(16) 0.6502(8)
+H3 H 0.63510 0.13320 0.68930
+H4 H 0.68160 0.13330 0.62690
+C7 C 0.585(3) 0.253(2) 0.6367(11)
+H5 H 0.67960 0.34700 0.64440
+H6 H 0.55640 0.24970 0.59420
+H7 H 0.50540 0.24970 0.66260
+C8 C 0.479(3) -0.030(2) 0.6424(13)
+H8 H 0.51120 -0.10200 0.65330
+H9 H 0.39460 -0.04560 0.66850
+H10 H 0.44560 -0.04560 0.60010
+N2? N 0.540(3) 0.111(3) 0.6074(12)
+H11? H 0.60980 0.09240 0.59020
+H12? H 0.46400 0.08240 0.58030
+C9? C 0.610(6) 0.274(3) 0.616(2)
+H13? H 0.70370 0.32530 0.59240
+H14? H 0.63310 0.29840 0.65890
+H15? H 0.54090 0.30770 0.60230
+C10? C 0.479(6) 0.013(4) 0.6605(16)
+H16? H 0.36970 -0.05290 0.65570
+H17? H 0.49910 0.07460 0.69690
+H18? H 0.52670 -0.04920 0.66450
+Pb1B Pb 0.09984(3) -0.06593(3) 0.266607(30)
+Pb1D Pb 0.16577(3) 0.09984(3) 0.433273(30)
+Pb1D* Pb 1.16577(3) 0.09984(3) 0.433273(30)
+Pb1E Pb 0.90016(3) 0.06593(3) 0.766607(30)
+Cl1D Cl 1.2014(3) -0.0263(3) 0.548553(120)
+O2E O 0.8740(7) -0.0661(8) 0.659667(300)
+O3A O 0.9281(7) 0.2657(8) 0.681133(300)
+O3E O 1.2657(7) 0.3376(8) 0.514467(300)
+O4A O 1.0934(8) 0.4363(8) 0.615233(300)
+#END

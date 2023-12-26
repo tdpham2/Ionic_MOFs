@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NISPEL
+_audit_creation_date 2008-04-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NISPEL
+_database_code_depnum_ccdc_archive 'CCDC 634099'
+_chemical_formula_sum 'C16 H23 N1 O13 P2 Zn2'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(H3 O1 1+),n(C14 H8 O10 P2 Zn2 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 920
+_journal_volume 2
+_journal_year 2007
+_journal_page_first 1549
+_journal_name_full 'Chem.Asian J. '
+loop_
+_publ_author_name
+"Zhenxia Chen"
+"Yaming Zhou"
+"Linhong Weng"
+"Chao Yuan"
+"Dongyuan Zhao"
+_chemical_name_systematic
+;
+catena-(dimethylammonium oxonium bis(\m~4~-4-phosphonatobenzoato)-di-zinc(ii) 
+dihydrate)
+;
+_cell_volume   5752.541
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.455
+_exptl_crystal_description 'pillar'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0546
+_refine_ls_wR_factor_gt 0.0546
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 25.997(13)
+_cell_length_b 8.577(4)
+_cell_length_c 25.822(13)
+_cell_angle_alpha 90
+_cell_angle_beta 92.424(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+P 1.05
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.14122(2) 0.45695(6) 1.10828(2)
+Zn2 Zn 0.229410(19) -0.00697(6) 0.99838(2)
+P1 P 0.16716(4) 0.29987(14) 0.99915(5)
+O1 O 0.16349(13) 0.3058(4) 1.05739(12)
+O2 O 0.17045(12) 0.1302(4) 0.98146(14)
+O3 O 0.21013(12) 0.3977(4) 0.97882(14)
+C1 C 0.10877(17) 0.3810(5) 0.97042(18)
+C2 C 0.0683(2) 0.2897(6) 0.9535(3)
+H1 H 0.07150 0.18190 0.95560
+C3 C 0.0228(2) 0.3534(7) 0.9335(3)
+H2 H -0.00360 0.28790 0.92130
+C4 C 0.01605(18) 0.5114(6) 0.9313(2)
+C5 C 0.0565(2) 0.6045(7) 0.9474(2)
+H3 H 0.05300 0.71240 0.94600
+C6 C 0.1031(2) 0.5392(6) 0.9659(2)
+H4 H 0.13060 0.60420 0.97530
+C7 C -0.03492(18) 0.5772(7) 0.9125(2)
+O4 O -0.07033(13) 0.4794(5) 0.90497(15)
+O5 O -0.04015(15) 0.7221(5) 0.90655(19)
+P2 P 0.22526(5) 0.73686(14) 1.08797(4)
+O6 O 0.20904(13) 0.8870(4) 1.06029(13)
+O7 O 0.26379(14) 0.6451(5) 1.05902(13)
+O8 O 0.17822(14) 0.6489(5) 1.10265(14)
+C8 C 0.25963(19) 0.7915(6) 1.14737(18)
+C9 C 0.2993(4) 0.8941(12) 1.1463(3)
+H5 H 0.30730 0.94100 1.11520
+C10 C 0.3283(3) 0.9300(12) 1.1915(3)
+H6 H 0.35650 0.99610 1.18970
+C11 C 0.3163(2) 0.8710(7) 1.23734(19)
+C12 C 0.2769(3) 0.7707(10) 1.2389(2)
+H7 H 0.26900 0.72480 1.27030
+C13 C 0.2474(3) 0.734(1) 1.1936(2)
+H8 H 0.21900 0.66890 1.19570
+C14 C 0.3457(2) 0.9214(8) 1.2860(2)
+O9 O 0.3780(2) 1.0265(8) 1.2837(2)
+O10 O 0.33362(16) 0.8573(5) 1.32769(14)
+N1 N 0.3832(3) 0.4841(7) 0.9091(3)
+H9 H 0.35120 0.50360 0.91940
+H10 H 0.38930 0.38180 0.91410
+C15 C 0.3842(5) 0.5159(13) 0.8536(5)
+H11 H 0.35930 0.45130 0.83540
+H12 H 0.41790 0.49370 0.84170
+H13 H 0.37610 0.62360 0.84730
+C16 C 0.4193(3) 0.5713(10) 0.9423(4)
+H14 H 0.41550 0.54070 0.97770
+H15 H 0.41240 0.68080 0.93870
+H16 H 0.45380 0.55000 0.93250
+O11 O 0.2738(6) 0.726(2) 0.6318(5)
+O12 O 0.1296(6) 0.961(3) 0.8886(11)
+O13 O 0.0269(5) 0.916(2) 0.8584(7)
+Zn1D Zn -0.14122(2) 0.54305(6) 0.89172(2)
+Zn1C Zn 0.35878(2) 0.95695(6) 1.39172(2)
+Zn2E Zn 0.270590(19) 0.50697(6) 1.00162(2)
+Zn2* Zn 0.229410(19) 0.99303(6) 0.99838(2)
+O3E O 0.28987(12) 0.1023(4) 1.02118(14)
+O4D O 0.07033(13) 0.5206(5) 1.09503(15)
+O6* O 0.20904(13) -0.1130(4) 1.06029(13)
+O7E O 0.23621(14) -0.1451(5) 0.94098(13)
+O10C O 0.16638(16) 0.3573(5) 1.17231(14)
+#END

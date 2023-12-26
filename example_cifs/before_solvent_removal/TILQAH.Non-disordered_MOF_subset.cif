@@ -1,0 +1,187 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TILQAH
+_audit_creation_date 2008-01-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TILQAH
+_database_code_depnum_ccdc_archive 'CCDC 662270'
+_chemical_formula_sum 'C18 H56 Cl2 In2 N12 Te4 Zn2'
+_chemical_formula_moiety
+;
+(In2 Te4 2-)n,n(C18 H56 N12 Zn2 4+),2n(Cl1 1-)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 7
+_journal_year 2007
+_journal_page_first 1889
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Jian Zhou"
+"Yong Zhang"
+"Guo-Qing Bian"
+"Qin-Yu Zhu"
+"Chun-Ying Li"
+"Jie Dai"
+_chemical_name_systematic
+;
+catena-[(\m~2~-N,N'-bis(2-Aminoethyl)ethanediammonium)-bis(tris(2-aminoethyl)a
+mine)-di-zinc tetrakis(\m~2~-telluro)-di-indium dichloride]
+;
+_cell_volume   3929.266
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.337
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 223
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0404
+_refine_ls_wR_factor_gt 0.0404
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 28.386(4)
+_cell_length_b 7.5189(8)
+_cell_length_c 19.822(2)
+_cell_angle_alpha 90
+_cell_angle_beta 111.757(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+In 1.63
+N 0.68
+Te 1.47
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.513556(18) 0.73443(5) 0.35950(2)
+Te2 Te 0.578079(17) 1.23275(5) 0.27442(3)
+In1 In 0.50000 0.98641(8) 0.25000
+In2 In 0.50000 0.48133(8) 0.25000
+Zn1 Zn 0.35010(3) 0.77968(10) 0.34217(4)
+Cl1 Cl 0.20247(7) 0.7309(2) 0.18063(11)
+N1 N 0.3698(3) 0.7195(8) 0.4635(3)
+N2 N 0.4029(2) 0.9764(8) 0.3879(3)
+H1 H 0.43350 0.94210 0.38740
+H2 H 0.39330 1.07760 0.36110
+N3 N 0.3839(2) 0.5376(7) 0.3475(3)
+H3 H 0.35970 0.45340 0.32760
+H4 H 0.40440 0.54090 0.32140
+N4 N 0.2795(2) 0.7967(8) 0.3482(3)
+H5 H 0.27160 0.91320 0.35040
+H6 H 0.25610 0.74960 0.30710
+N5 N 0.3281(2) 0.8588(7) 0.2322(3)
+H7 H 0.29440 0.83550 0.21010
+H8 H 0.33180 0.97900 0.23180
+N6 N 0.2786(3) 0.6425(9) 0.0898(3)
+H9 H 0.26680 0.53330 0.07150
+H10 H 0.25710 0.68660 0.11020
+C1 C 0.2762(3) 0.7559(10) 0.0306(4)
+H11 H 0.30230 0.72040 0.01200
+H12 H 0.28290 0.87900 0.04770
+C2 C 0.4121(4) 0.8392(11) 0.5042(4)
+H13 H 0.44450 0.78200 0.51070
+H14 H 0.41130 0.86310 0.55240
+C3 C 0.4076(4) 1.0126(11) 0.4634(4)
+H15 H 0.37780 1.07850 0.46330
+H16 H 0.43770 1.08580 0.48770
+C4 C 0.4142(3) 0.4896(10) 0.4232(4)
+H17 H 0.44610 0.55660 0.44000
+H18 H 0.42240 0.36250 0.42620
+C5 C 0.3848(3) 0.5309(10) 0.4713(4)
+H19 H 0.35450 0.45550 0.45750
+H20 H 0.40590 0.50550 0.52210
+C6 C 0.2766(3) 0.7017(11) 0.4126(5)
+H21 H 0.27530 0.57290 0.40460
+H22 H 0.24590 0.73740 0.42070
+C7 C 0.3232(4) 0.7504(11) 0.4778(5)
+H23 H 0.32140 0.87600 0.48970
+H24 H 0.32420 0.67910 0.51960
+C8 C 0.3541(3) 0.7810(11) 0.1859(4)
+H25 H 0.35490 0.86980 0.15010
+H26 H 0.38920 0.75180 0.21640
+C9 C 0.3284(3) 0.6193(11) 0.1475(4)
+H27 H 0.35070 0.56190 0.12630
+H28 H 0.32470 0.53720 0.18350
+Te1B Te 0.486444(18) 0.73443(5) 0.14050(2)
+Te2B Te 0.421921(17) 1.23275(5) 0.22558(3)
+Te2* Te 0.578079(17) 0.23275(5) 0.27442(3)
+Te2B* Te 0.421921(17) 0.23275(5) 0.22558(3)
+In2* In 0.50000 1.48133(8) 0.25000
+Zn1E Zn 0.14990(3) 0.72032(10) -0.34217(4)
+N1E N 0.1302(3) 0.7805(8) -0.4635(3)
+N2E N 0.0971(2) 0.5236(8) -0.3879(3)
+H1E H 0.06650 0.55790 -0.38740
+H2E H 0.10670 0.42240 -0.36110
+N3E N 0.1161(2) 0.9624(7) -0.3475(3)
+H3E H 0.14030 1.04660 -0.32760
+H4E H 0.09560 0.95910 -0.32140
+N4E N 0.2205(2) 0.7033(8) -0.3482(3)
+H5E H 0.22840 0.58680 -0.35040
+H6E H 0.24390 0.75040 -0.30710
+N5E N 0.1719(2) 0.6412(7) -0.2322(3)
+H7E H 0.20560 0.66450 -0.21010
+H8E H 0.16820 0.52100 -0.23180
+N6E N 0.2214(3) 0.8575(9) -0.0898(3)
+H9E H 0.23320 0.96670 -0.07150
+H10E H 0.24290 0.81340 -0.11020
+C1E C 0.2238(3) 0.7441(10) -0.0306(4)
+H11E H 0.19770 0.77960 -0.01200
+H12E H 0.21710 0.62100 -0.04770
+C2E C 0.0879(4) 0.6608(11) -0.5042(4)
+H13E H 0.05550 0.71800 -0.51070
+H14E H 0.08870 0.63690 -0.55240
+C3E C 0.0924(4) 0.4874(11) -0.4634(4)
+H15E H 0.12220 0.42150 -0.46330
+H16E H 0.06230 0.41420 -0.48770
+C4E C 0.0858(3) 1.0104(10) -0.4232(4)
+H17E H 0.05390 0.94340 -0.44000
+H18E H 0.07760 1.13750 -0.42620
+C5E C 0.1152(3) 0.9691(10) -0.4713(4)
+H19E H 0.14550 1.04450 -0.45750
+H20E H 0.09410 0.99450 -0.52210
+C6E C 0.2234(3) 0.7983(11) -0.4126(5)
+H21E H 0.22470 0.92710 -0.40460
+H22E H 0.25410 0.76260 -0.42070
+C7E C 0.1768(4) 0.7496(11) -0.4778(5)
+H23E H 0.17860 0.62400 -0.48970
+H24E H 0.17580 0.82090 -0.51960
+C8E C 0.1459(3) 0.7190(11) -0.1859(4)
+H25E H 0.14510 0.63020 -0.15010
+H26E H 0.11080 0.74820 -0.21640
+C9E C 0.1716(3) 0.8807(11) -0.1475(4)
+H27E H 0.14930 0.93810 -0.12630
+H28E H 0.17530 0.96280 -0.18350
+#END

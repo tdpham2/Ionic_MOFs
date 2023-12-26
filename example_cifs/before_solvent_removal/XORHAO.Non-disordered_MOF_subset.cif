@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XORHAO
+_audit_creation_date 2009-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XORHAO
+_database_code_depnum_ccdc_archive 'CCDC 1297611'
+_chemical_formula_sum 'C4 H28 N6 O22 S4 U2'
+_chemical_formula_moiety
+;
+(H4 N1 1+)4n,n(C4 N2 O16 S4 U2 4-),6n(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 53
+_journal_year 2008
+_journal_page_first 1115
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"I.V.Medrish"
+"A.V.Virovets"
+"E.V.Peresypkina"
+"L.B.Serezhkina"
+_chemical_name_systematic
+;
+catena-(tetrakis(Ammonium) 
+(\m~2~-oxalato-O,O',O'',O''')-bis(\m~2~-sulfato-O,O')-bis(isothiocyanato)-tetr
+aoxo-di-uranium(vi) hexahydrate)
+;
+_cell_volume   1439.687
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.576
+_exptl_special_details
+;
+isotypic with the cesium analogue
+
+;
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The oxo ligands are disordered by symmetry. One oxygen atom of a sulfato 
+ligand is disordered.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0179
+_refine_ls_wR_factor_gt 0.0179
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,y,-z
+7 -1/2-x,-1/2+y,z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 11.6539(9)
+_cell_length_b 18.3791(13)
+_cell_length_c 6.7216(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.38
+S 1.12
+U 1.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8875(6) 0.8842(4) 1.00000
+H1 H 0.861(6) 0.835(4) 1.00000
+O2 O 0.7788(8) 0.5009(5) 1.00000
+H2 H 0.723(7) 0.516(5) 1.00000
+H3 H 0.818(6) 0.458(4) 1.00000
+O3 O 1.00000 0.50000 0.7568(16)
+H4 H 0.93910 0.50810 0.68200
+N1 N 0.9954(4) 0.6552(2) 0.7194(7)
+H5 H 0.995(4) 0.620(2) 0.732(8)
+H6 H 0.943(4) 0.674(2) 0.765(7)
+H7 H 1.050(4) 0.671(2) 0.774(7)
+H8 H 0.998(5) 0.661(3) 0.619(7)
+U1 U 0.650850(13) 0.644150(8) 0.50000
+O4 O 0.5263(4) 0.6933(2) 0.5577(7)
+O5 O 0.7754(4) 0.5937(2) 0.5516(7)
+O6 O 0.5535(2) 0.55036(12) 0.6969(3)
+O7 O 0.6354(6) 0.6846(3) 0.1742(8)
+O8 O 0.6597(6) 0.7796(4) 0.00000
+O9 O 0.8319(5) 0.7219(5) 0.00000
+N2 N 0.7566(5) 0.7573(2) 0.50000
+C1 C 0.7617(4) 0.8197(3) 0.50000
+C2 C 0.50000 0.50000 0.6135(6)
+S1 S 0.76449(14) 0.90790(8) 0.50000
+S2 S 0.71065(15) 0.71093(8) 0.00000
+O10? O 0.7167(6) 0.6556(3) 0.8261(8)
+H9? H 0.946(7) 0.897(4) 0.895(13)
+H4A H 1.06090 0.49190 0.68200
+U1A U 0.349150(13) 0.355850(8) 0.50000
+U1* U 0.650850(13) 0.644150(8) -0.50000
+U1** U 0.650850(13) 0.644150(8) 1.50000
+O4E O 0.5263(4) 0.6933(2) 0.4423(7)
+O4A O 0.4737(4) 0.3067(2) 0.5577(7)
+O4D O 0.4737(4) 0.3067(2) 0.4423(7)
+O5E O 0.7754(4) 0.5937(2) 0.4484(7)
+O5A O 0.2246(4) 0.4063(2) 0.5516(7)
+O5D O 0.2246(4) 0.4063(2) 0.4484(7)
+O6A O 0.4465(2) 0.44964(12) 0.6969(3)
+O6D O 0.4465(2) 0.44964(12) 0.3031(3)
+O6E O 0.5535(2) 0.55036(12) 0.3031(3)
+O7E O 0.6354(6) 0.6846(3) -0.1742(8)
+O7E* O 0.6354(6) 0.6846(3) 0.8258(8)
+O7* O 0.6354(6) 0.6846(3) 1.1742(8)
+O7A O 0.3646(6) 0.3154(3) 0.1742(8)
+O7D O 0.3646(6) 0.3154(3) 0.8258(8)
+O8* O 0.6597(6) 0.7796(4) 1.00000
+O9* O 0.8319(5) 0.7219(5) 1.00000
+N2A N 0.2434(5) 0.2427(2) 0.50000
+C1A C 0.2383(4) 0.1803(3) 0.50000
+C2D C 0.50000 0.50000 0.3865(6)
+S1A S 0.23551(14) 0.09210(8) 0.50000
+S2* S 0.71065(15) 0.71093(8) 1.00000
+#END

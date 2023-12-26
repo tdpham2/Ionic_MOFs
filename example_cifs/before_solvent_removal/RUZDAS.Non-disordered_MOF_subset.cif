@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUZDAS
+_audit_creation_date 2011-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUZDAS
+_database_code_depnum_ccdc_archive 'CCDC 791072'
+_chemical_formula_sum 'C6 H20 Mn2 N2 O12 P2'
+_chemical_formula_moiety
+;
+(C2 H6 Mn2 O12 P2 2-)n,n(C4 H14 N2 2+)
+;
+_journal_coden_Cambridge 1347
+_journal_volume 126
+_journal_year 2009
+_journal_page_first 95
+_journal_name_full 'Microporous and Mesoporous Materials '
+loop_
+_publ_author_name
+"Zhien Lin"
+"H.P.Nayek"
+"S.Dehnen"
+_chemical_name_systematic
+;
+catena-(Butane-1,4-diammonium bis(\m~3~-hydrogen 
+phosphito)-(\m~2~-oxalato)-diaqua-di-manganese)
+;
+_cell_volume    818.140
+_exptl_crystal_colour 'light pink'
+_exptl_crystal_density_diffrn 1.965
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0231
+_refine_ls_wR_factor_gt 0.0231
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 5.616(3)
+_cell_length_b 15.431(3)
+_cell_length_c 9.445(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.72(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.21529(5) 0.668262(19) 0.55653(3)
+P1 P -0.29257(8) 0.69725(3) 0.35161(5)
+H1 H -0.29007(11) 0.604(3) 0.34803(12)
+O1 O -0.3370(2) 0.72749(10) 0.19952(15)
+O2 O -0.4931(2) 0.72322(9) 0.44733(15)
+O3 O -0.0463(2) 0.72566(10) 0.40694(15)
+O4 O 0.2345(2) 0.55257(10) 0.41746(16)
+O5 O 0.0674(2) 0.42317(9) 0.37042(15)
+O6 O 0.4822(3) 0.62333(12) 0.72732(18)
+H2 H 0.610(6) 0.607(2) 0.703(3)
+H3 H 0.507(6) 0.660(2) 0.783(4)
+N1 N -0.2839(3) 0.83504(12) 0.64351(19)
+H4 H -0.13890 0.81420 0.66330
+H5 H -0.36230 0.79860 0.58590
+H6 H -0.36260 0.84090 0.72330
+C1 C 0.0871(3) 0.49322(13) 0.4389(2)
+C2 C -0.2638(4) 0.92044(15) 0.5737(2)
+H7 H -0.17610 0.91430 0.48730
+H8 H -0.17650 0.96000 0.63580
+C3 C -0.5095(4) 0.95721(15) 0.5388(3)
+H9 H -0.59930 0.91630 0.48030
+H10 H -0.59430 0.96580 0.62570
+Mn1B Mn -0.21529(5) 0.331738(19) 0.44347(3)
+Mn1* Mn -0.78471(5) 0.668262(19) 0.55653(3)
+Mn1A Mn 0.28471(5) 0.168262(19) 0.94347(3)
+Mn1B* Mn 0.78471(5) 0.331738(19) 0.44347(3)
+Mn1C Mn -0.28471(5) 0.831738(19) 0.05653(3)
+P1B P 0.29257(8) 0.30275(3) 0.64839(5)
+H1B H 0.29007(11) 0.396(3) 0.65197(12)
+O1B O 0.3370(2) 0.27251(10) 0.80048(15)
+O1A O -0.1630(2) 0.22749(10) 0.30048(15)
+O1C O 0.1630(2) 0.77251(10) 0.69952(15)
+O2B O 0.4931(2) 0.27678(9) 0.55267(15)
+O2* O 0.5069(2) 0.72322(9) 0.44733(15)
+O2B* O -0.5069(2) 0.27678(9) 0.55267(15)
+O3B O 0.0463(2) 0.27434(10) 0.59306(15)
+O4B O -0.2345(2) 0.44743(10) 0.58254(16)
+O5B O -0.0674(2) 0.57683(9) 0.62958(15)
+O6B O -0.4822(3) 0.37667(12) 0.27268(18)
+H2B H -0.610(6) 0.393(2) 0.297(3)
+H3B H -0.507(6) 0.340(2) 0.217(4)
+N1B N -0.7161(3) 1.16496(12) 0.35649(19)
+H4B H -0.86110 1.18580 0.33670
+H5B H -0.63770 1.20140 0.41410
+H6B H -0.63740 1.15910 0.27670
+C1B C -0.0871(3) 0.50678(13) 0.5611(2)
+C2B C -0.7362(4) 1.07956(15) 0.4263(2)
+H7B H -0.82390 1.08570 0.51270
+H8B H -0.82350 1.04000 0.36420
+C3B C -0.4905(4) 1.04279(15) 0.4612(3)
+H9B H -0.40070 1.08370 0.51970
+H10B H -0.40570 1.03420 0.37430
+#END

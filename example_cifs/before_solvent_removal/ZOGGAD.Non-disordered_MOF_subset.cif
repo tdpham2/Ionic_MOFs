@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZOGGAD
+_audit_creation_date 1996-09-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZOGGAD
+_chemical_formula_sum 'C10 H12 Cl2 K2 Mn2 N6 O17'
+_chemical_formula_moiety
+;
+(C10 H10 Cl2 Mn2 N6 O16 2-)n,n(H2 K2 O1 2+)
+;
+_journal_coden_Cambridge 186
+_journal_year 1995
+_journal_page_first 4005
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"F.Nepveu"
+"N.Gaultier"
+"N.Korber"
+"J.Jaud"
+"P.Castan"
+_chemical_name_systematic
+;
+catena((\m~2~-Aqua)-di-potassium 
+bis(\m~2~-5-nitro-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylato)-tetra-
+aqua-dichloro-di-manganese(ii))
+;
+_cell_volume    575.044
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.16
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The oxygen atom, O9, of a water molecule, is disordered over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0323
+_refine_ls_wR_factor_gt 0.0323
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.291(1)
+_cell_length_b 9.014(2)
+_cell_length_c 10.002(2)
+_cell_angle_alpha 70.45(1)
+_cell_angle_beta 79.80(1)
+_cell_angle_gamma 68.45(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+K 1.63
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.00000 1.00000
+K1 K 0.1612(1) 0.7948(1) 0.3920(1)
+O1 O 0.2716(3) -0.0422(2) 1.0985(2)
+N1 N 0.1173(3) -0.2638(2) 1.0000(2)
+C1 C 0.0927(3) -0.3910(3) 1.1148(2)
+O2 O -0.0071(3) -0.3651(2) 1.2222(2)
+N2 N 0.1871(3) -0.5528(2) 1.1073(2)
+C2 C 0.3004(3) -0.5982(3) 0.9932(2)
+O3 O 0.3802(3) -0.7467(2) 0.9990(2)
+C3 C 0.3092(3) -0.4571(3) 0.8735(2)
+N3 N 0.4094(3) -0.4947(2) 0.7441(2)
+O4 O 0.5825(3) -0.5846(3) 0.7501(2)
+O5 O 0.3166(3) -0.4437(3) 0.6387(2)
+C4 C 0.2239(3) -0.2975(2) 0.8835(2)
+C5 C 0.2572(3) -0.1445(3) 0.7702(2)
+O6 O 0.3790(3) -0.1696(2) 0.6694(2)
+O7 O 0.1635(3) -0.0062(2) 0.7918(2)
+Mn2 Mn 0.50000 0.00000 0.50000
+Cl1 Cl 0.1774(1) 0.1356(1) 0.3786(1)
+O8 O 0.4026(3) 0.1907(3) 0.6154(3)
+O9 O 0.0869(9) 0.4657(7) 0.4935(5)
+H1 H 0.1740(48) -0.6265(43) 1.1790(37)
+H2 H 0.3688(53) -0.1102(46) 1.0817(36)
+H3 H 0.2996(58) 0.0366(54) 1.0913(42)
+H4 H 0.3462(65) 0.1644(55) 0.6857(49)
+H5 H 0.3598(74) 0.2780(67) 0.5836(54)
+H6 H 0.0083(81) 0.5084(68) 0.432(5)
+O1A O -0.2716(3) 0.0422(2) 0.9015(2)
+H2A H -0.3688(53) 0.1102(46) 0.9183(36)
+H3A H -0.2996(58) -0.0366(54) 0.9087(42)
+O6A O 0.6210(3) 0.1696(2) 0.3306(2)
+C5A C 0.7428(3) 0.1445(3) 0.2298(2)
+C4A C 0.7761(3) 0.2975(2) 0.1165(2)
+N1A N 0.8827(3) 0.2638(2) 0.0000(2)
+Mn1A Mn 1.00000 0.00000 0.00000
+O7A O 0.8365(3) 0.0062(2) 0.2082(2)
+C1A C 0.9073(3) 0.3910(3) -0.1148(2)
+O2A O 1.0071(3) 0.3651(2) -0.2222(2)
+N2A N 0.8129(3) 0.5528(2) -0.1073(2)
+C2A C 0.6996(3) 0.5982(3) 0.0068(2)
+O3A O 0.6198(3) 0.7467(2) 0.0010(2)
+C3A C 0.6908(3) 0.4571(3) 0.1265(2)
+N3A N 0.5906(3) 0.4947(2) 0.2559(2)
+O4A O 0.4175(3) 0.5846(3) 0.2499(2)
+O5A O 0.6834(3) 0.4437(3) 0.3613(2)
+H1A H 0.8260(48) 0.6265(43) -0.1790(37)
+Cl1A Cl 0.8226(1) -0.1356(1) 0.6214(1)
+O8A O 0.5974(3) -0.1907(3) 0.3846(3)
+H4A H 0.6538(65) -0.1644(55) 0.3143(49)
+H5A H 0.6402(74) -0.2780(67) 0.4164(54)
+N1A* N -0.1173(3) 0.2638(2) 1.0000(2)
+O7A* O -0.1635(3) 0.0062(2) 1.2082(2)
+O9A O -0.0869(9) 0.5343(7) 0.5065(5)
+H6A H -0.0083(81) 0.4916(68) 0.568(5)
+#END

@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CICBOF
+_audit_creation_date 1985-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CICBOF
+_database_code_depnum_ccdc_archive 'CCDC 1124748'
+_chemical_formula_sum 'C12 H12 K6 Nd2 O30'
+_chemical_formula_moiety
+;
+(C12 H4 Nd2 O26 6-)n,6n(K1 1+),4n(H2 O1)
+;
+_journal_coden_Cambridge 155
+_journal_volume 82
+_journal_year 1984
+_journal_page_first 161
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"I.A.Kahwa"
+"F.R.Fronczek"
+"J.Selbin"
+_chemical_name_systematic
+;
+catena-[Hexa-potassium 
+bis(\m~2~-oxalato)-tetrakis(oxalato)-diaqua-di-neodymium(iii) tetrahydrate]
+;
+_cell_volume    772.021
+_exptl_crystal_colour 'pale lavender'
+_exptl_crystal_density_diffrn 2.493
+_exptl_special_details
+;
+Isomorphous with Sm,Eu,Gd and Tb analogues
+Bond distance C4-O1 for ligand 3 in Table III should read C4-O10
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.036
+_refine_ls_wR_factor_gt 0.036
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.416(2)
+_cell_length_b 8.502(4)
+_cell_length_c 9.799(3)
+_cell_angle_alpha 88.91(3)
+_cell_angle_beta 82.17(3)
+_cell_angle_gamma 96.28(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+K 1.33
+Nd 1.81
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nd1 Nd 0.35566 0.22705 0.22081
+O1 O 0.45560 0.49030 0.30670
+O2 O -0.09610 0.02960 0.17600
+O3 O -0.01020 -0.14960 0.37340
+O4 O 0.73020 0.31470 0.43590
+O5 O 0.58160 0.34990 0.07110
+O6 O 0.66610 0.60710 0.35190
+O7 O 0.68200 0.54980 -0.06900
+O8 O 0.19510 0.33320 0.42420
+O9 O 0.50670 0.00650 0.17710
+O10 O 0.63550 -0.12150 0.01530
+O11 O 0.10710 0.19280 0.16890
+C1 C 0.57660 0.47130 0.00090
+O12 O 0.20540 -0.00280 0.34140
+O13 O 0.51190 0.21180 0.39960
+C2 C 0.54100 -0.03290 0.05500
+C3 C 0.02230 0.06990 0.21250
+C4 C 0.07690 -0.03680 0.32080
+C5 C 0.61150 0.32500 0.40060
+C6 C 0.57670 0.49150 0.34970
+H1 H 0.11330 0.27730 0.47070
+H2 H 0.22850 0.35940 0.50000
+K1 K 0.14140 0.28850 0.88730
+K2 K 0.31720 0.04580 0.61330
+K3 K 0.78230 0.34250 0.70100
+O14 O 0.96410 0.47140 0.24350
+H3 H 1.00000 0.38870 0.19340
+H4 H 0.88480 0.44340 0.30470
+O15 O 0.84260 0.22400 0.95970
+H5 H 0.85550 0.13870 1.02730
+H6 H 0.76950 0.27730 1.00000
+C1A C 0.42340 0.52870 -0.00090
+O5A O 0.41840 0.65010 -0.07110
+O7A O 0.31800 0.45020 0.06900
+C2A C 0.45900 0.03290 -0.05500
+O9A O 0.49330 -0.00650 -0.17710
+O10A O 0.36450 0.12150 -0.01530
+Nd1A Nd 0.64434 0.77295 -0.22081
+O1A O 0.54440 0.50970 -0.30670
+O4A O 0.26980 0.68530 -0.43590
+O6A O 0.33390 0.39290 -0.35190
+O13A O 0.48810 0.78820 -0.39960
+C5A C 0.38850 0.67500 -0.40060
+C6A C 0.42330 0.50850 -0.34970
+O8A O 0.80490 0.66680 -0.42420
+H1A H 0.88670 0.72270 -0.47070
+H2A H 0.77150 0.64060 -0.50000
+O2A O 1.09610 0.97040 -0.17600
+O3A O 1.01020 1.14960 -0.37340
+O11A O 0.89290 0.80720 -0.16890
+O12A O 0.79460 1.00280 -0.34140
+C3A C 0.97770 0.93010 -0.21250
+C4A C 0.92310 1.03680 -0.32080
+Nd1A* Nd 0.64434 -0.22705 -0.22081
+O9A* O 0.49330 0.99350 -0.17710
+O10* O 0.63550 0.87850 0.01530
+#END

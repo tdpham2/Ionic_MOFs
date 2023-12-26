@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XUBLEM
+_audit_creation_date 2010-05-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XUBLEM
+_database_code_depnum_ccdc_archive 'CCDC 738058'
+_chemical_formula_sum 'C18 H30 Br4 Mn2 N4 O6'
+_chemical_formula_moiety
+;
+(C6 H18 N2 2+)n,2n(C6 H6 Br2 Mn1 N1 O3 1-)
+;
+_journal_coeditor_code "IUCr CS2117"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first m621
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"N.-H.Kim"
+"I.-C.Hwang"
+"K.Ha"
+_chemical_name_systematic
+;
+catena-((Hexane-1,6-diammonium) 
+(\m~2~-pyridine-2-carboxylato-N,O,O')-aqua-dibromido-manganese(ii))
+;
+_cell_volume   2843.987
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.934
+_exptl_crystal_description 'stick'
+_exptl_crystal_preparation 'acetonitrile'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0307
+_refine_ls_wR_factor_gt 0.0307
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.490(3)
+_cell_length_b 21.510(5)
+_cell_length_c 9.803(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.125(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.32935(6) 0.06982(4) 0.41356(8)
+Br1 Br 0.34335(4) 0.15379(3) 0.21825(6)
+Br2 Br 0.13026(5) 0.06928(3) 0.40001(8)
+O1 O 0.3336(3) 0.01771(15) 0.6076(4)
+O2 O 0.3331(3) 0.02393(17) 0.8343(4)
+O3 O 0.4928(3) 0.06506(18) 0.4217(5)
+H1 H 0.53580 0.09830 0.38650
+H2 H 0.53940 0.04080 0.43760
+N1 N 0.3431(3) 0.14114(19) 0.5834(4)
+C1 C 0.3514(4) 0.2031(2) 0.5714(6)
+H3 H 0.34880 0.22030 0.48440
+C2 C 0.3634(5) 0.2422(3) 0.6809(7)
+H4 H 0.36670 0.28500 0.66870
+C3 C 0.3702(5) 0.2168(3) 0.8077(7)
+H5 H 0.38000 0.24220 0.88360
+C4 C 0.3625(5) 0.1532(3) 0.8234(6)
+H6 H 0.36670 0.13510 0.90950
+C5 C 0.3488(4) 0.1175(2) 0.7091(5)
+C6 C 0.3378(4) 0.0470(3) 0.7180(6)
+N2 N 0.1654(3) 0.06720(19) 1.0558(5)
+H7 H 0.22320 0.06220 1.01510
+H8 H 0.12620 0.03500 1.03660
+H9 H 0.17540 0.06960 1.14570
+C7 C 0.1177(3) 0.12511(19) 1.0062(5)
+H10 H 0.16540 0.15880 1.01220
+H11 H 0.06300 0.13530 1.06500
+C8 C 0.0796(5) 0.1202(3) 0.8624(7)
+H12 H 0.03990 0.08280 0.85250
+H13 H 0.13510 0.11690 0.80130
+C9 C 0.0174(5) 0.1762(3) 0.8230(7)
+H14 H -0.04000 0.17770 0.88100
+H15 H 0.05600 0.21360 0.84000
+Mn1E Mn 0.32935(6) -0.06982(4) 0.91356(8)
+O2E O 0.3331(3) -0.02393(17) 0.3343(4)
+N2A N -0.1654(3) 0.06720(19) 0.4442(5)
+H7A H -0.22320 0.06220 0.48490
+H8A H -0.12620 0.03500 0.46340
+H9A H -0.17540 0.06960 0.35430
+C7A C -0.1177(3) 0.12511(19) 0.4938(5)
+H10A H -0.16540 0.15880 0.48780
+H11A H -0.06300 0.13530 0.43500
+C8A C -0.0796(5) 0.1202(3) 0.6376(7)
+H12A H -0.03990 0.08280 0.64750
+H13A H -0.13510 0.11690 0.69870
+C9A C -0.0174(5) 0.1762(3) 0.6770(7)
+H14A H 0.04000 0.17770 0.61900
+H15A H -0.05600 0.21360 0.66000
+#END

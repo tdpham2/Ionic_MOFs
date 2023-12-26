@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EQICAK05
+_audit_creation_date 2015-08-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EQICAK05
+_database_code_depnum_ccdc_archive 'CCDC 1419263'
+_chemical_formula_sum 'C24 H16 Cl4 Fe2 O8 S16'
+_chemical_formula_moiety
+;
+2(C10 H8 S8 1+),(C4 Cl4 Fe2 O8 2-)n
+;
+_journal_coden_Cambridge 1078
+_journal_year 2015
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Bin Zhang"
+_chemical_name_systematic
+;
+catena-[bis(2-(5,6-dihydro[1,3]dithiolo[4,5-b][1,4]dithiin-2-ylidene)-5,6-dihy
+dro[1,3]dithiolo[4,5-b][1,4]dithiinium) bis(\m-oxalato)-tetrachloro-di-iron]
+;
+_cell_volume    993.184
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.004
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0553
+_refine_ls_wR_factor_gt 0.0553
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.8607(10)
+_cell_length_b 11.3921(14)
+_cell_length_c 11.4383(16)
+_cell_angle_alpha 112.092(12)
+_cell_angle_beta 103.772(11)
+_cell_angle_gamma 100.077(10)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.67689(10) 0.37482(7) 0.35403(8)
+Cl1 Cl 0.71032(16) 0.17126(11) 0.30173(12)
+Cl2 Cl 0.52285(16) 0.33727(12) 0.14826(12)
+O1 O 0.6481(4) 0.5660(3) 0.4470(3)
+O2 O 0.8466(4) 0.4396(3) 0.5510(3)
+O3 O 1.1139(4) 0.5322(3) 0.6613(3)
+O4 O 0.5051(4) 0.6655(3) 0.5705(3)
+C1 C 0.5453(6) 0.5668(5) 0.5052(5)
+C2 C 0.9878(6) 0.4920(5) 0.5613(5)
+S1 S 0.65438(14) 0.05365(11) -0.07972(11)
+S2 S 0.94147(15) 0.28435(11) 0.05172(12)
+S3 S 0.82420(15) -0.08138(11) 0.09103(11)
+S4 S 1.11110(15) 0.15167(11) 0.23211(11)
+S5 S 0.46010(15) 0.16100(11) -0.24006(12)
+S6 S 0.80687(19) 0.43646(15) -0.08341(19)
+S7 S 0.92751(16) -0.21990(12) 0.24979(14)
+S8 S 1.27356(16) 0.06248(12) 0.42667(12)
+C3 C 0.8485(6) 0.1295(4) 0.0324(5)
+C4 C 0.9239(6) 0.0711(5) 0.1077(5)
+C5 C 0.6432(6) 0.1826(4) -0.1254(5)
+C6 C 0.7793(6) 0.2896(5) -0.0635(5)
+C7 C 0.9709(6) -0.0769(5) 0.2253(5)
+C8 C 1.1048(6) 0.0308(5) 0.2908(5)
+C9 C 0.4788(6) 0.3299(5) -0.2169(5)
+H1 H 0.38620 0.32970 -0.28550
+H2 H 0.47160 0.38220 -0.12810
+C10 C 0.6346(6) 0.3968(5) -0.2261(5)
+H3 H 0.62560 0.47930 -0.23370
+H4 H 0.65150 0.33790 -0.30800
+C11 C 1.0763(6) -0.1666(5) 0.4122(5)
+H5 H 1.04340 -0.10370 0.48130
+H6 H 1.07830 -0.24430 0.43110
+C12 C 1.2447(6) -0.1008(5) 0.4216(5)
+H7 H 1.26980 -0.15850 0.34360
+H8 H 1.32360 -0.09380 0.50320
+O1A O 0.3519(4) 0.4340(3) 0.5530(3)
+C1A C 0.4547(6) 0.4332(5) 0.4948(5)
+O4A O 0.4949(4) 0.3345(3) 0.4295(3)
+O2A O 1.1534(4) 0.5604(3) 0.4490(3)
+C2A C 1.0122(6) 0.5080(5) 0.4387(5)
+O3A O 0.8861(4) 0.4678(3) 0.3387(3)
+Fe1A Fe 0.32311(10) 0.62518(7) 0.64597(8)
+Cl1A Cl 0.28968(16) 0.82874(11) 0.69827(12)
+Cl2A Cl 0.47715(16) 0.66273(12) 0.85174(12)
+Fe1A* Fe 1.32311(10) 0.62518(7) 0.64597(8)
+O2A* O 0.1534(4) 0.5604(3) 0.4490(3)
+O3* O 0.1139(4) 0.5322(3) 0.6613(3)
+#END

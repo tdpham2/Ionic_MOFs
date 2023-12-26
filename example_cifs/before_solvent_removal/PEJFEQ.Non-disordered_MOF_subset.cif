@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PEJFEQ
+_audit_creation_date 2006-10-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEJFEQ
+_database_code_depnum_ccdc_archive 'CCDC 294815'
+_chemical_formula_sum 'C4 H14 Ga4 N2 O22 P4'
+_chemical_formula_moiety
+;
+(C2 H10 N2 2+)n,n(C2 Ga4 O20 P4 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 208
+_journal_volume 179
+_journal_year 2006
+_journal_page_first 1931
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"Zhenxia Chen"
+"Songliang Tan"
+"Linhong Weng"
+"Yaming Zhou"
+"Xiang Gao"
+"Dongyuan Zhao"
+_chemical_name_systematic
+;
+catena-[Ethane-1,2-diammonium 
+tetrakis(\m~4~-phosphato)-(\m~2~-oxalato)-tetra-gallium(iii) dihydrate]
+;
+_cell_volume    484.144
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.898
+_exptl_crystal_description 'columnar'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0307
+_refine_ls_wR_factor_gt 0.0307
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.973(2)
+_cell_length_b 8.423(2)
+_cell_length_c 8.834(2)
+_cell_angle_alpha 116.834(2)
+_cell_angle_beta 100.992(3)
+_cell_angle_gamma 103.428(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ga 1.22
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga1 Ga 0.67761(6) 0.27979(6) 0.31353(6)
+Ga2 Ga 0.23079(6) 0.46236(6) 0.00653(6)
+P1 P 0.45955(14) 0.19027(15) -0.08776(14)
+P2 P 0.96110(14) 0.50767(15) 0.73468(14)
+C1 C 0.5585(6) 0.5827(6) 0.4961(6)
+O1 O 0.6735(4) 0.5544(4) 0.4195(4)
+O2 O 0.5271(4) 0.7352(4) 0.5716(4)
+O3 O 0.4948(4) 0.2120(4) 0.0959(4)
+O4 O 0.3686(4) -0.0167(4) -0.2426(4)
+O5 O 0.3297(4) 0.2935(4) -0.1150(4)
+O6 O 0.6363(4) 0.2830(4) -0.1123(4)
+O7 O 1.0252(4) 0.3992(4) 0.8245(4)
+O8 O 0.8306(4) 0.5917(4) 0.8281(4)
+O9 O 0.8551(4) 0.3563(4) 0.5393(4)
+O10 O 1.1221(4) 0.6714(4) 0.7699(4)
+C2 C 0.9422(7) 0.9491(7) 0.5333(8)
+H1 H 0.89220 0.81330 0.44470
+H2 H 1.01870 0.96810 0.64400
+N1 N 0.7921(6) 1.0144(6) 0.5670(6)
+H3 H 0.72750 0.94990 0.60650
+H4 H 0.71980 0.99480 0.46520
+H5 H 0.83720 1.13850 0.65000
+O11 O 0.8830(13) 0.0063(11) 0.8905(11)
+Ga1A Ga 0.32239(6) 0.72021(6) 0.68647(6)
+Ga1A* Ga 0.32239(6) -0.27979(6) -0.31353(6)
+Ga1A** Ga 1.32239(6) 0.72021(6) 0.68647(6)
+Ga2A Ga 0.76921(6) -0.46236(6) -0.00653(6)
+Ga2A* Ga 0.76921(6) 0.53764(6) -0.00653(6)
+Ga2* Ga 1.23079(6) 0.46236(6) 1.00653(6)
+Ga2A** Ga 0.76921(6) 0.53764(6) 0.99347(6)
+Ga2** Ga 0.23079(6) -0.53764(6) 0.00653(6)
+Ga2*** Ga 1.23079(6) 0.46236(6) 0.00653(6)
+P1A P 0.54045(14) -0.19027(15) 0.08776(14)
+P2A P 1.03890(14) 0.49233(15) 0.26532(14)
+C1A C 0.4415(6) 0.4173(6) 0.5039(6)
+O1A O 0.3265(4) 0.4456(4) 0.5805(4)
+O2A O 0.4729(4) 0.2648(4) 0.4284(4)
+O3A O 0.5052(4) -0.2120(4) -0.0959(4)
+O3A* O 0.5052(4) 0.7880(4) 0.9041(4)
+O4A O 0.6314(4) 0.0167(4) 0.2426(4)
+O4* O 0.3686(4) 0.9833(4) 0.7574(4)
+O5A O 0.6703(4) -0.2935(4) 0.1150(4)
+O6A O 0.3637(4) -0.2830(4) 0.1123(4)
+O6A* O 0.3637(4) 0.7170(4) 0.1123(4)
+O6* O 0.6363(4) -0.7170(4) -0.1123(4)
+O7A O 0.9748(4) 0.6008(4) 0.1755(4)
+O7* O 0.0252(4) 0.3992(4) -0.1755(4)
+O7A* O 0.9748(4) -0.3992(4) 0.1755(4)
+O8A O 1.1694(4) 0.4083(4) 0.1719(4)
+O8A* O 0.1694(4) 0.4083(4) 0.1719(4)
+O8* O 0.8306(4) -0.4083(4) -0.1719(4)
+O9A O 1.1449(4) 0.6437(4) 0.4607(4)
+O9A* O 0.1449(4) 0.6437(4) 0.4607(4)
+O10A O 0.8779(4) 0.3286(4) 0.2301(4)
+O10* O 0.1221(4) 0.6714(4) 0.7699(4)
+C2A C 1.0578(7) 1.0509(7) 0.4667(8)
+H1A H 1.10780 1.18670 0.55530
+H2A H 0.98130 1.03190 0.35600
+N1A N 1.2079(6) 0.9856(6) 0.4330(6)
+H3A H 1.27250 1.05010 0.39350
+H4A H 1.28020 1.00520 0.53480
+H5A H 1.16280 0.86150 0.35000
+#END

@@ -1,0 +1,223 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SACHOV
+_audit_creation_date 2010-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SACHOV
+_database_code_depnum_ccdc_archive 'CCDC 745895'
+_chemical_formula_sum 'C36 H40 Cl14 Eu2 Hg6 N6 O20 Zn1'
+_chemical_formula_moiety
+;
+(H4 O2 Zn1 2+)n,n(C36 H32 Cl10 Eu2 Hg4 N6 O16 2-),2n(Cl2 Hg1),2n(H2 O1)
+;
+_journal_coden_Cambridge 423
+_journal_year 2009
+_journal_page_first 705
+_journal_name_full 'J.Chem.Res. '
+loop_
+_publ_author_name
+"Wentong Chen"
+"Shaoming Ying"
+"Dongsheng Liu"
+"Juihui Liu"
+_chemical_name_systematic
+;
+catena-[Diaqua-zinc(ii) 
+tetrakis(\m~3~-pyridine-4-carboxylato-N,O,O')-tetrakis(\m~2~-chloro)-bis(\m~2~
+-pyridine-4-carboxylato-O,O')-tetra-aqua-hexachloro-di-europium(iii)-tetra-mer
+cury(ii) bis(dichloro-mercury(ii)) dihydrate]
+;
+_chemical_name_common
+;
+catena-[Diaqua-zinc(ii) 
+tetrakis(mu!3$-isonicotinato-N,O,O')-tetrakis(mu!2$-chloro)-bis(mu!2$-isonicot
+inato-O,O')-tetra-aqua-hexachloro-di-europium(iii)-tetra-mercury(ii) 
+bis(dichloro-mercury(ii)) dihydrate]
+;
+_cell_volume   7200.210
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.718
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The four-coordinate mercury atom is disordered over two sites with 
+occupancies 0.70:.30. A terminal chloro ligand is modelled with occupancies 
+0.75:0.25. The zinc cation is disordered over three sites with occupancies 
+0.90:0.05:0.05.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0817
+_refine_ls_wR_factor_gt 0.0817
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 34.165(4)
+_cell_length_b 9.4692(8)
+_cell_length_c 24.575(3)
+_cell_angle_alpha 90
+_cell_angle_beta 115.090(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Eu 1.98
+Hg 1.49
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Hg1 Hg 0.282901(6) 0.52998(3) 0.839936(9)
+Cl1 Cl 0.22072(4) 0.52752(15) 0.85353(6)
+Cl2 Cl 0.34758(4) 0.52828(14) 0.83353(6)
+Hg2 Hg -0.223870(5) 0.48595(2) 0.329656(8)
+Hg3 Hg -0.140696(10) 0.46039(4) 0.486880(15)
+Eu1 Eu 0.00000 0.71484(6) 0.25000
+Eu2 Eu 0.00000 1.18460(6) 0.25000
+Cl3 Cl -0.17851(4) 0.67063(16) 0.42503(6)
+Cl4 Cl -0.19240(4) 0.26890(15) 0.41970(6)
+Cl5 Cl -0.24956(3) 0.72493(13) 0.25146(5)
+Cl6 Cl -0.06991(5) 0.4259(2) 0.48297(10)
+Cl7 Cl -0.15077(6) 0.4171(3) 0.57506(9)
+N1 N 0.06513(14) 0.9087(5) 0.0248(2)
+N2 N -0.1677(1) 0.4747(4) 0.31407(16)
+N3 N 0.21338(10) 0.9760(4) 0.32904(15)
+O1 O 0.00152(9) 0.8306(4) 0.16651(14)
+O2 O 0.01675(8) 1.0666(3) 0.17833(14)
+O3 O -0.03656(10) 0.5568(4) 0.28051(15)
+O4 O -0.04944(9) 0.3310(4) 0.25980(13)
+O5 O 0.06579(8) 0.8306(4) 0.28637(15)
+O6 O 0.06242(8) 1.0600(3) 0.30288(13)
+C1 C 0.03866(13) 0.8017(6) 0.08876(19)
+H1 H 0.03180 0.71990 0.10380
+C2 C 0.0560(2) 0.7979(8) 0.0501(3)
+H2 H 0.06240 0.70940 0.03970
+C3 C 0.05678(18) 1.0415(7) 0.0427(3)
+H3 H 0.06170 1.12230 0.02500
+C4 C 0.04148(14) 1.0550(5) 0.0856(2)
+H4 H 0.03850 1.14350 0.09990
+C5 C 0.03110(12) 0.9398(5) 0.10627(17)
+C6 C 0.01382(13) 0.9443(5) 0.1530(2)
+C7 C -0.11344(13) 0.5844(5) 0.29419(19)
+H5 H -0.10100 0.66690 0.28830
+C8 C -0.14851(12) 0.5933(5) 0.30520(18)
+H6 H -0.15990 0.68150 0.30680
+C9 C -0.14906(12) 0.3464(5) 0.31452(18)
+H7 H -0.16020 0.26500 0.32390
+C10 C -0.11295(11) 0.3375(5) 0.30079(17)
+H8 H -0.10170 0.24960 0.29840
+C11 C -0.09496(11) 0.4538(4) 0.29132(16)
+C12 C -0.05804(12) 0.4510(5) 0.27634(18)
+C13 C 0.15445(12) 0.8405(6) 0.32319(19)
+H9 H 0.14300 0.75230 0.32480
+C14 C 0.19561(11) 0.8483(5) 0.32966(17)
+H10 H 0.21180 0.76630 0.33450
+C15 C 0.19123(12) 1.0957(5) 0.32597(17)
+H11 H 0.20510 1.18230 0.33040
+C16 C 0.14696(12) 1.0927(5) 0.31604(18)
+H12 H 0.13090 1.17490 0.31090
+C17 C 0.12879(11) 0.9574(4) 0.31438(16)
+C18 C 0.08169(12) 0.9484(5) 0.30127(18)
+O7 O 0.05017(10) 0.5978(4) 0.34323(15)
+H13 H 0.04450 0.51330 0.34140
+O8 O 0.03661(9) 1.3027(4) 0.34636(13)
+H14 H 0.03930 1.38690 0.34080
+Zn1 Zn 0.25000 0.75000 0.50000
+O9 O 0.22023(13) 0.9694(4) 0.47513(18)
+O10 O -0.00545(18) 1.4082(7) 0.4196(3)
+O11 O 0.1028(2) 0.8358(9) -0.0539(3)
+Hg4? Hg -0.12912(2) 0.40537(10) 0.49820(3)
+Zn2? Zn 0.2614(4) 1.0834(15) 0.4898(5)
+Cl8? Cl -0.14524(12) 0.5069(4) 0.57721(17)
+Hg2B Hg 0.223870(5) 0.48595(2) 0.170344(8)
+Hg2A Hg 0.276130(5) 0.98595(2) 0.329656(8)
+Hg2C Hg -0.276130(5) 0.98595(2) 0.170344(8)
+Hg3B Hg 0.140696(10) 0.46039(4) 0.013120(15)
+Eu2* Eu 0.00000 0.18460(6) 0.25000
+Cl3B Cl 0.17851(4) 0.67063(16) 0.07497(6)
+Cl4B Cl 0.19240(4) 0.26890(15) 0.08030(6)
+Cl5B Cl 0.24956(3) 0.72493(13) 0.24854(5)
+Cl6B Cl 0.06991(5) 0.4259(2) 0.01703(10)
+Cl7B Cl 0.15077(6) 0.4171(3) -0.07506(9)
+N1B N -0.06513(14) 0.9087(5) 0.4752(2)
+N2B N 0.1677(1) 0.4747(4) 0.18593(16)
+N3B N -0.21338(10) 0.9760(4) 0.17096(15)
+N3A N -0.28662(10) 0.4760(4) 0.32904(15)
+N3C N 0.28662(10) 0.4760(4) 0.17096(15)
+O1B O -0.00152(9) 0.8306(4) 0.33349(14)
+O2B O -0.01675(8) 1.0666(3) 0.32167(14)
+O3B O 0.03656(10) 0.5568(4) 0.21949(15)
+O4B O 0.04944(9) 0.3310(4) 0.24020(13)
+O4* O -0.04944(9) 1.3310(4) 0.25980(13)
+O4B* O 0.04944(9) 1.3310(4) 0.24020(13)
+O5B O -0.06579(8) 0.8306(4) 0.21363(15)
+O6B O -0.06242(8) 1.0600(3) 0.19712(13)
+C1B C -0.03866(13) 0.8017(6) 0.41124(19)
+H1B H -0.03180 0.71990 0.39620
+C2B C -0.0560(2) 0.7979(8) 0.4499(3)
+H2B H -0.06240 0.70940 0.46030
+C3B C -0.05678(18) 1.0415(7) 0.4573(3)
+H3B H -0.06170 1.12230 0.47500
+C4B C -0.04148(14) 1.0550(5) 0.4144(2)
+H4B H -0.03850 1.14350 0.40010
+C5B C -0.03110(12) 0.9398(5) 0.39373(17)
+C6B C -0.01382(13) 0.9443(5) 0.3470(2)
+C7B C 0.11344(13) 0.5844(5) 0.20581(19)
+H5B H 0.10100 0.66690 0.21170
+C8B C 0.14851(12) 0.5933(5) 0.19480(18)
+H6B H 0.15990 0.68150 0.19320
+C9B C 0.14906(12) 0.3464(5) 0.18548(18)
+H7B H 0.16020 0.26500 0.17610
+C10B C 0.11295(11) 0.3375(5) 0.19921(17)
+H8B H 0.10170 0.24960 0.20160
+C11B C 0.09496(11) 0.4538(4) 0.20868(16)
+C12B C 0.05804(12) 0.4510(5) 0.22366(18)
+C13B C -0.15445(12) 0.8405(6) 0.17681(19)
+H9B H -0.14300 0.75230 0.17520
+C14B C -0.19561(11) 0.8483(5) 0.17034(17)
+H10B H -0.21180 0.76630 0.16550
+C15B C -0.19123(12) 1.0957(5) 0.17403(17)
+H11B H -0.20510 1.18230 0.16960
+C16B C -0.14696(12) 1.0927(5) 0.18396(18)
+H12B H -0.13090 1.17490 0.18910
+C17B C -0.12879(11) 0.9574(4) 0.18562(16)
+C18B C -0.08169(12) 0.9484(5) 0.19873(18)
+O7B O -0.05017(10) 0.5978(4) 0.15677(15)
+H13B H -0.04450 0.51330 0.15860
+O8B O -0.03661(9) 1.3027(4) 0.15364(13)
+H14B H -0.03930 1.38690 0.15920
+O9E O 0.27977(13) 0.5306(4) 0.52487(18)
+#END

@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HAJWOH01
+_audit_creation_date 2016-12-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HAJWOH01
+_database_code_depnum_ccdc_archive 'CCDC 1474539'
+_chemical_formula_sum 'C4 H9 N2 O8 Yb1'
+_chemical_formula_moiety
+;
+(C4 H4 O8 Yb1 1-)n,H5 N2 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 10075
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Tian-Meng Zhao"
+"Sa Chen"
+"Ran Shang"
+"Bing-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[hydrazinium tetrakis(\m-formato)-ytterbium]
+;
+_cell_volume    897.773
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.857
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 290
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0171
+_refine_ls_wR_factor_gt 0.0171
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,-y,z
+4 1/2-x,y,1/2+z
+_cell_length_a 18.2137(4)
+_cell_length_b 6.5437(2)
+_cell_length_c 7.5326(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Yb 1.87
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Yb1 Yb 0.397871(6) 0.793262(19) 0.26610(4)
+O1 O 0.42718(16) 0.5948(4) 0.5236(4)
+O2 O 0.49503(15) 0.3947(5) 0.6943(4)
+O3 O 0.32153(18) 0.8780(6) 0.4880(4)
+O4 O 0.21828(18) 0.8010(5) 0.6237(6)
+O5 O 0.34877(14) 0.4676(4) 0.2194(4)
+O6 O 0.37436(19) 0.1388(5) 0.1929(4)
+O7 O 0.48881(16) 0.9718(5) 0.4087(4)
+O8 O 0.58370(19) 1.1756(5) 0.4622(4)
+C1 C 0.4873(2) 0.5230(7) 0.5746(5)
+H1 H 0.52950 0.56960 0.51820
+C2 C 0.2637(2) 0.9170(7) 0.5632(6)
+H2 H 0.25300 1.05520 0.57560
+C3 C 0.3627(2) 0.2923(5) 0.2802(14)
+H3 H 0.36420 0.27890 0.40310
+C4 C 0.5425(2) 1.0762(6) 0.3618(5)
+H4 H 0.55280 1.08060 0.24100
+N1 N 0.31986(17) 0.5264(6) 0.7849(7)
+H5 H 0.32840 0.59640 0.88410
+H6 H 0.27300 0.54090 0.75380
+H7 H 0.34860 0.57340 0.69850
+N2 N 0.3353(3) 0.3147(7) 0.8146(6)
+H8 H 0.3805(16) 0.287(4) 0.776(8)
+H9 H 0.332(4) 0.288(3) 0.930(2)
+Yb1* Yb 0.397871(6) -0.206738(19) 0.26610(4)
+Yb1A Yb 0.602129(6) 0.206738(19) 0.76610(4)
+Yb1A* Yb 0.602129(6) 1.206738(19) 0.76610(4)
+Yb1C Yb 0.102129(6) 0.793262(19) 0.76610(4)
+O2A O 0.50497(15) 0.6053(5) 0.1943(4)
+O4C O 0.28172(18) 0.8010(5) 0.1237(6)
+O6* O 0.37436(19) 1.1388(5) 0.1929(4)
+O8A O 0.41630(19) 0.8244(5) -0.0378(4)
+#END

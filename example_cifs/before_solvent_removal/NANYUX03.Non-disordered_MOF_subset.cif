@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NANYUX03
+_audit_creation_date 2015-09-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NANYUX03
+_database_code_depnum_ccdc_archive 'CCDC 1423787'
+_chemical_formula_sum 'C14 H18 N2 O7 Zn1'
+_chemical_formula_moiety
+;
+(C9 H3 O6 Zn1 1-)n,n(C3 H7 N1 O1),n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 14
+_journal_year 2014
+_journal_page_first 5452
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"C.Ordonez"
+"M.Fonari"
+"J.Lindline"
+"Qiang Wei"
+"T.Timofeeva"
+_chemical_name_systematic
+;
+catena-[dimethylammonium (\m-benzene-1,3,5-tricarboxylato)-zinc 
+N,N-dimethylformamide solvate]
+;
+_cell_volume   1738.132
+_exptl_crystal_density_diffrn 1.497
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0279
+_refine_ls_wR_factor_gt 0.0279
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.4299(13)
+_cell_length_b 16.490(2)
+_cell_length_c 11.2803(15)
+_cell_angle_alpha 90
+_cell_angle_beta 97.731(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.366629(19) 0.077543(11) 1.049117(17)
+O1 O 0.70782(12) 0.42033(7) 0.64209(11)
+O2 O 0.42611(13) 0.16307(8) 0.94959(12)
+O3 O 0.19357(14) 0.19128(9) 0.91002(13)
+O4 O 0.76876(13) 0.29717(8) 0.71263(12)
+O5 O 0.04506(12) 0.43598(7) 0.66162(11)
+O6 O 0.19979(13) 0.47992(8) 0.54118(11)
+C1 C 0.31931(19) 0.20450(11) 0.89944(16)
+C2 C 0.35723(18) 0.27321(11) 0.82068(16)
+C3 C 0.49738(18) 0.28345(11) 0.79720(15)
+H1 H 0.56900 0.24920 0.83300
+C4 C 0.53114(18) 0.34459(10) 0.72043(15)
+C5 C 0.42349(18) 0.39558(10) 0.66719(15)
+H2 H 0.44550 0.43660 0.61610
+C6 C 0.28256(17) 0.38561(10) 0.68989(15)
+C7 C 0.25010(18) 0.32461(11) 0.76714(15)
+H3 H 0.15650 0.31810 0.78310
+C8 C 0.68085(18) 0.35312(10) 0.69043(15)
+C9 C 0.16661(18) 0.4382(1) 0.62652(15)
+O7 O 0.69192(18) 1.02475(10) 0.56168(15)
+N1 N 0.62393(19) 0.90088(11) 0.48731(16)
+C10 C 0.6433(2) 0.95580(14) 0.5732(2)
+H4 H 0.61880 0.94170 0.64770
+C11 C 0.5581(3) 0.82308(14) 0.5062(2)
+H5 H 0.54980 0.81670 0.58960
+H6 H 0.61630 0.78030 0.48110
+H7 H 0.46460 0.82090 0.46040
+C12 C 0.6508(3) 0.91943(15) 0.3666(2)
+H8 H 0.56180 0.92040 0.31420
+H9 H 0.71210 0.87870 0.34010
+H10 H 0.69640 0.97150 0.36580
+N2 N 0.16527(19) 0.86300(11) 0.29074(16)
+H11 H 0.22890 0.89660 0.33210
+H12 H 0.20020 0.81220 0.29970
+C13 C 0.0290(3) 0.86732(17) 0.3409(2)
+H13 H -0.00430 0.92240 0.33850
+H14 H 0.04330 0.84870 0.42220
+H15 H -0.04090 0.83370 0.29450
+C14 C 0.1493(3) 0.88506(14) 0.1633(2)
+H16 H 0.07830 0.85100 0.11930
+H17 H 0.23920 0.87790 0.13350
+H18 H 0.12010 0.94070 0.15400
+Zn1A Zn 0.133371(19) 0.577543(11) 0.450883(17)
+Zn1C Zn -0.133371(19) 0.422457(11) 0.549117(17)
+Zn1C* Zn 0.866629(19) 0.422457(11) 0.549117(17)
+O1C O 0.20782(12) 0.07967(7) 1.14209(11)
+O5C O 0.54506(12) 0.06402(7) 1.16162(11)
+O6A O 0.30021(13) -0.02008(8) 0.95882(11)
+#END

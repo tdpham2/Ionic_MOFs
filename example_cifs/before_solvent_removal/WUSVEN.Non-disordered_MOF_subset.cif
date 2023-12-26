@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WUSVEN
+_audit_creation_date 2015-10-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WUSVEN
+_database_code_depnum_ccdc_archive 'CCDC 1428595'
+_chemical_formula_sum 'C20 H34 Cd2 Cl4 N6 O10'
+_chemical_formula_moiety
+;
+2(C8 H15 N3 2+),(C4 Cd2 Cl4 O8 4-)n,2(H2 O1)
+;
+_journal_coeditor_code "ku3167"
+_journal_coden_Cambridge 1777
+_journal_volume 71
+_journal_year 2015
+_journal_page_first 979
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Chem. '
+loop_
+_publ_author_name
+"X.-L.Hou"
+"H.-T.Wang"
+_chemical_name_systematic
+;
+catena-(bis(1-(cyanomethyl)-1,4-diazoniabicyclo[2.2.2]octane) 
+bis(\m-oxalato)-tetrachloro-di-cadmium dihydrate)
+;
+_cell_volume   1539.536
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.909
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0541
+_refine_ls_wR_factor_gt 0.0541
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.4937(17)
+_cell_length_b 8.2364(16)
+_cell_length_c 22.015(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.57(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+Cl 0.99
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.24393(5) -0.02846(6) 0.40479(2)
+Cl1 Cl 0.2663(2) -0.2561(3) 0.33064(9)
+Cl2 Cl 0.1598(3) 0.2020(3) 0.33618(10)
+O1 O 0.6200(6) 0.1686(6) 0.5128(2)
+O2 O 0.4828(5) 0.1000(6) 0.42967(19)
+O3 O -0.0122(6) 0.1356(7) 0.5609(2)
+O4 O 0.1657(6) 0.1219(7) 0.4893(2)
+C1 C 0.0433(7) 0.0731(9) 0.5142(3)
+C2 C 0.5300(7) 0.0788(8) 0.4844(3)
+N1 N 0.3777(7) 0.6397(7) 0.6182(3)
+H1 H 0.431(9) 0.717(10) 0.606(3)
+N2 N 0.2470(5) 0.3892(6) 0.6574(2)
+N3 N 0.3535(10) 0.0014(8) 0.6992(4)
+C3 C 0.4135(11) 0.5004(10) 0.5786(3)
+H2 H 0.52620 0.48120 0.57930
+H3 H 0.37980 0.52440 0.53710
+C4 C 0.3307(10) 0.3528(9) 0.6003(3)
+H4 H 0.40640 0.26630 0.60760
+H5 H 0.25540 0.31640 0.56930
+C5 C 0.2050(9) 0.6692(9) 0.6186(4)
+H6 H 0.16450 0.68700 0.57750
+H7 H 0.18260 0.76480 0.64260
+C6 C 0.1266(8) 0.519(1) 0.6462(5)
+H8 H 0.07860 0.54830 0.68420
+H9 H 0.04450 0.47900 0.61860
+C7 C 0.4386(8) 0.6057(9) 0.6808(3)
+H10 H 0.41220 0.69480 0.70740
+H11 H 0.55240 0.59550 0.68070
+C8 C 0.3672(8) 0.4507(9) 0.7036(3)
+H12 H 0.31710 0.47040 0.74200
+H13 H 0.44890 0.36980 0.71020
+C9 C 0.1602(8) 0.2427(8) 0.6807(3)
+H14 H 0.10850 0.27070 0.71800
+H15 H 0.08000 0.21000 0.65100
+C10 C 0.2695(9) 0.1074(9) 0.6921(3)
+O5 O 0.1737(17) 0.4808(11) 0.4612(5)
+H16 H 0.18920 0.39290 0.44480
+H17 H 0.20230 0.55460 0.43900
+O1B O 0.3800(6) -0.1686(6) 0.4872(2)
+O2B O 0.5172(5) -0.1000(6) 0.57033(19)
+C2B C 0.4700(7) -0.0788(8) 0.5156(3)
+O3B O 0.0122(6) -0.1356(7) 0.4391(2)
+O4B O -0.1657(6) -0.1219(7) 0.5107(2)
+C1B C -0.0433(7) -0.0731(9) 0.4858(3)
+Cd1B Cd -0.24393(5) 0.02846(6) 0.59521(2)
+Cl1B Cl -0.2663(2) 0.2561(3) 0.66936(9)
+Cl2B Cl -0.1598(3) -0.2020(3) 0.66382(10)
+Cd1B* Cd 0.75607(5) 0.02846(6) 0.59521(2)
+O1* O -0.3800(6) 0.1686(6) 0.5128(2)
+O2B* O -0.4828(5) -0.1000(6) 0.57033(19)
+#END

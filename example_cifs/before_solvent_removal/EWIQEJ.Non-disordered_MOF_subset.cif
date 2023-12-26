@@ -1,0 +1,196 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EWIQEJ
+_audit_creation_date 2021-06-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EWIQEJ
+_database_code_depnum_ccdc_archive 'CCDC 2075813'
+_chemical_formula_sum 'C30 H31 N5 O24 S4 U3'
+_chemical_formula_moiety
+;
+(C25 H9 O24 S4 U3 3-)n,2n(C2 H8 N1 1+),n(C1 H6 N3 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 60
+_journal_year 2021
+_journal_page_first 9074
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"P.Thuery"
+"J.Harrowfield"
+_chemical_name_systematic
+;
+catena-(guanidinium bis(dimethylammonium) 
+tetrakis(\m-thiophene-2,5-dicarboxylato)-formato-hexaoxo-tri-uranium unknown 
+solvate)
+;
+_cell_volume   4949.942
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 2.265
+_exptl_special_details
+;
+The formula contains an additional 0.5 of an oxygen atom which does not 
+appear to be mentioned in the paper
+;
+_exptl_crystal_description 'irregular'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+N2,N3,N4 disordered by symmetry over two configurations with occupancy 0.5. 
+The SQUEEZE/PLATON program has been used to model some disorder.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0338
+_refine_ls_wR_factor_gt 0.0338
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,-y,z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 22.7352(11)
+_cell_length_b 27.2585(12)
+_cell_length_c 8.1965(3)
+_cell_angle_alpha 90
+_cell_angle_beta 102.9731(18)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+S 1.02
+U 1.96
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U 0.63064(2) 0.80453(2) 0.12967(3)
+U2 U 0.65329(2) 0.50000 0.99499(4)
+S1 S 0.64616(9) 0.64365(6) 0.5282(2)
+S2 S 0.50000 0.80426(9) -0.50000
+S3 S 0.64620(12) 1.00000 0.0933(3)
+O1 O 0.5645(3) 0.8231(2) 0.1930(6)
+O2 O 0.6950(2) 0.7871(2) 0.0576(6)
+O3 O 0.5738(3) 0.50000 0.9541(9)
+O4 O 0.7328(4) 0.50000 1.0410(9)
+O5 O 0.6712(3) 0.78221(18) 0.4246(6)
+O6 O 0.6324(3) 0.72184(18) 0.2570(6)
+O7 O 0.6580(4) 0.5889(2) 0.9798(6)
+O8 O 0.6469(3) 0.55059(18) 0.7400(6)
+O9 O 0.5677(2) 0.74577(18) -0.0641(5)
+O10 O 0.5812(3) 0.81840(19) -0.1655(6)
+O11 O 0.6399(3) 0.8901(2) 0.0414(6)
+O12 O 0.6872(3) 0.87159(19) 0.2991(6)
+O13 O 0.6530(4) 0.5400(2) 1.2653(7)
+C1 C 0.6620(3) 0.7055(2) 0.5478(8)
+C2 C 0.6771(3) 0.7197(3) 0.7133(8)
+H1 H 0.68804 0.75233 0.74859
+C3 C 0.6747(3) 0.6810(3) 0.8239(8)
+H2 H 0.68294 0.68454 0.94219
+C4 C 0.6590(3) 0.6377(3) 0.7422(8)
+C5 C 0.6556(3) 0.7376(3) 0.4031(9)
+C6 C 0.6549(4) 0.5899(3) 0.8233(10)
+C7 C 0.5259(3) 0.7602(3) -0.3524(8)
+C8 C 0.5149(3) 0.7137(3) -0.4149(9)
+H3 H 0.52611 0.68477 -0.35085
+C9 C 0.5592(3) 0.7754(3) -0.1862(8)
+C10 C 0.6841(3) 0.9555(3) 0.2208(8)
+C11 C 0.7250(3) 0.9742(3) 0.3561(8)
+H4 H 0.75024 0.95461 0.43933
+C12 C 0.6708(4) 0.9031(3) 0.1842(9)
+C13 C 0.6486(6) 0.50000 1.3374(13)
+H5 H 0.64183 0.50000 1.44769
+N1 N 0.6623(5) 0.8677(3) 0.6469(10)
+H6 H 0.66072 0.85442 0.54415
+H7 H 0.64245 0.84713 0.70346
+C14 C 0.6325(7) 0.9135(6) 0.627(2)
+H8 H 0.58988 0.90880 0.62852
+H9 H 0.63537 0.92794 0.51918
+H10 H 0.65138 0.93549 0.71787
+C15 C 0.7259(5) 0.8710(4) 0.7377(14)
+H11 H 0.75058 0.88210 0.66101
+H12 H 0.73986 0.83871 0.78261
+H13 H 0.72949 0.89451 0.83000
+N2 N 0.5438(6) 0.6578(6) 0.039(3)
+H14 H 0.57863 0.64993 0.11107
+H15 H 0.53965 0.68739 -0.01118
+N3 N 0.5085(7) 0.5826(5) 0.086(2)
+H16 H 0.54385 0.57582 0.15728
+H17 H 0.47878 0.56008 0.06625
+N4 N 0.4448(4) 0.6379(5) -0.072(2)
+H18 H 0.41352 0.61770 -0.07165
+H19 H 0.43855 0.66709 -0.12412
+C16 C 0.50000 0.6260(5) 0.00000
+O9A O 0.4323(2) 0.74577(18) -0.9359(5)
+O10A O 0.4188(3) 0.81840(19) -0.8345(6)
+C7A C 0.4741(3) 0.7602(3) -0.6476(8)
+C8A C 0.4851(3) 0.7137(3) -0.5851(9)
+H3A H 0.47389 0.68477 -0.64915
+C9A C 0.4408(3) 0.7754(3) -0.8138(8)
+O11E O 0.6399(3) 1.1099(2) 0.0414(6)
+O12E O 0.6872(3) 1.12841(19) 0.2991(6)
+C10E C 0.6841(3) 1.0445(3) 0.2208(8)
+C11E C 0.7250(3) 1.0258(3) 0.3561(8)
+H4E H 0.75024 1.04539 0.43933
+C12E C 0.6708(4) 1.0969(3) 0.1842(9)
+O13E O 0.6530(4) 0.4600(2) 1.2653(7)
+U1A U 0.36936(2) 0.80453(2) -1.12967(3)
+S1A S 0.35384(9) 0.64365(6) -1.5282(2)
+O1A O 0.4355(3) 0.8231(2) -1.1930(6)
+O2A O 0.3050(2) 0.7871(2) -1.0576(6)
+O5A O 0.3288(3) 0.78221(18) -1.4246(6)
+O6A O 0.3676(3) 0.72184(18) -1.2570(6)
+O7A O 0.3420(4) 0.5889(2) -1.9798(6)
+O8A O 0.3531(3) 0.55059(18) -1.7400(6)
+C1A C 0.3380(3) 0.7055(2) -1.5478(8)
+C2A C 0.3229(3) 0.7197(3) -1.7133(8)
+H1A H 0.31196 0.75233 -1.74859
+C3A C 0.3253(3) 0.6810(3) -1.8239(8)
+H2A H 0.31706 0.68454 -1.94219
+C4A C 0.3410(3) 0.6377(3) -1.7422(8)
+C5A C 0.3444(3) 0.7376(3) -1.4031(9)
+C6A C 0.3451(4) 0.5899(3) -1.8233(10)
+U1E U 0.63064(2) 1.19547(2) 0.12967(3)
+U2A U 0.34671(2) 0.50000 -1.99499(4)
+O7E O 0.6580(4) 0.4111(2) 0.9798(6)
+O8E O 0.6469(3) 0.44941(18) 0.7400(6)
+O11A O 0.3601(3) 0.8901(2) -1.0414(6)
+O12A O 0.3128(3) 0.87159(19) -1.2991(6)
+N2A N 0.4562(6) 0.6578(6) -0.039(3)
+H14A H 0.42137 0.64993 -0.11107
+H15A H 0.46035 0.68739 0.01118
+N3A N 0.4915(7) 0.5826(5) -0.086(2)
+H16A H 0.45615 0.57582 -0.15728
+H17A H 0.52122 0.56008 -0.06625
+N4A N 0.5552(4) 0.6379(5) 0.072(2)
+H18A H 0.58648 0.61770 0.07165
+H19A H 0.56145 0.66709 0.12412
+#END

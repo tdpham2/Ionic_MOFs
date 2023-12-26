@@ -1,0 +1,196 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUFHOS
+_audit_creation_date 2015-03-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUFHOS
+_database_code_depnum_ccdc_archive 'CCDC 991282'
+_chemical_formula_sum 'C25.4 H15.38 N2.68 Na2 O11 Zn1'
+_chemical_formula_moiety
+;
+(C20 H14 N4)0.67n,n(C12 H4 O10 Zn1 2-),2n(Na1 1+),n(H2 O1)
+;
+_journal_coden_Cambridge 179
+_journal_volume 54
+_journal_year 2015
+_journal_page_first 5966
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Hao Wang"
+"Jian Xu"
+"Da-Shuai Zhang"
+"Qiang Chen"
+"Rong-Mei Wen"
+"Ze Chang"
+"Xian-He Bu"
+_chemical_name_systematic
+;
+catena-(Di-sodium bis(\m~2~-furan-2,5-dicarboxylato)-zinc 
+2,4,6-tris(4-pyridyl)pyridine monohydrate)
+;
+_cell_volume  11567.120
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.653
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 113
+_refine_special_details
+;
+The nitrogen of the central pyridine ring of the ligand is disordered over 
+three equivalent ring positions by symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0752
+_refine_ls_wR_factor_gt 0.0752
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,1/2-z
+5 -x,-x+y,1/2-z
+6 x-y,-y,1/2-z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3+y,1/3+x,5/6-z
+11 2/3-x,1/3-x+y,5/6-z
+12 2/3+x-y,1/3-y,5/6-z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3+y,2/3+x,1/6-z
+17 1/3-x,2/3-x+y,1/6-z
+18 1/3+x-y,2/3-y,1/6-z
+19 -x,-y,-z
+20 y,-x+y,-z
+21 x-y,x,-z
+22 -y,-x,-1/2+z
+23 x,x-y,-1/2+z
+24 -x+y,y,-1/2+z
+25 -2/3-x,-1/3-y,-1/3-z
+26 -2/3+y,-1/3-x+y,-1/3-z
+27 -2/3+x-y,-1/3+x,-1/3-z
+28 -2/3-y,-1/3-x,-5/6+z
+29 -2/3+x,-1/3+x-y,-5/6+z
+30 -2/3-x+y,-1/3+y,-5/6+z
+31 -1/3-x,-2/3-y,-2/3-z
+32 -1/3+y,-2/3-x+y,-2/3-z
+33 -1/3+x-y,-2/3+x,-2/3-z
+34 -1/3-y,-2/3-x,-1/6+z
+35 -1/3+x,-2/3+x-y,-1/6+z
+36 -1/3-x+y,-2/3+y,-1/6+z
+_cell_length_a 28.853(5)
+_cell_length_b 28.853(5)
+_cell_length_c 16.044(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 18
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 1.66
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.33330 0.26834(3) 0.41670
+O1 O 0.37442(16) 0.16343(15) 0.2631(2)
+O2 O 0.39487(16) 0.05836(16) 0.1963(2)
+O3 O 0.35415(17) 0.23053(17) 0.3382(2)
+O4 O 0.37862(17) 0.28613(16) 0.2286(3)
+O5 O 0.35678(19) 0.06697(17) 0.3126(3)
+C1 C 0.3728(2) 0.2459(2) 0.2650(4)
+C2 C 0.4134(3) 0.2127(2) 0.1499(4)
+H1 H 0.42700 0.24060 0.11160
+C3 C 0.3912(2) 0.1362(2) 0.2131(3)
+C4 C 0.3882(2) 0.2099(2) 0.2223(4)
+C5 C 0.4149(3) 0.1644(2) 0.1443(4)
+H2 H 0.42960 0.15430 0.10120
+C6 C 0.3792(2) 0.0831(2) 0.2445(4)
+Na1 Na 0.33330 0.00262(11) 0.41670
+C7 C 0.1393(5) 0.0177(5) 0.3912(10)
+H3 H 0.11860 -0.01950 0.39230
+C8 C 0.1157(4) 0.0484(4) 0.3859(7)
+C9 C 0.1485(4) 0.1030(4) 0.3903(7)
+H4 H 0.13370 0.12520 0.39060
+C10 C 0.2026(4) 0.1248(4) 0.3941(7)
+H5 H 0.22330 0.16190 0.39530
+N1 N 0.2309(4) 0.0943(3) 0.3964(5)
+C11 C 0.1953(5) 0.0431(5) 0.395(1)
+H6 H 0.20920 0.02020 0.39680
+C12 C 0.0234(4) -0.0318(4) 0.3864(8)
+H7 H 0.03900 -0.05330 0.38700
+C13 C 0.0559(4) 0.0235(4) 0.3860(8)
+Na2 Na 0.33330 0.14490(15) 0.41670
+O6 O 0.2243(5) 0.00000 0.25000
+N2? N 0.0234(4) -0.0318(4) 0.3864(8)
+O1J O 0.292247(160) 0.122343(150) 0.570233(200)
+O2J O 0.271797(160) -0.003177(160) 0.637033(200)
+O3J O 0.312517(170) 0.209713(170) 0.495133(200)
+O4J O 0.288047(170) 0.240843(160) 0.604733(300)
+O5J O 0.309887(190) 0.043523(170) 0.520733(300)
+C1J C 0.293867(200) 0.206433(200) 0.568333(400)
+C2J C 0.253267(300) 0.132633(200) 0.683433(400)
+H1J H 0.23967 0.14693 0.72173
+C3J C 0.275467(200) 0.078333(200) 0.620233(300)
+C4J C 0.278467(200) 0.155033(200) 0.611033(400)
+C5J C 0.251767(300) 0.082833(200) 0.689033(400)
+H2J H 0.23707 0.05803 0.73213
+C6J C 0.287467(200) 0.037233(200) 0.588833(400)
+Zn1S Zn 0.26834 -0.06496(3) 0.58330
+Zn1GA Zn 0.39833 0.000033(30) 0.25003
+O2Y O 0.391693(160) 0.330157(160) 0.470367(200)
+O2AA O 0.274973(160) 0.271797(160) 0.362967(200)
+C7A C -0.0177(5) 0.1216(5) 0.3912(10)
+H3A H 0.01950 0.13810 0.39230
+C8A C -0.0484(4) 0.0673(4) 0.3859(7)
+C9A C -0.1030(4) 0.0455(4) 0.3903(7)
+H4A H -0.12520 0.00850 0.39060
+C10A C -0.1248(4) 0.0778(4) 0.3941(7)
+H5A H -0.16190 0.06140 0.39530
+N1A N -0.0943(4) 0.1366(3) 0.3964(5)
+C11A C -0.0431(5) 0.1522(5) 0.395(1)
+H6A H -0.02020 0.18900 0.39680
+C12A C 0.0318(4) 0.0552(4) 0.3864(8)
+H7A H 0.05330 0.09230 0.38700
+C13A C -0.0235(4) 0.0324(4) 0.3860(8)
+C7B C -0.1216(5) -0.1393(5) 0.3912(10)
+H3B H -0.13810 -0.11860 0.39230
+C8B C -0.0673(4) -0.1157(4) 0.3859(7)
+C9B C -0.0455(4) -0.1485(4) 0.3903(7)
+H4B H -0.00850 -0.13370 0.39060
+C10B C -0.0778(4) -0.2026(4) 0.3941(7)
+H5B H -0.06140 -0.22330 0.39530
+N1B N -0.1366(4) -0.2309(3) 0.3964(5)
+C11B C -0.1522(5) -0.1953(5) 0.395(1)
+H6B H -0.18900 -0.20920 0.39680
+C12B C -0.0552(4) -0.0234(4) 0.3864(8)
+H7B H -0.09230 -0.03900 0.38700
+C13B C -0.0324(4) -0.0559(4) 0.3860(8)
+#END

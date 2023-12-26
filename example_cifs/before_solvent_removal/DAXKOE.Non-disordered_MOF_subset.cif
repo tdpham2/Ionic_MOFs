@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAXKOE
+_audit_creation_date 2012-07-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAXKOE
+_database_code_depnum_ccdc_archive 'CCDC 855532'
+_chemical_formula_sum 'C16 H20 In1 N5 O10'
+_chemical_formula_moiety
+;
+(C4 H12 N1 1+)n,n(C12 H4 In1 N4 O8 1-),2n(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 12
+_journal_year 2012
+_journal_page_first 1501
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"J.Cepeda"
+"G.Beobide"
+"O.Castillo"
+"A.Luque"
+"S.Perez-Yanez"
+"P.Roman"
+_chemical_name_systematic
+;
+catena-[Diethylammonium bis(\m~2~-pyrazine-2,5-dicarboxylato)-indium(iii) 
+dihydrate]
+;
+_cell_volume   2030.741
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.816
+_exptl_crystal_description 'rhombohedral'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+C31,C32,C34,C35,N33 disordered by symmetry over two sites with occupancy 
+0.50; O2W disordered by symmetry over two sites with occupancy 0.50.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0511
+_refine_ls_wR_factor_gt 0.0511
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.828(1)
+_cell_length_b 17.088(1)
+_cell_length_c 11.467(1)
+_cell_angle_alpha 90
+_cell_angle_beta 106.84(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 1.00000 0.36303(2) 0.75000
+N1 N 0.8514(3) 0.2893(2) 0.5809(3)
+C1 C 0.8381(4) 0.2894(3) 0.4614(4)
+H1 H 0.89760 0.31620 0.43200
+C2 C 0.9005(4) 0.4494(2) 0.9649(3)
+H2 H 0.83120 0.41490 0.94230
+N2 N 0.9984(3) 0.44233(19) 0.9165(3)
+C3 C 0.9024(4) 0.5087(2) 1.0494(3)
+C4 C 0.7634(4) 0.2499(2) 0.6196(4)
+C5 C 0.7829(4) 0.2489(3) 0.7561(4)
+O1 O 0.8789(3) 0.28762(17) 0.8214(2)
+O2 O 0.7089(4) 0.2105(2) 0.7954(3)
+C6 C 0.7965(4) 0.5190(2) 1.1090(3)
+O3 O 0.8180(3) 0.56789(17) 1.1946(2)
+O4 O 0.6966(3) 0.4801(2) 1.0687(3)
+O5 O 1.00000 0.3943(3) 0.25000
+O6? O -0.1349(9) 0.1750(6) 0.0525(9)
+C7? C -0.0348(14) -0.0860(8) 0.2045(13)
+C8 C 0.0570(11) -0.0334(7) 0.2888(14)
+N3 N -0.0042(12) 0.0357(6) 0.3259(12)
+C9 C 0.0478(16) 0.1121(7) 0.3021(12)
+C10? C 0.060(2) 0.1641(8) 0.4082(15)
+In1D In 1.00000 0.63697(2) 1.25000
+In1F In 0.50000 0.13697(2) 0.25000
+N1F N 0.6486(3) 0.2107(2) 0.4191(3)
+N1A N 1.1486(3) 0.2893(2) 0.9191(3)
+C1F C 0.6619(4) 0.2106(3) 0.5386(4)
+H1F H 0.60240 0.18380 0.56800
+C2D C 1.0995(4) 0.5506(2) 1.0351(3)
+H2D H 1.16880 0.58510 1.05770
+N2D N 1.0016(3) 0.55767(19) 1.0835(3)
+N2A N 1.0016(3) 0.44233(19) 0.5835(3)
+C3D C 1.0976(4) 0.4913(2) 0.9506(3)
+C4F C 0.7366(4) 0.2501(2) 0.3804(4)
+C5F C 0.7171(4) 0.2511(3) 0.2439(4)
+O1F O 0.6211(3) 0.21238(17) 0.1786(2)
+O1A O 1.1211(3) 0.28762(17) 0.6786(2)
+O2F O 0.7911(4) 0.2895(2) 0.2046(3)
+C6D C 1.2035(4) 0.4810(2) 0.8910(3)
+O3D O 1.1820(3) 0.43211(17) 0.8054(2)
+O3E O 0.8180(3) 0.43211(17) 0.6946(2)
+O4D O 1.3034(3) 0.5199(2) 0.9313(3)
+C8A C -0.0570(11) -0.0334(7) 0.2112(14)
+N3A N 0.0042(12) 0.0357(6) 0.1741(12)
+C9A C -0.0478(16) 0.1121(7) 0.1979(12)
+#END

@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIXVUA10
+_audit_creation_date 1985-07-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIXVUA10
+_database_code_depnum_ccdc_archive 'CCDC 1126736'
+_chemical_formula_sum 'C12 H16 Na4 Np2 O24'
+_chemical_formula_moiety
+;
+(C12 Np2 O16 4-)n,4n(Na1 1+),8n(H2 O1)
+;
+_journal_coden_Cambridge 202
+_journal_volume 99
+_journal_year 1984
+_journal_page_first 233
+_journal_name_full 'J.Less-Common Met. '
+loop_
+_publ_author_name
+"A.Cousson"
+"S.Dabos"
+"H.Abazli"
+"F.Nectoux"
+"M.Pages"
+"G.Choppin"
+_chemical_name_systematic
+;
+catena-[tetra-sodium (\m~6~-mellitato)-bis(\m~2~-oxo)-dioxo-di-neptunium(v) 
+octahydrate]
+;
+_cell_volume   2486.672
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.96
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.53(1)
+_cell_length_b 11.58(2)
+_cell_length_c 17.81(2)
+_cell_angle_alpha 90
+_cell_angle_beta 105.79
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Na 0.97
+Np 1.55
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Np1 Np 0.13767(4) 0.02285(4) 0.24677(3)
+C1 C 0.3844(10) 0.1481(10) 0.3478(7)
+C2 C 0.3903(9) -0.0945(10) 0.3515(7)
+C3 C 0.4434(9) 0.0853(9) 0.2954(6)
+C4 C 0.4451(8) -0.0357(9) 0.2965(6)
+C5 C 0.50000 -0.2243(14) 0.25000
+C6 C 0.50000 -0.0937(13) 0.25000
+C7 C 0.50000 0.1453(14) 0.25000
+C8 C 0.50000 0.2730(14) 0.25000
+O1 O 0.4361(8) 0.1855(9) 0.4104(6)
+O2 O 0.4490(7) -0.1340(7) 0.4131(5)
+O3 O 0.2763(7) 0.1491(7) 0.3227(6)
+O4 O 0.2825(6) -0.0927(7) 0.3320(5)
+O5 O 0.5760(7) -0.2789(7) 0.2268(5)
+O6 O 0.5795(7) 0.3284(7) 0.2312(5)
+O7 O 0.1951(7) 0.0124(8) 0.1615(5)
+O8 O -0.0613(6) 0.0253(7) 0.1737(4)
+Na1 Na 0.3872(5) 0.2160(6) 0.0132(3)
+Na2 Na 0.7077(7) 0.3313(7) 0.0769(4)
+O9 O 0.2727(8) 0.2135(8) 0.0957(6)
+O10 O 0.3282(10) 0.9792(10) 0.0205(7)
+O11 O 0.8694(9) 0.214(1) 0.0632(7)
+O12 O 0.4317(15) 0.4219(16) 0.0310(11)
+Np1B Np -0.13767(4) 0.02285(4) 0.25323(3)
+O8B O 0.0613(6) 0.0253(7) 0.3263(4)
+O5A O 0.0760(7) 0.2211(7) 0.2268(5)
+O5B O 0.4240(7) -0.2789(7) 0.2732(5)
+C4B C 0.5549(8) -0.0357(9) 0.2035(6)
+C3B C 0.5566(9) 0.0853(9) 0.2046(6)
+O6A O 0.0795(7) -0.1716(7) 0.2312(5)
+O6B O 0.4205(7) 0.3284(7) 0.2688(5)
+C1B C 0.6156(10) 0.1481(10) 0.1522(7)
+C2B C 0.6097(9) -0.0945(10) 0.1485(7)
+Np1A Np 0.63767(4) -0.47715(4) 0.24677(3)
+Np1C Np 0.36233(4) -0.47715(4) 0.25323(3)
+Np1A* Np 0.63767(4) 0.52285(4) 0.24677(3)
+Np1C* Np 0.36233(4) 0.52285(4) 0.25323(3)
+O1B O 0.5639(8) 0.1855(9) 0.0896(6)
+O3B O 0.7237(7) 0.1491(7) 0.1773(6)
+O2B O 0.5510(7) -0.1340(7) 0.0869(5)
+O4B O 0.7175(6) -0.0927(7) 0.1680(5)
+Np1B* Np 0.86233(4) 0.02285(4) 0.25323(3)
+O3B* O -0.2763(7) 0.1491(7) 0.1773(6)
+O4B* O -0.2825(6) -0.0927(7) 0.1680(5)
+O5C O -0.0760(7) 0.2211(7) 0.2732(5)
+O6C O -0.0795(7) -0.1716(7) 0.2688(5)
+O7B O -0.1951(7) 0.0124(8) 0.3385(5)
+#END

@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AGOHAH
+_audit_creation_date 2013-09-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AGOHAH
+_database_code_depnum_ccdc_archive 'CCDC 948605'
+_chemical_formula_sum 'C6 H12 F5 Fe2 N7'
+_chemical_formula_moiety
+;
+(C4 H4 F5 Fe2 N6 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 42
+_journal_year 2013
+_journal_page_first 15748
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"M.Smida"
+"J.Lhoste"
+"V.Pimenta"
+"A.Hemon-Ribaud"
+"L.Jouffret"
+"M.Leblanc"
+"M.Dammak"
+"J.-M.Greneche"
+"V.Maisonneuve"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+bis(\m~3~-1,2,4-triazolato)-(\m~2~-fluoro)-tetrafluoro-di-iron]
+;
+_cell_volume   1317.440
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.961
+_exptl_crystal_description 'platelets'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0486
+_refine_ls_wR_factor_gt 0.0486
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2-z
+3 -x,1/2+y,-z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2+y,-1/2+z
+7 x,-1/2-y,z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 17.1968(8)
+_cell_length_b 8.9793(5)
+_cell_length_c 8.5318(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.42845(7) 0.25000 0.31073(15)
+Fe2 Fe 0.22819(7) 0.25000 0.24328(16)
+F1 F 0.4961(3) 0.25000 0.4773(7)
+F2 F 0.3368(3) 0.25000 0.1618(6)
+F3 F 0.4739(2) 0.4041(4) 0.1949(5)
+F4 F 0.1316(3) 0.25000 0.3356(6)
+N1 N 0.2256(3) -0.0909(6) -0.0997(6)
+N2 N 0.1464(3) -0.0892(6) -0.0683(6)
+N3 N 0.2033(3) 0.0805(6) 0.0811(6)
+C1 C 0.1362(4) 0.0140(7) 0.0400(7)
+H1 H 0.08810 0.03800 0.08300
+C2 C 0.2573(3) 0.0127(7) -0.0078(6)
+H2 H 0.31010 0.03530 -0.00550
+C3 C 0.4012(3) 0.7500(7) 0.1994(6)
+H3 H 0.40310 0.83580 0.26330
+H4 H 0.35440 0.75000 0.14070
+C4 C 0.5386(3) 0.7500(7) 0.1466(6)
+H5 H 0.54340 0.75000 0.24580
+H6 H 0.56320 0.67360 0.11250
+N4 N 0.4624(3) 0.7500(7) 0.1006(6)
+H7 H 0.45640 0.83020 0.03860
+H8? H 0.45640 0.83020 0.03860
+F3F F 0.4739(2) 0.0959(4) 0.1949(5)
+N1F N 0.2256(3) 0.5909(6) -0.0997(6)
+N2F N 0.1464(3) 0.5892(6) -0.0683(6)
+N3F N 0.2033(3) 0.4195(6) 0.0811(6)
+C1F C 0.1362(4) 0.4860(7) 0.0400(7)
+H1F H 0.08810 0.46200 0.08300
+C2F C 0.2573(3) 0.4873(7) -0.0078(6)
+H2F H 0.31010 0.46470 -0.00550
+Fe1C Fe 0.07155(7) -0.25000 -0.18927(15)
+Fe1C* Fe 0.07155(7) 0.75000 -0.18927(15)
+Fe2C Fe 0.27181(7) -0.25000 -0.25672(16)
+Fe2C* Fe 0.27181(7) 0.75000 -0.25672(16)
+N1C N 0.2744(3) 0.0909(6) 0.4003(6)
+N1E N 0.2744(3) 0.4091(6) 0.4003(6)
+N2C N 0.3536(3) 0.0892(6) 0.4317(6)
+N2E N 0.3536(3) 0.4108(6) 0.4317(6)
+H3F H 0.40310 0.66420 0.26330
+H6F H 0.56320 0.82640 0.11250
+H7F H 0.45640 0.66980 0.03860
+#END

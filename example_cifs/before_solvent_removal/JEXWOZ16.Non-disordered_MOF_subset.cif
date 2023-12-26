@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEXWOZ16
+_audit_creation_date 2019-12-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEXWOZ16
+_database_code_depnum_ccdc_archive 'CCDC 1861339'
+_chemical_formula_sum 'C6 H14 Mn2 N2 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Mn2 O12 2-)n,2(H4 N1 1+)
+;
+_journal_coden_Cambridge 1326
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 24465
+_journal_name_full 'Phys.Chem.Chem.Phys.(PCCP) '
+loop_
+_publ_author_name
+"I.E.Collings"
+"R.S.Manna"
+"A.A.Tsirlin"
+"M.Bykov"
+"E.Bykova"
+"M.Hanfland"
+"P.Gegenwart"
+"S.v.Smaalen"
+"L.Dubrovinsky"
+"N.Dubrovinskaia"
+_chemical_name_systematic
+;
+catena-(bis(ammonium) hexakis(\m~2~-formato)-di-manganese(ii))
+;
+_cell_volume    650.469
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.124
+_exptl_crystal_description 'hexagonal bipyramid'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 1980000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1587
+_refine_ls_wR_factor_gt 0.1587
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.651(3)
+_cell_length_b 7.067(3)
+_cell_length_c 13.839(4)
+_cell_angle_alpha 90
+_cell_angle_beta 89.96(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.6355(8) 0.7099(9) 0.8505(3)
+Mn2 Mn 1.1352(8) 0.2200(9) 0.6489(3)
+C1 C 0.892(6) -0.139(6) 0.552(2)
+C2 C 0.528(7) 1.009(7) 0.709(3)
+C3 C 1.041(5) 0.906(5) 0.8000(19)
+C4 C 0.240(6) 0.483(5) 0.8162(18)
+C5 C 0.759(5) 0.445(5) 0.6856(18)
+C6 C 0.618(6) 0.584(6) 1.046(2)
+O1 O 1.068(3) 1.080(3) 0.7806(13)
+O2 O 0.503(4) 0.449(4) 1.0694(13)
+O3 O 0.357(4) 0.574(4) 0.8666(13)
+O4 O 0.735(4) 0.592(3) 0.9872(14)
+O5 O 0.782(3) 0.470(4) 0.7739(13)
+O6 O 0.427(5) 1.083(5) 0.6316(16)
+O7 O 0.928(3) 0.854(4) 0.8619(12)
+O8 O 0.264(4) 0.457(4) 0.7242(13)
+O9 O 0.848(3) 0.352(4) 0.6287(13)
+O10 O 1.006(4) 0.000(4) 0.5665(14)
+O11 O 0.564(5) 0.857(5) 0.7129(18)
+O12 O 0.757(4) -0.159(4) 0.4925(15)
+H1 H 0.91481 -0.24631 0.59334
+H2 H 0.56879 1.09138 0.76093
+H3 H 0.60277 0.69652 1.08372
+H4 H 0.64894 0.51482 0.65853
+H5 H 1.11407 0.81304 0.76367
+H6 H 0.12470 0.42707 0.84671
+N1 N 0.634(4) 0.208(5) 0.4667(15)
+N2 N 0.122(4) 0.704(5) 1.0306(15)
+Mn1A Mn 0.3645(8) 0.2099(9) 1.1495(3)
+Mn2* Mn 0.1352(8) 0.2200(9) 0.6489(3)
+Mn2** Mn 0.1352(8) 1.2200(9) 0.6489(3)
+Mn2*** Mn 1.1352(8) 1.2200(9) 0.6489(3)
+Mn2A Mn 0.8648(8) -0.2800(9) 0.3511(3)
+O1* O 1.068(3) 0.080(3) 0.7806(13)
+O2A O 0.497(4) 0.949(4) 0.9306(13)
+O6* O 1.427(5) 0.083(5) 0.6316(16)
+O8* O 1.264(4) 0.457(4) 0.7242(13)
+O12A O 1.243(4) 0.341(4) 0.5075(15)
+#END

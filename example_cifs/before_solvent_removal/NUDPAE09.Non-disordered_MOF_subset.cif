@@ -1,0 +1,159 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NUDPAE09
+_audit_creation_date 2018-06-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NUDPAE09
+_database_code_depnum_ccdc_archive 'CCDC 1837760'
+_chemical_formula_sum 'C5 H11 Fe1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Fe1 O6 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 1350
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 3512
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"I.E.Collings"
+"M.Bykov"
+"E.Bykova"
+"M.Hanfland"
+"S.van Smaalen"
+"L.Dubrovinsky"
+"N.Dubrovinskaia"
+_chemical_name_systematic
+;
+catena-[dimethylammonium tris(\m-formato)-iron(ii)]
+;
+_cell_volume   1147.125
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.058
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 5500000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.3333.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0377
+_refine_ls_wR_factor_gt 0.0377
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,1/2-z
+5 x-y,-y,1/2-z
+6 -x,-x+y,1/2-z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3+y,1/3+x,5/6-z
+11 2/3+x-y,1/3-y,5/6-z
+12 2/3-x,1/3-x+y,5/6-z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3+y,2/3+x,1/6-z
+17 1/3+x-y,2/3-y,1/6-z
+18 1/3-x,2/3-x+y,1/6-z
+19 -x,-y,-z
+20 y,-x+y,-z
+21 x-y,x,-z
+22 -y,-x,-1/2+z
+23 -x+y,y,-1/2+z
+24 x,x-y,-1/2+z
+25 -2/3-x,-1/3-y,-1/3-z
+26 -2/3+y,-1/3-x+y,-1/3-z
+27 -2/3+x-y,-1/3+x,-1/3-z
+28 -2/3-y,-1/3-x,-5/6+z
+29 -2/3-x+y,-1/3+y,-5/6+z
+30 -2/3+x,-1/3+x-y,-5/6+z
+31 -1/3-x,-2/3-y,-2/3-z
+32 -1/3+y,-2/3-x+y,-2/3-z
+33 -1/3+x-y,-2/3+x,-2/3-z
+34 -1/3-y,-2/3-x,-1/6+z
+35 -1/3-x+y,-2/3+y,-1/6+z
+36 -1/3+x,-2/3+x-y,-1/6+z
+_cell_length_a 7.9947(2)
+_cell_length_b 7.9947(2)
+_cell_length_c 20.7241(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.66667 0.33333 0.33333
+O1 O 0.8644(3) 0.3008(3) 0.27729(9)
+C1 C 1.00000 0.4418(4) 0.25000
+H1 H 1.00000 0.55813 0.25000
+N1 N 0.7426(13) 0.33333 0.08333
+H2 H 0.779(8) 0.246(8) 0.075(6)
+C2 C 0.66667 0.33333 0.0255(3)
+H3 H 0.576(6) 0.206(5) 0.010(3)
+O1E O 1.1356(3) 0.4364(3) 0.22271(9)
+O1A O 0.6992(3) 0.5636(3) 0.27729(9)
+C1A C 0.55820 0.5582(4) 0.25000
+H1A H 0.44187 0.44187 0.25000
+O1D O 0.5636(3) 0.6992(3) 0.22271(9)
+O1B O 0.4364(3) 0.1356(3) 0.27729(9)
+C1B C 0.44180 0.0000(4) 0.25000
+H1B H 0.55813 -0.00000 0.25000
+O1C O 0.3008(3) -0.1356(3) 0.22271(9)
+Fe1C Fe 0.33333 -0.33333 0.16667
+Fe1C* Fe 0.33333 0.66667 0.16667
+Fe1C** Fe 1.33333 0.66667 0.16667
+O1X O 0.468933(300) 0.365867(300) 0.389377(90)
+O1Y O 0.634133(300) 0.103067(300) 0.389377(90)
+O1Z O 0.896933(300) 0.531067(300) 0.389377(90)
+N1A N 0.666667(1300) 0.40927 0.08333
+H2A H 0.754(8) 0.533(8) 0.075(6)
+H3A H 0.794(6) 0.370(5) 0.010(3)
+N1B N 0.590733(1300) 0.25740 0.08333
+H2B H 0.467(8) 0.221(8) 0.075(6)
+H3B H 0.630(6) 0.424(5) 0.010(3)
+H2O H 0.579333(8000) 0.445667(8000) 0.091667(6000)
+C2O C 0.66667 0.33333 0.141167(300)
+H3O H 0.539333(6000) 0.242667(5000) 0.156667(3000)
+H2P H 0.866333(8000) 0.420667(8000) 0.091667(6000)
+H3P H 0.703333(6000) 0.460667(5000) 0.156667(3000)
+H2Q H 0.554333(8000) 0.133667(8000) 0.091667(6000)
+H3Q H 0.757333(6000) 0.296667(5000) 0.156667(3000)
+#END

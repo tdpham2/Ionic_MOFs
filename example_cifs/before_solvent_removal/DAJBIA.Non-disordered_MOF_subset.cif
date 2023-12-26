@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAJBIA
+_audit_creation_date 2005-04-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAJBIA
+_database_code_depnum_ccdc_archive 'CCDC 232962'
+_chemical_formula_sum 'C18 H22 Co1 N4 O8'
+_chemical_formula_moiety
+;
+(C14 H6 Co1 N2 O8 2-)n,2n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 603
+_journal_volume 23
+_journal_year 2004
+_journal_page_first 1230
+_journal_name_full 'Jiegou Huaxue(Chin.)(Chin.J.Struct.Chem.) '
+loop_
+_publ_author_name
+"Ying Xu"
+"Da-Qiang Yuan"
+"Zhen-Zhong Lin"
+"Ben-Lai Wu"
+"Jun-Hua Luo"
+"Mao-Chun Hong"
+_chemical_name_systematic
+;
+catena-(bis(dimethylammonium) bis(\m~2~-pyridine 
+2,5-dicarboxylato)-cobalt(ii))
+;
+_cell_volume   2048.749
+_exptl_crystal_colour 'deep red'
+_exptl_crystal_density_diffrn 1.56
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0443
+_refine_ls_wR_factor_gt 0.0443
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -x,y,-1/2-z
+7 -1/2-x,-1/2-y,-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 14.9075(6)
+_cell_length_b 8.2523(3)
+_cell_length_c 16.9643(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.982(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.08503(8) 0.25000
+O1 O 0.00493(15) 0.1186(3) 0.37247(14)
+O2 O 0.08766(19) 0.2267(5) 0.48338(15)
+O3 O 0.2904(2) 0.4029(5) 0.13592(19)
+O4 O 0.40405(16) 0.4022(3) 0.24143(19)
+N1 N 0.11250(17) 0.2452(3) 0.28151(15)
+N2 N -0.0471(3) -0.2344(4) 0.0736(2)
+H1 H -0.00240 -0.19190 0.05100
+H2 H -0.06780 -0.15520 0.10190
+C1 C 0.1704(2) 0.2915(4) 0.2347(2)
+H3 H 0.15270 0.27870 0.17950
+C2 C 0.2554(2) 0.3578(4) 0.2643(2)
+C3 C 0.2787(2) 0.3850(5) 0.3461(2)
+H4 H 0.33450 0.43220 0.36800
+C4 C 0.2188(2) 0.3418(5) 0.3948(2)
+H5 H 0.23300 0.36210 0.44970
+C5 C 0.1376(2) 0.2682(4) 0.36130(19)
+C6 C 0.0716(2) 0.2002(5) 0.4104(2)
+C7 C 0.3206(3) 0.3926(5) 0.2085(3)
+C8 C -0.1217(3) -0.2868(8) 0.0097(3)
+H6 H -0.14360 -0.19600 -0.02380
+H7 H -0.17050 -0.32980 0.03310
+H8 H -0.09990 -0.36900 -0.02200
+C9 C -0.0087(4) -0.3613(7) 0.1280(3)
+H9 H 0.03960 -0.31770 0.16800
+H10 H 0.01520 -0.44510 0.09860
+H11 H -0.05540 -0.40560 0.15360
+O1E O -0.00493(15) 0.1186(3) 0.12753(14)
+O2E O -0.08766(19) 0.2267(5) 0.01662(15)
+O3E O -0.2904(2) 0.4029(5) 0.36408(19)
+O4E O -0.40405(16) 0.4022(3) 0.25857(19)
+N1E N -0.11250(17) 0.2452(3) 0.21849(15)
+C1E C -0.1704(2) 0.2915(4) 0.2653(2)
+H3E H -0.15270 0.27870 0.32050
+C2E C -0.2554(2) 0.3578(4) 0.2357(2)
+C3E C -0.2787(2) 0.3850(5) 0.1539(2)
+H4E H -0.33450 0.43220 0.13200
+C4E C -0.2188(2) 0.3418(5) 0.1052(2)
+H5E H -0.23300 0.36210 0.05030
+C5E C -0.1376(2) 0.2682(4) 0.13870(19)
+C6E C -0.0716(2) 0.2002(5) 0.0896(2)
+C7E C -0.3206(3) 0.3926(5) 0.2915(3)
+O4B O -0.09595(16) -0.0978(3) 0.24143(19)
+O4G O 0.09595(16) -0.0978(3) 0.25857(19)
+Co1B Co 0.50000 0.58503(8) 0.25000
+Co1B* Co -0.50000 0.58503(8) 0.25000
+#END

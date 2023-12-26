@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIMBIW
+_audit_creation_date 1994-10-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIMBIW
+_database_code_depnum_ccdc_archive 'CCDC 1233843'
+_chemical_formula_sum 'C16 H24 Cu3 K2 O16'
+_chemical_formula_moiety
+;
+(K1 1+)2n,n(C16 H24 Cu3 O16 2-)
+;
+_journal_coden_Cambridge 3
+_journal_volume 48
+_journal_year 1994
+_journal_page_first 20
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"J.Valo"
+"M.Nasakkala"
+_chemical_name_systematic
+;
+catena-(Di-potassium 
+hexakis(\m~2~-acetato-O,O')-bis(acetato-O)-tri-copper(ii))
+;
+_cell_volume   3159.831
+_exptl_crystal_colour 'light green'
+_exptl_special_details
+;
+Published dx 1.615; we calculate dx 1.56
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.038
+_refine_ls_wR_factor_gt 0.038
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.956(4)
+_cell_length_b 14.313(3)
+_cell_length_c 12.443(2)
+_cell_angle_alpha 90
+_cell_angle_beta 98.85(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cu 1.11
+K 1.33
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K1 K 0.0659(1) 0.5834(1) 0.5135(1)
+Cu1 Cu 0.2035(1) 0.7092(1) 0.4218(1)
+Cu2 Cu 0.00000 0.4843(1) 0.25000
+O1 O 0.1270(2) 0.7573(3) 0.5070(3)
+O2 O 0.2940(2) 0.6717(3) 0.3636(3)
+O3 O 0.2175(2) 0.6007(2) 0.5215(3)
+O4 O 0.2027(2) 0.8301(3) 0.3492(3)
+O5 O 0.1194(2) 0.6314(2) 0.3173(2)
+O6 O 0.0490(2) 0.5752(2) 0.1702(2)
+O7 O 0.0809(2) 0.3912(3) 0.2394(3)
+O8 O 0.0749(2) 0.4139(3) 0.4125(3)
+C1 C 0.1419(3) 0.8069(4) 0.5908(5)
+C2 C 0.0759(4) 0.8412(5) 0.6396(6)
+C3 C 0.2603(3) 0.6003(4) 0.6103(4)
+C4 C 0.2666(4) 0.5122(5) 0.6742(5)
+C5 C 0.0947(3) 0.6348(4) 0.2182(4)
+C6 C 0.1182(4) 0.7116(4) 0.1508(4)
+C7 C 0.1057(3) 0.3789(4) 0.3397(4)
+C8 C 0.1735(4) 0.3196(6) 0.3674(5)
+C1E C 0.3581(3) 0.6931(4) 0.4092(5)
+C3E C 0.2397(3) 0.8997(4) 0.3897(4)
+O2E O 0.2060(2) 0.8283(3) 0.6364(3)
+O4E O 0.2973(2) 0.6699(3) 0.6508(3)
+O6B O -0.0490(2) 0.5752(2) 0.3298(2)
+O7B O -0.0809(2) 0.3912(3) 0.2606(3)
+O1E O 0.3730(2) 0.7427(3) 0.4930(3)
+C2E C 0.4241(4) 0.6588(5) 0.3604(6)
+O3E O 0.2825(2) 0.8993(2) 0.4785(3)
+C4E C 0.2334(4) 0.9878(5) 0.3258(5)
+Cu1E Cu 0.2965(1) 0.7908(1) 0.5782(1)
+C5B C -0.0947(3) 0.6348(4) 0.2818(4)
+C7B C -0.1057(3) 0.3789(4) 0.1603(4)
+O5E O 0.3806(2) 0.8686(2) 0.6827(2)
+O5B O -0.1194(2) 0.6314(2) 0.1827(2)
+C6B C -0.1182(4) 0.7116(4) 0.3492(4)
+O8B O -0.0749(2) 0.4139(3) 0.0875(3)
+C8B C -0.1735(4) 0.3196(6) 0.1326(5)
+Cu1B Cu -0.2035(1) 0.7092(1) 0.0782(1)
+#END

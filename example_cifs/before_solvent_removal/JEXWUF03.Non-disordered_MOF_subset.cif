@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEXWUF03
+_audit_creation_date 2015-06-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEXWUF03
+_database_code_depnum_ccdc_archive 'CCDC 1048679'
+_chemical_formula_sum 'C3 H7 Co1 N1 O6'
+_chemical_formula_moiety
+;
+(H4 N1 1+)n,n(C3 H3 Co1 O6 1-)
+;
+_journal_coden_Cambridge 222
+_journal_volume 44
+_journal_year 2015
+_journal_page_first 11613
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"J.M.M.Lawler"
+"P.Manuel"
+"A.L.Thompson"
+"P.J.Saines"
+_chemical_name_systematic
+;
+catena-[Ammonium tris(\m~2~-formato)-cobalt(ii)]
+;
+_cell_volume   1132.221
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.866
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 30
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0317
+_refine_ls_wR_factor_gt 0.0317
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x-y,x,1/2+z
+3 -y,x-y,z
+4 -x,-y,1/2+z
+5 -x+y,-x,z
+6 y,-x+y,1/2+z
+_cell_length_a 12.5965(2)
+_cell_length_b 12.5965(1)
+_cell_length_c 8.2395(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6266(2) 0.8119(2) 0.6640(3)
+C2 C 0.5138(2) 0.4737(2) 0.6572(3)
+C3 C 0.8488(2) 0.7068(2) 0.6853(3)
+Co1 Co 0.66864(2) 0.66474(2) 0.41874(18)
+O1 O 0.57332(16) 0.72776(16) 0.5626(3)
+O2 O 0.57500(16) 0.83808(16) 0.7747(3)
+O3 O 0.60166(16) 0.50513(15) 0.5610(3)
+O4 O 0.48895(15) 0.39981(16) 0.7735(2)
+O5 O 0.82542(16) 0.75467(16) 0.5659(2)
+O6 O 0.93935(16) 0.76388(16) 0.7785(2)
+H1 H 0.7126(16) 0.8611(15) 0.656(2)
+H2 H 0.4608(15) 0.5048(13) 0.641(2)
+H3 H 0.7955(15) 0.6236(16) 0.708(2)
+N1 N 0.33330 0.66670 0.3711(5)
+H4 H 0.390(3) 0.648(4) 0.3336(16)
+H5 H 0.33330 0.66670 0.480(2)
+N2 N 0.66670 0.33330 0.3728(5)
+H6 H 0.5922(19) 0.277(3) 0.3356(16)
+H7 H 0.66670 0.33330 0.481(2)
+N3 N 1.00000 1.00000 0.9665(6)
+H8 H 0.9236(17) 0.977(4) 1.0036(16)
+H9 H 1.00000 1.00000 0.857(2)
+Co1A Co 1.00390(2) 0.66864(2) 0.91874(18)
+Co1C Co 0.33136(2) 0.33526(2) 0.91874(18)
+Co1E Co 0.66474(2) 0.99610(2) 0.91874(18)
+O2A O 0.73692(16) 0.57500(16) 0.2747(3)
+O4C O 0.51105(15) 0.60019(16) 0.2735(2)
+O6E O 0.76388(16) 0.82453(16) 0.2785(2)
+H4B H 0.352(3) 0.742(4) 0.3336(16)
+H4D H 0.258(3) 0.610(4) 0.3336(16)
+H6B H 0.7230(19) 0.3152(30) 0.3356(16)
+H6D H 0.6848(19) 0.4078(30) 0.3356(16)
+H8B H 1.0230(17) 0.9466(40) 1.0036(16)
+H8D H 1.0534(17) 1.0764(40) 1.0036(16)
+#END

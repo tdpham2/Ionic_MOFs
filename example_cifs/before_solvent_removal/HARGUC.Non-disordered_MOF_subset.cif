@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HARGUC
+_audit_creation_date 1994-05-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HARGUC
+_chemical_formula_sum 'C12 H24 Bi2 K1 N1 O20'
+_chemical_formula_moiety
+;
+(H4 N1 1+)n,n(K1 1+),n(C12 H10 Bi2 O15 2-),5n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 32
+_journal_year 1993
+_journal_page_first 5322
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"E.Asato"
+"K.Katsura"
+"M.Mikuriya"
+"T.Fujii"
+"J.Reedijk"
+_chemical_name_systematic
+;
+catena-(Ammonium potassium aqua-(\m~3~-citrato)-(\m~2~-citrato)-di-bismuth 
+pentahydrate)
+;
+_cell_volume   2439.222
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.61
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.072
+_refine_ls_wR_factor_gt 0.072
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.923(2)
+_cell_length_b 15.424(2)
+_cell_length_c 15.037(2)
+_cell_angle_alpha 90
+_cell_angle_beta 105.67(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Bi 1.54
+K 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.52917(7) 0.34960(5) 0.03254(5)
+Bi2 Bi 1.04259(7) 0.53525(5) 0.15542(5)
+K1 K 0.781(1) 0.1907(8) -0.2746(8)
+O1 O 0.353(2) 0.166(1) -0.226(1)
+O2 O 1.197(2) 0.481(1) 0.302(1)
+O3 O 0.685(4) 0.301(3) 0.512(3)
+O4 O 0.623(5) 0.388(4) 0.661(3)
+O5 O 0.530(6) 0.387(4) 0.362(4)
+O6 O 0.288(2) 0.440(1) 0.093(1)
+O7 O 1.026(2) 0.376(1) 0.159(1)
+O8 O 0.921(2) 0.438(1) 0.029(1)
+O9 O 0.520(2) 0.213(1) -0.053(1)
+O10 O 0.573(2) 0.080(1) -0.079(1)
+O11 O 0.627(2) 0.384(1) -0.083(1)
+O12 O 0.764(2) 0.321(1) -0.148(1)
+O13 O 0.718(1) 0.303(1) 0.079(1)
+O14 O 0.618(1) 0.498(1) 0.079(1)
+O15 O 0.604(1) 0.407(1) 0.188(1)
+O16 O 1.036(2) 0.746(1) 0.366(1)
+O17 O 1.067(1) 0.658(1) 0.261(1)
+O18 O 0.873(1) 0.620(1) 0.084(1)
+O19 O 0.722(2) 0.695(1) 0.123(1)
+O20 O 0.900(1) 0.5073(9) 0.2224(9)
+N1 N 0.321(3) 0.062(2) -0.037(2)
+C1 C 0.958(2) 0.372(2) 0.080(2)
+C2 C 0.916(3) 0.282(2) 0.042(2)
+C3 C 0.771(2) 0.276(2) 0.008(2)
+C4 C 0.741(2) 0.178(2) -0.015(2)
+C5 C 0.604(2) 0.156(2) -0.050(2)
+C6 C 0.722(2) 0.330(2) -0.077(2)
+C7 C 0.636(2) 0.481(2) 0.162(2)
+C8 C 0.693(2) 0.549(2) 0.235(2)
+C9 C 0.822(2) 0.581(1) 0.227(1)
+C10 C 0.879(2) 0.636(2) 0.312(2)
+C11 C 1.000(2) 0.684(1) 0.312(1)
+C12 C 0.803(2) 0.636(1) 0.138(1)
+O16A O 0.464(2) 0.246(1) 0.134(1)
+Bi1A Bi 0.97083(7) 0.84960(5) 0.46746(5)
+#END

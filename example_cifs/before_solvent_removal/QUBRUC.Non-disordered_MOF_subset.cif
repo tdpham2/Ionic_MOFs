@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QUBRUC
+_audit_creation_date 2015-02-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QUBRUC
+_database_code_depnum_ccdc_archive 'CCDC 1017372'
+_chemical_formula_sum 'C14 H15 N1 O6 Zr1'
+_chemical_formula_moiety
+;
+(C12 H7 O6 Zr1 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1290
+_journal_year 2014
+_journal_page_first 6281
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"L.Cooper"
+"N.Guillou"
+"C.Martineau"
+"E.Elkaim"
+"F.Taulelle"
+"C.Serre"
+"T.Devic"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium (\m~2~-hydrogen 
+pyrogallolato)-(\m~2~-pyrogallolato)-zirconium)
+;
+_chemical_name_common
+;
+MIL-153
+;
+_cell_volume   2898.334
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+powder data
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -x,y,1/2-z
+4 1/2-x,1/2-y,1/2+z
+5 1/2-x,1/2+y,1/2-z
+6 x,-y,-z
+7 1/2+x,1/2-y,-z
+8 1/2+x,1/2+y,z
+_cell_length_a 13.90990(42)
+_cell_length_b 13.92264(47)
+_cell_length_c 14.96590(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+Zr 1.75
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zr1 Zr 0.51544(21) 0.47684(18) 0.62651(19)
+O1 O 0.52353 0.36351 0.32842
+O2 O 0.52078 0.42281 0.48445
+O3 O 0.49687 0.31328 0.63160
+C1 C 0.48721 0.14092 0.44278
+C2 C 0.50006 0.20411 0.37227
+C3 C 0.51150 0.30136 0.38874
+C4 C 0.51010 0.33542 0.47570
+C5 C 0.49726 0.27223 0.54620
+C6 C 0.48582 0.17498 0.52974
+O4 O 0.35553 0.48506 0.58185
+O5 O 0.41998 0.46981 0.73759
+O6 O 0.32527 0.48170 0.88708
+C7 C 0.13806 0.51824 0.71423
+C8 C 0.19551 0.51060 0.63895
+C9 C 0.29319 0.49379 0.64792
+C10 C 0.33343 0.48463 0.73216
+C11 C 0.27599 0.49227 0.80744
+C12 C 0.17830 0.50908 0.79848
+C13 C -0.27376 0.16507 0.50125
+C14 C -0.26864 0.22561 0.64903
+N1 N -0.25746 0.24990 0.55539
+Zr1B Zr 0.48456(21) 0.47684(18) 0.87349(19)
+Zr1E Zr 0.51544(21) 0.52316(18) 0.37349(19)
+O1E O 0.52353 0.63649 0.67158
+O2E O 0.52078 0.57719 0.51555
+O5B O 0.58001 0.46981 0.76241
+O6B O 0.67473 0.48170 0.61292
+#END

@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAWQAJ01
+_audit_creation_date 2002-06-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAWQAJ01
+_chemical_formula_sum 'C26 H44 Fe1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+(C6 Fe1 Mn1 O12 1-)n,n(C20 H44 N1 1+)
+;
+_journal_coden_Cambridge 367
+_journal_volume 27
+_journal_year 2001
+_journal_page_first 605
+_journal_name_full 'Koord.Khim.(Russ.)(Coord.Chem.) '
+loop_
+_publ_author_name
+"G.V.Shilov"
+"N.S.Ovanesyan"
+"N.A.Sanina"
+"L.O.Atovmyan"
+"M.Gruziel"
+_chemical_name_systematic
+;
+catena-(Tetra-n-pentylammonium tris(\m~2~-oxalato)-iron(iii)-manganese(ii))
+;
+_cell_volume   3157.948
+_exptl_crystal_colour 'light green'
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The carbon atoms of the cation are disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0665
+_refine_ls_wR_factor_gt 0.0665
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,-z
+4 -x,y,1/2-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 1/2-x,1/2+y,1/2-z
+_cell_length_a 9.653(2)
+_cell_length_b 16.201(2)
+_cell_length_c 20.193(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Fe 1.34
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 0.1709(1) 0.25000
+Mn1 Mn 0.00000 -0.1688(1) 0.25000
+O1 O -0.0619(7) 0.0693(4) 0.3086(3)
+O2 O -0.0612(7) -0.0685(4) 0.3099(4)
+O3 O -0.1130(7) 0.2542(4) 0.3070(3)
+O4 O -0.1752(7) 0.1802(5) 0.1928(4)
+O5 O -0.3154(7) 0.3162(4) 0.3073(3)
+O6 O -0.3785(9) 0.2508(4) 0.1930(4)
+C1 C -0.0360(5) -0.0043(8) 0.2849(3)
+C2 C -0.2207(10) 0.2739(7) 0.2805(5)
+C3 C -0.2633(9) 0.2340(4) 0.2124(6)
+N1 N 0.3946(10) 0.50000 0.00000
+C4 C 0.4950(23) 0.4377(13) 0.0302(10)
+C5 C 0.5764(29) 0.3934(16) -0.0238(12)
+C6 C 0.6745(17) 0.3251(10) -0.0080(13)
+C7 C 0.8173(24) 0.3205(17) 0.0275(16)
+C8 C 0.9273(24) 0.2569(21) 0.0414(21)
+C9 C 0.3052(21) 0.4619(13) -0.0539(10)
+C10 C 0.2002(23) 0.5250(14) -0.0795(11)
+C11 C 0.1279(11) 0.4998(14) -0.1415(5)
+C12 C 0.0253(26) 0.4409(19) -0.1181(14)
+C13 C -0.0932(35) 0.4445(27) -0.1686(18)
+C14? C 0.4752(25) 0.4229(15) -0.0235(13)
+C15? C 0.5988(32) 0.4020(19) 0.0193(16)
+C16? C 0.3182(18) 0.5270(11) -0.0589(9)
+C17? C 0.2086(24) 0.4655(15) -0.0816(11)
+C18? C 0.0141(30) 0.5539(23) -0.1186(16)
+C19? C -0.0915(38) 0.5770(25) -0.1712(17)
+C1C C 0.0360(5) -0.0043(8) 0.2151(3)
+O1C O 0.0619(7) 0.0693(4) 0.1914(3)
+O2C O 0.0612(7) -0.0685(4) 0.1901(4)
+C4B C 0.4950(23) 0.5623(13) -0.0302(10)
+C5B C 0.5764(29) 0.6066(16) 0.0238(12)
+C6B C 0.6745(17) 0.6749(10) 0.0080(13)
+C7B C 0.8173(24) 0.6795(17) -0.0275(16)
+C8B C 0.9273(24) 0.7431(21) -0.0414(21)
+C9B C 0.3052(21) 0.5381(13) 0.0539(10)
+C10B C 0.2002(23) 0.4750(14) 0.0795(11)
+C11B C 0.1279(11) 0.5002(14) 0.1415(5)
+C12B C 0.0253(26) 0.5591(19) 0.1181(14)
+C13B C -0.0932(35) 0.5555(27) 0.1686(18)
+O3C O 0.1130(7) 0.2542(4) 0.1930(3)
+O4C O 0.1752(7) 0.1802(5) 0.3072(4)
+O5C O 0.3154(7) 0.3162(4) 0.1927(3)
+O6C O 0.3785(9) 0.2508(4) 0.3070(4)
+C2C C 0.2207(10) 0.2739(7) 0.2195(5)
+C3C C 0.2633(9) 0.2340(4) 0.2876(6)
+O5D O 0.1846(7) -0.1838(4) 0.3073(3)
+O5G O -0.1846(7) -0.1838(4) 0.1927(3)
+O6D O 0.1215(9) -0.2492(4) 0.1930(4)
+O6G O -0.1215(9) -0.2492(4) 0.3070(4)
+Mn1D Mn -0.50000 0.3312(1) 0.25000
+Mn1D* Mn 0.50000 0.3312(1) 0.25000
+#END

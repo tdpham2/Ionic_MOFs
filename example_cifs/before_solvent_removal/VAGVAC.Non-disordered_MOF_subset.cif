@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VAGVAC
+_audit_creation_date 2011-02-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VAGVAC
+_database_code_depnum_ccdc_archive 'CCDC 793569'
+_chemical_formula_sum 'C18 H18 Fe2 N1 O10'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(C16 H10 Fe2 O10 1-)
+;
+_journal_coden_Cambridge 182
+_journal_volume 46
+_journal_year 2010
+_journal_page_first 7987
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"M.E.Medina"
+"Y.Dumont"
+"J.-M.Greneche"
+"F.Millange"
+_chemical_name_systematic
+;
+catena-[(Dimethylammonium) 
+bis(\m~4~-benzene-1,4-dicarboxylato)-bis(\m~2~-hydroxo)-iron(ii)-iron(iii)]
+;
+_chemical_name_common
+;
+catena-[(Dimethylammonium) 
+bis(mu!4$-terephthalato)-bis(mu!2$-hydroxo)-iron(ii)-iron(iii)]
+;
+_cell_volume    553.552
+_exptl_crystal_colour 'light orange'
+_exptl_crystal_density_diffrn 1.554
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The dimethylammonium cation is disordered by symmetry over two sites with 
+occupancy 0.50. The authors state the bridging hydroxo ligand is a disordered 
+fluoro:hydroxo position. The deposited cif does not represent the mixed 
+disorder, only modelling the hydroxo ligand with full occupancy. Elemental 
+analysis suggests the OH:F ratio is approximately 0.8:0.2.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0562
+_refine_ls_wR_factor_gt 0.0562
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.9004(14)
+_cell_length_b 8.554(3)
+_cell_length_c 10.380(3)
+_cell_angle_alpha 107.15(2)
+_cell_angle_beta 100.155(17)
+_cell_angle_gamma 102.095(17)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.40
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 1.00000 0.50000 1.50000
+Fe2 Fe 1.50000 0.50000 1.50000
+C1 C 1.3611(3) 0.7582(2) 1.71740(19)
+C2 C 1.4316(3) 0.8842(2) 1.8637(2)
+C3 C 1.6396(3) 0.9589(3) 1.9264(2)
+H1 H 1.73460 0.93020 1.87700
+C4 C 1.2929(3) 0.9260(3) 1.9402(2)
+H2 H 1.15320 0.87570 1.90080
+C5 C 1.2011(3) 0.5706(2) 1.28786(19)
+C6 C 1.1001(3) 0.5375(2) 1.1387(2)
+C7 C 1.2011(3) 0.4952(3) 1.0358(2)
+H3 H 1.33560 0.49020 1.05930
+C8 C 0.8963(3) 0.5398(3) 1.1023(2)
+H4 H 0.82580 0.56480 1.17080
+C9 C 1.2583(10) 1.0551(9) 0.5589(9)
+H5 H 1.25720 0.93920 0.51440
+H6 H 1.32940 1.12630 0.51590
+H7 H 1.32670 1.09230 0.65610
+C10 C 0.9515(11) 1.0137(8) 0.6420(7)
+H8 H 1.03220 1.07890 0.73540
+H9 H 0.81800 1.03230 0.63050
+H10 H 0.93820 0.89490 0.62490
+N1 N 1.0510(13) 1.0665(7) 0.5441(9)
+H11? H 1.05130 1.17500 0.55520
+H12? H 0.97710 1.00140 0.45690
+O1 O 1.21117(16) 0.38316(13) 1.49745(11)
+O2 O 1.1664(2) 0.69052(17) 1.67287(13)
+O3 O 1.1016(2) 0.61804(16) 1.37720(13)
+O4 O 1.3756(2) 0.55054(19) 1.31613(14)
+O5 O 1.4896(2) 0.72686(18) 1.65087(14)
+Fe1* Fe 2.00000 1.50000 2.50000
+Fe1** Fe 1.00000 0.50000 0.50000
+Fe2* Fe 1.50000 1.50000 2.50000
+Fe2** Fe 0.50000 0.50000 0.50000
+Fe2*** Fe 0.50000 0.50000 1.50000
+C1A C 1.6389(3) 1.2418(2) 2.28260(19)
+C2A C 1.5684(3) 1.1158(2) 2.1363(2)
+C3A C 1.3604(3) 1.0411(3) 2.0736(2)
+H1A H 1.26540 1.06980 2.12300
+C4A C 1.7071(3) 1.0740(3) 2.0598(2)
+H2A H 1.84680 1.12430 2.09920
+C5A C 0.7989(3) 0.4294(2) 0.71214(19)
+C6A C 0.8999(3) 0.4625(2) 0.8613(2)
+C7A C 0.7989(3) 0.5048(3) 0.9642(2)
+H3A H 0.66440 0.50980 0.94070
+C8A C 1.1037(3) 0.4602(3) 0.8977(2)
+H4A H 1.17420 0.43520 0.82920
+O1A O 0.78883(16) 0.61684(13) 1.50255(11)
+O1A* O 1.78883(16) 0.61684(13) 1.50255(11)
+O2A O 1.8336(2) 1.30948(17) 2.32713(13)
+O2A* O 0.8336(2) 0.30948(17) 1.32713(13)
+O3A O 0.8984(2) 0.38196(16) 0.62280(13)
+O3A* O 0.8984(2) 0.38196(16) 1.62280(13)
+O4A O 0.6244(2) 0.44946(19) 0.68387(14)
+O4A* O 1.6244(2) 0.44946(19) 1.68387(14)
+O5A O 1.5104(2) 1.27314(18) 2.34913(14)
+O5A* O 1.5104(2) 0.27314(18) 1.34913(14)
+#END

@@ -1,0 +1,160 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IGEPEP
+_audit_creation_date 2002-09-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IGEPEP
+_database_code_depnum_ccdc_archive 'CCDC 178163'
+_chemical_formula_sum 'C9 H30 Mn2 N2 O16 P4'
+_chemical_formula_moiety
+;
+(C5 H16 N2 2+)n,n(C4 H10 Mn2 O14 P4 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 186
+_journal_year 2002
+_journal_page_first 2752
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"Hui-Hua Song"
+"Ping Yin"
+"Li-Min Zheng"
+"J.D.Korp"
+"A.J.Jacobson"
+"Song Gao"
+"Xin-Quan Xin"
+_chemical_name_systematic
+;
+catena-(Pentane-1,5-diammonium bis(\m~3~-hydrogen 
+1-hydroxyethylidenediphosphonato)-di-manganese(ii) dihydrate)
+;
+_cell_volume   1130.959
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.927
+_exptl_special_details
+;
+isomorphous with the butane and hexane diammonium analogues
+
+;
+_exptl_crystal_description 'diamond-shaped column'
+_diffrn_ambient_temperature 223
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0246
+_refine_ls_wR_factor_gt 0.0246
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 5.6141(3)
+_cell_length_b 12.4252(6)
+_cell_length_c 16.4117(8)
+_cell_angle_alpha 90
+_cell_angle_beta 98.925(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.38
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 1.02711(8) 0.30859(4) 0.16690(3)
+Mn2 Mn 0.43830(8) 0.18626(4) 0.32722(3)
+P1 P 0.47191(16) 0.41307(7) 0.09662(6)
+P2 P 0.50921(14) 0.17260(8) 0.12669(5)
+P3 P 0.99371(15) 0.08322(7) 0.39567(6)
+P4 P 0.95563(15) 0.32519(7) 0.36935(5)
+O1 O 0.7400(4) 0.4222(2) 0.12597(16)
+O2 O -0.0111(5) 0.6107(3) 0.0692(2)
+H1 H 0.12930 0.57940 0.06270
+H2 H -0.13000 0.56270 0.07160
+O3 O 1.5160(5) -0.1087(3) 0.4455(2)
+H3 H 1.40300 -0.07240 0.46770
+H4 H 1.60610 -0.06560 0.41830
+O4 O 0.3080(4) 0.4256(2) 0.16130(15)
+O5 O 0.3843(4) 0.4948(2) 0.02717(16)
+H5 H 0.49070 0.52470 -0.02090
+O6 O 0.7800(4) 0.1804(2) 0.14868(15)
+O7 O 0.3664(4) 0.1914(2) 0.19697(15)
+O8 O 0.4318(4) 0.0624(2) 0.08761(15)
+O9 O 0.1436(4) 0.2725(2) 0.03710(15)
+H6 H 0.09940 0.22000 0.00720
+O10 O 0.7240(4) 0.0749(2) 0.36916(16)
+O11 O 1.1476(4) 0.0744(2) 0.32808(15)
+O12 O 1.0873(4) -0.0011(2) 0.46217(16)
+H7 H 1.02250 -0.02340 0.52030
+O13 O 1.0951(4) 0.3092(2) 0.29723(14)
+O14 O 0.6844(4) 0.3161(2) 0.34812(15)
+O15 O 1.0337(4) 0.4335(2) 0.41044(15)
+O16 O 1.3236(4) 0.2228(2) 0.45554(15)
+H8 H 1.36780 0.28110 0.47750
+C1 C 0.4057(5) 0.2781(3) 0.0511(2)
+C2 C 0.5102(6) 0.2671(3) -0.0288(2)
+H9 H 0.45060 0.32520 -0.06590
+H10 H 0.46170 0.19860 -0.05450
+H11 H 0.68470 0.27060 -0.01680
+C3 C 1.0612(6) 0.2170(3) 0.4427(2)
+C4 C 0.9587(6) 0.2271(3) 0.5233(2)
+H12 H 0.99630 0.29770 0.54700
+H13 H 1.02960 0.17220 0.56170
+H14 H 0.78520 0.21760 0.51250
+N1 N 0.0412(6) 0.9915(3) 0.1657(2)
+H15 H -0.10390 1.01300 0.13960
+H16 H 0.15250 1.00120 0.13240
+H17 H 0.08150 1.03040 0.21200
+C5 C 0.0305(8) 0.8768(3) 0.1871(3)
+H18 H -0.02250 0.83450 0.13720
+H19 H -0.08610 0.86620 0.22510
+C6 C 0.2759(7) 0.8398(3) 0.2270(2)
+H20 H 0.34020 0.89130 0.27010
+H21 H 0.38420 0.83940 0.18560
+C7 C 0.2743(8) 0.7282(3) 0.2651(3)
+H22 H 0.19480 0.73130 0.31410
+H23 H 0.18250 0.67890 0.22540
+C8 C 0.5270(7) 0.6863(3) 0.2888(3)
+H24 H 0.58730 0.66470 0.23830
+H25 H 0.62870 0.74560 0.31330
+C9 C 0.5583(8) 0.5942(3) 0.3471(3)
+H26 H 0.72830 0.57260 0.35530
+H27 H 0.52130 0.61880 0.40050
+N2 N 0.4099(5) 0.4988(3) 0.32175(19)
+H28 H 0.37030 0.49810 0.26650
+H29 H 0.27480 0.50100 0.34490
+H30 H 0.49380 0.43890 0.33840
+O4* O 1.3080(4) 0.4256(2) 0.16130(15)
+O7* O 1.3664(4) 0.1914(2) 0.19697(15)
+O9* O 1.1436(4) 0.2725(2) 0.03710(15)
+O11* O 0.1476(4) 0.0744(2) 0.32808(15)
+O13* O 0.0951(4) 0.3092(2) 0.29723(14)
+O16* O 0.3236(4) 0.2228(2) 0.45554(15)
+Mn1* Mn 0.02711(8) 0.30859(4) 0.16690(3)
+Mn2* Mn 1.43830(8) 0.18626(4) 0.32722(3)
+H6* H 1.09940 0.22000 0.00720
+H8* H 0.36780 0.28110 0.47750
+#END

@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ELUQIM11
+_audit_creation_date 2012-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ELUQIM11
+_database_code_depnum_ccdc_archive 'CCDC 898996'
+_chemical_formula_sum 'C3 H7 N1 O6 Zn1'
+_chemical_formula_moiety
+;
+(C3 H3 O6 Zn1 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 134
+_journal_year 2012
+_journal_page_first 11940
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Wei Li"
+"M.R.Probert"
+"M.Kosa"
+"T.D.Bennett"
+"A.Thirumurugan"
+"R.P.Burwood"
+"M.Parinello"
+"J.A.K.Howard"
+"A.K.Cheetham"
+_chemical_name_systematic
+;
+catena-(Ammonium tris(\m~2~-formato)-zinc)
+;
+_cell_volume    366.543
+_exptl_crystal_colour 'light black'
+_exptl_crystal_density_diffrn 1.979
+_exptl_special_details
+;
+Absolute configuration
+high-temperature polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 290
+_diffrn_ambient_pressure 940000.0
+_refine_special_details
+;
+The ammonium H atoms are disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0273
+_refine_ls_wR_factor_gt 0.0273
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63 2 2'
+_symmetry_Int_Tables_number 182
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x-y,x,1/2+z
+3 -y,x-y,z
+4 -x,-y,1/2+z
+5 -x+y,-x,z
+6 y,-x+y,1/2+z
+7 x-y,-y,-z
+8 -x,-x+y,-z
+9 y,x,-z
+10 -y,-x,1/2-z
+11 -x+y,y,1/2-z
+12 x,x-y,1/2-z
+_cell_length_a 7.1937(4)
+_cell_length_b 7.1937(4)
+_cell_length_c 8.1788(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 1.33340 0.66670 0.25000
+O1 O 1.1090(5) 0.6956(3) 0.3935(2)
+C1 C 1.00000 0.5635(7) 0.50000
+H1 H 1.00000 0.43460 0.50000
+N1 N 1.00000 0.00000 0.75000
+H2? H 1.00000 0.00000 0.62490
+H3? H 0.97700 0.10720 0.82600
+Zn1C Zn 0.66660 0.33330 0.75000
+Zn1E Zn 1.66670 0.33330 0.75000
+Zn1A Zn 1.66670 1.33340 0.75000
+O1G O 0.8910(5) 0.5866(3) 0.6065(2)
+O1B O 1.3044(5) 0.4134(3) 0.3935(2)
+O1F O 1.4134(5) 0.3044(3) 0.6065(2)
+O1D O 1.5866(5) 0.8910(3) 0.3935(2)
+O1H O 1.6956(5) 1.1090(3) 0.6065(2)
+O1I O 1.3044(5) 0.8910(3) 0.1065(2)
+O1J O 1.5866(5) 0.6956(3) 0.1065(2)
+O1K O 1.1090(5) 0.4134(3) 0.1065(2)
+C1B C 1.43650 0.4365(7) 0.50000
+C1D C 1.56350 1.0000(7) 0.50000
+H1B H 1.56540 0.56540 0.50000
+H1D H 1.43460 1.00000 0.50000
+#END

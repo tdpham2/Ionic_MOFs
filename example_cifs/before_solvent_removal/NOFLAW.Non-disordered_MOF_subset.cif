@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOFLAW
+_audit_creation_date 2008-12-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOFLAW
+_database_code_depnum_ccdc_archive 'CCDC 680943'
+_chemical_formula_sum 'C12 H25 Cl1 Cs1 N3 O20 Ti2'
+_chemical_formula_moiety
+;
+(H4 N1 1+)3n,n(C12 H13 Cs1 O20 Ti2 2-),n(Cl1 1-)
+;
+_journal_coden_Cambridge 1290
+_journal_year 2008
+_journal_page_first 3264
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Rohe"
+"K.Merz"
+_chemical_name_systematic
+;
+catena-(Tetraammonium (\m~5~-citrato)-(\m~3~-hydrogen 
+citrato)-(\m~2~-peroxo)-diaqua-(peroxo)-cesium-di-titanium chloride)
+;
+_chemical_melting_point ?
+_cell_volume   2515.545
+_exptl_crystal_colour 'orange'
+_exptl_special_details
+;
+Decomposes above 473.15K
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'water/tetrahydrofuran'
+_diffrn_ambient_temperature 213
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0579
+_refine_ls_wR_factor_gt 0.0579
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.156(3)
+_cell_length_b 18.245(6)
+_cell_length_c 13.754(5)
+_cell_angle_alpha 90
+_cell_angle_beta 99.233(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cs 2.24
+N 0.68
+O 0.68
+Ti 1.38
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1 Ti -0.56947(11) -0.53134(6) 0.19528(8)
+Cs1 Cs -0.26337(6) -0.35356(3) 0.35566(5)
+Cl1 Cl -0.63423(18) -0.85239(10) 0.41738(14)
+C1 C -0.4040(6) -0.5214(4) 0.3863(5)
+O1 O -0.3520(5) -0.4995(3) 0.4669(4)
+Ti2 Ti -0.36417(11) -0.64442(6) 0.11989(9)
+C2 C -0.3725(6) -0.5976(4) 0.3470(5)
+O2 O -0.4885(4) -0.4839(3) 0.3261(3)
+O3 O -0.2856(4) -0.1965(3) 0.4044(3)
+C3 C -0.4627(7) -0.6568(4) 0.3822(5)
+H1 H -0.42960 -0.70500 0.36570
+H2 H -0.45310 -0.65400 0.45410
+O4 O -0.4046(4) -0.5949(2) 0.2426(3)
+O5 O -0.5219(4) -0.2674(2) -0.1383(3)
+C4 C -0.6103(7) -0.6526(4) 0.3403(5)
+O6 O -0.6549(4) -0.6069(2) 0.2713(3)
+O7 O -0.0199(5) -0.3910(3) 0.2321(4)
+C5 C -0.2285(7) -0.6191(4) 0.3856(5)
+H3 H -0.21690 -0.62260 0.45750
+H4 H -0.21170 -0.66780 0.36010
+O8 O -0.6840(5) -0.6973(3) 0.3737(4)
+O9 O -0.1521(5) -0.5094(3) 0.3132(4)
+C6 C -0.1266(7) -0.5665(4) 0.3578(5)
+O10 O -0.0030(5) -0.5892(3) 0.3876(4)
+C7 C -0.3966(7) -0.2521(4) -0.1176(5)
+C8 C -0.3020(6) -0.3030(4) -0.0515(5)
+H5 H -0.25090 -0.27370 0.00130
+H6 H -0.23860 -0.32400 -0.09040
+O11 O -0.6980(5) -0.4605(3) 0.2116(3)
+C9 C -0.3700(6) -0.3653(3) -0.0052(5)
+O12 O -0.7375(5) -0.5054(3) 0.1228(3)
+O13 O -0.5858(5) -0.3436(3) 0.3710(4)
+C10 C -0.4623(7) -0.3310(4) 0.0624(5)
+O14 O -0.2890(4) -0.5446(2) 0.0880(3)
+C11 C -0.2696(6) -0.4160(3) 0.0564(5)
+H7 H -0.22070 -0.38850 0.11190
+H8 H -0.20500 -0.43360 0.01590
+O15 O -0.4408(4) -0.4671(2) 0.1335(3)
+C12 C -0.3375(6) -0.4805(4) 0.0949(5)
+O16 O -0.5874(4) -0.3336(3) 0.0296(3)
+O17 O -0.4102(5) -0.2994(3) 0.1387(4)
+O18 O -0.4520(4) -0.4038(2) -0.0810(3)
+O19 O -0.3492(5) -0.1969(3) -0.1496(5)
+O20 O -0.2909(5) -0.1780(3) 0.3000(4)
+N1 N -0.4306(6) -0.7826(4) -0.2466(5)
+N2 N -0.6683(5) -0.9880(3) 0.1283(4)
+N3 N -0.9864(6) -0.5836(3) 0.1175(4)
+Ti1B Ti -0.43053(11) -0.46866(6) -0.19528(8)
+Cs1C Cs -0.76337(6) -0.14644(3) -0.14434(5)
+Ti2A Ti -0.13583(11) -0.14442(6) 0.38011(9)
+Ti2B Ti -0.63583(11) -0.35558(6) -0.11989(9)
+O3A O -0.2144(4) -0.6965(3) 0.0956(3)
+O5B O -0.4781(4) -0.7326(2) 0.1383(3)
+O5C O -0.0219(4) -0.2326(2) 0.3617(3)
+O16B O -0.4126(4) -0.6664(3) -0.0296(3)
+O18B O -0.5480(4) -0.5962(2) 0.0810(3)
+O20A O -0.2091(5) -0.6780(3) 0.2000(4)
+#END

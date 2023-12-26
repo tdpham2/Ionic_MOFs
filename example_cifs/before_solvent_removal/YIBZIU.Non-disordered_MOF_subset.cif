@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YIBZIU
+_audit_creation_date 2013-06-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YIBZIU
+_database_code_depnum_ccdc_archive 'CCDC 894117'
+_chemical_formula_sum 'C18 H16 In1 N1 O8'
+_chemical_formula_moiety
+;
+(C16 H8 In1 O8 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 182
+_journal_volume 49
+_journal_year 2013
+_journal_page_first 6197
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"T.Panda"
+"T.Kundu"
+"R.Banerjee"
+_chemical_name_systematic
+;
+catena-[Dimethylammonium 
+(\m~2~-isophthalato-O,O',O'',O''')-(\m~2~-isophthalato-O,O',O'')-indium 
+unknown solvate]
+;
+_cell_volume   2605.858
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.247
+_exptl_crystal_description 'Plate'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+The SQUEEZE/PLATON program may have been used.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0725
+_refine_ls_wR_factor_gt 0.0725
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+_cell_length_a 15.8408(4)
+_cell_length_b 16.5349(3)
+_cell_length_c 9.94883(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3277(8) 0.0781(8) 0.3897(11)
+C2 C 0.3581(7) 0.0457(6) 0.5216(10)
+C3 C 0.3292(5) 0.0761(4) 0.6418(15)
+H1 H 0.29030 0.11820 0.64170
+C4 C 0.3576(7) 0.0447(7) 0.7635(11)
+C5 C 0.4179(6) -0.0149(7) 0.7602(12)
+H2 H 0.43950 -0.03250 0.84210
+C6 C 0.4467(5) -0.0483(4) 0.6538(10)
+H3 H 0.48510 -0.09080 0.65810
+C7 C 0.4160(7) -0.0163(8) 0.5226(14)
+H4 H 0.43590 -0.03800 0.44230
+C8 C 0.3271(8) 0.0796(6) 0.8936(7)
+C9 C 0.3590(5) 0.2695(4) 0.1426(16)
+C10 C 0.4017(5) 0.3505(4) 0.1708(7)
+C11 C 0.3543(6) 0.4191(5) 0.1922(11)
+H5 H 0.29560 0.41740 0.19140
+C12 C 0.3985(6) 0.4926(5) 0.2157(11)
+H6 H 0.36850 0.53850 0.24090
+C13 C 0.4772(6) 0.4968(6) 0.2030(9)
+H7 H 0.50340 0.54690 0.21180
+C14 C 0.5282(5) 0.4270(5) 0.1755(6)
+C15 C 0.4888(5) 0.3556(5) 0.1527(16)
+H8 H 0.51940 0.31060 0.12540
+C16 C 0.6222(7) 0.4326(7) 0.1534(19)
+In1 In 0.28902(3) 0.12699(2) 0.1433(2)
+O1 O 0.2838(6) 0.1384(7) 0.3873(9)
+O2 O 0.3498(5) 0.0430(5) 0.2830(6)
+O3 O 0.2815(3) 0.2638(3) 0.1359(12)
+O4 O 0.4024(3) 0.2072(3) 0.1375(11)
+O5 O 0.6563(5) 0.3683(5) 0.145(3)
+O6 O 0.6618(5) 0.4911(6) 0.1146(11)
+O7 O 0.2799(8) 0.1415(9) 0.8957(13)
+O8 O 0.3507(5) 0.0455(5) 1.0003(6)
+C17 C 0.1285(9) 0.2965(7) 0.6422(18)
+H9 H 0.07360 0.31390 0.61310
+H10 H 0.16070 0.27890 0.56580
+H11 H 0.15710 0.34070 0.68520
+C18 C 0.0492(11) 0.2568(8) 0.8612(14)
+H12 H 0.01910 0.30350 0.82960
+H13 H 0.07910 0.27020 0.94210
+H14 H 0.00990 0.21390 0.87910
+N1 N 0.1191(15) 0.2263(9) 0.742(2)
+H15 H 0.16920 0.21450 0.77950
+H16 H 0.09980 0.18190 0.69940
+In1* In 0.28902(3) 0.12699(2) 1.1433(2)
+In1C In 0.78902(3) 0.37301(2) 0.1433(2)
+O5C O 0.1563(5) 0.1317(5) 0.145(3)
+O7* O 0.2799(8) 0.1415(9) -0.1043(13)
+O8* O 0.3507(5) 0.0455(5) 0.0003(6)
+#END

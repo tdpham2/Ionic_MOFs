@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KTHTOT10
+_audit_creation_date 1975-10-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KTHTOT10
+_database_code_depnum_ccdc_archive 'CCDC 1200251'
+_chemical_formula_sum 'C16 H8 K4 O36 Th2'
+_chemical_formula_moiety
+;
+(C16 O32 Th2 4-)n,4n(K1 1+),4n(H2 O1)
+;
+_journal_coeditor_code "IUCr A12159"
+_journal_coden_Cambridge 107
+_journal_volume 31
+_journal_year 1975
+_journal_page_first 1361
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.N.Akhtar"
+"A.J.Smith"
+_chemical_name_systematic
+;
+catena-(tetra-potassium bis(\m~2~-oxalato)-hexakis(oxalato)-di-thorium(iv) 
+tetrahydrate)
+;
+_cell_volume   1080.296
+_exptl_crystal_density_diffrn 2.49
+_exptl_special_details
+;
+Bond lengths of Th1-O13 and Th1-O14 have been interchanged. y(O1) is 0.0846 
+not 0.0806
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.084
+_refine_ls_wR_factor_gt 0.084
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.562(18)
+_cell_length_b 13.087(25)
+_cell_length_c 10.387(20)
+_cell_angle_alpha 115.75(3)
+_cell_angle_beta 80.90(3)
+_cell_angle_gamma 112.66(33)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+K 1.33
+O 0.68
+Th 1.79
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.06290 -0.01040 0.02070
+C2 C 0.44970 0.49040 -0.06280
+C3 C 0.07730 0.27610 0.36300
+C4 C 0.24910 0.31760 0.38860
+C5 C 0.00810 0.43560 0.10360
+C6 C 0.14750 0.53240 0.19870
+C7 C 0.28050 0.11840 -0.28670
+C8 C 0.40840 0.13170 -0.21270
+O1 O 0.18850 0.08460 0.05510
+O2 O 0.24100 0.49150 0.20590
+O3 O -0.11070 0.45440 0.12450
+O4 O 0.16670 0.64320 0.24700
+O5 O 0.17630 0.15640 -0.20850
+O6 O 0.42410 0.20040 -0.08550
+O7 O 0.26310 0.05970 -0.41960
+O8 O 0.50050 0.08320 -0.28980
+O9 O 0.04200 -0.10770 0.02290
+O10 O 0.32710 0.40090 -0.09300
+O11 O 0.50300 0.56640 -0.11100
+O12 O 0.03830 0.26130 0.24310
+O13 O 0.32950 0.31710 0.27910
+O14 O -0.01820 0.25530 0.45650
+O15 O 0.29270 0.35540 0.51040
+O16 O 0.02830 0.33810 0.01880
+Th1 Th 0.22478 0.27945 0.05313
+K1 K 0.26680 0.79800 0.08510
+K2 K 0.90680 0.69410 0.28720
+K3 K 0.63660 0.39730 0.30400
+K4 K 0.66990 0.16170 0.50320
+O17 O 0.12910 0.92570 0.32220
+O18 O 0.72510 0.20410 0.21770
+O19 O 0.42750 0.65290 0.45350
+O20 O 0.40570 0.07130 0.19350
+C1A C -0.06290 0.01040 -0.02070
+O1A O -0.18850 -0.08460 -0.05510
+O9A O -0.04200 0.10770 -0.02290
+C2A C 0.55030 0.50960 0.06280
+O10A O 0.67290 0.59910 0.09300
+O11A O 0.49700 0.43360 0.11100
+Th1A Th -0.22478 -0.27945 -0.05313
+C5A C -0.00810 -0.43560 -0.10360
+C6A C -0.14750 -0.53240 -0.19870
+O2A O -0.24100 -0.49150 -0.20590
+O3A O 0.11070 -0.45440 -0.12450
+O4A O -0.16670 -0.64320 -0.24700
+O16A O -0.02830 -0.33810 -0.01880
+C7A C -0.28050 -0.11840 0.28670
+C8A C -0.40840 -0.13170 0.21270
+O5A O -0.17630 -0.15640 0.20850
+O6A O -0.42410 -0.20040 0.08550
+O7A O -0.26310 -0.05970 0.41960
+O8A O -0.50050 -0.08320 0.28980
+C3A C -0.07730 -0.27610 -0.36300
+C4A C -0.24910 -0.31760 -0.38860
+O12A O -0.03830 -0.26130 -0.24310
+O13A O -0.32950 -0.31710 -0.27910
+O14A O 0.01820 -0.25530 -0.45650
+O15A O -0.29270 -0.35540 -0.51040
+Th1A* Th 0.77522 0.72055 -0.05313
+O10A* O -0.32710 -0.40090 0.09300
+O11* O -0.49700 -0.43360 -0.11100
+#END

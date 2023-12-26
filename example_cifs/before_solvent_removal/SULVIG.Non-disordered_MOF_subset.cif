@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SULVIG
+_audit_creation_date 2015-08-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SULVIG
+_database_code_depnum_ccdc_archive 'CCDC 1402123'
+_chemical_formula_sum 'C9 H9 Au1 N4 S2'
+_chemical_formula_moiety
+;
+C5 H9 N2 1+,n(C4 Au1 N2 S2 1-)
+;
+_journal_coden_Cambridge 182
+_journal_volume 51
+_journal_year 2015
+_journal_page_first 14299
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"R.J.Roberts"
+"D.Le"
+"D.B.Leznoff"
+_chemical_name_systematic
+;
+catena-(3,5-dimethyl-1H-pyrazolium (\m-2,2-dicyanoethene-1,1-dithiolato)-gold)
+;
+_cell_volume   2526.053
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.284
+_exptl_special_details
+;
+Luminescent
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'Re-crystallisation from solvent'
+_diffrn_ambient_temperature 150
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0474
+_refine_ls_wR_factor_gt 0.0474
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.112(4)
+_cell_length_b 12.896(4)
+_cell_length_c 11.447(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.276(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Au 1.36
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Au1 Au 0.49055(2) 0.48591(3) 0.37950(2)
+C1 C 0.5997(5) 0.3063(6) 0.5112(5)
+S1 S 0.56195(14) 0.33599(17) 0.37578(14)
+C2 C 0.6452(5) 0.2161(6) 0.5159(6)
+S2 S 0.58622(16) 0.36989(19) 0.64003(15)
+C3 C 0.6827(5) 0.1817(6) 0.6216(7)
+N1 N 0.7131(5) 0.1530(6) 0.7049(5)
+C4 C 0.6570(6) 0.1551(7) 0.4156(6)
+N2 N 0.6665(5) 0.1062(6) 0.3307(6)
+N3 N 0.8130(5) 0.1803(7) 0.8963(6)
+H1 H 0.78470 0.14830 0.84310
+N4 N 0.8507(5) 0.2676(6) 0.8812(6)
+H2 H 0.85040 0.30390 0.81610
+C5 C 0.8250(5) 0.1476(7) 1.0069(6)
+C6 C 0.9374(7) 0.3896(9) 0.9864(12)
+H3 H 0.90390 0.44810 1.00800
+H4 H 0.96190 0.40370 0.91080
+H5 H 0.97800 0.38020 1.04610
+C7 C 0.8895(6) 0.2941(7) 0.9776(8)
+C8 C 0.8731(6) 0.2185(7) 1.0591(6)
+H6 H 0.89190 0.21620 1.13730
+C9 C 0.7888(6) 0.0524(8) 1.0528(10)
+H7 H 0.82780 -0.00320 1.05530
+H8 H 0.74530 0.03180 1.00180
+H9 H 0.76920 0.06540 1.13170
+Au1A Au 0.50945(2) 0.48591(3) 0.12050(2)
+Au1D Au 0.50945(2) 0.51409(3) 0.62050(2)
+S2D S 0.41378(16) 0.63011(19) 0.35997(15)
+#END

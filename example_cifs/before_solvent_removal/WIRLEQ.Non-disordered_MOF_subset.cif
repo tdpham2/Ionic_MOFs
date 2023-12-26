@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WIRLEQ
+_audit_creation_date 2013-10-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WIRLEQ
+_database_code_depnum_ccdc_archive 'CCDC 947967'
+_chemical_formula_sum 'C9 H13 Cu3 O20 Rb3'
+_chemical_formula_moiety
+;
+(C9 H7 Cu3 O17 3-)n,3(H2 O1),3(Rb1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 43
+_journal_year 2014
+_journal_page_first 656
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"G.Pascu"
+"C.Deville"
+"S.E.Clifford"
+"L.Guenee"
+"C.Besnard"
+"K.W.Kramer"
+"Shi-Xia Liu"
+"S.Decurtins"
+"F.Tuna"
+"E.J.L.McInnes"
+"R.E.P.Winpenny"
+"A.F.Williams"
+_chemical_name_systematic
+;
+catena-[tris(rubidium) tris(\m-oxidomalonato)-diaqua-tri-copper trihydrate]
+;
+_cell_volume   2142.638
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 2.753
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.04
+_refine_ls_wR_factor_gt 0.04
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.7676(4)
+_cell_length_b 8.5338(3)
+_cell_length_c 25.7855(7)
+_cell_angle_alpha 90
+_cell_angle_beta 94.527(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+O 0.68
+Rb 2.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Rb1 Rb 0.65174(6) 0.20511(6) 0.60738(2)
+Cu1 Cu 0.30182(7) 0.40056(8) 0.62592(3)
+Cu2 Cu 0.12124(8) 0.73178(10) 0.60502(3)
+Cu3 Cu -0.00463(7) 0.41887(8) 0.66984(3)
+O1 O 0.4358(4) 0.4181(4) 0.57533(14)
+O2 O 0.5909(4) 0.5889(5) 0.55181(15)
+O3 O 0.5070(4) 0.3859(5) 0.69779(16)
+H1 H 0.46590 0.39670 0.72130
+H2 H 0.54930 0.46230 0.69420
+O4 O 0.2939(3) 0.6286(4) 0.62214(12)
+O5 O 0.2076(4) 0.8237(5) 0.54828(14)
+O6 O 0.4071(4) 0.8444(5) 0.51346(16)
+O7 O -0.0433(4) 0.8462(6) 0.58586(16)
+O8 O -0.2492(4) 0.9004(4) 0.61079(15)
+O9 O 0.0204(4) 0.6430(4) 0.65903(13)
+O10 O -0.1980(4) 0.4623(4) 0.65764(14)
+O11 O -0.3392(4) 0.6519(4) 0.67798(14)
+O12 O -0.0461(4) 0.2046(4) 0.68640(16)
+O13 O 0.0520(4) 0.0034(4) 0.73006(15)
+O14 O 0.1851(3) 0.3611(4) 0.68170(12)
+O15 O 0.3186(4) 0.1739(4) 0.62107(14)
+O16 O 0.2975(5) -0.0375(5) 0.66947(16)
+C1 C -0.2264(5) 0.6050(6) 0.66610(17)
+C2 C -0.1068(5) 0.7215(5) 0.66297(18)
+H3 H -0.09940 0.78530 0.69560
+C3 C 0.0587(5) 0.1257(6) 0.70595(19)
+C4 C -0.1406(5) 0.8325(6) 0.6169(2)
+C5 C 0.1981(5) 0.2026(5) 0.69817(19)
+H4 H 0.25350 0.20140 0.73250
+C6 C 0.3963(5) 0.6883(5) 0.59167(19)
+H5 H 0.45890 0.75560 0.61480
+C7 C 0.4827(5) 0.5569(6) 0.57078(18)
+C8 C 0.2751(5) 0.1025(6) 0.65990(19)
+C9 C 0.3350(5) 0.7920(6) 0.5466(2)
+O17 O 0.0835(5) 0.4086(6) 0.56797(19)
+H6 H 0.10000 0.44750 0.53430
+H7 H 0.01200 0.35430 0.57200
+Rb2 Rb -0.25070(5) 0.20835(6) 0.762214(19)
+Rb3 Rb -0.30257(5) 0.83769(6) 0.494845(18)
+O18 O 0.4185(4) 0.4659(5) 0.79806(16)
+H8 H 0.49190 0.45820 0.80700
+H9 H 0.36930 0.37920 0.80880
+O19 O 0.1770(6) 0.5074(9) 0.4800(2)
+H10 H 0.12360 0.47900 0.45270
+H11 H 0.25500 0.51830 0.46800
+H12 H 0.88750 0.16050 0.52170
+H13 H 0.93970 0.06320 0.56250
+O20 O 0.9948(11) 0.1296(13) 0.5358(4)
+H14? H 0.97660 0.02960 0.55390
+H15? H 0.92620 0.13330 0.50530
+O21? O 0.9341(10) 0.1585(12) 0.5501(4)
+Cu3A Cu 0.00463(7) -0.08113(8) 0.83016(3)
+O13A O -0.0520(4) 0.5034(4) 0.76994(15)
+#END

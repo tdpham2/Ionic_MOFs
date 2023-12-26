@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu2C2N4C2N2C2N2
+_chemical_formula_sum              "Cu2 C6 N8"
+_cell_length_a       15.938
+_cell_length_b       8.5815
+_cell_length_c       12.7618
+_cell_angle_alpha    90
+_cell_angle_beta     111.243
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.01018  0.83924  0.40772  1.0000
+  Cu  Cu2       1.0  0.98982  0.33924  0.59228  1.0000
+  C   C1        1.0  0.01310  0.63850  0.46700  1.0000
+  C   C2        1.0  0.98690  0.13850  0.53300  1.0000
+  N   N1        1.0  0.01540  0.93380  0.27260  1.0000
+  N   N2        1.0  0.98460  0.43380  0.72740  1.0000
+  N   N3        1.0  0.98660  0.02420  0.48820  1.0000
+  N   N4        1.0  0.01340  0.52420  0.51180  1.0000
+  C   C3        1.0  0.01270  0.01900  0.19880  1.0000
+  C   C4        1.0  0.98730  0.51900  0.80120  1.0000
+  N   N5        1.0  0.00750  0.10290  0.11060  1.0000
+  N   N6        1.0  0.99250  0.60290  0.88940  1.0000
+  C   C5        1.0  0.00170  0.25220  0.12110  1.0000
+  C   C6        1.0  0.99830  0.75220  0.87890  1.0000
+  N   N7        1.0  0.99320  0.38260  0.11660  1.0000
+  N   N8        1.0  0.00680  0.88260  0.88340  1.0000

@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IRUNIS
+_audit_creation_date 2004-05-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IRUNIS
+_chemical_formula_sum 'C6 H19 Ag1 B10 Cu1 N3'
+_chemical_formula_moiety
+;
+(C6 H9 Cu1 N3 1+)n,n(H10 Ag1 B10 1-)
+;
+_journal_coden_Cambridge 233
+_journal_volume 48
+_journal_year 2003
+_journal_page_first 1102
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"E.A.Malinina"
+"K.Yu.Zhizhin"
+"V.N.Mustyatsa"
+"L.V.Goeva"
+"I.N.Polyakova"
+"N.T.Kuznetsov"
+_chemical_name_systematic
+;
+catena-(tris(Acetonitrile)-copper(i) 
+(\m~3~-decahydro-closo-decaborato)-silver(i))
+;
+_cell_volume   1653.485
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.658
+_exptl_special_details
+;
+air-sensitive
+
+;
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0602
+_refine_ls_wR_factor_gt 0.0602
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.319(3)
+_cell_length_b 24.533(8)
+_cell_length_c 7.371(1)
+_cell_angle_alpha 90
+_cell_angle_beta 101.13(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.25
+Ag 1.68
+B 0.83
+Cu 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.50000 0.44759(3) 0.25000
+Cu1 Cu 0.50000 0.13265(6) 0.25000
+N1 N 0.50000 0.0543(4) 0.25000
+N2 N 0.4239(8) 0.1729(3) 0.0258(9)
+C1 C 0.50000 0.0085(4) 0.25000
+C2 C 0.50000 -0.0499(5) 0.25000
+C3 C 0.3568(9) 0.1931(3) -0.101(1)
+C4 C 0.270(1) 0.2190(4) -0.263(1)
+B1 B 0.406(1) 0.4059(5) -0.084(1)
+B2 B 0.578(1) 0.4063(5) -0.033(1)
+B3 B 0.4941(7) 0.3473(2) -0.1288(8)
+B4 B 0.3464(7) 0.3759(2) -0.2969(8)
+B5 B 0.411(1) 0.4450(4) -0.276(3)
+H1 H 0.334(9) 0.416(3) 0.00(1)
+H2 H 0.63(1) 0.403(5) 0.11(2)
+H3 H 0.486(7) 0.310(3) -0.049(9)
+H4 H 0.235(8) 0.360(3) -0.337(9)
+H5 H 0.35(1) 0.484(4) -0.24(1)
+H6? H 0.41100 -0.06300 0.27500
+H7? H 0.50800 -0.06300 0.37400
+H8? H 0.58200 -0.06300 0.20000
+H9 H 0.27300 0.19700 -0.37000
+H10 H 0.31000 0.25500 -0.27900
+H11 H 0.17100 0.22300 -0.24700
+B2A B 0.422(1) 0.4063(5) -0.467(1)
+B1A B 0.594(1) 0.4059(5) -0.416(1)
+B3A B 0.5059(7) 0.3473(2) -0.3712(8)
+B4A B 0.6536(7) 0.3759(2) -0.2031(8)
+B5A B 0.589(1) 0.4450(4) -0.224(3)
+H5A H 0.65(1) 0.484(4) -0.26(1)
+H4A H 0.765(8) 0.360(3) -0.163(9)
+H1A H 0.666(9) 0.416(3) -0.50(1)
+H3A H 0.514(7) 0.310(3) -0.451(9)
+H2A H 0.37(1) 0.403(5) -0.61(2)
+N2A N 0.5761(8) 0.1729(3) 0.4742(9)
+C3A C 0.6432(9) 0.1931(3) 0.601(1)
+C4A C 0.730(1) 0.2190(4) 0.763(1)
+H9A H 0.72700 0.19700 0.87000
+H10A H 0.69000 0.25500 0.77900
+H11A H 0.82900 0.22300 0.74700
+B1A* B 0.594(1) 0.4059(5) 0.584(1)
+B2A* B 0.422(1) 0.4063(5) 0.533(1)
+B5D B 0.589(1) 0.5550(4) 0.276(3)
+B5E B 0.411(1) 0.5550(4) 0.224(3)
+H1A* H 0.666(9) 0.416(3) 0.50(1)
+H2A* H 0.37(1) 0.403(5) 0.39(2)
+H5D H 0.65(1) 0.516(4) 0.24(1)
+H5E H 0.35(1) 0.516(4) 0.26(1)
+Ag1D Ag 0.50000 0.55241(3) -0.25000
+Ag1* Ag 0.50000 0.44759(3) -0.75000
+#END

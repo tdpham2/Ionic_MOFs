@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CSMNOX
+_audit_creation_date 1973-04-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CSMNOX
+_database_code_depnum_ccdc_archive 'CCDC 1131800'
+_chemical_formula_sum 'C6 H8 Cs2 Mn2 O16'
+_chemical_formula_moiety
+;
+(C6 H4 Mn2 O14 2-)n,2n(Cs1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 29
+_journal_volume 393
+_journal_year 1972
+_journal_page_first 97
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"H.Siems"
+"J.Lohn"
+_chemical_name_systematic
+;
+catena(Cesium aqua-tris(\m~2~-oxalato)-di-manganese dihydrate)
+;
+_cell_volume    446.888
+_exptl_crystal_density_diffrn 2.58
+_exptl_special_details
+;
+STANDARD DEVIATION FLAGS REFER TO C-O BONDS
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.289(1)
+_cell_length_b 10.525(1)
+_cell_length_c 5.987(1)
+_cell_angle_alpha 92.16(1)
+_cell_angle_beta 102.74(1)
+_cell_angle_gamma 92.84(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cs 1.67
+Mn 1.26
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cs1 Cs 0.53640 0.23680 0.25110
+C1 C 0.10800 0.50500 0.01600
+C2 C 0.20500 0.09600 -0.35700
+C3 C 0.07600 0.17800 -0.53100
+Mn1 Mn -0.01040 0.23180 -0.07380
+O1 O 0.18600 0.40200 0.00400
+O2 O 0.19000 0.61400 0.04600
+O3 O 0.19800 0.11000 -0.15400
+O4 O 0.30500 0.02000 -0.43900
+O5 O 0.09100 0.17400 -0.73300
+O6 O -0.03600 0.24200 -0.44700
+O7 O -0.24700 0.09100 -0.12400
+O8 O 0.43500 0.38100 0.67000
+C1A C -0.10800 0.49500 -0.01600
+O5* O 0.09100 0.17400 0.26700
+O2A O -0.19000 0.38600 -0.04600
+Mn1A Mn 0.01040 0.76820 0.07380
+O1A O -0.18600 0.59800 -0.00400
+Mn1* Mn -0.01040 0.23180 -1.07380
+O3A O -0.19800 0.89000 0.15400
+O5A O -0.09100 0.82600 -0.26700
+O6A O 0.03600 0.75800 0.44700
+O7A O 0.24700 0.90900 0.12400
+C2A C -0.20500 0.90400 0.35700
+C3A C -0.07600 0.82200 0.53100
+O4A O -0.30500 0.98000 0.43900
+O5A* O -0.09100 0.82600 0.73300
+Mn1A* Mn 0.01040 0.76820 1.07380
+#END

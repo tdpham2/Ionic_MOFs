@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOJZOL
+_audit_creation_date 2002-10-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOJZOL
+_database_code_depnum_ccdc_archive 'CCDC 1297324'
+_chemical_formula_sum 'C4 H14 N6 O14 P2 V2'
+_chemical_formula_moiety
+;
+(C1 H6 N3 1+)2n,n(C2 H2 O14 P2 V2 2-)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 13
+_journal_year 2001
+_journal_page_first 2601
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"Junghwan Do"
+"R.P.Bontchev"
+"A.J.Jacobson"
+_chemical_name_systematic
+;
+catena-(bis(Guanidinium) bis(\m~3~-hydrogen 
+phosphato-O,O',O'')-(\m~2~-oxalato)-dioxo-di-vanadium)
+;
+_cell_volume    403.072
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.192
+_exptl_special_details
+;
+isostructural with the ammonium and ethylenediammonium analogues
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0449
+_refine_ls_wR_factor_gt 0.0449
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.3825(8)
+_cell_length_b 7.8877(9)
+_cell_length_c 9.2022(11)
+_cell_angle_alpha 66.602(2)
+_cell_angle_beta 71.757(2)
+_cell_angle_gamma 79.821(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+P 1.05
+V 1.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+V1 V 0.3446(1) 0.4140(1) 0.8426(1)
+P1 P 0.8220(2) 0.3665(2) 0.9083(1)
+O1 O 0.3850(5) 0.6527(4) 0.6007(3)
+O2 O 0.6540(5) 0.4749(4) 0.8133(4)
+O3 O 1.0523(5) 0.4166(5) 0.7986(4)
+O4 O 0.7767(5) 0.3862(4) 1.0724(4)
+O5 O 0.5113(5) 0.7065(4) 0.3308(3)
+O6 O 0.3344(5) 0.2266(4) 0.9998(4)
+O7 O 0.8180(5) 0.1528(4) 0.9427(4)
+C1 C 0.4695(7) 0.6038(6) 0.4803(5)
+N1 N 1.2754(8) 0.0755(8) 0.4049(7)
+N2 N 1.0817(8) 0.2843(6) 0.5206(6)
+N3 N 1.1616(9) -0.0096(7) 0.6846(6)
+C2 C 1.1737(8) 0.1147(7) 0.5379(6)
+H1 H 1.2943(98) 0.1565(87) 0.3111(79)
+H2 H 1.0958(88) 0.0044(72) 0.7644(69)
+H3 H 1.031(10) 0.3100(86) 0.6074(76)
+H4 H 1.321(13) -0.027(11) 0.4194(95)
+H5 H 1.101(13) 0.370(11) 0.4144(98)
+H6 H 1.1855(13) -0.120(12) 0.697(10)
+C1A C 0.5305(7) 0.3962(6) 0.5197(5)
+O1A O 0.6150(5) 0.3473(4) 0.3993(3)
+O5A O 0.4887(5) 0.2935(4) 0.6692(3)
+P1* P -0.1780(2) 0.3665(2) 0.9083(1)
+O2* O -0.3460(5) 0.4749(4) 0.8133(4)
+O3* O 0.0523(5) 0.4166(5) 0.7986(4)
+O4* O -0.2233(5) 0.3862(4) 1.0724(4)
+O7* O -0.1820(5) 0.1528(4) 0.9427(4)
+V1A V 0.6554(1) 0.5860(1) 0.1574(1)
+O4A O 0.2233(5) 0.6138(4) 0.9276(4)
+V1* V 1.3446(1) 0.4140(1) 0.8426(1)
+V1A* V 0.6554(1) 0.5860(1) 1.1574(1)
+V1** V -0.6554(1) 0.4140(1) 0.8426(1)
+V1A** V -0.3446(1) 0.5860(1) 1.1574(1)
+O1* O -0.6150(5) 0.6527(4) 0.6007(3)
+O3** O -0.9477(5) 0.4166(5) 0.7986(4)
+O4A* O -0.7767(5) 0.6138(4) 0.9276(4)
+O5A* O -0.5113(5) 0.2935(4) 0.6692(3)
+O6* O -0.6656(5) 0.2266(4) 0.9998(4)
+#END

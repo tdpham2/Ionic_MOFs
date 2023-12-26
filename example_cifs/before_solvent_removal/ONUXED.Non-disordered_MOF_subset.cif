@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ONUXED
+_audit_creation_date 2021-03-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ONUXED
+_database_code_depnum_ccdc_archive 'CCDC 2016262'
+_chemical_formula_sum 'C10 H25 Am1 N2 O11'
+_chemical_formula_moiety
+;
+(C10 H15 Am1 O10 2-)n,2(H4 N1 1+),H2 O1
+;
+_journal_coden_Cambridge 1475
+_journal_volume 12
+_journal_year 2021
+_journal_page_first 5638
+_journal_name_full 'Chemical Science '
+loop_
+_publ_author_name
+"Z.R.Jones"
+"Maksim Y.Livshits"
+"F.D.White"
+"E.Dalodiere"
+"M.G.Ferrier"
+"L.M.Lilley"
+"K.E.Knope"
+"S.A.Kozimor"
+"V.Mocko"
+"B.L.Scott"
+"B.W.Stein"
+"J.N.Wacker"
+"D.H.Woen"
+_chemical_name_systematic
+;
+catena-[bis(ammonium) (\m-acetato)-tetrakis(acetato)-americium(iii) 
+monohydrate unknown solvate]
+;
+_cell_volume   2078.533
+_exptl_crystal_colour 'peach'
+_exptl_crystal_description 'rectangular blocks'
+_diffrn_ambient_temperature 298.4
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the MASK/OLEX2 program.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0284
+_refine_ls_wR_factor_gt 0.0284
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.7963(3)
+_cell_length_b 15.0543(8)
+_cell_length_c 20.4812(11)
+_cell_angle_alpha 90
+_cell_angle_beta 97.297(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Am 1.80
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Am1 Am 0.53107(2) 0.59582(2) 0.78159(2)
+O1 O 0.4045(3) 0.46776(16) 0.84780(13)
+O2 O -0.1291(3) 0.64330(19) 0.79693(13)
+O3 O 0.4973(4) 0.75235(17) 0.82807(13)
+O4 O 0.7258(3) 0.47534(18) 0.85025(14)
+O5 O 0.1791(3) 0.6180(2) 0.78414(15)
+O6 O 0.4200(5) 0.7936(2) 0.61659(14)
+O7 O 0.4963(4) 0.6856(2) 0.68648(13)
+O8 O 0.5385(5) 0.64705(17) 0.90140(12)
+O9 O 0.6940(4) 0.4939(2) 0.70465(15)
+O10 O 0.3722(5) 0.4815(2) 0.70036(15)
+C1 C 0.5757(5) 0.4427(2) 0.87110(16)
+C2 C 0.0217(4) 0.6594(2) 0.76998(15)
+C3 C 0.5097(5) 0.7281(2) 0.88610(17)
+C4 C 0.4691(5) 0.7155(2) 0.62930(16)
+C5 C 0.5320(7) 0.4591(3) 0.6807(2)
+C6 C 0.5996(6) 0.3740(3) 0.9245(2)
+H1 H 0.72849 0.34728 0.92642
+H2 H 0.49954 0.32914 0.91526
+H3 H 0.58617 0.40156 0.96595
+C7 C 0.0108(6) 0.7327(3) 0.7208(2)
+H4 H -0.11613 0.73143 0.69423
+H5 H 0.11372 0.72514 0.69324
+H6 H 0.02775 0.78862 0.74329
+C8 C 0.4891(9) 0.7932(3) 0.9402(3)
+H7 H 0.46503 0.85137 0.92177
+H8 H 0.60910 0.79382 0.97051
+H9 H 0.38008 0.77598 0.96298
+C9 C 0.5311(11) 0.3914(4) 0.6268(4)
+H10 H 0.43104 0.34756 0.63129
+H11 H 0.65854 0.36311 0.62987
+H12 H 0.50307 0.42014 0.58482
+C10 C 0.5017(12) 0.6551(4) 0.5736(3)
+H13 H 0.41067 0.60619 0.57211
+H14 H 0.63531 0.63305 0.58015
+H15 H 0.48016 0.68740 0.53293
+N1 N 0.3602(5) 0.8838(2) 0.50204(14)
+O11 O 0.4579(5) 0.89420(19) 0.7351(2)
+H16 H 0.45887 0.86285 0.70062
+H17 H 0.46789 0.85673 0.76643
+N2 N 1.0908(5) 0.5413(3) 0.91197(16)
+Am1* Am -0.46893(2) 0.59582(2) 0.78159(2)
+O2* O 0.8709(3) 0.64330(19) 0.79693(13)
+#END

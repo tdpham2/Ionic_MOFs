@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OBUHOL
+_audit_creation_date 2017-01-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OBUHOL
+_database_code_depnum_ccdc_archive 'CCDC 1042653'
+_chemical_formula_sum 'C10 H20 Co1 N2 Na2 O12'
+_chemical_formula_moiety
+;
+(C10 H12 Co1 N2 O8 2-)n,4n(H2 O1),2n(Na1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 46
+_journal_year 2017
+_journal_page_first 1290
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Yu-Chen Yang"
+"Rui Wu"
+"Yan Cai"
+"Zhao-Hui Zhou"
+_chemical_name_systematic
+;
+catena-[di-sodium (\m-ethylenediaminetetraacetato)-cobalt tetrahydrate]
+;
+_chemical_name_common
+;
+catena-[di-sodium 
+(mu-(2,2',2'',2'''-(ethane-1,2-diylbis(nitrilo))tetrakis(acetato)))-cobalt 
+tetrahydrate]
+;
+_cell_volume   1691.951
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.826
+_exptl_crystal_description 'flaky'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0402
+_refine_ls_wR_factor_gt 0.0402
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.9539(3)
+_cell_length_b 10.1298(4)
+_cell_length_c 18.8815(9)
+_cell_angle_alpha 90
+_cell_angle_beta 98.901(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na 0.07482(12) -0.33937(11) -0.00559(6)
+C1 C -0.6619(3) -0.2252(3) -0.09625(14)
+C2 C -0.7593(3) -0.2663(3) -0.16668(13)
+H1 H -0.82070 -0.34450 -0.15850
+H2 H -0.82910 -0.19360 -0.18450
+C3 C -0.8803(3) -0.3845(3) -0.31549(13)
+C4 C -0.7435(3) -0.2935(3) -0.29502(13)
+H3 H -0.66990 -0.31350 -0.32770
+H4 H -0.77810 -0.20160 -0.30490
+C5 C -0.1860(3) -0.1950(3) -0.12375(13)
+C6 C -0.2436(3) -0.3326(3) -0.14823(14)
+H5 H -0.15710 -0.39140 -0.15250
+H6 H -0.30140 -0.37120 -0.11260
+C7 C -0.3339(3) -0.1978(3) -0.33151(14)
+C8 C -0.2507(3) -0.2904(3) -0.27484(14)
+H7 H -0.22640 -0.37370 -0.29810
+H8 H -0.15420 -0.24900 -0.25310
+C9 C -0.5808(3) -0.4254(3) -0.20238(14)
+H9 H -0.64930 -0.49980 -0.21870
+H10 H -0.55260 -0.43210 -0.14970
+C10 C -0.4405(3) -0.4354(3) -0.23706(14)
+H11 H -0.38530 -0.51750 -0.22100
+H12 H -0.46940 -0.43980 -0.28980
+N1 N -0.6614(2) -0.2979(2) -0.22078(11)
+N2 N -0.3412(2) -0.3205(2) -0.21805(11)
+O1 O -0.5346(2) -0.1751(2) -0.10191(10)
+O2 O -0.7109(2) -0.2424(2) -0.03867(10)
+O3 O -0.9667(2) -0.35512(19) -0.37162(10)
+O4 O -0.8941(2) -0.4826(2) -0.27570(9)
+O5 O -0.26755(19) -0.09706(18) -0.14723(10)
+O6 O -0.0639(2) -0.1876(2) -0.08167(11)
+O7 O -0.4417(2) -0.13016(19) -0.31301(10)
+O8 O -0.2892(2) -0.1897(2) -0.39058(10)
+Co1 Co -0.47796(3) -0.14877(3) -0.207059(17)
+O9 O 0.1127(2) -0.5527(2) -0.05498(11)
+H13 H 0.070(2) -0.576(3) -0.0962(8)
+H14 H 0.2033(14) -0.579(3) -0.0475(13)
+Na2 Na -0.71301(12) -0.10253(11) 0.06522(6)
+O10 O -0.6766(2) 0.0771(2) -0.00681(11)
+H15 H -0.612(3) 0.113(4) 0.0253(12)
+H16 H -0.641(3) 0.079(4) -0.0466(9)
+O11 O -1.0005(3) -0.0829(2) 0.07358(12)
+H17 H -1.0868(18) -0.098(2) 0.0484(14)
+H18 H -0.987(3) 0.0004(11) 0.0759(15)
+O12 O 0.5718(3) -0.3875(2) 0.05145(13)
+H19 H 0.591(3) -0.3076(13) 0.0626(14)
+H20 H 0.501(2) -0.392(2) 0.0165(11)
+O4A O -0.6059(2) 0.0174(2) -0.22430(9)
+Co1A Co -1.02204(3) -0.64877(3) -0.292941(17)
+#END

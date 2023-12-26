@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUQYOV
+_audit_creation_date 2020-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUQYOV
+_database_code_depnum_ccdc_archive 'CCDC 1963553'
+_chemical_formula_sum 'C4 H6 N1 O9 Yb1'
+_chemical_formula_moiety
+;
+(C4 H2 O9 Yb1 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 1048
+_journal_volume 22
+_journal_year 2020
+_journal_page_first 4364
+_journal_name_full 'Green Chemistry '
+loop_
+_publ_author_name
+"I.Huskic"
+"M.Arhangelskis"
+"T.Friscic"
+_chemical_name_systematic
+;
+catena-(ammonium bis(\m-oxalato)-aqua-ytterbium)
+;
+_cell_volume    435.129
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 2.893
+_exptl_special_details
+;
+powder data
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 2/n'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-y,-1/2+z
+_cell_length_a 9.0427(2)
+_cell_length_b 6.09117(12)
+_cell_length_c 7.8999(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90.182(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+Yb 1.87
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5369(16) -0.107(4) 0.4686(19)
+C2 C 0.4739(19) -0.109(3) 0.9592(18)
+O1 O 0.6751(8) -0.1244(17) 0.5105(10)
+O2 O 0.4780(9) -0.2293(13) 0.3650(12)
+O3 O 0.5656(8) -0.1506(14) 0.8274(10)
+O4 O 0.3842(9) -0.2381(14) 1.0073(12)
+O5 O 0.75000 0.4938(13) 0.75000
+Yb1 Yb 0.75000 0.1044(2) 0.75000
+N1 N 1.25000 0.4880(16) -0.25000
+C1B C 0.4631(16) 0.107(4) 0.5314(19)
+O1B O 0.3249(8) 0.1244(17) 0.4895(10)
+O2B O 0.5220(9) 0.2293(13) 0.6350(12)
+C2B C 0.5261(19) 0.109(3) 1.0408(18)
+O3B O 0.4344(8) 0.1506(14) 1.1726(10)
+O4B O 0.6158(9) 0.2381(14) 0.9927(12)
+O1A O 0.8249(8) -0.1244(17) 0.9895(10)
+O2C O 0.9780(9) 0.2293(13) 0.8650(12)
+O3A O 0.9344(8) -0.1506(14) 0.6726(10)
+O4C O 0.8842(9) 0.2381(14) 0.5073(12)
+Yb1B Yb 0.25000 -0.1044(2) 0.25000
+Yb1B* Yb 0.25000 -0.1044(2) 1.25000
+#END

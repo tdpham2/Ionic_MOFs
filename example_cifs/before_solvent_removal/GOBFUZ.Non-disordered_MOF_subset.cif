@@ -1,0 +1,234 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOBFUZ
+_audit_creation_date 2008-11-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOBFUZ
+_database_code_depnum_ccdc_archive 'CCDC 691777'
+_chemical_formula_sum 'C12 H8.2 In1 K1.28 N4.64 Na0.36 O12.02'
+_chemical_formula_moiety
+;
+(C12 H4 In1 N4 O8 1-)n,0.36n(Na1 1+),1.28n(K1 1+),0.64n(N1 O3 1-),2.1n(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 130
+_journal_year 2008
+_journal_page_first 3768
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"D.F.Sava"
+"V.Ch.Kravtsov"
+"F.Nouar"
+"L.Wojtas"
+"J.F.Eubank"
+"M.Eddaoudi"
+_chemical_name_systematic
+;
+catena-(Sodium potassium 
+bis(\m~2~-4,6-pyrimidine-4,6-dicarboxylato-N,N',O,O')-indium nitrate hydrate)
+;
+_cell_volume   6603.405
+_exptl_crystal_colour 'pale yellow'
+_exptl_special_details
+;
+The z value is given as 96 in the paper and cif
+
+;
+_exptl_crystal_description 'polyhedra'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+A sodium ion, potassium ion and oxygen atoms of a nitrate ion are disordered, 
+the latter by symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0436
+_refine_ls_wR_factor_gt 0.0436
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'I m -3 m'
+_symmetry_Int_Tables_number 229
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 y,x,-z
+5 y,-x,z
+6 -y,x,z
+7 x,z,-y
+8 -x,z,y
+9 x,-z,y
+10 z,y,-x
+11 z,-y,x
+12 -z,y,x
+13 1/2+x,1/2+y,1/2+z
+14 1/2+z,1/2+x,1/2+y
+15 1/2+y,1/2+z,1/2+x
+16 1/2+y,1/2+x,1/2-z
+17 1/2+y,1/2-x,1/2+z
+18 1/2-y,1/2+x,1/2+z
+19 1/2+x,1/2+z,1/2-y
+20 1/2-x,1/2+z,1/2+y
+21 1/2+x,1/2-z,1/2+y
+22 1/2+z,1/2+y,1/2-x
+23 1/2+z,1/2-y,1/2+x
+24 1/2-z,1/2+y,1/2+x
+25 -x,-y,z
+26 -x,y,-z
+27 x,-y,-z
+28 z,-x,-y
+29 -z,-x,y
+30 -z,x,-y
+31 -y,z,-x
+32 y,-z,-x
+33 -y,-z,x
+34 -y,-x,-z
+35 -x,-z,-y
+36 -z,-y,-x
+37 1/2-x,1/2-y,1/2+z
+38 1/2-x,1/2+y,1/2-z
+39 1/2+x,1/2-y,1/2-z
+40 1/2+z,1/2-x,1/2-y
+41 1/2-z,1/2-x,1/2+y
+42 1/2-z,1/2+x,1/2-y
+43 1/2-y,1/2+z,1/2-x
+44 1/2+y,1/2-z,1/2-x
+45 1/2-y,1/2-z,1/2+x
+46 1/2-y,1/2-x,1/2-z
+47 1/2-x,1/2-z,1/2-y
+48 1/2-z,1/2-y,1/2-x
+49 -x,-y,-z
+50 -z,-x,-y
+51 -y,-z,-x
+52 -y,-x,z
+53 -y,x,-z
+54 y,-x,-z
+55 -x,-z,y
+56 x,-z,-y
+57 -x,z,-y
+58 -z,-y,x
+59 -z,y,-x
+60 z,-y,-x
+61 -1/2-x,-1/2-y,-1/2-z
+62 -1/2-z,-1/2-x,-1/2-y
+63 -1/2-y,-1/2-z,-1/2-x
+64 -1/2-y,-1/2-x,-1/2+z
+65 -1/2-y,-1/2+x,-1/2-z
+66 -1/2+y,-1/2-x,-1/2-z
+67 -1/2-x,-1/2-z,-1/2+y
+68 -1/2+x,-1/2-z,-1/2-y
+69 -1/2-x,-1/2+z,-1/2-y
+70 -1/2-z,-1/2-y,-1/2+x
+71 -1/2-z,-1/2+y,-1/2-x
+72 -1/2+z,-1/2-y,-1/2-x
+73 x,y,-z
+74 x,-y,z
+75 -x,y,z
+76 -z,x,y
+77 z,x,-y
+78 z,-x,y
+79 y,-z,x
+80 -y,z,x
+81 y,z,-x
+82 y,x,z
+83 x,z,y
+84 z,y,x
+85 -1/2+x,-1/2+y,-1/2-z
+86 -1/2+x,-1/2-y,-1/2+z
+87 -1/2-x,-1/2+y,-1/2+z
+88 -1/2-z,-1/2+x,-1/2+y
+89 -1/2+z,-1/2+x,-1/2-y
+90 -1/2+z,-1/2-x,-1/2+y
+91 -1/2+y,-1/2-z,-1/2+x
+92 -1/2-y,-1/2+z,-1/2+x
+93 -1/2+y,-1/2+z,-1/2-x
+94 -1/2+y,-1/2+x,-1/2+z
+95 -1/2+x,-1/2+z,-1/2+y
+96 -1/2+z,-1/2+y,-1/2+x
+_cell_length_a 18.761(4)
+_cell_length_b 18.761(4)
+_cell_length_c 18.761(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 12
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.63
+K 0.78
+N 0.68
+Na 0.71
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.25000 0.50000 0.00000
+N1 N 0.2912(4) 0.3798(4) 0.00000
+O1 O 0.1577(3) 0.4241(3) 0.00000
+O2 O 0.1172(4) 0.3115(4) 0.00000
+C1 C 0.3596(5) 0.3596(5) 0.00000
+H1 H 0.39460 0.39460 0.00000
+C2 C 0.2412(5) 0.3296(5) 0.00000
+C3 C 0.2588(6) 0.2588(6) 0.00000
+H2 H 0.22370 0.22370 0.00000
+C4 C 0.1658(5) 0.3578(6) 0.00000
+K1 K 0.00000 0.2189(5) 0.00000
+K2? K 0.00000 0.4084(6) 0.00000
+Na1 Na 0.00000 0.3202(18) 0.00000
+O3 O 0.3212(18) 0.3212(18) 0.174(2)
+N2 N 0.0907(17) 0.0907(17) 0.0907(17)
+O4 O 0.1142(13) 0.1142(13) 0.0324(16)
+O5? O 0.00000 0.537(4) 0.00000
+In1C In 0.50000 0.25000 0.00000
+In1I In 0.00000 0.50000 -0.25000
+N1C N 0.3798(4) 0.2912(4) 0.00000
+N1S N 0.2088(4) 0.5000(4) -0.12020
+N1MC N 0.1202(4) 0.5000(4) -0.20880
+N1UB N 0.2912(4) 0.6202(4) 0.00000
+N1PB N 0.2088(4) 0.5000(4) 0.12020
+O1S O 0.3423(3) 0.5000(3) -0.07590
+O1UB O 0.1577(3) 0.5759(3) 0.00000
+O1PB O 0.3423(3) 0.5000(3) 0.07590
+O1C O 0.4241(3) 0.1577(3) 0.00000
+O1MC O 0.0759(3) 0.5000(3) -0.34230
+O2S O 0.3828(4) 0.5000(4) -0.18850
+O2C O 0.3115(4) 0.1172(4) 0.00000
+O2MC O 0.1885(4) 0.5000(4) -0.38280
+C1S C 0.1404(5) 0.5000(5) -0.14040
+H1S H 0.10540 0.50000 -0.10540
+C2C C 0.3296(5) 0.2412(5) 0.00000
+C2S C 0.2588(5) 0.5000(5) -0.17040
+C2MC C 0.1704(5) 0.5000(5) -0.25880
+C3S C 0.2412(6) 0.5000(6) -0.24120
+H2S H 0.27630 0.50000 -0.27630
+C4S C 0.3342(5) 0.5000(6) -0.14220
+C4C C 0.3578(5) 0.1658(6) 0.00000
+C4MC C 0.1422(5) 0.5000(6) -0.33420
+N2C N 0.0907(17) 0.0907(17) -0.0907(17)
+O4A O 0.0324(13) 0.1142(13) 0.1142(16)
+O4B O 0.1142(13) 0.0324(13) 0.1142(16)
+O4C O 0.1142(13) 0.1142(13) -0.0324(16)
+O4K O -0.0324(13) 0.1142(13) 0.1142(16)
+O4H O 0.1142(13) -0.0324(13) 0.1142(16)
+#END

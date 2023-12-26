@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUGDAI02
+_audit_creation_date 2020-04-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUGDAI02
+_database_code_depnum_ccdc_archive 'CCDC 1974336'
+_chemical_formula_sum 'C20 H40 Co2 N4 O22'
+_chemical_formula_moiety
+;
+(C8 Co2 O16 4-)n,2(C6 H14 N2 2+),6(H2 O1)
+;
+_journal_coden_Cambridge 1695
+_journal_volume 8
+_journal_year 2020
+_journal_page_first 6254
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"K.Pasinska"
+"A.Ciupa"
+"A.Pikul"
+"A.Gagor"
+"A.Pietraszko"
+"A.Cizman"
+_chemical_name_systematic
+;
+catena-(bis(1,4-diazoniabicyclo[2.2.2]octane) 
+bis(\m-oxalato)-bis(oxalato)-di-cobalt hexahydrate)
+;
+_cell_volume   1541.039
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.738
+_exptl_special_details
+;
+P21/n polymorph
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 220
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0395
+_refine_ls_wR_factor_gt 0.0395
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.402(3)
+_cell_length_b 16.756(5)
+_cell_length_c 9.786(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.66(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.09969(4) 0.45425(2) 0.25168(4)
+O1 O -0.0777(2) 0.43980(12) 0.3729(2)
+O2 O 0.0401(2) 0.55725(12) 0.1456(2)
+O3 O 0.3110(2) 0.46138(12) 0.1981(2)
+O4 O 0.17297(19) 0.34157(12) 0.3147(2)
+O5 O -0.0341(2) 0.59573(12) -0.0636(2)
+O6 O -0.15999(19) 0.47672(13) 0.5750(2)
+C1 C -0.0686(3) 0.47541(17) 0.4848(3)
+C2 C 0.3790(3) 0.39760(19) 0.2149(3)
+C3 C 0.2963(3) 0.32631(18) 0.2745(3)
+C4 C 0.0022(3) 0.54384(17) 0.0233(3)
+O7 O 0.3567(2) 0.26053(14) 0.2784(3)
+O8 O 0.5042(2) 0.38634(15) 0.1861(3)
+O9 O 0.43924 0.58103 0.49094
+H1 H 0.34160 0.57240 0.46190
+H2 H 0.43250 0.55710 0.58100
+O10 O 0.1547(2) 0.13849(16) 0.3141(3)
+H3 H 0.21805 0.17302 0.29772
+H4 H 0.18143 0.09309 0.28596
+O11 O 0.68080(18) 0.50286(14) 0.0840(3)
+H5 H 0.66745 0.50933 -0.00176
+H6 H 0.61327 0.47513 0.11550
+N1 N -0.11695(11) 0.17434(6) 0.23112(15)
+H7 H -0.02954 0.14249 0.23631
+N2 N -0.33715(10) 0.25428(7) 0.21907(16)
+H8 H -0.42449 0.28620 0.21424
+C5 C -0.22182(11) 0.29877(7) 0.15190(16)
+H9 H -0.19679 0.34591 0.20486
+H10 H -0.25366 0.31566 0.06127
+C6 C -0.09383(11) 0.24469(7) 0.14196(11)
+H11 H -0.08283 0.22767 0.04811
+H12 H -0.00825 0.27285 0.17165
+C7 C -0.23410(12) 0.12459(7) 0.17152(17)
+H13 H -0.25611 0.08141 0.23344
+H14 H -0.20556 0.10163 0.08555
+C8 C -0.36329(11) 0.17702(9) 0.14840(13)
+H15 H -0.37995 0.18591 0.05130
+H16 H -0.44669 0.15132 0.18446
+C9 C -0.15227(13) 0.20087(10) 0.37053(12)
+H17 H -0.08203 0.23906 0.40409
+H18 H -0.15176 0.15556 0.43223
+C10 C -0.29768(14) 0.23889(10) 0.36502(14)
+H19 H -0.36667 0.20355 0.40520
+H20 H -0.29610 0.28857 0.41591
+O1B O 0.0777(2) 0.56020(12) 0.6271(2)
+O6B O 0.15999(19) 0.52328(13) 0.4250(2)
+C1B C 0.0686(3) 0.52459(17) 0.5152(3)
+O2B O -0.0401(2) 0.44275(12) -0.1456(2)
+O5B O 0.0341(2) 0.40427(12) 0.0636(2)
+C4B C -0.0022(3) 0.45616(17) -0.0233(3)
+Co1B Co -0.09969(4) 0.54575(2) -0.25168(4)
+O3B O -0.3110(2) 0.53862(12) -0.1981(2)
+O4B O -0.17297(19) 0.65843(12) -0.3147(2)
+C2B C -0.3790(3) 0.60240(19) -0.2149(3)
+C3B C -0.2963(3) 0.67369(18) -0.2745(3)
+O7B O -0.3567(2) 0.73947(14) -0.2784(3)
+O8B O -0.5042(2) 0.61366(15) -0.1861(3)
+Co1B* Co -0.09969(4) 0.54575(2) 0.74832(4)
+O1B* O 0.0777(2) 0.56020(12) -0.3729(2)
+O6* O -0.15999(19) 0.47672(13) -0.4250(2)
+#END

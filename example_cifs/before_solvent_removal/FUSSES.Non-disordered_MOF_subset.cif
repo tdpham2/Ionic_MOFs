@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUSSES
+_audit_creation_date 2010-04-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUSSES
+_database_code_depnum_ccdc_archive 'CCDC 708586'
+_chemical_formula_sum 'C2 H6 N1 O9 S1 Yb1'
+_chemical_formula_moiety
+;
+(H4 N1 1+)n,n(C2 H2 O9 S1 Yb1 1-)
+;
+_journal_coden_Cambridge 222
+_journal_year 2009
+_journal_page_first 3447
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Hsiao-Chan Liu"
+"I-Han Chen"
+"Anny Huang"
+"Sin-Chiang Huang"
+"Kuei Fang Hsu"
+_chemical_name_systematic
+;
+catena-(Ammonium 
+(\m~3~-sulfato-O,O',O'')-(\m~2~-oxalato-O,O',O'',O''')-aqua-ytterbium)
+;
+_cell_volume    750.860
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 3.478
+_exptl_crystal_description 'columnar'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0246
+_refine_ls_wR_factor_gt 0.0246
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.4884(5)
+_cell_length_b 8.4666(6)
+_cell_length_c 13.683(1)
+_cell_angle_alpha 90
+_cell_angle_beta 92.663(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+S 1.02
+Yb 1.87
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Yb1 Yb 0.24567(3) 0.24019(3) 0.908906(18)
+S1 S 0.2414(2) -0.16651(16) 0.97457(10)
+O1 O 0.2480(6) 0.0069(5) 0.9901(3)
+O2 O 0.4412(7) -0.2372(5) 1.0047(4)
+O3 O 0.1947(8) -0.2001(6) 0.8719(4)
+O4 O 0.0819(7) -0.2350(5) 1.0350(4)
+O5 O 0.4490(7) 0.4406(5) 0.8392(3)
+O6 O 0.0427(6) 0.4399(5) 0.8270(3)
+O7 O 0.0441(6) 0.6049(5) 0.6997(3)
+O8 O 0.4559(6) 0.6175(5) 0.7182(3)
+O9 O 0.2380(7) 0.4233(6) 1.0377(3)
+H1 H 0.20550 0.37660 1.08880
+H2 H 0.35510 0.46630 1.04540
+C1 C 0.3661(9) 0.5293(7) 0.7754(4)
+C2 C 0.1303(9) 0.5251(7) 0.7666(4)
+N1 N 0.7349(8) 0.3359(7) 0.6890(4)
+Yb1B Yb 0.75433(3) -0.24019(3) 1.091094(18)
+Yb1B* Yb -0.24567(3) -0.24019(3) 1.091094(18)
+Yb1A Yb 0.25433(3) 0.74019(3) 0.591094(18)
+O2B O 0.5588(7) 0.2372(5) 0.9953(4)
+O4B O -0.0819(7) 0.2350(5) 0.9650(4)
+O7A O 0.4559(6) 0.1049(5) 0.8003(3)
+O8A O 0.0441(6) 0.1175(5) 0.7818(3)
+#END

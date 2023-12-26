@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEPJUZ
+_audit_creation_date 2017-12-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEPJUZ
+_database_code_depnum_ccdc_archive 'CCDC 1570111'
+_chemical_formula_sum 'C10 H18 Ga1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+C4 H12 N1 1+,n(C6 H6 Ga1 Mn1 O12 1-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 57
+_journal_year 2018
+_journal_page_first 537
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Kai Wang"
+"Jian-Bo Xiong"
+"Bin Xia"
+"Qing-Lun Wang"
+"Yu-Zhang Tong"
+"Yue Ma"
+"Xian-He Bu"
+_chemical_name_systematic
+;
+catena-[diethylammonium hexakis(\m-formato)-gallium(iii)-manganese(ii)]
+;
+_cell_volume    838.955
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.856
+_exptl_special_details
+;
+triclinic low-temperature polymorph
+first-order ferroelastic order disorder phase transition around 220 K
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 113
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.067
+_refine_ls_wR_factor_gt 0.067
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.3337(19)
+_cell_length_b 8.5005(18)
+_cell_length_c 13.462(5)
+_cell_angle_alpha 88.83(2)
+_cell_angle_beta 89.26(2)
+_cell_angle_gamma 61.632(11)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ga 1.22
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga1 Ga 0.00000 0.50000 0.50000
+O1 O 0.1871(6) 0.3112(6) 0.4183(3)
+C1 C 0.3351(8) 0.2998(8) 0.3860(4)
+O2 O 0.4550(6) 0.1686(6) 0.3437(3)
+H1 H 0.35510 0.39740 0.39490
+Mn1 Mn 0.68038(12) 0.15109(11) 0.25529(6)
+O3 O 0.4758(6) 0.3348(6) 0.1526(3)
+O4 O 0.8885(6) -0.0379(6) 0.3558(3)
+O5 O 0.6778(6) 0.3843(6) 0.3241(3)
+O6 O 0.8940(6) 0.1479(6) 0.1591(3)
+O7 O 0.7017(6) -0.0908(6) 0.1891(3)
+C2 C 0.3283(8) 0.3518(8) 0.1244(4)
+C3 C 0.8794(8) -0.1666(8) 0.3941(4)
+C4 C 0.8013(8) 0.3751(8) 0.3784(4)
+O8 O 0.2188(6) 0.4745(6) 0.0674(3)
+H2 H 0.29490 0.26720 0.14690
+O9 O 1.0167(6) -0.3096(6) 0.4215(3)
+H3 H 0.76460 -0.15770 0.40340
+O10 O 0.8072(6) 0.5108(6) 0.4105(3)
+H4 H 0.89420 0.26260 0.39630
+Ga2 Ga 0.00000 0.50000 0.00000
+O11 O 0.0111(6) 0.2946(6) 0.0741(3)
+O12 O -0.1649(6) 0.6603(6) 0.1029(3)
+C5 C -0.1205(8) 0.2772(8) 0.1088(5)
+C6 C -0.1763(8) 0.8058(8) 0.1324(4)
+H5 H -0.23750 0.36860 0.09570
+H6 H -0.08880 0.83710 0.11040
+N1 N 0.4662(8) 0.7460(8) 0.2361(4)
+H7 H 0.53330 0.63770 0.26290
+H8 H 0.53290 0.80230 0.23600
+C7 C 0.3036(9) 0.8451(11) 0.2990(5)
+H9 H 0.22000 0.79730 0.28980
+H10 H 0.24240 0.96950 0.27740
+C8 C 0.4229(10) 0.7257(10) 0.1298(5)
+H11 H 0.53340 0.63870 0.09740
+H12 H 0.33610 0.68010 0.12980
+C9 C 0.3478(10) 0.8354(10) 0.4076(6)
+H13 H 0.40700 0.71270 0.42980
+H14 H 0.23730 0.90100 0.44480
+H15 H 0.42740 0.88620 0.41760
+C10 C 0.3464(11) 0.8966(11) 0.0722(6)
+H16 H 0.23660 0.98320 0.10370
+H17 H 0.31940 0.87710 0.00590
+H18 H 0.43370 0.94010 0.06970
+Ga1* Ga 1.00000 -0.50000 0.50000
+Ga1** Ga 1.00000 0.50000 0.50000
+O11A O -0.0111(6) 0.7054(6) -0.0741(3)
+O8A O -0.2188(6) 0.5255(6) -0.0674(3)
+O12A O 0.1649(6) 0.3397(6) -0.1029(3)
+O6* O -0.1060(6) 0.1479(6) 0.1591(3)
+O7* O -0.2983(6) 0.9092(6) 0.1891(3)
+Mn1* Mn -0.31962(12) 0.15109(11) 0.25529(6)
+Mn1** Mn -0.31962(12) 1.15109(11) 0.25529(6)
+#END

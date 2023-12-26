@@ -1,0 +1,175 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAVPUQ
+_audit_creation_date 2017-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAVPUQ
+_database_code_depnum_ccdc_archive 'CCDC 1514919'
+_chemical_formula_sum 'C36 H72 Ge9 N4 O12 Rb2 Zn1'
+_chemical_formula_moiety
+;
+2(C18 H36 N2 O6 Rb1 1+),n(Ge9 Zn1 2-)
+;
+_journal_coden_Cambridge 179
+_journal_volume 56
+_journal_year 2017
+_journal_page_first 2350
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"K.Mayer"
+"L.-A.Jantke"
+"S.Schulz"
+"T.F.Fassler"
+_chemical_name_systematic
+;
+catena-[bis((2.2.2-cryptand)-rubidium(i)) nonakis-germanium-zinc unknown 
+solvate]
+;
+_cell_volume   6222.307
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.753
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 153
+_refine_special_details
+;
+The SQUEEZE/PLATON program has been used to model some disorder.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 4/n c c'
+_symmetry_Int_Tables_number 130
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,z
+3 1/2-y,x,z
+4 y,1/2-x,z
+5 -x,1/2+y,1/2-z
+6 1/2+x,-y,1/2-z
+7 1/2+y,1/2+x,1/2-z
+8 -y,-x,1/2-z
+9 -x,-y,-z
+10 -1/2+x,-1/2+y,-z
+11 -1/2+y,-x,-z
+12 -y,-1/2+x,-z
+13 x,-1/2-y,-1/2+z
+14 -1/2-x,y,-1/2+z
+15 -1/2-y,-1/2-x,-1/2+z
+16 y,x,-1/2+z
+_cell_length_a 20.1800(2)
+_cell_length_b 20.1800(2)
+_cell_length_c 15.2795(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ge 1.17
+N 0.68
+O 0.68
+Rb 2.20
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Rb1 Rb 0.55827(2) 0.05827(2) 0.75000
+O1 O 0.49887(14) -0.05633(14) 0.8304(2)
+O2 O 0.68788(14) 0.01316(16) 0.7216(2)
+O3 O 0.59274(15) 0.13070(15) 0.9112(2)
+N1 N 0.63205(18) -0.01143(17) 0.8949(2)
+C1 C 0.4570(2) -0.0901(2) 0.7699(3)
+H1 H 0.43230 -0.12550 0.80060
+H2 H 0.48430 -0.11090 0.72360
+C2 C 0.5473(2) -0.0990(2) 0.8683(3)
+H3 H 0.57650 -0.11680 0.82180
+H4 H 0.52510 -0.13680 0.89730
+C3 C 0.5882(2) -0.0615(2) 0.9343(3)
+H5 H 0.55810 -0.03930 0.97620
+H6 H 0.61560 -0.09340 0.96760
+C4 C 0.7233(2) 0.0337(3) 0.6476(3)
+H7 H 0.75780 0.00060 0.63330
+H8 H 0.74550 0.07650 0.65970
+C5 C 0.6776(2) 0.0413(3) 0.5727(3)
+H9 H 0.70340 0.05180 0.51930
+H10 H 0.65400 -0.00100 0.56260
+C6 C 0.6013(2) 0.0871(2) 0.9832(3)
+H11 H 0.55860 0.06510 0.99700
+H12 H 0.61540 0.11260 1.03530
+C7 C 0.6525(2) 0.0359(2) 0.9614(3)
+H13 H 0.69310 0.05870 0.94110
+H14 H 0.66390 0.01130 1.01550
+C8 C 0.7287(2) -0.0038(2) 0.7938(3)
+H15 H 0.74440 0.03700 0.82300
+H16 H 0.76800 -0.02860 0.77280
+C9 C 0.6909(2) -0.0456(2) 0.8579(3)
+H17 H 0.67620 -0.08670 0.82830
+H18 H 0.72080 -0.05840 0.90630
+Ge1 Ge 0.19682(2) 0.16651(2) 0.31685(3)
+Ge2 Ge 0.15200(2) 0.22810(2) 0.44977(3)
+Ge3 Ge 0.25000 0.25000 0.55047(7)
+Zn1 Zn 0.25000 0.25000 0.20987(7)
+N1F N 0.48857(18) 0.13205(17) 0.6051(2)
+C2F C 0.4010(2) 0.0473(2) 0.6317(3)
+H3F H 0.38320 0.07650 0.67820
+H4F H 0.36320 0.02510 0.60270
+C3F C 0.4385(2) 0.0882(2) 0.5657(3)
+H5F H 0.46070 0.05810 0.52380
+H6F H 0.40660 0.11560 0.53240
+C6F C 0.5871(2) 0.1013(2) 0.5168(3)
+H11F H 0.56510 0.05860 0.50300
+H12F H 0.61260 0.11540 0.46470
+C7F C 0.5359(2) 0.1525(2) 0.5386(3)
+H13F H 0.55870 0.19310 0.55890
+H14F H 0.51130 0.16390 0.48450
+C8F C 0.4962(2) 0.2287(2) 0.7062(3)
+H15F H 0.53700 0.24440 0.67700
+H16F H 0.47140 0.26800 0.72720
+C9F C 0.4544(2) 0.1909(2) 0.6421(3)
+H17F H 0.41330 0.17620 0.67170
+H18F H 0.44160 0.22080 0.59370
+O2F O 0.51316(14) 0.18788(16) 0.7784(2)
+C4F C 0.5337(2) 0.2233(3) 0.8524(3)
+H7F H 0.50060 0.25780 0.86670
+H8F H 0.57650 0.24550 0.84030
+C5F C 0.5413(2) 0.1776(3) 0.9273(3)
+H9F H 0.55180 0.20340 0.98070
+H10F H 0.49900 0.15400 0.93740
+O1F O 0.44367(14) -0.00113(14) 0.6696(2)
+C1F C 0.4099(2) -0.0430(2) 0.7301(3)
+H1F H 0.37450 -0.06770 0.69940
+H2F H 0.38910 -0.01570 0.77640
+O3F O 0.63070(15) 0.09274(15) 0.5888(2)
+Ge1A Ge 0.30318(2) 0.33349(2) 0.31685(3)
+Ge2A Ge 0.34800(2) 0.27190(2) 0.44977(3)
+Ge1B Ge 0.33349(2) 0.19682(2) 0.31685(3)
+Ge2B Ge 0.27190(2) 0.15200(2) 0.44977(3)
+Ge1C Ge 0.16651(2) 0.30318(2) 0.31685(3)
+Ge2C Ge 0.22810(2) 0.34800(2) 0.44977(3)
+Ge3L Ge 0.25000 0.25000 0.05047(7)
+Zn1L Zn 0.25000 0.25000 0.70987(7)
+#END

@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TATGUR
+_audit_creation_date 2005-12-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TATGUR
+_database_code_depnum_ccdc_archive 'CCDC 262386'
+_chemical_formula_sum 'C11 H16 Cu1 N2 O9'
+_chemical_formula_moiety
+;
+(C5 H7 N2 1+)n,n(C6 H5 Cu1 O7 1-),2n(H2 O1)
+;
+_journal_coden_Cambridge 222
+_journal_year 2005
+_journal_page_first 2899
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Ming-Sheng Wang"
+"Guo-Cong Guo"
+"Ming-Lai Fu"
+"Ling Xu"
+"Li-Zhen Cai"
+"Jin-Shun Huang"
+_chemical_name_systematic
+;
+catena-(4-Aminopyridinium 
+(\m~3~-trans-1,2,3-propenetricarboxylato)-aqua-copper(ii) dihydrate)
+;
+_chemical_name_common
+;
+catena-(4-Aminopyridinium (mu!3$-aconitato)-aqua-copper(ii) dihydrate)
+;
+_cell_volume    801.669
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.59
+_exptl_special_details
+;
+photoluminescent
+
+;
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0977
+_refine_ls_wR_factor_gt 0.0977
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.868(2)
+_cell_length_b 9.344(2)
+_cell_length_c 10.907(2)
+_cell_angle_alpha 80.08(3)
+_cell_angle_beta 67.62(3)
+_cell_angle_gamma 74.18(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.48
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu -0.10322(4) 0.22787(4) 0.47834(4)
+O1 O 0.0388(2) 0.0855(2) 0.3399(2)
+O2 O -0.2990(2) 0.1765(2) 0.47853(19)
+O3 O -0.3479(2) 0.0485(3) 0.6784(2)
+O4 O -0.8977(2) 0.2657(2) 0.47664(19)
+O5 O -0.9161(2) 0.1401(2) 0.6724(2)
+O6 O -0.8046(3) 0.5228(2) 0.6120(2)
+O7 O -0.7508(2) 0.6119(2) 0.40172(18)
+C1 C -0.3980(3) 0.1193(3) 0.5858(3)
+C2 C -0.5724(3) 0.1262(3) 0.6004(3)
+H1 H -0.62270 0.05240 0.65680
+C3 C -0.6630(3) 0.2268(3) 0.5411(3)
+C4 C -0.8424(3) 0.2118(3) 0.5680(3)
+C5 C -0.6116(3) 0.3562(3) 0.4426(3)
+H2 H -0.49870 0.35920 0.43160
+H3 H -0.61230 0.34180 0.35680
+C6 C -0.7294(3) 0.5011(3) 0.4904(3)
+C7 C -0.1722(2) 0.6346(2) -0.1018(2)
+H4 H -0.13360 0.71540 -0.15550
+C8 C -0.2016(3) 0.5261(3) -0.1570(3)
+H5 H -0.18270 0.53420 -0.24760
+C9 C -0.2592(4) 0.4054(3) -0.0768(4)
+C10 C -0.2875(5) 0.3933(3) 0.0586(3)
+H6 H -0.32610 0.31250 0.11230
+C11 C -0.2581(5) 0.5018(4) 0.1138(2)
+H7 H -0.27700 0.49360 0.20440
+N1 N -0.2005(3) 0.6225(3) 0.0336(2)
+H8 H -0.18230 0.68960 0.06770
+N2 N -0.3052(6) 0.3169(5) -0.1177(4)
+H9 H -0.30250 0.32840 -0.19840
+H10 H -0.34030 0.24330 -0.06580
+O8 O -0.5638(3) -0.0509(3) 0.9208(3)
+O9 O -0.8860(3) 0.0920(4) 0.9190(3)
+Cu1* Cu -1.10322(4) 0.22787(4) 0.47834(4)
+Cu1A Cu -0.89678(4) 0.77213(4) 0.52166(4)
+O4* O 0.1023(2) 0.2657(2) 0.47664(19)
+O6A O -0.1954(3) 0.4772(2) 0.3880(2)
+O7A O -0.2492(2) 0.3881(2) 0.59828(18)
+#END

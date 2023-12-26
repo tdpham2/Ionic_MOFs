@@ -1,0 +1,186 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YEXCOW
+_audit_creation_date 2018-06-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YEXCOW
+_database_code_depnum_ccdc_archive 'CCDC 1831798'
+_chemical_formula_sum 'C53.5 H53.5 In1 N5.5 O12.5'
+_chemical_formula_moiety
+;
+(C44 H24 In1 N2 O8 1-)n,C2 H8 N1 1+,2.5(C3 H7 N1 O1),2(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 18
+_journal_year 2018
+_journal_page_first 3724
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Lizhen Liu"
+"Zizhu Yao"
+"Yingxiang Ye"
+"Quanjie Lin"
+"Shimin Chen"
+"Zhangjing Zhang"
+"Shengchang Xiang"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+(\m-4,4',4'',4'''-[1,4-phenylenedi(pyridine-4,2,6-triyl)]tetrabenzoato)-indium
+ N,N-dimethylformamide solvate dihydrate]
+;
+_chemical_name_common
+;
+FJU-16
+;
+_cell_volume   5003.823
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.093
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293.0
+_refine_special_details
+;
+Disordered cation and solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0999
+_refine_ls_wR_factor_gt 0.0999
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c c a'
+_symmetry_Int_Tables_number 54
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,z
+3 1/2+x,-y,1/2-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-z
+7 -1/2-x,y,-1/2+z
+8 x,-y,-1/2+z
+_cell_length_a 10.7499(9)
+_cell_length_b 12.8409(8)
+_cell_length_c 36.2495(16)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.25000 0.50000 0.09721(2)
+O1 O 0.3593(7) 0.5573(6) 0.14262(19)
+O2 O 0.3560(7) 0.5587(5) 0.55219(19)
+O3 O 0.3818(7) 0.6518(6) 0.6031(2)
+O4 O 0.3906(7) 0.6462(7) 0.0926(2)
+N1 N 0.75000 1.00000 0.1919(4)
+C1 C 0.4051(8) 0.6365(9) 0.5684(3)
+C2 C 0.4041(9) 0.6339(9) 0.1265(3)
+C3 C 0.5857(12) 0.8735(9) 0.5446(4)
+H1 H 0.60490 0.93820 0.55460
+C4 C 0.6213(8) 0.8477(8) 0.1887(3)
+C5 C 0.5136(9) 0.6858(7) 0.1840(3)
+H2 H 0.48220 0.62610 0.19510
+C6 C 0.6824(10) 0.9216(8) 0.2483(3)
+H3 H 0.63790 0.86870 0.25990
+C7 C 0.4923(10) 0.7055(8) 0.1469(3)
+C8 C 0.6867(11) 0.9286(9) 0.2111(3)
+C9 C 0.5807(8) 0.7549(8) 0.2035(3)
+H4 H 0.60030 0.73960 0.22790
+C10 C 0.6891(13) 0.9257(9) 0.4854(3)
+C11 C 0.6221(10) 0.8479(8) 0.5067(3)
+C12 C 0.6935(11) 0.9223(8) 0.4478(3)
+H5 H 0.65760 0.86640 0.43540
+C13 C 0.5897(13) 0.7531(8) 0.4933(3)
+H6 H 0.61820 0.73400 0.47010
+C14 C 0.5355(11) 0.798(1) 0.1301(3)
+H7 H 0.51870 0.81270 0.10550
+N2 N 0.75000 1.00000 0.5044(5)
+C15 C 0.5240(13) 0.8018(9) 0.5646(3)
+H8 H 0.51250 0.81210 0.58980
+C16 C 0.7447(11) 0.9073(11) 0.3688(4)
+H9 H 0.73690 0.84520 0.38180
+C17 C 0.6026(11) 0.8645(12) 0.1514(3)
+H10 H 0.63710 0.92330 0.14050
+C18 C 0.75000 1.00000 0.3872(6)
+C19 C 0.5155(13) 0.6829(9) 0.5128(3)
+H11 H 0.49300 0.61910 0.50270
+C20 C 0.4769(10) 0.7112(8) 0.5476(3)
+C21 C 0.75000 1.00000 0.3107(6)
+C22 C 0.75000 1.00000 0.4279(5)
+C23 C 0.7512(10) 0.9069(10) 0.3298(4)
+H12 H 0.75630 0.84410 0.31710
+C24 C 0.75000 1.00000 0.2698(6)
+O1A O 1.1407(7) 1.4427(6) 0.14262(19)
+O2A O 1.1440(7) 1.4413(5) 0.55219(19)
+O3A O 1.1182(7) 1.3482(6) 0.6031(2)
+O4A O 1.1094(7) 1.3538(7) 0.0926(2)
+C1A C 1.0949(8) 1.3635(9) 0.5684(3)
+C2A C 1.0959(9) 1.3661(9) 0.1265(3)
+C3A C 0.9143(12) 1.1265(9) 0.5446(4)
+H1A H 0.89510 1.06180 0.55460
+C4A C 0.8787(8) 1.1523(8) 0.1887(3)
+C5A C 0.9864(9) 1.3142(7) 0.1840(3)
+H2A H 1.01780 1.37390 0.19510
+C6A C 0.8176(10) 1.0784(8) 0.2483(3)
+H3A H 0.86210 1.13130 0.25990
+C7A C 1.0077(10) 1.2945(8) 0.1469(3)
+C8A C 0.8133(11) 1.0714(9) 0.2111(3)
+C9A C 0.9193(8) 1.2451(8) 0.2035(3)
+H4A H 0.89970 1.26040 0.22790
+C10A C 0.8109(13) 1.0743(9) 0.4854(3)
+C11A C 0.8779(10) 1.1521(8) 0.5067(3)
+C12A C 0.8065(11) 1.0777(8) 0.4478(3)
+H5A H 0.84240 1.13360 0.43540
+C13A C 0.9103(13) 1.2469(8) 0.4933(3)
+H6A H 0.88180 1.26600 0.47010
+C14A C 0.9645(11) 1.202(1) 0.1301(3)
+H7A H 0.98130 1.18730 0.10550
+C15A C 0.9760(13) 1.1982(9) 0.5646(3)
+H8A H 0.98750 1.18790 0.58980
+C16A C 0.7553(11) 1.0927(11) 0.3688(4)
+H9A H 0.76310 1.15480 0.38180
+C17A C 0.8974(11) 1.1355(12) 0.1514(3)
+H10A H 0.86290 1.07670 0.14050
+C19A C 0.9845(13) 1.3171(9) 0.5128(3)
+H11A H 1.00700 1.38090 0.50270
+C20A C 1.0231(10) 1.2888(8) 0.5476(3)
+C23A C 0.7488(10) 1.0931(10) 0.3298(4)
+H12A H 0.74370 1.15590 0.31710
+In1* In 1.25000 1.50000 0.09721(2)
+In1F In 0.25000 0.50000 0.59721(2)
+In1F* In 1.25000 1.50000 0.59721(2)
+O1A* O 0.1407(7) 0.4427(6) 0.14262(19)
+O2F O 0.1440(7) 0.5587(5) 0.05219(19)
+O2G O 0.3560(7) 0.4413(5) 0.05219(19)
+O3F O 0.1182(7) 0.6518(6) 0.1031(2)
+O3G O 0.3818(7) 0.3482(6) 0.1031(2)
+O4A* O 0.1094(7) 0.3538(7) 0.0926(2)
+#END

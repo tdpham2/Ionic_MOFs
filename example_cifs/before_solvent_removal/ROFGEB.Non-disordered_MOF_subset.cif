@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ROFGEB
+_audit_creation_date 2019-04-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ROFGEB
+_database_code_depnum_ccdc_archive 'CCDC 1850731'
+_chemical_formula_sum 'C22 H10 Co1 F4 Li1 N4'
+_chemical_formula_moiety
+;
+(C12 F4 Li1 N4 1-)n,C10 H10 Co1 1+
+;
+_journal_coden_Cambridge 1147
+_journal_volume 19
+_journal_year 2019
+_journal_page_first 2712
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Jinzhen Lu"
+"R.Ojha"
+"A.M.Bond"
+"L.L.Martin"
+_chemical_name_systematic
+;
+catena-[cobaltocenium 
+(\m-(2,3,5,6-tetrafluoro-1,4-phenylene)dimethanidedicarbonitrile)-lithium]
+;
+_cell_volume   3708.161
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.692
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173.2
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0277
+_refine_ls_wR_factor_gt 0.0277
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 x,-y,-z
+4 -x,1/2+y,1/2-z
+5 1/2+x,1/2+y,z
+6 1/2-x,-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 1/2-x,y,1/2-z
+9 -x,-y,-z
+10 x,-1/2+y,-1/2-z
+11 -x,y,z
+12 x,-1/2-y,-1/2+z
+13 -1/2-x,-1/2-y,-z
+14 -1/2+x,y,-1/2-z
+15 -1/2-x,-1/2+y,z
+16 -1/2+x,-y,-1/2+z
+_cell_length_a 12.137(4)
+_cell_length_b 15.415(4)
+_cell_length_c 19.820(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+F 0.64
+Li 1.28
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.13216(2) 0.12940(2)
+C1 C 0.00000 0.13730(19) 0.23171(14)
+H1 H 0.00000 0.08950 0.26190
+C2 C 0.0945(2) 0.17929(14) 0.20517(10)
+C3 C 0.05799(17) 0.24793(11) 0.16328(9)
+H2 H 0.10390 0.28720 0.13930
+C4 C 0.09474(16) 0.04592(12) 0.07852(9)
+H3 H 0.16920 0.03150 0.08830
+C5 C 0.05833(14) 0.11215(12) 0.03430(8)
+C6 C 0.00000 0.00502(16) 0.10560(14)
+H4 H 0.00000 -0.04190 0.13670
+H5 H 0.103(2) 0.1552(15) 0.0101(12)
+H6 H 0.170(3) 0.1586(19) 0.2118(15)
+F1 F 0.30504(8) 0.09500(7) -0.03679(5)
+F2 F 0.30510(8) 0.19637(7) 0.06917(5)
+N1 N 0.66463(13) 0.33674(10) 0.18824(7)
+N2 N 0.33099(12) 0.00706(10) -0.17960(7)
+C7 C 0.40448(13) 0.1190(1) -0.01180(8)
+C8 C 0.40451(13) 0.17225(10) 0.04409(8)
+C9 C 0.50000 0.20363(14) 0.07450(11)
+C10 C 0.50000 0.26480(15) 0.13037(11)
+C11 C 0.59502(14) 0.30104(10) 0.15960(8)
+C12 C 0.50000 0.09095(14) -0.04416(11)
+C13 C 0.50000 0.04104(14) -0.10677(11)
+C14 C 0.40436(14) 0.02267(10) -0.14414(8)
+Li1 Li 0.25000 0.4170(3) 0.25000
+C2J C -0.0945(2) 0.17929(14) 0.20517(10)
+C3J C -0.05799(17) 0.24793(11) 0.16328(9)
+H2J H -0.10390 0.28720 0.13930
+H6J H -0.170(3) 0.1586(19) 0.2118(15)
+C4J C -0.09474(16) 0.04592(12) 0.07852(9)
+H3J H -0.16920 0.03150 0.08830
+C5J C -0.05833(14) 0.11215(12) 0.03430(8)
+H5J H -0.103(2) 0.1552(15) 0.0101(12)
+F1J F 0.69496(8) 0.09500(7) -0.03679(5)
+F2J F 0.69490(8) 0.19637(7) 0.06917(5)
+N1J N 0.33537(13) 0.33674(10) 0.18824(7)
+N2J N 0.66901(12) 0.00706(10) -0.17960(7)
+C7J C 0.59552(13) 0.1190(1) -0.01180(8)
+C8J C 0.59549(13) 0.17225(10) 0.04409(8)
+C11J C 0.40498(14) 0.30104(10) 0.15960(8)
+C14J C 0.59564(14) 0.02267(10) -0.14414(8)
+N1M N 0.16463(13) 0.33674(10) 0.31176(7)
+N2K N 0.33099(12) 0.49294(10) 0.32040(7)
+N2L N 0.16901(12) 0.49294(10) 0.17960(7)
+Li1A Li 0.75000 0.0830(3) -0.25000
+Li1J Li 0.75000 0.4170(3) 0.25000
+Li1K Li 0.25000 0.0830(3) -0.25000
+#END

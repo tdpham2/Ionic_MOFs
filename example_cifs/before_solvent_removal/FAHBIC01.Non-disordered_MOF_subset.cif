@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAHBIC01
+_audit_creation_date 2020-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAHBIC01
+_database_code_depnum_ccdc_archive 'CCDC 1977241'
+_chemical_formula_sum 'C6 H12 Dy1 N1 O8'
+_chemical_formula_moiety
+;
+C2 H8 N1 1+,n(C4 H4 Dy1 O8 1-)
+;
+_journal_coden_Cambridge 979
+_journal_year 2020
+_journal_name_full 'J.Rare Earths '
+loop_
+_publ_author_name
+"Min Liu"
+"Zhifeng Li"
+"Jianhui Xiong"
+"Yefei Jiang"
+"Ting Tang"
+"Jinkai Qiu"
+"Junwei Yao"
+"Seik Weng Ng"
+"Chenghui Zeng"
+_chemical_name_systematic
+;
+catena-[dimethylammonium tetrakis(\m-formato)-dysprosium(iii)]
+;
+_cell_volume   1065.392
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.423
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0437
+_refine_ls_wR_factor_gt 0.0437
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 8.7364(2)
+_cell_length_b 18.1701(4)
+_cell_length_c 6.7115(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Dy 1.92
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Dy1 Dy 0.24429(3) 0.60554(2) 0.4999(8)
+O1 O 0.1548(7) 0.5019(3) 0.6875(12)
+O2 O -0.0065(7) 0.4293(3) 0.8562(11)
+O3 O 0.2226(9) 0.6545(8) 0.834(2)
+O4 O 0.2538(7) 0.6513(11) 1.166(3)
+O5 O 0.4420(7) 0.6917(3) 0.4938(19)
+O6 O 0.6032(7) 0.7841(3) 0.5041(18)
+O7 O 0.3543(7) 0.5102(3) 0.3169(11)
+O8 O 0.5304(7) 0.4376(3) 0.1860(11)
+C1 C 0.0268(14) 0.4786(6) 0.7381(18)
+H1 H -0.05595 0.50189 0.67795
+C2 C 0.2386(8) 0.6214(8) 1.000(6)
+H2 H 0.23897 0.57025 0.99666
+C3 C 0.4871(9) 0.7533(4) 0.4376(19)
+H3 H 0.43065 0.77761 0.34024
+C4 C 0.4844(13) 0.4962(6) 0.254(2)
+H4 H 0.55514 0.53436 0.25942
+N1 N 0.3277(11) 0.3225(5) 0.3204(15)
+H5 H 0.33392 0.27845 0.26321
+H6 H 0.38894 0.35296 0.25370
+C5 C 0.3801(18) 0.3171(7) 0.522(2)
+H7 H 0.48366 0.29944 0.52310
+H8 H 0.37589 0.36471 0.58354
+H9 H 0.31591 0.28349 0.59390
+C6 C 0.1696(18) 0.3493(9) 0.305(4)
+H10 H 0.14035 0.35186 0.16747
+H11 H 0.10248 0.31611 0.37425
+H12 H 0.16246 0.39733 0.36388
+Dy1* Dy 0.24429(3) 0.60554(2) 1.4999(8)
+Dy1A Dy -0.24429(3) 0.39446(2) 0.9999(8)
+Dy1A* Dy 0.75571(3) 0.39446(2) -0.0001(8)
+Dy1B Dy 0.74429(3) 0.89446(2) 0.4999(8)
+O2A O 0.0065(7) 0.5707(3) 0.3562(11)
+O4* O 0.2538(7) 0.6513(11) 0.166(3)
+O6B O 0.1032(7) 0.7159(3) 0.5041(18)
+O8A O 0.4696(7) 0.5624(3) 0.6860(11)
+#END

@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XORGUH
+_audit_creation_date 2009-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XORGUH
+_database_code_depnum_ccdc_archive 'CCDC 1297609'
+_chemical_formula_sum 'C4 H8 Cs4 N2 O20 S4 U2'
+_chemical_formula_moiety
+;
+(Cs1 1+)4n,n(C4 N2 O16 S4 U2 4-),4n(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 53
+_journal_year 2008
+_journal_page_first 1115
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"I.V.Medrish"
+"A.V.Virovets"
+"E.V.Peresypkina"
+"L.B.Serezhkina"
+_chemical_name_systematic
+;
+catena-(Tetra-cesium 
+(\m~2~-oxalato-O,O',O'',O''')-bis(\m~2~-sulfato-O,O')-bis(isothiocyanato)-tetr
+aoxo-di-uranium(vi) tetrahydrate)
+;
+_cell_volume   1511.932
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 3.383
+_exptl_special_details
+;
+isotypic with the ammonium analogue
+
+;
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The oxo ligands are disordered by symmetry. One of the cesium ions is 
+disordered by symmetry. An oxygen atom of a sulfato ligand is disordered.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0376
+_refine_ls_wR_factor_gt 0.0376
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,y,-z
+7 -1/2-x,-1/2+y,z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 12.0177(3)
+_cell_length_b 18.6182(5)
+_cell_length_c 6.7573(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cs 1.67
+N 0.68
+O 0.68
+S 1.02
+U 1.38
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.00000 0.50000 0.7227(16)
+O2 O 0.2074(15) 0.4940(7) 1.00000
+Cs1 Cs 0.38882(8) 0.62119(5) 1.00000
+U1 U 0.64918(2) 0.641350(12) 0.50000
+O3 O 0.5261(5) 0.6893(4) 0.5538(10)
+O4 O 0.7704(6) 0.5923(4) 0.5485(11)
+O5 O 0.5555(3) 0.54792(18) 0.6954(5)
+O6 O 0.6324(9) 0.6822(5) 0.1740(11)
+O7 O 0.6572(9) 0.7757(7) 0.00000
+O8 O 0.8200(8) 0.7154(8) 0.00000
+N1 N 0.7515(6) 0.7544(4) 0.50000
+S1 S 0.7675(2) 0.90309(11) 0.50000
+S2 S 0.7047(2) 0.70749(12) 0.00000
+C1 C 0.7609(7) 0.8157(4) 0.50000
+C2 C 0.50000 0.50000 0.6128(9)
+O9? O 0.7105(9) 0.6531(4) 0.8253(11)
+Cs2? Cs 0.99214(8) 0.65284(6) 0.70842(17)
+U1A U 0.35082(2) 0.358650(12) 0.50000
+U1* U 0.64918(2) 0.641350(12) -0.50000
+U1** U 0.64918(2) 0.641350(12) 1.50000
+O3E O 0.5261(5) 0.6893(4) 0.4462(10)
+O3A O 0.4739(5) 0.3107(4) 0.5538(10)
+O3D O 0.4739(5) 0.3107(4) 0.4462(10)
+O4E O 0.7704(6) 0.5923(4) 0.4515(11)
+O4A O 0.2296(6) 0.4077(4) 0.5485(11)
+O4D O 0.2296(6) 0.4077(4) 0.4515(11)
+O5A O 0.4445(3) 0.45208(18) 0.6954(5)
+O5D O 0.4445(3) 0.45208(18) 0.3046(5)
+O5E O 0.5555(3) 0.54792(18) 0.3046(5)
+O6E O 0.6324(9) 0.6822(5) -0.1740(11)
+O6E* O 0.6324(9) 0.6822(5) 0.8260(11)
+O6* O 0.6324(9) 0.6822(5) 1.1740(11)
+O6A O 0.3676(9) 0.3178(5) 0.1740(11)
+O6D O 0.3676(9) 0.3178(5) 0.8260(11)
+O7* O 0.6572(9) 0.7757(7) 1.00000
+O8* O 0.8200(8) 0.7154(8) 1.00000
+N1A N 0.2485(6) 0.2456(4) 0.50000
+S1A S 0.2325(2) 0.09691(11) 0.50000
+S2* S 0.7047(2) 0.70749(12) 1.00000
+C1A C 0.2391(7) 0.1843(4) 0.50000
+C2D C 0.50000 0.50000 0.3872(9)
+#END

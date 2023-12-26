@@ -1,0 +1,227 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TIKXAN
+_audit_creation_date 2008-01-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TIKXAN
+_database_code_depnum_ccdc_archive 'CCDC 254582'
+_chemical_formula_sum 'C55.5 H84 In3 N3 O39'
+_chemical_formula_moiety
+;
+(C36 H12 In3 O24 3-)n,1.5n(C13 H28 N2 2+),15n(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 7
+_journal_year 2007
+_journal_page_first 1712
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Zheng-Zhong Lin"
+"Fei-Long Jiang"
+"Lian Chen"
+"Cheng-Yang Yue"
+"Da-Qiang Yuan"
+"Ai-Jian Lan"
+"Mao-Chun Hong"
+_chemical_name_systematic
+;
+catena-(sesquikis(4,4'-trimethylenedipiperidinium) 
+tetrakis(\m~3~-1,3,5-benzenetricarboxylato)-tri-indium(iii) pentadecahydrate)
+;
+_cell_volume   8456.249
+_exptl_crystal_density_diffrn 1.384
+_exptl_special_details
+;
+The number of water molecules is slightly unclear, the published formula 
+suggests the structure is a icosahydrate, the CIF formula suggests a 
+pentadecahydrate as entered although not all the water molecules appear to 
+have been located. The presence of 4,4'-trimethylenedipiperidinium cations 
+were indicated in the paper but they do not appear to have been located
+;
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.057
+_refine_ls_wR_factor_gt 0.057
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'I -4 3 d'
+_symmetry_Int_Tables_number 220
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/4+y,3/4-x,1/4-z
+3 -x,1/2-y,z
+4 1/4-y,1/4+x,3/4-z
+5 1/4-x,1/4+z,3/4-y
+6 x,-y,1/2-z
+7 3/4-x,1/4-z,1/4+y
+8 3/4-z,1/4-y,1/4+x
+9 1/2-x,y,-z
+10 1/4+z,3/4-y,1/4-x
+11 z,x,y
+12 y,z,x
+13 -y,1/2-z,x
+14 z,-x,1/2-y
+15 1/2-y,z,-x
+16 -z,1/2-x,y
+17 1/2-z,x,-y
+18 y,-z,1/2-x
+19 3/4-y,1/4-x,1/4+z
+20 1/4+y,1/4+x,1/4+z
+21 1/4+x,3/4-z,1/4-y
+22 1/4+x,1/4+z,1/4+y
+23 1/4-z,1/4+y,3/4-x
+24 1/4+z,1/4+y,1/4+x
+25 1/2+x,1/2+y,1/2+z
+26 3/4+y,1/4-x,3/4-z
+27 1/2-x,-y,1/2+z
+28 3/4-y,3/4+x,1/4-z
+29 3/4-x,3/4+z,1/4-y
+30 1/2+x,1/2-y,-z
+31 1/4-x,3/4-z,3/4+y
+32 1/4-z,3/4-y,3/4+x
+33 -x,1/2+y,1/2-z
+34 3/4+z,1/4-y,3/4-x
+35 1/2+z,1/2+x,1/2+y
+36 1/2+y,1/2+z,1/2+x
+37 1/2-y,-z,1/2+x
+38 1/2+z,1/2-x,-y
+39 -y,1/2+z,1/2-x
+40 1/2-z,-x,1/2+y
+41 -z,1/2+x,1/2-y
+42 1/2+y,1/2-z,-x
+43 1/4-y,3/4-x,3/4+z
+44 3/4+y,3/4+x,3/4+z
+45 3/4+x,1/4-z,3/4-y
+46 3/4+x,3/4+z,3/4+y
+47 3/4-z,3/4+y,1/4-x
+48 3/4+z,3/4+y,3/4+x
+_cell_length_a 20.3732(8)
+_cell_length_b 20.3732(8)
+_cell_length_c 20.3732(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.53
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.50000 0.25000 0.12500
+O1 O 0.5538(2) 0.3318(3) 0.0850(2)
+O2 O 0.4638(3) 0.3129(3) 0.0316(3)
+C1 C 0.5292(3) 0.4040(3) -0.0031(4)
+C2 C 0.5148(3) 0.3456(3) 0.0395(3)
+C3 C 0.5829(4) 0.4432(3) 0.0108(3)
+H1 H 0.61040 0.43360 0.04710
+O3 O 0.3316(4) 0.3734(3) 0.0485(3)
+In1T In 0.75000 0.62500 0.00000
+In1I In 0.37500 0.50000 -0.25000
+In1O In 0.87500 0.00000 0.25000
+In1D In 0.75000 0.37500 0.50000
+In1Q In 0.25000 -0.12500 0.00000
+In1G In 0.62500 0.00000 -0.25000
+In1J In 0.12500 0.50000 0.25000
+In1F In 0.25000 0.12500 0.50000
+O1LA O 0.6682(2) 0.5850(3) -0.0538(2)
+O1MA O 0.4150(2) 0.4462(3) -0.1682(2)
+O1A O 0.5818(2) 0.1962(3) 0.1650(2)
+O1UA O 0.8350(2) 0.0818(3) 0.3038(2)
+O1D O 0.6962(2) 0.3350(3) 0.4182(2)
+O1B O 0.4462(2) 0.1682(3) 0.0850(2)
+O1Q O 0.3318(2) -0.0850(3) -0.0538(2)
+O1HA O 0.5850(2) 0.0538(3) -0.1682(2)
+O1AA O 0.4182(2) 0.3038(3) 0.1650(2)
+O1EA O 0.1650(2) 0.4182(3) 0.3038(2)
+O1RA O 0.3038(2) 0.1650(3) 0.4182(2)
+O1T O 0.8038(2) 0.6650(3) -0.0818(2)
+O1DA O 0.6962(2) 0.6650(3) 0.0818(2)
+O1IA O 0.8318(2) 0.5850(3) 0.0538(2)
+O1I O 0.3350(2) 0.4182(3) -0.3038(2)
+O1P O 0.4150(2) 0.5538(3) -0.3318(2)
+O1W O 0.3350(2) 0.5818(3) -0.1962(2)
+O2LA O 0.6871(3) 0.5316(3) 0.0362(3)
+O2MA O 0.4684(3) 0.5362(3) -0.1871(3)
+O2A O 0.5629(3) 0.2862(3) 0.2184(3)
+O2UA O 0.7816(3) 0.0629(3) 0.2138(3)
+O2D O 0.7862(3) 0.2816(3) 0.4371(3)
+O2B O 0.5362(3) 0.1871(3) 0.0316(3)
+O2Q O 0.3129(3) -0.0316(3) 0.0362(3)
+O2HA O 0.5316(3) -0.0362(3) -0.1871(3)
+O2AA O 0.4371(3) 0.2138(3) 0.2184(3)
+O2EA O 0.2184(3) 0.4371(3) 0.2138(3)
+O2RA O 0.2138(3) 0.2184(3) 0.4371(3)
+O2T O 0.7138(3) 0.7184(3) -0.0629(3)
+O2DA O 0.7862(3) 0.7184(3) 0.0629(3)
+O2IA O 0.8129(3) 0.5316(3) -0.0362(3)
+O2I O 0.2816(3) 0.4371(3) -0.2138(3)
+O2P O 0.4684(3) 0.4638(3) -0.3129(3)
+O2W O 0.2816(3) 0.5629(3) -0.2862(3)
+C1LA C 0.5960(3) 0.4969(3) -0.0292(4)
+C1MA C 0.5031(3) 0.4708(3) -0.0960(4)
+C1A C 0.6540(3) 0.2208(3) 0.2531(4)
+C1UA C 0.7469(3) 0.1540(3) 0.2792(4)
+C1D C 0.7208(3) 0.2469(3) 0.3460(4)
+C1B C 0.4708(3) 0.0960(3) -0.0031(4)
+C1Q C 0.4040(3) 0.0031(3) -0.0292(4)
+C1HA C 0.4969(3) 0.0292(3) -0.0960(4)
+C1AA C 0.3460(3) 0.2792(3) 0.2531(4)
+C1EA C 0.2531(3) 0.3460(3) 0.2792(4)
+C1RA C 0.2792(3) 0.2531(3) 0.3460(4)
+C2LA C 0.6544(3) 0.5395(3) -0.0148(3)
+C2MA C 0.4605(3) 0.4852(3) -0.1544(3)
+C2A C 0.5956(3) 0.2352(3) 0.2105(3)
+C2UA C 0.7895(3) 0.0956(3) 0.2648(3)
+C2D C 0.7352(3) 0.2895(3) 0.4044(3)
+C2B C 0.4852(3) 0.1544(3) 0.0395(3)
+C2Q C 0.3456(3) -0.0395(3) -0.0148(3)
+C2HA C 0.5395(3) 0.0148(3) -0.1544(3)
+C2AA C 0.4044(3) 0.2648(3) 0.2105(3)
+C2EA C 0.2105(3) 0.4044(3) 0.2648(3)
+C2RA C 0.2648(3) 0.2105(3) 0.4044(3)
+C3LA C 0.5568(4) 0.5108(3) -0.0829(3)
+C3MA C 0.4892(4) 0.4171(3) -0.0568(3)
+C3A C 0.6932(4) 0.1671(3) 0.2392(3)
+C3UA C 0.7608(4) 0.1932(3) 0.3329(3)
+C3D C 0.6671(4) 0.2608(3) 0.3068(3)
+C3B C 0.4171(4) 0.0568(3) 0.0108(3)
+C3Q C 0.4432(4) -0.0108(3) -0.0829(3)
+C3HA C 0.5108(4) 0.0829(3) -0.0568(3)
+C3AA C 0.3068(4) 0.3329(3) 0.2392(3)
+C3EA C 0.2392(4) 0.3068(3) 0.3329(3)
+C3RA C 0.3329(4) 0.2392(3) 0.3068(3)
+H1MA H 0.45290 0.38960 -0.06640
+H1LA H 0.56640 0.54710 -0.11040
+H1A H 0.68360 0.13960 0.20290
+H1D H 0.63960 0.29710 0.31640
+H1UA H 0.79710 0.18360 0.36040
+H1B H 0.38960 0.06640 0.04710
+H1HA H 0.54710 0.11040 -0.06640
+H1Q H 0.43360 -0.04710 -0.11040
+H1AA H 0.31640 0.36040 0.20290
+H1RA H 0.36040 0.20290 0.31640
+H1EA H 0.20290 0.31640 0.36040
+#END

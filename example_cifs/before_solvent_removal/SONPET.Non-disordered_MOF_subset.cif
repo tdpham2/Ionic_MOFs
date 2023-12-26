@@ -1,0 +1,191 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SONPET
+_audit_creation_date 2019-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SONPET
+_database_code_depnum_ccdc_archive 'CCDC 1902173'
+_chemical_formula_sum 'C60 H49 Co2 I21 N12 Pb8'
+_chemical_formula_moiety
+;
+2(C30 H24 Co1 N6 2+),H1 1+,n(I21 Pb8 5-)
+;
+_journal_coden_Cambridge 182
+_journal_volume 55
+_journal_year 2019
+_journal_page_first 6874
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Cheng-Yang Yue"
+"Yun-Di Yue"
+"Hai-Xiao Sun"
+"Dong-Yang Li"
+"Na Lin"
+"Xin-Ming Wang"
+"Ying-Xue Jin"
+"Yu-Han Dong"
+"Zhi-Hong Jing"
+"Xiao-Wu Lei"
+_chemical_name_systematic
+;
+catena-[bis(tris(2,2'-bipyridine)-cobalt(ii)) hydrogen 
+nonakis(\m-iodo)-dodecaiodo-octa-lead]
+;
+_cell_volume   5072.141
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 3.521
+_exptl_special_details
+;
+The deposited CIF reports a formula C60 H49 Co2 I21 N12 Pb8, it is unclear 
+where the additional proton (required for charge-balance) is located
+;
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0656
+_refine_ls_wR_factor_gt 0.0656
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 19.982(3)
+_cell_length_b 14.540(2)
+_cell_length_c 19.693(3)
+_cell_angle_alpha 90
+_cell_angle_beta 117.564(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+I 1.40
+N 0.68
+Pb 1.46
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1 Pb 0.23029(3) 0.66147(4) 0.32560(4)
+Pb2 Pb 0.43307(3) 0.67173(4) 0.29881(3)
+Pb3 Pb 0.33263(4) 0.65477(5) 0.56871(4)
+Pb4 Pb 0.12443(5) 0.68197(6) 0.08218(4)
+I1 I 0.05892(5) 0.66236(6) 0.19708(5)
+I2 I 0.40357(5) 0.65858(8) 0.45367(5)
+I3 I 0.26565(6) 0.53286(7) 0.21955(5)
+I4 I 0.20735(6) 0.80397(7) 0.45725(6)
+I5 I 0.45146(6) 0.69326(8) 0.15140(6)
+I6 I 0.20608(6) 0.50973(7) 0.42076(6)
+I7 I 0.55007(6) 0.81306(8) 0.38910(7)
+I8 I 0.55246(7) 0.50818(8) 0.33596(8)
+I9 I 0.02547(12) 0.84763(11) 0.01435(9)
+I10 I 0.00000 0.50000 0.00000
+I11 I 0.28016(11) 0.67877(9) 0.71320(9)
+Co1 Co -0.22132(8) 0.65867(10) 0.18567(9)
+N1 N -0.1416(5) 0.5696(6) 0.2305(6)
+N2 N -0.1399(5) 0.7449(7) 0.2429(5)
+N3 N -0.2976(5) 0.7529(7) 0.1493(6)
+N4 N -0.2061(5) 0.6546(7) 0.0962(6)
+N5 N -0.2996(6) 0.5700(7) 0.1287(6)
+C1 C -0.0738(6) 0.6044(8) 0.2796(6)
+N6 N -0.2413(7) 0.6582(8) 0.2726(6)
+C2 C -0.0737(6) 0.7040(8) 0.2857(6)
+C3 C -0.0125(7) 0.5479(9) 0.3211(8)
+H1 H 0.03350 0.57390 0.35510
+C4 C -0.2505(7) 0.5923(9) 0.0411(7)
+C5 C -0.1468(7) 0.8368(8) 0.2452(7)
+H2 H -0.19300 0.86420 0.21400
+C6 C -0.1530(7) 0.6999(11) 0.0857(8)
+H3 H -0.12170 0.74090 0.12320
+C7 C -0.3041(7) 0.5471(8) 0.0598(8)
+C8 C -0.3467(8) 0.5342(11) 0.1523(10)
+H4 H -0.34210 0.55090 0.19990
+C9 C -0.3229(8) 0.798(1) 0.0823(9)
+H5 H -0.30360 0.78120 0.04920
+C10 C -0.1491(8) 0.4775(9) 0.2190(8)
+H6 H -0.19600 0.45340 0.18540
+C11 C -0.0100(7) 0.7554(11) 0.3324(7)
+H7 H 0.03610 0.72690 0.36240
+C12 C -0.0171(8) 0.8481(9) 0.3331(8)
+H8 H 0.02550 0.88390 0.36120
+C13 C -0.2408(9) 0.5749(11) -0.0217(8)
+H9 H -0.27270 0.53350 -0.05850
+C14 C -0.2074(10) 0.6040(13) 0.3351(9)
+H10 H -0.17070 0.56210 0.33900
+C15 C -0.0871(8) 0.8907(9) 0.2924(9)
+H11 H -0.09300 0.95340 0.29720
+C16 C -0.1847(10) 0.6175(13) -0.0313(9)
+H12 H -0.17410 0.60090 -0.07100
+C17 C -0.0874(10) 0.4171(10) 0.2571(10)
+H13 H -0.09220 0.35470 0.24550
+C18 C -0.1431(8) 0.6881(13) 0.0214(8)
+H14 H -0.11000 0.72550 0.01270
+C19 C -0.3280(7) 0.7727(11) 0.1950(8)
+C20 C -0.3768(9) 0.8691(13) 0.0594(12)
+H15 H -0.39240 0.90130 0.01380
+C21 C -0.0189(9) 0.4533(11) 0.3126(9)
+H16 H 0.02120 0.41490 0.34290
+C22 C -0.3811(8) 0.8393(11) 0.1780(11)
+H17 H -0.40080 0.85180 0.21160
+C23 C -0.4054(9) 0.8874(12) 0.1120(12)
+H18 H -0.44140 0.93330 0.10080
+C24 C -0.3575(9) 0.4851(10) 0.0136(9)
+H19 H -0.36010 0.46940 -0.03330
+C25 C -0.2952(8) 0.7156(10) 0.2660(9)
+C26 C -0.3183(10) 0.7234(17) 0.3204(11)
+H20 H -0.35510 0.76590 0.31530
+C27 C -0.4057(10) 0.4693(12) 0.1046(12)
+H21 H -0.43990 0.44560 0.11970
+C28 C -0.4078(9) 0.445(1) 0.0358(10)
+H22 H -0.44290 0.40200 0.00420
+C29 C -0.2274(14) 0.6109(18) 0.3931(10)
+H23 H -0.20150 0.57780 0.43830
+C30 C -0.2861(15) 0.667(2) 0.3827(17)
+H24 H -0.30420 0.66760 0.41850
+Pb1B Pb -0.23029(3) 0.33853(4) -0.32560(4)
+Pb2B Pb -0.43307(3) 0.32827(4) -0.29881(3)
+Pb3B Pb -0.33263(4) 0.34523(5) -0.56871(4)
+Pb4B Pb -0.12443(5) 0.31803(6) -0.08218(4)
+I1B I -0.05892(5) 0.33764(6) -0.19708(5)
+I2B I -0.40357(5) 0.34142(8) -0.45367(5)
+I3B I -0.26565(6) 0.46714(7) -0.21955(5)
+I4B I -0.20735(6) 0.19603(7) -0.45725(6)
+I5B I -0.45146(6) 0.30674(8) -0.15140(6)
+I6B I -0.20608(6) 0.49027(7) -0.42076(6)
+I7B I -0.55007(6) 0.18694(8) -0.38910(7)
+I8B I -0.55246(7) 0.49182(8) -0.33596(8)
+I9B I -0.02547(12) 0.15237(11) -0.01435(9)
+I11B I -0.28016(11) 0.32123(9) -0.71320(9)
+Pb3* Pb -0.66737(4) 0.65477(5) -0.43129(4)
+Pb3A Pb -0.33263(4) 0.15477(5) -0.06871(4)
+Pb3B* Pb 0.66737(4) 0.34523(5) 0.43129(4)
+Pb3C Pb 0.33263(4) 0.84523(5) 0.06871(4)
+I5A I -0.45146(6) 0.19326(8) -0.65140(6)
+I5C I 0.45146(6) 0.80674(8) 0.65140(6)
+I8* I -0.44754(7) 0.50818(8) -0.66404(8)
+I8B* I 0.44754(7) 0.49182(8) 0.66404(8)
+#END

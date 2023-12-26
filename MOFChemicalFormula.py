@@ -1,6 +1,17 @@
+from ase.io import read as ase_read
+from ase.io import write as ase_write
+from ase import neighborlist
+from ase.formula import Formula
+from ase.build import sort
+import networkx as nx
+
 import re
 from collections import defaultdict
 import json
+import networkx as nx
+import signal
+import time
+import numpy as np
 
 metals = ['Li', 'Na', 'K', 'Rb', 'Cs', 'Fr', 'Be', 'Mg', 'Ca', 'Sr', 'Ba', 'Ra',
           'Al', 'Ga', 'Ge', 'In', 'Sn', 'Sb', 'Tl', 'Pb', 'Bi', 'Po',
@@ -17,9 +28,140 @@ class MOFChemicalFormula():
     """ A class for MOF chemical formula obtained from CSD database or ASE. Mostly useful for CSD MOFs
 
     """
-    def __init__(self, formula):
-        self.formula = formula
+    def __init__(self, skin=0.3, have_metal=True, have_carbon=True, mass_ratio=0.8):
+        self.skin = skin
+        self.have_metal = have_metal
+        self.have_carbon = have_carbon
+        self.mass_ratio = mass_ratio
+    def dict2str(self, dct):
+        """Convert symbol-to-number dict to str.
+        """
+        return ''.join(symb + (str(n)) for symb, n in dct.items())
+    
+    def from_file(self, file_path):
+        """ Convert from a file to its chemical formula using ASE for IO. 
+            Parameters:
+                file_path: str, path to file (CIF, xyz, etc.)
+        """
+        try:
+            atoms = ase_read(file_path)
+            print(atoms)
+        except:
+            print('Cannot read {}'.format(file_path))
+            return False, None, None, None, None
+        cutOff = neighborlist.natural_cutoffs(atoms)
+        neighborList = neighborlist.NeighborList(cutOff, self_interaction=False, bothways=True, skin=self.skin) 
+        neighborList.update(atoms)
+        G = nx.Graph()
 
+        for k in range(len(atoms)):
+            tup = (k, {"element":"{}".format(atoms.get_chemical_symbols()[k]), "pos": atoms.get_positions()[k]})
+            G.add_nodes_from([tup])
+
+        for k in range(len(atoms)):
+            for i in neighborList.get_neighbors(k)[0]:
+                G.add_edge(k, i)
+
+        Gcc = sorted(nx.connected_components(G), key=len, reverse=True)
+        
+        atoms_formula = atoms.symbols.formula.count()
+        atoms_formula = self.dict2str(atoms_formula)
+        component_formulas = []
+        component_indices = []
+        for index, g in enumerate(Gcc):
+            g = list(g)
+            fragment = atoms[g]
+            fragment = sort(fragment)
+            form_dict = fragment.symbols.formula.count()
+            component_formulas.append(self.dict2str(form_dict))
+            component_index = []
+            for k in Gcc[index]:
+                component_index.append(k)
+            component_indices.append(component_index)
+
+        return True, atoms, Gcc, component_formulas, component_indices
+    
+    def remove_solvent(self, cif, output_path, by='formula', formula=None, added_identifier='_removed_solvents'):
+        """ Remove solvent, ions from a MOF using either chemical formula or ASE neighborlist
+
+        Parameters:
+            cif: str, absolute path to cif file
+            output_path: str, path to write output cif
+            formula: str, chemical formula of CIF (obtained from CSD), needed if using by='formula'
+            added_identifier: str, added string to output file
+            by: str, method to remove solvent/ion (options: formula, neighborlist)
+        """
+        if '/' in cif:
+            name = cif.split('/')[-1].split('.')[:-1] # If '/' in path to CIF
+        else:
+            name = cif.split('.')[:-1] # CIF file name 
+        if len(name) == 1:
+            output_name = name[0] + added_identifier + '.cif'
+        else:
+            output_name = '.'.join(name) + added_identifier + '.cif'
+            
+        if by=='formula':
+            if formula == None:
+                print('Input formula is None. Cannot remove solvent by formula! Please check your input')
+                return False, None
+            else:
+                check, mof, Gcc, component_formulas, component_indices = self.from_file(cif)
+                if check == False:
+                    print("Cannot generate input from {}. Check your input CIF".format(cif))
+                    return False, None
+                else:
+                    ions_index = []
+                    final_multiplier = 0 
+                    multiplier_check = False
+                    
+                    comp_dict = [self.element_dict(i) for i in component_formulas]
+                    input_dict = self.element_dict(formula)
+                
+                    for idx, cdict in enumerate(comp_dict):
+                        check, multiplier = self.is_multiplier(input_dict, cdict)
+                        if check == True:
+                            multiplier_check = True
+                            final_multiplier += multiplier
+                        else:
+                            for ci in component_indices[idx]:
+                                ions_index.append(ci)
+                    # Final check
+                    if multiplier_check == True:
+                        if len(ions_index) > 0:
+                            ions_index = sorted(ions_index, reverse=True)
+                            del mof[ions_index]
+                            if len(mof) > 0:
+                                ase_write('{}/{}'.format(output_path, output_name), mof)
+                        else:
+                            if len(mof) > 0:
+                                ase_write('{}/{}'.format(output_path, output_name), mof)
+                            return True, final_multiplier
+                    else:
+                        return False, None
+        elif by == 'neighborlist':
+            check, mof, Gcc, component_formulas, component_indices = self.from_file(cif)
+            ions_index = []
+            massG = []
+            for index, g in enumerate(Gcc):
+                g = list(g)
+                fragment = mof[g]
+                fragment = sort(fragment)
+                massG.append(sum(mof[g].get_masses())) # Mass of each disconnected subgraph
+                form_dict = fragment.symbols.formula.count()
+
+            max_index = np.argmax(massG)
+            for index, mass in enumerate(massG):
+                if index == max_index:
+                    continue
+                else:
+                    if mass/massG[max_index] < self.mass_ratio:
+                        for n in Gcc[index]:
+                            ions_index.append(n)
+            ions_index = sorted(ions_index, reverse=True)
+            del mof[ions_index]
+            ase_write('{}/{}'.format(output_path, output_name), mof)
+
+            return True, None
     def format_formula(self, formula, pattern):
         """ Remove a pattern from formula """
         return re.sub(pattern, '', formula)
@@ -51,31 +193,26 @@ class MOFChemicalFormula():
         else:
             return 0, ''
 
-    def element_dict(self, fragment_formula=None):
-        """ Return a dictionary of element and its frequency.
+    def element_dict(self, formula):
+        """ Convert a formula into a dictionary.
         Parameters:
             fragment_formula: str, if None, return the element dict of the whole chemical formula. Else, return the element dict of the input fragment
         """
         element_dict = defaultdict(lambda:0)
 
-        if fragment_formula == None:
-            fragment_formula = self.formula
+        element_list = re.findall(r"[A-Z]{1}[a-z]{0,1}\d+", formula)
 
-        element_list = re.findall(r"[A-Z]{1}[a-z]{0,1}\d+", fragment_formula)
         for element_item in element_list:
             element_freq = re.match(r"(\D+)(\d+)", element_item)
             element = element_freq.group(1)
             freq = element_freq.group(2)                    
             element_dict[element] += int(freq)
 
-        return element_dict
+        return dict(element_dict)
 
-    def get_mass_from_element_dict(self, element_dict = None):
+    def get_mass_from_element_dict(self, element_dict):
         """ Return the total mass from element_dict"""
-
         mass = 0
-        if element_dict == None:
-            element_dict = self.element_dict()
         for element in element_dict:
             mass += mass_key_round[element] * element_dict[element]
         return round(mass, 2)
@@ -84,11 +221,11 @@ class MOFChemicalFormula():
         """ Return the largest fragment that contains metal element"""
         
         return True
-    def formula_details(self):
+    def formula_details(self, formula):
         """ Return details of the formula, including framework formula, solvent and ions"""
         frameworks = {}
 
-        fragments = self.split_formula(self.formula, ',')
+        fragments = self.split_formula(formula, ',')
         for fragment in fragments:
             #format_fragment = self.format_formula(fragment, '\(|\)')
             format_fragment = fragment
@@ -96,36 +233,43 @@ class MOFChemicalFormula():
             ncharge, sign = self.count_charge(format_fragment)
             
             # Get mass of fragment
-            element_dict = self.element_dict(fragment_formula=format_fragment)
-            mass = self.get_mass_from_element_dict(element_dict=element_dict)
-
+            element_dict = self.element_dict(format_fragment)
+            mass = self.get_mass_from_element_dict(element_dict)
             frameworks[fragment] = [format_fragment, ncharge, sign, mass]
         return frameworks
-    def get_largest_fragment(self, has_metal=True):
+    def get_largest_fragment(self, formula):
         """ Return the largest fragment from a chemical formula
         Parameters: has_metal: boolean, whether the largest fragment must contain a metal element.
 
         """
-        frameworks = self.formula_details()
+        frameworks = self.formula_details(formula)
         largest_mass = 0
         largest_frag = None
-
         for index, framework_item in enumerate(sorted(list(frameworks))):
-            element_dict = self.element_dict(fragment_formula = framework_item)
-            for element in element_dict:
-                if element in metals:
-                    if frameworks[framework_item][-1] > largest_mass:
-                        largest_frag = framework_item
-                        largest_mass = frameworks[framework_item][-1]
+            element_dict = self.element_dict(frameworks[framework_item][0])
+            if self.have_carbon:
+                if 'C' in list(element_dict):
+                    if self.have_metal:
+                        for element in element_dict:
+                            if element in metals:
+                                if frameworks[framework_item][-1] > largest_mass:
+                                    largest_frag = framework_item
+                                    largest_mass = frameworks[framework_item][-1]
+            else:
+                if self.have_metal:
+                    for element in element_dict:
+                        if element in metals:
+                            if frameworks[framework_item][-1] > largest_mass:
+                                largest_frag = framework_item
+                                largest_mass = frameworks[framework_item][-1]
                 else:
                     continue
-
         return largest_frag
 
-    def is_ionic(self):
+    def is_ionic(self, formula):
         """ Check if the framework is ionic or not by determining whether the largest fragment is charged or not"""
         
-        frameworks = self.formula_details()
+        frameworks = self.formula_details(formula)
         largest_mass = 0
         largest_frag = None
 
@@ -134,8 +278,9 @@ class MOFChemicalFormula():
                           'cation': [],
                           'anion': []
                          }
-        largest_frag = self.get_largest_fragment(has_metal=True)
-
+        largest_frag = self.get_largest_fragment(formula)
+        if largest_frag == None:
+            return False, None
         if frameworks[largest_frag][2] == '+' or frameworks[largest_frag][2] == '-':
             # Loop again to separate main framework, ion and solvent
             for index, framework_item in enumerate(sorted(list(frameworks))):
@@ -147,7 +292,6 @@ class MOFChemicalFormula():
                                                     }
  
                     framework_dict['framework'].append(temp_dict)
-
                 else:
                     temp_dict = { 'formula': frameworks[framework_item][0],
                                 'charge': frameworks[framework_item][2],
@@ -186,30 +330,47 @@ class MOFChemicalFormula():
                         framework_dict['cation'].append(temp_dict)
             return False, framework_dict
     
-    def is_multiplier(self, new_element_dict):
+    def is_multiplier(self, dict1, dict2, relax_constraint=False):
         """ Compare two element dictionary to check if new one is a multiplier.
         Parameters:
-            new_element_dict: dict, dictionary of the other fragment elements. Same format that is called from element_dict() method.
+            dict1: dict, dictionary of elements 1
+            dict2: dict, dictionary of elements 2
         """
-        element_dict = self.element_dict()
-        check = False
-        if set(element_dict.keys()) == set(new_element_dict.keys()):
-            multipliers = []
-            for element in element_dict:
-                if new_element_dict[element] % element_dict[element] == 0:
-                    multipliers.append(int(new_element_dict[element]/element_dict[element]))
-                else:
-                    check = False
-                    multipliers = []
-                    break
-            mulipliers_set = set(multipliers)
-            if len(mulipliers_set) == 1:
-                check = True 
-                multiplier = multipliers[0]
-            else:
-                check =False
-                multiplier = 0
-        else:
+        if relax_constraint == False:
             check = False
-            multiplier = 0
-        return check, multiplier
+            
+            # Check if element counts are the same in 2 dictionaries
+            if set(dict1.keys()) == set(dict2.keys()):
+                multipliers = []
+                
+                # Test and see which dictionary has larger count
+                elem_list = list(dict1)
+                elem_test = elem_list[0]
+                if dict1[elem_test] >= dict2[elem_test]:
+                    for element in dict1:
+                        if dict1[element] % dict2[element] == 0:
+                            multipliers.append(int(dict1[element]/dict2[element]))
+                        else:
+                            check = False
+                            multipliers = []
+                            break
+                else:
+                    for element in dict1:
+                        if dict2[element] % dict1[element] == 0:
+                            multipliers.append(int(dict2[element]/dict1[element]))
+                        else:
+                            check = False
+                            multipliers = []
+                            break
+
+                mulipliers_set = set(multipliers)
+                if len(mulipliers_set) == 1:
+                    check = True 
+                    multiplier = multipliers[0]
+                else:
+                    check =False
+                    multiplier = 0
+            else:
+                check = False
+                multiplier = 0
+            return check, multiplier

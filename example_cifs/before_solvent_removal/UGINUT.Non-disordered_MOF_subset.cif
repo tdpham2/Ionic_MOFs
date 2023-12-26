@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UGINUT
+_audit_creation_date 2003-01-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UGINUT
+_chemical_formula_sum 'C9 H30 Fe2 N2 O16 P4'
+_chemical_formula_moiety
+;
+(C5 H16 N2 2+)n,n(C4 H10 Fe2 O14 P4 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 702
+_journal_volume 18
+_journal_year 2002
+_journal_page_first 67
+_journal_name_full 'Wuji Huaxue Xuebao(Chin.)(Chin.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"Hui-Hua Song"
+"Li-Min Zheng"
+"Guang-Shan Zhu"
+"Zhan Shi"
+"Shou-Hua Feng"
+"Song Gao"
+"Xin-Quan Xin"
+_chemical_name_systematic
+;
+catena-(Pentane-1,5-diammonium bis(\m~3~-1-hydroxyethylidene-(hydrogen 
+bis(phosphonato)))-di-iron(ii) dihydrate)
+;
+_cell_volume   1122.621
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.946
+_exptl_special_details
+;
+isostructural with the butane-1,4-diammonium analogue
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The diammonium cation is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.5407(11)
+_cell_length_b 12.726(2)
+_cell_length_c 16.137(4)
+_cell_angle_alpha 90
+_cell_angle_beta 99.38(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Fe 1.34
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.3839(1) 0.0512(1) 0.0831(1)
+P1 P -0.1034(2) -0.0831(1) 0.1176(1)
+O1 O 0.1358(5) 0.1589(2) 0.1284(2)
+O2 O -0.3171(5) -0.0609(2) 0.0477(2)
+O3 O -1.1396(6) -0.1937(2) 0.1522(2)
+O4 O 0.5703(8) -0.1612(3) 0.3092(3)
+C1 C -0.1344(7) 0.0141(4) 0.1993(3)
+N1? N 0.377(4) 0.7429(10) 0.0570(11)
+C2 C 0.673(3) 0.4448(12) -0.0309(13)
+C3? C 0.320(3) 0.5650(11) -0.0026(11)
+N2? N 0.675(5) 0.2457(16) -0.0782(19)
+C4? C 0.719(5) 0.350(2) -0.040(3)
+C5? C 0.425(6) 0.4984(18) -0.0287(15)
+C6? C 0.514(6) 0.6546(19) 0.058(2)
+P2 P -0.1087(2) 0.1483(1) 0.1579(1)
+O5 O -0.3356(5) 0.1627(2) 0.0924(2)
+O6 O -0.1326(6) 0.2245(3) 0.2304(2)
+O7 O 0.1501(5) -0.0714(2) 0.0950(2)
+O8 O -0.3878(6) 0.0095(3) 0.2139(2)
+C7 C 0.0448(8) -0.0026(4) 0.2798(3)
+N3 N 0.586(4) 0.2552(11) -0.0693(13)
+C8 C 0.742(3) 0.3477(11) -0.0718(13)
+C9 C 0.425(3) 0.4553(11) -0.0058(12)
+C10? C 0.393(4) 0.6296(10) 0.0738(10)
+N4? N 0.385(5) 0.7281(15) 0.1045(15)
+C11? C 0.473(5) 0.3837(17) -0.019(2)
+C12? C 0.402(7) 0.5468(17) 0.0557(18)
+O2* O 0.6829(5) -0.0609(2) 0.0477(2)
+Fe1* Fe -0.6161(1) 0.0512(1) 0.0831(1)
+O1* O -0.8642(5) 0.1589(2) 0.1284(2)
+O2B O -0.6829(5) 0.0609(2) -0.0477(2)
+Fe1B Fe -0.3839(1) -0.0512(1) -0.0831(1)
+O2B* O 0.3171(5) 0.0609(2) -0.0477(2)
+O5* O 0.6644(5) 0.1627(2) 0.0924(2)
+O7* O -0.8499(5) -0.0714(2) 0.0950(2)
+P1* P -1.1034(2) -0.0831(1) 0.1176(1)
+O2** O -1.3171(5) -0.0609(2) 0.0477(2)
+C1* C -1.1344(7) 0.0141(4) 0.1993(3)
+O8* O 0.6122(6) 0.0095(3) 0.2139(2)
+O3* O -0.1396(6) -0.1937(2) 0.1522(2)
+C2B C 0.327(3) 0.5552(12) 0.0309(13)
+C8B C 0.258(3) 0.6523(11) 0.0718(13)
+N3B N 0.414(4) 0.7448(11) 0.0693(13)
+C9B C 0.575(3) 0.5447(11) 0.0058(12)
+P2* P -1.1087(2) 0.1483(1) 0.1579(1)
+Fe1B* Fe -1.3839(1) -0.0512(1) -0.0831(1)
+Fe1** Fe -1.6161(1) 0.0512(1) 0.0831(1)
+O8** O -1.3878(6) 0.0095(3) 0.2139(2)
+C7* C -0.9552(8) -0.0026(4) 0.2798(3)
+O5** O -1.3356(5) 0.1627(2) 0.0924(2)
+O6* O -1.1326(6) 0.2245(3) 0.2304(2)
+#END

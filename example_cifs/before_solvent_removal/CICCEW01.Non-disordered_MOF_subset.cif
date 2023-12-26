@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CICCEW01
+_audit_creation_date 2020-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CICCEW01
+_database_code_depnum_ccdc_archive 'CCDC 1963551'
+_chemical_formula_sum 'C12 H12 Eu2 K6 O30'
+_chemical_formula_moiety
+;
+(C12 H4 Eu2 O26 6-)n,4n(H2 O1),6n(K1 1+)
+;
+_journal_coden_Cambridge 1048
+_journal_volume 22
+_journal_year 2020
+_journal_page_first 4364
+_journal_name_full 'Green Chemistry '
+loop_
+_publ_author_name
+"I.Huskic"
+"M.Arhangelskis"
+"T.Friscic"
+_chemical_name_systematic
+;
+catena-(hexa-potassium bis(\m-oxalato)-diaqua-tetrakis(oxalato)-di-europium 
+tetrahydrate)
+;
+_cell_volume    763.894
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 2.527
+_exptl_special_details
+;
+powder data
+
+;
+_exptl_crystal_description 'powder'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.4883(2)
+_cell_length_b 9.3894(3)
+_cell_length_c 9.7552(2)
+_cell_angle_alpha 98.255(2)
+_cell_angle_beta 91.154(2)
+_cell_angle_gamma 96.544(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Eu 1.98
+K 2.03
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.2289(5) 0.3583(5) -0.2200(4)
+O1 O 0.498(3) 0.475(3) -0.290(3)
+O2 O 0.038(3) -0.1006(18) -0.1873(19)
+O3 O -0.144(3) -0.015(4) -0.383(3)
+O4 O 0.324(2) 0.743(2) -0.4302(19)
+O5 O 0.351(6) 0.579(11) -0.068(8)
+O6 O 0.6158(18) 0.683(4) -0.341(3)
+O7 O 0.552(10) 0.687(7) 0.071(10)
+O8 O 0.344(4) 0.184(3) -0.405(3)
+O9 O -0.008(13) 0.494(9) -0.190(3)
+O10 O -0.113(13) 0.627(10) -0.014(8)
+O11 O 0.197(2) 0.107(2) -0.1745(19)
+O12 O -0.002(4) 0.205(3) -0.345(3)
+O13 O 0.219(2) 0.526(2) -0.388(2)
+C1 C 0.476(4) 0.579(3) 0.000(5)
+C2 C -0.030(6) 0.531(5) -0.063(2)
+C3 C 0.0768(18) 0.0283(18) -0.2009(13)
+C4 C -0.031(2) 0.078(3) -0.3121(18)
+C5 C 0.3287(18) 0.630(2) -0.3880(12)
+C6 C 0.4956(19) 0.595(3) -0.3372(19)
+O14 O 0.191(3) 0.861(3) -0.962(3)
+K1 K 0.0474(13) 0.3216(12) -0.6109(10)
+K2 K 0.3501(13) 0.7773(12) -0.7022(10)
+O15 O 0.552(4) 1.045(3) -0.769(3)
+K3 K -0.2871(15) -0.1501(12) -0.1121(10)
+O5A O 0.649(6) 0.421(11) 0.068(8)
+O7A O 0.448(10) 0.313(7) -0.071(10)
+C1A C 0.524(4) 0.421(3) 0.000(5)
+O9A O 0.008(13) 0.506(9) 0.190(3)
+O10A O 0.113(13) 0.373(10) 0.014(8)
+C2A C 0.030(6) 0.469(5) 0.063(2)
+Eu1A Eu -0.2289(5) 0.6417(5) 0.2200(4)
+O1A O -0.498(3) 0.525(3) 0.290(3)
+O2A O -0.038(3) 1.1006(18) 0.1873(19)
+O3A O 0.144(3) 1.015(4) 0.383(3)
+O4A O -0.324(2) 0.257(2) 0.4302(19)
+O6A O -0.6158(18) 0.317(4) 0.341(3)
+O8A O -0.344(4) 0.816(3) 0.405(3)
+O11A O -0.197(2) 0.893(2) 0.1745(19)
+O12A O 0.002(4) 0.795(3) 0.345(3)
+O13A O -0.219(2) 0.474(2) 0.388(2)
+C3A C -0.0768(18) 0.9717(18) 0.2009(13)
+C4A C 0.031(2) 0.922(3) 0.3121(18)
+C5A C -0.3287(18) 0.370(2) 0.3880(12)
+C6A C -0.4956(19) 0.405(3) 0.3372(19)
+Eu1A* Eu 0.7711(5) 0.6417(5) 0.2200(4)
+O5A* O -0.351(6) 0.421(11) 0.068(8)
+O7* O -0.448(10) 0.687(7) 0.071(10)
+#END

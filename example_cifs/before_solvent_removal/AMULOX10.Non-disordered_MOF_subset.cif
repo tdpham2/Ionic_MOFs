@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AMULOX10
+_audit_creation_date 1973-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AMULOX10
+_database_code_depnum_ccdc_archive 'CCDC 1102857'
+_chemical_formula_sum 'C6 H8 N2 O16 U2'
+_chemical_formula_moiety
+;
+(C6 O16 U2 2-)n,2n(H4 N1 1+)
+;
+_journal_coden_Cambridge 186
+_journal_year 1973
+_journal_page_first 1616
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"N.W.Alcock"
+_chemical_name_systematic
+;
+catena-[bis(ammonium) tris(\m-oxalato)-tetraoxo-di-uranium]
+;
+_chemical_name_common
+;
+di-ammonium catena-(diuranyl trioxalate)
+;
+_cell_volume    787.079
+_exptl_crystal_density_diffrn 3.54
+_exptl_special_details
+;
+MEASURED DENSITY LARGER THAN 3.3. X-COORD OF O3 SHOULD BE .0104 NOT .104 BOND 
+C1-O5 GIVEN AS 1.49 SHOULD BE 1.46
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.113
+_refine_ls_wR_factor_gt 0.113
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.46(2)
+_cell_length_b 13.61(2)
+_cell_length_c 6.12(1)
+_cell_angle_alpha 90
+_cell_angle_beta 92.7(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+U 1.42
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.09600 0.31700 0.54000
+C2 C 0.13800 0.40300 0.44500
+C3 C 0.00200 -0.00800 1.12800
+O1 O -0.11400 0.24800 0.99200
+O2 O 0.24100 0.20600 1.16900
+O3 O 0.01040 0.06700 1.23500
+O4 O -0.03100 -0.09800 1.18700
+O5 O 0.09300 0.32200 0.77800
+O6 O 0.11200 0.38700 0.23500
+O7 O 0.19300 0.47900 0.50600
+O8 O 0.06300 0.23400 0.46800
+U1 U 0.06390 0.22650 1.08810
+N1 N 0.23200 0.53000 0.96500
+C3B C -0.00200 0.00800 0.87200
+O3B O -0.01040 -0.06700 0.76500
+O4B O 0.03100 0.09800 0.81300
+C1* C 0.09600 0.31700 1.54000
+C2* C 0.13800 0.40300 1.44500
+O5* O 0.09300 0.32200 1.77800
+O6* O 0.11200 0.38700 1.23500
+O7* O 0.19300 0.47900 1.50600
+O8* O 0.06300 0.23400 1.46800
+U1B U -0.06390 -0.22650 0.91190
+U1* U 0.06390 0.22650 2.08810
+U1** U 0.06390 0.22650 0.08810
+O1B O 0.11400 -0.24800 1.00800
+O2B O -0.24100 -0.20600 0.83100
+O5B O -0.09300 -0.32200 1.22200
+O6B O -0.11200 -0.38700 0.76500
+O8B O -0.06300 -0.23400 0.53200
+#END

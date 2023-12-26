@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAXHAW
+_audit_creation_date 2012-06-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAXHAW
+_database_code_depnum_ccdc_archive 'CCDC 760609'
+_chemical_formula_sum 'C2 H12 La1 N1 O9 P2'
+_chemical_formula_moiety
+;
+(C2 H6 La1 O8 P2 1-)n,n(H4 N1 1+),n(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 11
+_journal_year 2011
+_journal_page_first 5346
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Da-Peng Dong"
+"Lei Liu"
+"Zhen-Gang Sun"
+"Cheng-Qi Jiao"
+"Zhong-Min Liu"
+"Chao Li"
+"Yan-Yu Zhu"
+"Kai Chen"
+"Cheng-Lin Wang"
+_chemical_name_systematic
+;
+catena-(ammonium (\m~4~-1-hydroxyethylidene-diphosphonato)-aqua-lanthanum 
+monohydrate)
+;
+_cell_volume    989.064
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.653
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0351
+_refine_ls_wR_factor_gt 0.0351
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 8.7115(10)
+_cell_length_b 10.4316(13)
+_cell_length_c 10.8838(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+La 2.04
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+La1 La -0.00787(5) 1.10152(3) 0.11264(3)
+P1 P -0.1556(2) 0.9167(2) 0.3942(2)
+P2 P 0.1944(2) 0.9187(2) 0.36069(19)
+O1 O -0.1528(7) 1.0044(6) 0.2827(6)
+O2 O -0.1758(6) 0.7759(5) 0.3596(5)
+O3 O -0.2764(7) 0.9591(5) 0.4859(5)
+O4 O 0.1721(7) 0.7866(6) 0.2997(5)
+O5 O 0.1795(7) 1.0288(6) 0.2695(6)
+O6 O 0.3428(6) 0.9300(5) 0.4345(5)
+O7 O 0.0457(5) 0.8087(5) 0.5447(4)
+H1 H 0.13480 0.79690 0.56610
+O8 O 0.0373(6) 0.8559(4) 0.0824(5)
+H2 H -0.04840 0.81850 0.07150
+H3 H 0.07890 0.82470 0.14640
+O9 O 0.2104(7) 0.7540(6) -0.1001(6)
+H4 H 0.26330 0.78230 -0.15990
+H5 H 0.26790 0.71180 -0.05180
+N1 N 0.5707(10) 0.1527(7) 0.3009(7)
+H6 H 0.52470 0.22840 0.28600
+H7 H 0.64430 0.16340 0.35800
+H8 H 0.50070 0.09620 0.32850
+H9 H 0.61310 0.12290 0.23110
+C1 C 0.0360(8) 0.9280(6) 0.4706(6)
+C2 C 0.0452(10) 1.0442(8) 0.5521(8)
+H10 H 0.14460 1.04800 0.58990
+H11 H -0.03230 1.03870 0.61470
+H12 H 0.02890 1.12000 0.50390
+La1B La 0.00787(5) 0.60152(3) 0.38736(3)
+La1A La -0.49213(5) 0.89848(3) 0.61264(3)
+La1A* La 0.50787(5) 0.89848(3) 0.61264(3)
+O2B O 0.1758(6) 1.2759(5) 0.1404(5)
+O3A O -0.2236(7) 1.0409(5) -0.0141(5)
+O4B O -0.1721(7) 1.2866(6) 0.2003(5)
+O6A O 0.1572(6) 1.0700(5) -0.0655(5)
+O7B O -0.0457(5) 1.3087(5) -0.0447(4)
+H1B H -0.13480 1.29690 -0.06610
+#END

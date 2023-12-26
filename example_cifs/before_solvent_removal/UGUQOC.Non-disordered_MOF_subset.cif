@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UGUQOC
+_audit_creation_date 2003-01-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UGUQOC
+_database_code_depnum_ccdc_archive 'CCDC 198300'
+_chemical_formula_sum 'C10 H26 N2 O16 Zn1'
+_chemical_formula_moiety
+;
+(H4 N1 1+)2n,n(C10 H2 O8 Zn1 2-),8n(H2 O1)
+;
+_journal_coeditor_code "IUCr CV6141"
+_journal_coden_Cambridge 1370
+_journal_volume 58
+_journal_year 2002
+_journal_page_first m540
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Yan-Qiong Sun"
+"Jie Zhang"
+"Guo-Yu Yang"
+_chemical_name_systematic
+;
+catena-(bis(Ammonium)-(\m~4~-benzene-1,2,4,5-tetracarboxylato)-zinc 
+octahydrate)
+;
+_cell_volume   1956.279
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.683
+_exptl_crystal_description 'diamond'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+O3w is disordered over two equal sites and the occupancy of O5w was fixed at 
+0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0324
+_refine_ls_wR_factor_gt 0.0324
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 11.555(2)
+_cell_length_b 15.300(3)
+_cell_length_c 11.072(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.97(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.50000 0.494950(16) 0.25000
+O1 O 0.38370(12) 0.56214(9) 0.15306(13)
+O2 O 0.52526(13) 0.65120(11) 0.09969(16)
+O3 O 0.3548(2) 0.65331(13) -0.27795(15)
+O4 O 0.41022(13) 0.56661(9) -0.12755(14)
+C1 C 0.42225(17) 0.62977(12) 0.10034(17)
+C2 C 0.33176(16) 0.68962(11) 0.04435(17)
+C3 C 0.27625(18) 0.74539(13) 0.12211(18)
+C4 C 0.30524(16) 0.69379(12) -0.07962(17)
+C5 C 0.36041(17) 0.63458(13) -0.16921(18)
+N1 N 0.7271(3) 0.5761(2) 0.0020(3)
+O5 O 0.1645(4) 0.5424(5) 0.2555(6)
+O6 O 0.00000 0.5920(11) 0.75000
+O7 O 0.3966(5) 0.2159(4) 0.0572(6)
+O8? O 0.4277(6) 0.1764(5) -0.0637(11)
+O9 O 0.4212(7) 0.9401(5) 0.012(2)
+O10? O 0.4706(12) 0.1707(6) 0.1937(10)
+H1 H 0.302(3) 0.748(2) 0.212(3)
+H2 H 0.774(6) 0.630(5) 0.020(6)
+H3 H 0.741(9) 0.520(6) 0.044(11)
+H4 H 0.668(7) 0.587(4) 0.046(7)
+H5 H 0.695(8) 0.573(5) -0.088(9)
+C4E C 0.19476(16) 0.80621(12) 0.07962(17)
+C2E C 0.16824(16) 0.81038(11) -0.04435(17)
+C1E C 0.07775(17) 0.87023(12) -0.10034(17)
+O1E O 0.11630(12) 0.93786(9) -0.15306(13)
+O2E O -0.02526(13) 0.84880(11) -0.09969(16)
+C3E C 0.22375(18) 0.75461(13) -0.12211(18)
+H1E H 0.198(3) 0.752(2) -0.212(3)
+C5E C 0.13959(17) 0.86542(13) 0.16921(18)
+O3E O 0.1452(2) 0.84669(13) 0.27795(15)
+O4E O 0.08978(13) 0.93339(9) 0.12755(14)
+O1F O 0.61630(12) 0.56214(9) 0.34694(13)
+O4B O 0.41022(13) 0.43339(9) 0.37245(14)
+O4D O 0.58978(13) 0.43339(9) 0.12755(14)
+Zn1B Zn 0.50000 0.505050(16) -0.25000
+Zn1C Zn 0.00000 1.005050(16) -0.25000
+Zn1A Zn 0.00000 0.994950(16) 0.25000
+#END

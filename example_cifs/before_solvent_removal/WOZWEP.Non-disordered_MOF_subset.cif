@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WOZWEP
+_audit_creation_date 2015-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WOZWEP
+_database_code_depnum_ccdc_archive 'CCDC 1000500'
+_chemical_formula_sum 'C14 H16 In1 O11 P1'
+_chemical_formula_moiety
+;
+(H3 O1 1+)n,n(C14 H7 In1 O7 P1 1-),3n(H2 O1)
+;
+_journal_coden_Cambridge 222
+_journal_volume 44
+_journal_year 2015
+_journal_page_first 3794
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Wenyan Dan"
+"Xiaofeng Liu"
+"Mingli Deng"
+"Yun Ling"
+"Zhenxia Chen"
+"Yaming Zhou"
+_chemical_name_systematic
+;
+catena-[Oxonium (\m~5~-4'-phosphonatobiphenyl-3,5-dicarboxylato)-indium(iii) 
+trihydrate]
+;
+_chemical_name_common
+;
+InPCF-1
+;
+_cell_volume   3687.815
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Luminescent
+
+;
+_exptl_crystal_description 'rod'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The water molecules are disordered; additional solvent water, as evidenced by 
+TGA results, were not modelled from the diffraction data.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0462
+_refine_ls_wR_factor_gt 0.0462
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 4/m n c'
+_symmetry_Int_Tables_number 128
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 1/2-x,1/2+y,1/2-z
+6 1/2+x,1/2-y,1/2-z
+7 1/2+y,1/2+x,1/2-z
+8 1/2-y,1/2-x,1/2-z
+9 -x,-y,-z
+10 x,y,-z
+11 y,-x,-z
+12 -y,x,-z
+13 -1/2+x,-1/2-y,-1/2+z
+14 -1/2-x,-1/2+y,-1/2+z
+15 -1/2-y,-1/2-x,-1/2+z
+16 -1/2+y,-1/2+x,-1/2+z
+_cell_length_a 23.474(3)
+_cell_length_b 23.474(3)
+_cell_length_c 6.6926(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.12300(3) 0.27548(3) 1.00000
+P1 P 0.60476(10) 0.20059(11) 1.00000
+C1 C 0.5150(5) 0.1237(5) 1.00000
+H1 H 0.54300 0.09570 1.00000
+O1 O 0.6391(3) 0.1454(3) 1.00000
+O2 O 0.2182(3) 0.2519(3) 1.00000
+O3 O 0.1542(3) 0.1847(3) 1.00000
+C2 C 0.5301(4) 0.1797(4) 1.00000
+C3 C 0.2057(5) 0.1999(4) 1.00000
+O4 O 0.2155(4) -0.0210(3) 1.00000
+O5 O 0.3067(4) -0.0383(3) 1.00000
+C4 C 0.4138(4) 0.1477(4) 1.00000
+C5 C 0.3085(4) 0.1714(4) 1.00000
+H2 H 0.31780 0.20990 1.00000
+C6 C 0.2796(4) 0.0582(4) 1.00000
+C7 C 0.3524(4) 0.1320(4) 1.00000
+C8 C 0.2374(4) 0.0986(4) 1.00000
+H3 H 0.19930 0.08760 1.00000
+C9 C 0.2521(4) 0.1562(4) 1.00000
+C10 C 0.4308(4) 0.2035(4) 1.00000
+H4 H 0.40330 0.23200 1.00000
+C11 C 0.2657(6) -0.0037(5) 1.00000
+C12 C 0.4887(5) 0.2189(4) 1.00000
+H5 H 0.49840 0.25730 1.00000
+C13 C 0.3365(4) 0.0743(4) 1.00000
+H6 H 0.36460 0.04640 1.00000
+C14 C 0.4560(5) 0.1079(5) 1.00000
+H7 H 0.44630 0.06950 1.00000
+O6 O 0.61465(19) 0.23751(19) 0.8153(7)
+O7 O 0.3608(11) 0.3381(9) 1.00000
+O8 O 0.3768(15) 0.462(2) 0.753(6)
+H8 H 0.34840 0.46670 0.67580
+H9 H 0.36690 0.43980 0.84710
+H10? H 0.35510 0.42790 1.09610
+H11? H 0.31730 0.40330 0.96350
+O9? O 0.3519(7) 0.4045(12) 1.00000
+O6I O 0.61465(19) 0.23751(19) 1.1847(7)
+In1B In 0.72452(3) 0.12300(3) 1.00000
+In1C In 0.27548(3) -0.12300(3) 1.00000
+In1E In 0.62300(3) 0.22452(3) 0.50000
+In1E* In 0.62300(3) 0.22452(3) 1.50000
+O1C O 0.1454(3) 0.3609(3) 1.00000
+O5B O 0.0383(4) 0.3067(3) 1.00000
+O6E O 0.11465(19) 0.26249(19) 0.6847(7)
+O6L O 0.11465(19) 0.26249(19) 1.3153(7)
+#END

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TEQJIJ
+_audit_creation_date 2007-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TEQJIJ
+_database_code_depnum_ccdc_archive 'CCDC 269143'
+_chemical_formula_sum 'C16 H30 N2 O5 Sn1'
+_chemical_formula_moiety
+;
+(C6 H16 N1 1+)n,n(C10 H12 N1 O4 Sn1 1-),n(H2 O1)
+;
+_journal_coden_Cambridge 211
+_journal_volume 59
+_journal_year 2006
+_journal_page_first 1891
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"Chunlin Ma"
+"Jikun Li"
+"Rufen Zhang"
+_chemical_name_systematic
+;
+catena-(triethylammonium (\m~2~-3,5-pyridinedicarboxylato)-trimethyl-tin(iv) 
+monohydrate)
+;
+_chemical_melting_point 451.15
+_cell_volume   2039.965
+_exptl_crystal_density_diffrn 1.462
+_exptl_special_details
+;
+Melting point range 451.15-453.15K
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0342
+_refine_ls_wR_factor_gt 0.0342
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.7852(14)
+_cell_length_b 20.708(3)
+_cell_length_c 12.808(2)
+_cell_angle_alpha 90
+_cell_angle_beta 98.905(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Sn 1.46
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn1 Sn 0.23471(4) 0.806121(13) 0.23301(2)
+N1 N 0.2219(6) 0.54531(18) 0.5625(3)
+N2 N 0.2088(4) 0.88422(17) 0.6331(3)
+H1 H 0.19490 0.92230 0.66610
+O1 O 0.2520(5) 0.70543(13) 0.2998(3)
+O2 O 0.2335(5) 0.73566(14) 0.4652(3)
+O3 O 0.2739(5) 0.40068(14) 0.3543(3)
+O4 O 0.3209(5) 0.46800(15) 0.2257(2)
+O5 O 0.3329(6) 0.50184(18) 0.7726(3)
+C1 C 0.2218(7) 0.6061(2) 0.5280(3)
+H2 H 0.20570 0.63880 0.57530
+C2 C 0.2438(6) 0.62395(19) 0.4273(3)
+C3 C 0.2688(5) 0.57499(18) 0.3572(3)
+H3 H 0.28660 0.58490 0.28880
+C4 C 0.2672(6) 0.51144(18) 0.3897(3)
+C5 C 0.2438(7) 0.4995(2) 0.4920(4)
+H4 H 0.24320 0.45660 0.51380
+C6 C 0.2428(6) 0.69446(19) 0.3975(4)
+C7 C 0.2900(6) 0.45613(19) 0.3156(4)
+C8 C 0.2417(9) 0.7644(2) 0.0826(4)
+H5 H 0.12590 0.75320 0.05040
+H6 H 0.31240 0.72620 0.09070
+H7 H 0.29010 0.79480 0.03860
+C9 C 0.4707(7) 0.8357(3) 0.3249(5)
+H8 H 0.56600 0.82470 0.28880
+H9 H 0.48470 0.81430 0.39210
+H10 H 0.46870 0.88160 0.33540
+C10 C -0.0191(7) 0.8177(2) 0.2694(4)
+H11 H -0.10170 0.79980 0.21360
+H12 H -0.04280 0.86290 0.27680
+H13 H -0.02800 0.79580 0.33450
+C11 C 0.1019(7) 0.8867(3) 0.5270(4)
+H14 H 0.09470 0.84370 0.49690
+H15 H 0.15990 0.91410 0.48180
+C12 C -0.0785(7) 0.9117(3) 0.5271(5)
+H16 H -0.13970 0.91250 0.45600
+H17 H -0.07290 0.95470 0.55570
+H18 H -0.13860 0.88410 0.56950
+C13 C 0.1504(9) 0.8312(3) 0.6990(5)
+H19 H 0.18850 0.79010 0.67450
+H20 H 0.02430 0.83080 0.68950
+C14 C 0.2199(10) 0.8386(3) 0.8148(5)
+H21 H 0.17700 0.80400 0.85360
+H22 H 0.18240 0.87920 0.83960
+H23 H 0.34460 0.83720 0.82500
+C15 C 0.3964(8) 0.8774(3) 0.6246(5)
+H24 H 0.45960 0.86500 0.69300
+H25 H 0.41010 0.84300 0.57510
+C16 C 0.4731(8) 0.9376(3) 0.5891(6)
+H26 H 0.59330 0.93040 0.58380
+H27 H 0.46430 0.97140 0.63930
+H28 H 0.41150 0.95000 0.52130
+H29 H 0.443(3) 0.511(3) 0.765(4)
+H30 H 0.281(5) 0.479(3) 0.717(3)
+Sn1A Sn 0.26529(4) 0.306121(13) 0.26699(2)
+O3A O 0.2261(5) 0.90068(14) 0.1457(3)
+#END

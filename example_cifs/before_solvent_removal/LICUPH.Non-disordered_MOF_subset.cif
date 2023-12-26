@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LICUPH
+_audit_creation_date 1978-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LICUPH
+_database_code_depnum_ccdc_archive 'CCDC 1206755'
+_chemical_formula_sum 'C16 H16 Cu1 Li2 O12'
+_chemical_formula_moiety
+;
+(C16 H8 Cu1 O8 2-)n,4n(H2 O1),2n(Li1 1+)
+;
+_journal_coeditor_code "IUCr A14475"
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 659
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.B.Cingi"
+"A.M.M.Lanfredi"
+"A.Tiripicchio"
+"M.Tiripicchio Camellini"
+_chemical_name_systematic
+;
+catena-[di-lithium bis(\m~2~-o-phthalato-O,O')-copper(ii) tetrahydrate]
+;
+_cell_volume    473.788
+_exptl_crystal_density_diffrn 1.67
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.024
+_refine_ls_wR_factor_gt 0.024
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.823(7)
+_cell_length_b 10.935(15)
+_cell_length_c 6.514(10)
+_cell_angle_alpha 111.8(1)
+_cell_angle_beta 112.8(1)
+_cell_angle_gamma 87.4(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.52
+Li 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.00000 0.00000 0.00000
+O1 O -0.03020 -0.12810 0.12910
+O2 O -0.32520 -0.14960 -0.11770
+O3 O 0.24030 0.07930 0.53320
+O4 O 0.01080 0.15070 0.28730
+C1 C -0.22440 -0.30530 0.07230
+C2 C -0.17370 -0.29760 0.30710
+C3 C -0.17380 -0.41290 0.34960
+C4 C -0.23020 -0.53560 0.15840
+C5 C -0.28700 -0.54250 -0.07380
+C6 C -0.28370 -0.42800 -0.11780
+C7 C -0.19800 -0.18550 0.02330
+C8 C -0.13870 -0.16500 0.50880
+H1 H -0.13400 -0.40900 0.51800
+H2 H -0.23000 -0.61500 0.19500
+H3 H -0.32800 -0.62800 -0.20900
+H4 H -0.32500 -0.43600 -0.28700
+O5 O 0.30450 -0.19570 0.58520
+H5 H 0.23100 -0.19000 0.65900
+H6 H 0.41000 -0.19800 0.66900
+O6 O 0.37980 -0.10840 0.17950
+H7 H 0.49700 -0.11400 0.25400
+H8 H 0.37100 -0.03800 0.15300
+Li1 Li 0.22900 -0.10950 0.36150
+O1A O 0.03020 0.12810 -0.12910
+O4A O -0.01080 -0.15070 -0.28730
+C8A C 0.13870 0.16500 0.49120
+C2A C 0.17370 0.29760 0.69290
+C1A C 0.22440 0.30530 0.92770
+C3A C 0.17380 0.41290 0.65040
+C4A C 0.23020 0.53560 0.84160
+H1A H 0.13400 0.40900 0.48200
+C5A C 0.28700 0.54250 1.07380
+H2A H 0.23000 0.61500 0.80500
+O3A O -0.24030 -0.07930 0.46680
+O4A* O -0.01080 -0.15070 0.71270
+C6A C 0.28370 0.42800 1.11780
+C7A C 0.19800 0.18550 0.97670
+H3A H 0.32800 0.62800 1.20900
+Cu1* Cu 0.00000 0.00000 1.00000
+H4A H 0.32500 0.43600 1.28700
+O1A* O 0.03020 0.12810 0.87090
+O2A O 0.32520 0.14960 1.11770
+#END

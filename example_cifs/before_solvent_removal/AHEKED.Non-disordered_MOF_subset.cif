@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AHEKED
+_audit_creation_date 2003-02-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AHEKED
+_database_code_depnum_ccdc_archive 'CCDC 200240'
+_chemical_formula_sum 'C6 H17 N2 O7 P2 Sb1'
+_chemical_formula_moiety
+;
+(C4 H14 N2 2+)n,n(C2 H3 O7 P2 Sb1 2-)
+;
+_journal_coden_Cambridge 208
+_journal_volume 168
+_journal_year 2002
+_journal_page_first 263
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"Xiao-Yi Yi"
+"Li-Min Zheng"
+_chemical_name_systematic
+;
+catena-(Butane-1,4-diammonium 
+(\m~2~-1-hydroxyethyldiphosphonato)-antimony(iii))
+;
+_cell_volume   1254.729
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.186
+_exptl_special_details
+;
+isostructural with the pentanediammonium analogue
+
+;
+_exptl_crystal_description 'column'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0316
+_refine_ls_wR_factor_gt 0.0316
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-y,-1/2+z
+7 -x,-1/2+y,-z
+8 -1/2+x,-1/2-y,-1/2-z
+_cell_length_a 13.426(4)
+_cell_length_b 17.149(4)
+_cell_length_c 5.4496(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+P 1.05
+Sb 1.46
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sb1 Sb 0.88471(2) 0.75000 -0.86509(5)
+P1 P 0.80064(7) 0.66061(5) -1.33373(15)
+O1 O 0.89240(19) 0.66236(16) -1.1655(5)
+O2 O 0.73585(19) 0.58995(13) -1.2919(5)
+O3 O 0.8267(2) 0.66383(14) -1.6087(4)
+O4 O 0.7423(2) 0.75000 -0.9760(6)
+N1 N 0.6716(2) 0.56096(18) 0.1711(6)
+H1 H 0.68540 0.57060 0.01430
+H2 H 0.68590 0.51150 0.20530
+H3 H 0.70800 0.59210 0.26620
+C1 C 0.7349(3) 0.75000 -1.2413(9)
+C2 C 0.6267(4) 0.75000 -1.3191(12)
+H4 H 0.592(4) 0.706(3) -1.259(10)
+H5 H 0.61860 0.75000 -1.50230
+C3 C 0.5637(3) 0.5755(2) 0.2173(8)
+H6 H 0.556(4) 0.581(3) 0.366(9)
+H7 H 0.544(4) 0.618(3) 0.128(8)
+C4 C 0.4987(3) 0.5079(2) 0.1368(7)
+H8 H 0.435(4) 0.515(3) 0.187(8)
+H9 H 0.518(4) 0.469(3) 0.200(9)
+P1B P 0.80064(7) 0.83939(5) -1.33373(15)
+O1B O 0.89240(19) 0.83764(16) -1.1655(5)
+O2B O 0.73585(19) 0.91005(13) -1.2919(5)
+O3B O 0.8267(2) 0.83617(14) -1.6087(4)
+H4B H 0.592(4) 0.794(3) -1.259(10)
+C4D C 0.5013(3) 0.4921(2) -0.1368(7)
+C3D C 0.4363(3) 0.4245(2) -0.2173(8)
+N1D N 0.3284(2) 0.43904(18) -0.1711(6)
+H1D H 0.31460 0.42940 -0.01430
+H2D H 0.31410 0.48850 -0.20530
+H3D H 0.29200 0.40790 -0.26620
+H6D H 0.444(4) 0.419(3) -0.366(9)
+H7D H 0.456(4) 0.382(3) -0.128(8)
+H8D H 0.565(4) 0.485(3) -0.187(8)
+H9D H 0.482(4) 0.531(3) -0.200(9)
+O3* O 0.8267(2) 0.66383(14) -0.6087(4)
+O3B* O 0.8267(2) 0.83617(14) -0.6087(4)
+Sb1* Sb 0.88471(2) 0.75000 -1.86509(5)
+#END

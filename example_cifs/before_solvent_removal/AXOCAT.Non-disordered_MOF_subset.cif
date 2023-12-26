@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AXOCAT
+_audit_creation_date 2016-10-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AXOCAT
+_database_code_depnum_ccdc_archive 'CCDC 1484261'
+_chemical_formula_sum 'C1 H6 Cs2 O11 S3'
+_chemical_formula_moiety
+;
+(C1 H3 Cs2 O10 S3 1-)n,n(H3 O1 1+)
+;
+_journal_coden_Cambridge 2020
+_journal_volume 1
+_journal_year 2016
+_journal_page_first 4440
+_journal_name_full 'Chem. Sel. '
+loop_
+_publ_author_name
+"B.Oelkers"
+"D.Schaffner"
+"Yu Sun"
+_chemical_name_systematic
+;
+catena-[oxonium (\m-methanetrisulfonato)-aqua-di-cesium]
+;
+_cell_volume   1290.919
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.861
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0225
+_refine_ls_wR_factor_gt 0.0225
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.1015(1)
+_cell_length_b 12.9463(1)
+_cell_length_c 12.4223(2)
+_cell_angle_alpha 90
+_cell_angle_beta 97.778(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cs 2.44
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cs1 Cs 0.969031(18) 0.212168(11) 0.728619(12)
+Cs2 Cs 0.492017(19) 0.134022(12) 0.893152(12)
+S1 S 0.66300(7) 0.42034(4) 0.64421(5)
+S2 S 0.30769(7) 0.40929(4) 0.69877(5)
+S3 S 0.44825(8) 0.23456(4) 0.57756(5)
+C1 C 0.4525(3) 0.37296(17) 0.60513(19)
+H1 H 0.41100 0.40730 0.53450
+O1 O 0.7609(2) 0.37009(14) 0.57026(15)
+O2 O 0.7125(2) 0.38885(14) 0.75686(14)
+O3 O 0.6533(2) 0.53153(13) 0.63094(15)
+O4 O 0.3563(2) 0.51103(13) 0.73921(16)
+O5 O 0.3257(2) 0.33082(13) 0.78400(14)
+O6 O 0.1457(2) 0.40737(14) 0.63319(15)
+O7 O 0.5571(2) 0.18475(14) 0.66391(15)
+O8 O 0.2725(2) 0.20635(14) 0.57289(17)
+O9 O 0.5051(2) 0.22340(14) 0.47198(14)
+O10 O 0.8026(2) 0.12202(15) 0.49103(16)
+H2 H 0.716(3) 0.155(2) 0.498(3)
+H3 H 0.818(4) 0.120(3) 0.4251(16)
+O11 O 0.6521(3) 0.44432(15) 0.94615(16)
+H4 H 0.704(4) 0.400(2) 0.989(2)
+H5 H 0.665(4) 0.434(3) 0.8811(17)
+H6 H 0.670(4) 0.5079(16) 0.966(3)
+Cs1* Cs -0.030969(18) 0.212168(11) 0.728619(12)
+Cs1A Cs 0.530969(18) 0.712168(11) 0.771381(12)
+Cs1C Cs 0.469031(18) 0.287832(11) 0.228619(12)
+Cs2A Cs 0.007983(19) 0.634022(12) 0.606848(12)
+Cs2A* Cs 1.007983(19) 0.634022(12) 0.606848(12)
+Cs2C Cs -0.007983(19) 0.365978(12) 0.393152(12)
+Cs2C* Cs 0.992017(19) 0.365978(12) 0.393152(12)
+O1C O 0.2609(2) 0.12991(14) 1.07026(15)
+O3A O 0.8467(2) 0.03153(13) 0.86906(15)
+O4A O 0.1437(2) 0.01103(13) 0.76079(16)
+O4A* O 1.1437(2) 0.01103(13) 0.76079(16)
+O5* O 1.3257(2) 0.33082(13) 0.78400(14)
+O6* O 1.1457(2) 0.40737(14) 0.63319(15)
+O6A O 0.3543(2) -0.09263(14) 0.86681(15)
+O6C O 0.6457(2) 0.09263(14) 1.13319(15)
+O8* O 1.2725(2) 0.20635(14) 0.57289(17)
+O8C O 0.7725(2) 0.29365(14) 1.07289(17)
+O9C O 1.0051(2) 0.27660(14) 0.97198(14)
+#END

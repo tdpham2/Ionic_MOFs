@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOYYIH
+_audit_creation_date 2015-03-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOYYIH
+_database_code_depnum_ccdc_archive 'CCDC 1054118'
+_chemical_formula_sum 'C28 H29 N4 Nd1 O14 S2'
+_chemical_formula_moiety
+;
+(C16 H7 Nd1 O14 S2 2-)n,2n(C6 H11 N2 1+)
+;
+_journal_coden_Cambridge 1295
+_journal_volume 60
+_journal_year 2015
+_journal_page_first 4
+_journal_name_full 'Inorg.Chem.Commun. '
+loop_
+_publ_author_name
+"Wen-xian Chen"
+"Jia-qi Bai"
+"Zao-hong Yu"
+"Qiu-ping Liu"
+"Gan-ning Zeng"
+"Gui-lin Zhuang"
+_chemical_name_systematic
+;
+catena-(bis(1-Ethyl-3-methylimidazolium) (\m~4~-hydrogen 
+5-sulfonatoisophthalato)-(\m~3~-5-sulfonatoisophthalato)-neodymium)
+;
+_cell_volume   1247.551
+_exptl_crystal_density_diffrn 2.273
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The disordered cations were taken into account using SQUEEZE/PLATON.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.8274(3)
+_cell_length_b 11.8547(5)
+_cell_length_c 12.9385(5)
+_cell_angle_alpha 97.006(3)
+_cell_angle_beta 107.992(3)
+_cell_angle_gamma 99.649(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Nd 2.01
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nd1 Nd 1.460032(16) 1.054620(13) 1.349786(11)
+O1 O 1.2001(2) 1.01931(19) 1.19022(17)
+O2 O 1.5899(2) 0.91982(18) 1.45758(16)
+O3 O 1.4732(2) 0.9283(2) 1.18835(17)
+O4 O 1.7092(3) 1.0411(2) 1.29073(18)
+O5 O 1.4829(3) 1.2121(2) 1.25504(17)
+O6 O 1.2625(3) 1.1565(2) 1.41064(17)
+O7 O 1.2530(2) 0.8853(2) 1.34314(17)
+O8 O 1.7028(2) 1.1892(2) 1.48651(17)
+C1 C 1.6981(3) 0.8606(3) 1.4937(2)
+S1 S 1.44292(9) 1.28890(7) 1.17445(6)
+C2 C 1.7706(4) 0.8059(3) 1.4132(2)
+O9 O 1.5855(3) 1.3496(2) 1.15741(19)
+O10 O 1.3377(3) 1.3615(2) 1.1995(2)
+C3 C 1.3234(3) 1.1951(3) 1.0471(2)
+C4 C 1.6670(4) 0.7398(3) 1.3118(2)
+C5 C 1.9397(4) 0.8187(3) 1.4445(2)
+C6 C 1.1532(3) 1.1695(3) 1.0179(2)
+C7 C 1.3975(4) 1.1478(3) 0.9764(2)
+H1 H 1.55230 0.73250 1.29180
+C8 C 1.7322(3) 0.6849(3) 1.2403(2)
+H2 H 2.00950 0.86250 1.51440
+C9 C 2.0035(3) 0.7650(2) 1.3694(2)
+H3 H 1.10220 1.20390 1.06450
+C10 C 1.0592(3) 1.0923(3) 0.9190(2)
+C11 C 1.3013(4) 1.0740(3) 0.8763(2)
+H4 H 1.51300 1.16570 0.99610
+C12 C 1.6272(3) 0.6101(3) 1.1309(2)
+C13 C 1.9020(3) 0.6990(2) 1.2683(2)
+S2 S 2.21691(8) 0.78493(6) 1.39430(6)
+C14 C 1.1333(4) 1.0442(3) 0.8490(2)
+C15 C 0.8795(4) 1.0616(3) 0.8848(2)
+C16 C 1.3742(3) 1.0308(3) 0.7942(2)
+O11 O 1.4716(3) 0.5950(2) 1.11056(18)
+O12 O 1.6922(3) 0.5672(2) 1.06850(17)
+H5 H 1.94690 0.66350 1.21820
+O13 O 2.2422(3) 0.6794(2) 1.3410(2)
+H6 H 1.06880 0.99110 0.78270
+O14 O 0.8163(3) 1.1274(2) 0.94139(19)
+O2A O 1.4101(2) 1.08018(18) 1.54242(16)
+Nd1A Nd 1.539968(16) 0.945380(13) 1.650214(11)
+O6A O 1.7375(3) 0.8435(2) 1.58936(17)
+O7* O 2.2530(2) 0.8853(2) 1.34314(17)
+O8A O 2.2972(2) 0.8108(2) 1.51349(17)
+O1A O 0.7999(2) 0.98069(19) 0.80978(17)
+O3A O 1.5268(2) 1.0717(2) 0.81165(17)
+O4A O 1.2908(3) 0.9589(2) 0.70927(18)
+Nd1A* Nd 0.539968(16) 0.945380(13) 0.650214(11)
+Nd1* Nd 2.460032(16) 1.054620(13) 1.349786(11)
+Nd1A** Nd 2.539968(16) 0.945380(13) 1.650214(11)
+Nd1A*** Nd 1.539968(16) 0.945380(13) 0.650214(11)
+#END

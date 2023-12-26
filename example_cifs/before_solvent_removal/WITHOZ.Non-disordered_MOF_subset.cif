@@ -1,0 +1,178 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WITHOZ
+_audit_creation_date 2019-02-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WITHOZ
+_database_code_depnum_ccdc_archive 'CCDC 1575976'
+_chemical_formula_sum 'C16 H24 Cu5 K1 Na3 O31'
+_chemical_formula_moiety
+;
+(C16 H12 Cu5 O25 4-)n,6(H2 O1),3(Na1 1+),K1 1+
+;
+_journal_coden_Cambridge 367
+_journal_volume 44
+_journal_year 2018
+_journal_page_first 693
+_journal_name_full 'Koord.Khim.(Russ.)(Coord.Chem.) '
+loop_
+_publ_author_name
+"J.C.Jin"
+"H.R.Zhong"
+"A.Q.Ma"
+"Y.J.Huang"
+"S.W.Qiu"
+"J.Q.Liu"
+"M.M.Luo"
+"J.W.Xu"
+"Y.Y.Wang"
+"H.S.Sakiyama"
+_chemical_name_systematic
+;
+catena-[potassium tri-sodium bis(\m-tartarato)-bis(\m-hydrogen 
+tartarato)-aqua-penta-copper(ii) hexahydrate]
+;
+_cell_volume   6816.401
+_exptl_crystal_density_diffrn 2.218
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0583
+_refine_ls_wR_factor_gt 0.0583
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 16.851(3)
+_cell_length_b 19.645(4)
+_cell_length_c 20.591(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+K 2.03
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.65711(5) 0.25279(5) 0.19648(4)
+Cu2 Cu 0.72207(5) 0.41886(5) -0.05392(4)
+Cu3 Cu 0.67625(5) 0.39187(4) 0.09833(4)
+Cu4 Cu 0.59435(5) 0.52153(5) 0.02092(4)
+Cu5 Cu 0.78903(5) 0.36670(5) 0.21544(5)
+O1 O 0.8528(3) 0.4406(3) 0.1811(3)
+O2 O 0.8438(4) 0.5542(3) 0.1791(4)
+O3 O 0.7002(3) 0.4211(2) 0.1868(2)
+O4 O 0.6812(3) 0.4881(2) 0.0746(2)
+O5 O 0.5760(4) 0.5611(3) 0.2063(3)
+O6 O 0.5509(3) 0.5585(3) 0.1007(2)
+O7 O 0.4666(3) 0.6064(3) -0.1188(2)
+O8 O 0.5062(3) 0.5667(2) -0.0246(2)
+O9 O 0.6561(3) 0.6176(3) -0.0492(3)
+H1 H 0.63340 0.64840 -0.02980
+O10 O 0.6319(3) 0.4794(2) -0.0588(2)
+O11 O 0.7399(3) 0.5674(3) -0.1810(2)
+O12 O 0.7702(3) 0.4802(3) -0.1162(3)
+O13 O 0.6020(4) 0.1819(3) 0.0249(3)
+O14 O 0.5970(3) 0.2063(3) 0.1289(2)
+O15 O 0.7057(3) 0.3005(2) 0.1221(2)
+O16 O 0.6719(3) 0.3586(2) 0.0083(2)
+O17 O 0.8138(3) 0.3609(3) -0.0426(3)
+O18 O 0.8449(3) 0.2555(3) -0.0138(3)
+O19 O 0.9189(3) 0.2225(3) 0.2912(3)
+O20 O 0.8794(3) 0.3110(3) 0.2347(3)
+O21 O 0.7274(3) 0.2973(2) 0.2594(2)
+O22 O 0.7576(3) 0.1642(3) 0.2159(2)
+H2 H 0.71780 0.14380 0.20370
+O23 O 0.6537(3) 0.1504(3) 0.3629(2)
+O24 O 0.6144(3) 0.1926(3) 0.2685(2)
+C1 C 0.8138(5) 0.4960(5) 0.1820(4)
+C2 C 0.7238(4) 0.4907(4) 0.1875(4)
+H3 H 0.70740 0.51090 0.22880
+C3 C 0.6810(5) 0.5283(4) 0.1321(3)
+H4 H 0.71150 0.56960 0.12280
+C4 C 0.5970(5) 0.5503(4) 0.1486(4)
+C5 C 0.5193(4) 0.5902(4) -0.0800(4)
+C6 C 0.6065(4) 0.5931(4) -0.1001(4)
+H5 H 0.61250 0.62210 -0.13860
+C7 C 0.6364(4) 0.5221(4) -0.1147(3)
+H6 H 0.60270 0.50240 -0.14870
+C8 C 0.7202(4) 0.5247(4) -0.1396(4)
+C9 C 0.6290(5) 0.2114(4) 0.0734(4)
+C10 C 0.7025(5) 0.2545(4) 0.0682(4)
+H7 H 0.74820 0.22400 0.07180
+C11 C 0.7116(4) 0.2941(4) 0.0046(3)
+H8 H 0.68440 0.26760 -0.02900
+C12 C 0.7967(5) 0.3043(4) -0.0186(4)
+C13 C 0.8669(5) 0.2610(4) 0.2708(4)
+C14 C 0.7795(4) 0.2515(4) 0.2934(4)
+H9 H 0.77650 0.26180 0.33990
+C15 C 0.7518(5) 0.1771(4) 0.2829(4)
+H10 H 0.78640 0.14590 0.30690
+C16 C 0.6676(4) 0.1717(4) 0.3080(4)
+O25 O 0.5543(3) 0.3233(3) 0.2270(3)
+H11 H 0.50900 0.29890 0.24440
+H12 H 0.53780 0.35430 0.19290
+Na1 Na 0.6313(2) 0.3754(2) 0.30664(18)
+Na2 Na 0.54939(18) 0.36875(17) -0.06616(15)
+O26 O 0.5834(4) 0.4906(4) 0.3220(3)
+H13 H 0.54740 0.47800 0.34590
+H14 H 0.56740 0.49390 0.28250
+K1 K 0.48875(11) 0.61614(10) 0.30168(9)
+Na3 Na 0.46839(17) 0.46043(14) 0.41729(13)
+O27 O 0.5125(10) 0.3379(6) 0.3707(5)
+H15 H 0.47390 0.34840 0.39480
+H16 H 0.51690 0.29500 0.37150
+O28 O 0.6723(8) 0.3629(6) 0.4191(6)
+H17 H 0.65220 0.39550 0.43640
+H18 H 0.72070 0.36750 0.41190
+O29 O 0.4893(5) 0.2718(4) -0.0422(8)
+H19 H 0.51070 0.24080 -0.01820
+H20 H 0.44540 0.27830 -0.01950
+O30 O 1.0263(4) 0.5936(4) 0.0575(4)
+H21 H 0.99440 0.62010 0.02750
+H22 H 1.08230 0.59590 0.04700
+O31 O 0.8467(8) 0.5228(6) 0.0165(5)
+H23 H 0.82160 0.48790 0.02220
+H24 H 0.87790 0.52050 -0.01440
+Cu2F Cu 0.72207(5) 0.08114(5) 0.44608(4)
+Cu3D Cu 0.32375(5) 0.60813(4) -0.09833(4)
+Cu4D Cu 0.40565(5) 0.47847(5) -0.02092(4)
+Cu5A Cu 0.71097(5) 0.63330(5) -0.28456(5)
+O7D O 0.5334(3) 0.3936(3) 0.1188(2)
+O8D O 0.4938(3) 0.4333(2) 0.0246(2)
+O11A O 0.7601(3) 0.4326(3) 0.3190(2)
+O23F O 0.6537(3) 0.3496(3) -0.1371(2)
+#END

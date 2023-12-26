@@ -1,0 +1,200 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DUPYAR
+_audit_creation_date 2020-05-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DUPYAR
+_database_code_depnum_ccdc_archive 'CCDC 1938749'
+_chemical_formula_sum 'C36 H44 Br2 Co1 Mo1 N14 Ni1 S6'
+_chemical_formula_moiety
+;
+(C21 H22 Mo1 N10 Ni1 S6 1-)n,C15 H22 Br2 Co1 N4 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 59
+_journal_year 2020
+_journal_page_first 7603
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Mousavi"
+"C.Duhayon"
+"K.Bretosh"
+"V.Bereau"
+"J.-P.Sutter"
+_chemical_name_systematic
+;
+catena-[(2,12-dimethyl-3,7,11,17-tetraazabicyclo[11.3.1]heptadeca-1(17),2,11,1
+3,15-pentaene)-dibromo-cobalt(iii) 
+bis(\m-thiocyanato)-(2,12-dimethyl-3,7,11,17-tetraazabicyclo[11.3.1]heptadeca-
+1(17),2,11,13,15-pentaene)-tetrakis(isothiocyanato)-molybdenum(iii)-nickel(ii)
+ unknown solvate]
+;
+_cell_volume   4987.149
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.65
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 180
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0735
+_refine_ls_wR_factor_gt 0.0735
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.6508(4)
+_cell_length_b 28.7479(7)
+_cell_length_c 12.4509(3)
+_cell_angle_alpha 90
+_cell_angle_beta 108.009(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.26
+Mo 1.54
+N 0.68
+Ni 1.24
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2572(4) 0.6216(2) -0.1087(4)
+C2 C 0.0875(4) 0.6147(2) -0.6564(4)
+C3 C 0.3215(5) 0.5327(3) -0.3715(6)
+C4 C 0.3179(4) 0.6946(2) -0.3858(5)
+C5 C -0.0061(5) 0.6864(2) -0.3875(5)
+C6 C -0.0085(5) 0.5415(2) -0.3830(5)
+C7 C 0.2000(4) 0.5280(2) 0.1232(6)
+C8 C 0.2720(5) 0.5442(3) 0.2385(6)
+C9 C 0.3361(6) 0.6079(3) 0.3565(6)
+C10 C 0.3567(5) 0.6594(3) 0.3473(6)
+C11 C 0.2712(5) 0.6916(3) 0.3063(5)
+C12 C 0.1488(6) 0.7239(3) 0.1417(6)
+C13 C 0.1142(5) 0.7256(3) 0.0111(6)
+C14 C 0.0438(6) 0.6879(2) -0.0459(6)
+C15 C 0.0421(4) 0.6051(2) -0.0778(5)
+C16 C 0.0880(4) 0.5605(3) -0.0323(5)
+C17 C 0.0669(5) 0.5151(2) -0.0842(5)
+C18 C 0.1145(5) 0.4787(3) -0.0243(7)
+C19 C 0.1844(5) 0.4837(2) 0.0844(7)
+C20 C 0.3269(5) 0.5089(3) 0.3156(7)
+C21 C -0.0457(4) 0.6085(3) -0.1783(5)
+N1 N 0.2144(4) 0.61647(19) -0.2045(4)
+N2 N 0.1175(3) 0.61333(19) -0.5587(4)
+N3 N 0.2648(4) 0.56201(19) -0.3792(4)
+N4 N 0.2634(4) 0.66514(19) -0.3885(4)
+N5 N 0.0589(4) 0.66363(19) -0.3852(4)
+N6 N 0.0590(3) 0.56447(18) -0.3791(4)
+N7 N 0.1536(4) 0.5643(2) 0.0670(4)
+N8 N 0.2752(4) 0.5875(2) 0.2528(4)
+N9 N 0.2245(4) 0.6885(2) 0.1836(4)
+N10 N 0.0814(4) 0.64076(19) -0.0156(4)
+S1 S 0.31769(11) 0.62805(6) 0.02280(12)
+S2 S 0.04427(11) 0.61873(6) -0.79322(11)
+S3 S 0.39759(17) 0.49090(9) -0.3568(2)
+S4 S 0.39180(14) 0.73702(7) -0.38084(18)
+S5 S -0.0980(2) 0.71855(11) -0.3921(2)
+S6 S -0.09897(13) 0.50916(7) -0.38512(15)
+Mo1 Mo 0.16366(3) 0.613327(17) -0.38282(4)
+Ni1 Ni 0.18431(5) 0.62502(3) 0.12532(6)
+H1 H 0.30390 0.60460 0.41350
+H2 H 0.39650 0.59110 0.38110
+H3 H 0.39610 0.67010 0.42090
+H4 H 0.39240 0.66190 0.29350
+H5 H 0.29410 0.72330 0.32340
+H6 H 0.22440 0.68480 0.34470
+H7 H 0.17510 0.75400 0.16970
+H8 H 0.09460 0.71690 0.16870
+H9 H 0.08360 0.75550 -0.01140
+H10 H 0.17010 0.72280 -0.01490
+H11 H 0.02780 0.69150 -0.12720
+H12 H -0.01420 0.69120 -0.02500
+H13 H 0.02080 0.51160 -0.15450
+H14 H 0.10180 0.44900 -0.05620
+H15 H 0.21670 0.45850 0.12540
+H16 H 0.39290 0.51760 0.33510
+H17 H 0.31600 0.47950 0.27760
+H18 H 0.30660 0.50830 0.38160
+H19 H -0.08670 0.63290 -0.16460
+H20 H -0.02520 0.61610 -0.24370
+H21 H -0.07830 0.57860 -0.18830
+H22 H 0.26870 0.69580 0.15440
+C22 C 0.5871(5) 0.9188(3) 0.4705(6)
+C23 C 0.5441(4) 0.8749(3) 0.4224(6)
+C24 C 0.5336(7) 0.7927(4) 0.4403(7)
+C25 C 0.6022(7) 0.7539(3) 0.4846(8)
+C26 C 0.6490(7) 0.7498(3) 0.6117(9)
+C27 C 0.7801(6) 0.7758(3) 0.7734(7)
+C28 C 0.8679(6) 0.8075(3) 0.8086(7)
+C29 C 0.8497(5) 0.8558(4) 0.8349(6)
+C30 C 0.7806(5) 0.9244(3) 0.7331(6)
+C31 C 0.7092(5) 0.9448(3) 0.6361(7)
+C32 C 0.6913(6) 0.9914(3) 0.6033(10)
+C33 C 0.6218(7) 0.9997(3) 0.5032(10)
+C34 C 0.5708(6) 0.9649(4) 0.4347(8)
+C35 C 0.4629(6) 0.8769(4) 0.3127(7)
+C36 C 0.8468(6) 0.9567(4) 0.8189(10)
+N11 N 0.6583(4) 0.9111(2) 0.5715(5)
+N12 N 0.5798(4) 0.8390(3) 0.4766(5)
+N13 N 0.7243(4) 0.7844(2) 0.6526(5)
+N14 N 0.7839(4) 0.8800(2) 0.7398(5)
+Co1 Co 0.68498(6) 0.84972(3) 0.61170(7)
+Br1 Br 0.57791(6) 0.84985(3) 0.72184(6)
+Br2 Br 0.79285(5) 0.84981(3) 0.49945(6)
+H23 H 0.51160 0.79170 0.35840
+H24 H 0.47900 0.78870 0.46770
+H25 H 0.65360 0.75790 0.45150
+H26 H 0.56910 0.72480 0.45850
+H27 H 0.60070 0.75530 0.64840
+H28 H 0.67560 0.71900 0.63000
+H29 H 0.73930 0.78320 0.81910
+H30 H 0.79890 0.74350 0.78400
+H31 H 0.91270 0.79390 0.87610
+H32 H 0.89620 0.80710 0.74750
+H33 H 0.91010 0.87310 0.85600
+H34 H 0.82400 0.85660 0.89780
+H35 H 0.72490 1.01530 0.64870
+H36 H 0.60930 1.03040 0.48070
+H37 H 0.52590 0.97210 0.36520
+H38 H 0.45550 0.84690 0.27690
+H39 H 0.47750 0.89990 0.26450
+H40 H 0.40500 0.88540 0.32890
+H41 H 0.91300 0.94540 0.83910
+H42 H 0.84170 0.98760 0.78450
+H43 H 0.82590 0.95800 0.88640
+H44 H 0.76470 0.77830 0.61710
+S2* S 0.04427(11) 0.61873(6) 0.20678(11)
+Ni1* Ni 0.18431(5) 0.62502(3) -0.87468(6)
+#END

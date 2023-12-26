@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ILOTEJ05
+_audit_creation_date 2017-01-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ILOTEJ05
+_database_code_depnum_ccdc_archive 'CCDC 1530294'
+_chemical_formula_sum 'C8 H14 Fe1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+C2 H8 N1 1+,n(C6 H6 Fe1 Mn1 O12 1-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 56
+_journal_year 2017
+_journal_page_first 197
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"L.Mazzuca"
+"L.Canadillas-Delgado"
+"J.Alberto Rodriguez-Velamazan"
+"O.Fabelo"
+"M.Scarrozza"
+"A.Stroppa"
+"SilviaPicozzi"
+"Jiong-Peng Zhao"
+"Xian-He Bu"
+"J.Rodriguez-Carvajal"
+_chemical_name_systematic
+;
+catena-[dimethylammonium hexakis(\m-formato)-iron(iii)-manganese(ii)]
+;
+_cell_volume    824.019
+_exptl_crystal_colour 'dark yellow'
+_exptl_crystal_density_diffrn 1.721
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 65
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.3333.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0305
+_refine_ls_wR_factor_gt 0.0305
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.2761(1)
+_cell_length_b 8.2761(1)
+_cell_length_c 13.8917(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.66670 0.33330 0.25000
+Fe1 Fe 1.00000 0.00000 0.00000
+O1 O 0.88907(16) 0.34229(15) 0.16597(9)
+O2 O 1.01598(14) 0.20798(15) 0.08183(7)
+C1 C 0.8784(2) 0.2112(2) 0.11824(10)
+H1 H 0.76060 0.10800 0.10860
+C2 C 1.33330 0.66670 0.1601(14)
+N1 N 1.2792(6) 0.5583(12) 0.25000
+O1A O 0.65771(16) -0.45322(15) 0.16597(9)
+O2A O 0.79202(14) -0.19200(15) 0.08183(7)
+C1A C 0.7888(2) -0.3328(2) 0.11824(10)
+H1A H 0.89200 -0.34740 0.10860
+O1A* O 0.65771(16) 0.54678(15) 0.16597(9)
+O2A* O 0.79202(14) 0.80800(15) 0.08183(7)
+C1A* C 0.7888(2) 0.6672(2) 0.11824(10)
+H1A* H 0.89200 0.65260 0.10860
+O1B O 0.45322(16) 0.11093(15) 0.16597(9)
+O2B O 0.19200(14) -0.01598(15) 0.08183(7)
+C1B C 0.3328(2) 0.1216(2) 0.11824(10)
+H1B H 0.34740 0.23940 0.10860
+O1B* O 1.45322(16) 0.11093(15) 0.16597(9)
+O2B* O 1.19200(14) -0.01598(15) 0.08183(7)
+C1B* C 1.3328(2) 0.1216(2) 0.11824(10)
+H1B* H 1.34740 0.23940 0.10860
+O1C O 0.65771(16) 0.11093(15) 0.33403(9)
+O2C O 0.79202(14) -0.01598(15) 0.41817(7)
+C1C C 0.7888(2) 0.1216(2) 0.38176(10)
+H1C H 0.89200 0.23940 0.39140
+Mn1* Mn 0.66670 -0.66670 0.25000
+Mn1** Mn 1.66670 0.33330 0.25000
+Fe1* Fe 0.00000 0.00000 0.00000
+Fe1** Fe 1.00000 1.00000 0.00000
+Fe1C Fe 1.00000 0.00000 0.50000
+O1D O 0.45322(16) 0.34229(15) 0.33403(9)
+O1E O 0.88907(16) 0.54678(15) 0.33403(9)
+O2F O 0.98402(14) -0.20798(15) -0.08183(7)
+O2G O 1.20798(14) 0.19200(15) -0.08183(7)
+O2H O 0.80800(14) 0.01598(15) -0.08183(7)
+N1A N 1.4417(6) 0.7209(12) 0.25000
+N1B N 1.2791(6) 0.7208(12) 0.25000
+C2C C 1.33330 0.66670 0.3399(14)
+#END

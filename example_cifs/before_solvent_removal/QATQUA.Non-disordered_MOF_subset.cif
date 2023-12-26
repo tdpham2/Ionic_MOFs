@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QATQUA
+_audit_creation_date 2017-05-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QATQUA
+_database_code_depnum_ccdc_archive 'CCDC 1503033'
+_chemical_formula_sum 'C14 H11 Na2 O12 Tb1'
+_chemical_formula_moiety
+;
+2(Na1 1+),n(C14 H8 O10 Tb1 1-),H1 O1 1-,H2 O1
+;
+_journal_coden_Cambridge 580
+_journal_volume 132
+_journal_year 2017
+_journal_page_first 123
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"Shi-Yong Zhang"
+"Fu-Yong Liang"
+"He-Rui Wen"
+"Sui-Jun Liu"
+"Xiao-Neng Lu"
+"Zi-Yi Du"
+_chemical_name_systematic
+;
+catena-[bis(sodium) (\m-naphthalene-1,4,5,8-tetracarboxylato)-diaqua-terbium 
+hydroxide monohydrate]
+;
+_cell_volume   3334.757
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.295
+_exptl_crystal_description 'granulous'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0208
+_refine_ls_wR_factor_gt 0.0208
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 x,-y,-z
+5 1/2+x,1/2+y,z
+6 1/2-x,-y,1/2+z
+7 1/2-x,y,1/2-z
+8 1/2+x,1/2-y,-z
+9 -x,-y,-z
+10 x,-1/2+y,-1/2-z
+11 x,-1/2-y,-1/2+z
+12 -x,y,z
+13 -1/2-x,-1/2-y,-z
+14 -1/2+x,y,-1/2-z
+15 -1/2+x,-y,-1/2+z
+16 -1/2-x,-1/2+y,z
+_cell_length_a 20.238(3)
+_cell_length_b 9.6389(13)
+_cell_length_c 17.095(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Na 1.66
+O 0.68
+Tb 1.94
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Tb1 Tb 0.75000 0.130829(19) 0.75000
+C1 C 0.93086(16) 0.3803(3) 0.82593(18)
+C2 C 0.93086(17) 0.1290(3) 0.8672(2)
+C3 C 0.96535(15) 0.5009(3) 0.81589(19)
+H1 H 0.94260 0.58380 0.80900
+C4 C 0.96537(16) 0.0087(3) 0.8805(2)
+H2 H 0.94260 -0.07350 0.88950
+C5 C 0.96445(14) 0.2539(3) 0.84608(18)
+C6 C 0.85840(17) 0.1273(3) 0.8870(2)
+C7 C 0.85860(16) 0.3860(3) 0.80469(19)
+O1 O 0.82060(11) 0.0410(2) 0.85164(15)
+O2 O 0.83968(12) 0.2072(3) 0.93934(15)
+O3 O 0.83569(11) 0.2849(2) 0.76727(14)
+O4 O 0.82682(11) 0.4944(2) 0.82073(15)
+O5 O 0.71858(12) 0.2552(3) 0.87354(15)
+H3 H 0.703(2) 0.336(3) 0.869(3)
+H4 H 0.7508(15) 0.251(5) 0.904(2)
+Na1 Na 0.8588(2) 0.3976(4) 1.0413(3)
+O6 O 0.7619(2) 0.50000 1.00000
+O7 O 0.9688(3) 0.3065(6) 1.0375(3)
+Na2? Na 0.8971(4) 0.3879(6) 1.0333(4)
+C1K C 1.06914(16) 0.3803(3) 0.82593(18)
+C2K C 1.06914(17) 0.1290(3) 0.8672(2)
+C3K C 1.03465(15) 0.5009(3) 0.81589(19)
+H1K H 1.05740 0.58380 0.80900
+C4K C 1.03463(16) 0.0087(3) 0.8805(2)
+H2K H 1.05740 -0.07350 0.88950
+C5K C 1.03555(14) 0.2539(3) 0.84608(18)
+C6K C 1.14160(17) 0.1273(3) 0.8870(2)
+C7K C 1.14140(16) 0.3860(3) 0.80469(19)
+O1K O 1.17940(11) 0.0410(2) 0.85164(15)
+O2K O 1.16032(12) 0.2072(3) 0.93934(15)
+O3K O 1.16431(11) 0.2849(2) 0.76727(14)
+O4K O 1.17318(11) 0.4944(2) 0.82073(15)
+O5F O 0.78142(12) 0.2552(3) 0.62646(15)
+H3F H 0.797(2) 0.336(3) 0.631(3)
+H4F H 0.7492(15) 0.251(5) 0.596(2)
+Tb1B Tb 1.25000 0.630829(19) 0.75000
+Tb1I Tb 0.75000 0.630829(19) 0.75000
+Tb1K Tb 1.25000 0.130829(19) 0.75000
+O1F O 0.67940(11) 0.0410(2) 0.64836(15)
+O3F O 0.66431(11) 0.2849(2) 0.73273(14)
+O4I O 0.82682(11) -0.0056(2) 0.67927(15)
+O4O O 0.67318(11) -0.0056(2) 0.82073(15)
+#END

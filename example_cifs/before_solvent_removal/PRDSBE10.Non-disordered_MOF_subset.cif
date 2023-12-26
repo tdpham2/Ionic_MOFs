@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PRDSBE10
+_audit_creation_date 1983-01-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PRDSBE10
+_database_code_depnum_ccdc_archive 'CCDC 1237996'
+_chemical_formula_sum 'C11 H6 Br6 N1 O2 Sb1'
+_chemical_formula_moiety
+;
+(C6 Br6 O2 Sb1 1-)n,n(C5 H6 N1 1+)
+;
+_journal_coden_Cambridge 531
+_journal_volume 5
+_journal_year 1981
+_journal_page_first 67
+_journal_name_full 'J.Bangladesh Acad.Sci. '
+loop_
+_publ_author_name
+"J.D.Donaldson"
+"M.Alamgir"
+_chemical_name_systematic
+;
+catena-[Pyridinium 
+(\m-bromo)-bromo-(3,4,5,6-tetrabromobenzene-1,2-diolato)-antimony(iii)]
+;
+_cell_volume   2169.910
+_exptl_crystal_density_diffrn 2.39
+_exptl_special_details
+;
+Isostructural with the Cl complex
+The x coordinate of Br3 should be 0.3438 not -0.3438
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Some residual peaks, none of which could be attributed to atoms of the 
+pyridinium ion.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.113
+_refine_ls_wR_factor_gt 0.113
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.319(2)
+_cell_length_b 8.967(4)
+_cell_length_c 17.048(3)
+_cell_angle_alpha 90
+_cell_angle_beta 97.56(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Br 1.21
+O 0.68
+Sb 1.46
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sb1 Sb 0.09880 0.08140 0.16880
+Br1 Br -0.00340 0.30470 0.26220
+Br2 Br 0.20760 0.28590 0.11910
+Br3 Br 0.34380 -0.30350 0.10380
+Br4 Br 0.51700 -0.34060 0.25670
+Br5 Br 0.49200 -0.16940 0.42780
+Br6 Br 0.30500 0.04740 0.43690
+O1 O 0.18270 0.06600 0.28050
+O2 O 0.19270 -0.08480 0.14300
+C1 C 0.25270 -0.02610 0.28020
+C2 C 0.26330 -0.11340 0.20520
+C3 C 0.34300 -0.20610 0.20120
+C4 C 0.41580 -0.22770 0.26700
+C5 C 0.40560 -0.14980 0.34220
+C6 C 0.32530 -0.05190 0.34540
+Sb1A Sb -0.09880 0.58140 0.33120
+Br1A Br 0.00340 -0.19530 0.23780
+#END

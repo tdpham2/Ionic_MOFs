@@ -1,0 +1,166 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DORFAS
+_audit_creation_date 2009-07-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DORFAS
+_database_code_depnum_ccdc_archive 'CCDC 685024'
+_chemical_formula_sum 'C25 H46 In1 N1 O11'
+_chemical_formula_moiety
+;
+(C5 H14 N1 O1 1+)n,n(C20 H28 In1 O8 1-),2n(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 130
+_journal_year 2008
+_journal_page_first 17246
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Jian Zhang"
+"Shumei Chen"
+"Areg Zjingiryan"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-[(P)-Choline bis(\m~2~-D-camphorato-O,O',O'',O''')-indium(iii) 
+dihydrate]
+;
+_cell_volume   2473.786
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Choline is a B-complex vitamin
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The choline molecule is disordered and does not appear to have been 
+completely modelled. The chloine molecule is represented in the asymmetric 
+unit by one nitrogen and three carbon atoms. The nitrogen and one of the 
+carbon atoms are disordered by symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0513
+_refine_ls_wR_factor_gt 0.0513
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 y,x,-z
+5 x-y,-y,2/3-z
+6 -x,-x+y,1/3-z
+_cell_length_a 12.8708(1)
+_cell_length_b 12.8708(1)
+_cell_length_c 17.2433(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.2036(18) 0.7473(16) -0.2981(10)
+O2 O 1.218(2) 0.953(2) -0.2415(13)
+C1 C 1.0268(16) 1.1024(14) -0.2039(9)
+C2 C 0.797(2) 1.00000 -0.16670
+C3 C 0.9640(28) 1.1549(19) -0.0833(12)
+N1 N 0.9430(17) 1.0400(16) -0.1463(9)
+In1 In 0.62470(5) 0.62470(5) 0.00000
+O3 O 0.6808(5) 0.8195(5) 0.0105(3)
+O4 O 0.4923(5) 0.6964(6) -0.0151(3)
+O5 O 0.3402(5) 0.9837(5) 0.1995(3)
+O6 O 0.5135(5) 1.0240(5) 0.2456(3)
+C4 C 0.5446(8) 0.8996(7) 0.0124(4)
+C5 C 0.4631(8) 0.8738(8) 0.0851(4)
+C6 C 0.4887(8) 1.0013(7) 0.1065(4)
+H1 H 0.44800 1.02690 0.06960
+C7 C 0.6254(10) 1.0786(10) 0.0958(5)
+H2 H 0.64760 1.16020 0.08200
+H3 H 0.66690 1.08030 0.14320
+C8 C 0.6551(10) 1.0216(9) 0.0334(6)
+H4 H 0.72050 1.00950 0.04960
+H5 H 0.68120 1.07340 -0.01180
+C9 C 0.4861(12) 0.9071(11) -0.0620(5)
+H6 H 0.53970 0.92260 -0.10470
+H7 H 0.46820 0.97090 -0.05800
+H8 H 0.41320 0.83260 -0.07040
+C10 C 0.3223(9) 0.7906(10) 0.0659(6)
+H9 H 0.27640 0.77770 0.11240
+H10 H 0.30760 0.71480 0.04590
+H11 H 0.29900 0.82970 0.02800
+C11 C 0.4933(9) 0.8132(8) 0.1494(4)
+H12 H 0.57700 0.86050 0.16190
+H13 H 0.47570 0.73490 0.13270
+H14 H 0.44640 0.80580 0.19450
+C12 C 0.5746(9) 0.7995(8) 0.0013(3)
+C13 C 0.4460(8) 1.0045(6) 0.1893(4)
+C1D C 0.9244(16) 0.8976(14) -0.129433(900)
+C3D C 0.8091(28) 0.8451(19) -0.250033(1200)
+N1D N 0.9030(17) 0.9600(16) -0.187033(900)
+In1A In 0.37530(5) 1.00000(5) 0.33333
+In1B In 1.00000(5) 0.37530(5) -0.33333
+O3C O 0.8195(5) 0.6808(5) -0.0105(3)
+O4C O 0.6964(5) 0.4923(6) 0.0151(3)
+O5C O 0.9837(5) 0.3402(5) -0.1995(3)
+O5B O 0.6435(5) 0.6598(5) -0.133833(300)
+O5E O 0.6598(5) 0.6435(5) 0.133833(300)
+O6C O 1.0240(5) 0.5135(5) -0.2456(3)
+O6B O 0.5105(5) 0.4865(5) -0.087733(300)
+O6E O 0.4865(5) 0.5105(5) 0.087733(300)
+C4C C 0.8996(8) 0.5446(7) -0.0124(4)
+C5C C 0.8738(8) 0.4631(8) -0.0851(4)
+C6C C 1.0013(8) 0.4887(7) -0.1065(4)
+H1C H 1.02690 0.44800 -0.06960
+C7C C 1.0786(10) 0.6254(10) -0.0958(5)
+H2C H 1.16020 0.64760 -0.08200
+H3C H 1.08030 0.66690 -0.14320
+C8C C 1.0216(10) 0.6551(9) -0.0334(6)
+H4C H 1.00950 0.72050 -0.04960
+H5C H 1.07340 0.68120 0.01180
+C9C C 0.9071(12) 0.4861(11) 0.0620(5)
+H6C H 0.92260 0.53970 0.10470
+H7C H 0.97090 0.46820 0.05800
+H8C H 0.83260 0.41320 0.07040
+C10C C 0.7906(9) 0.3223(10) -0.0659(6)
+H9C H 0.77770 0.27640 -0.11240
+H10C H 0.71480 0.30760 -0.04590
+H11C H 0.82970 0.29900 -0.02800
+C11C C 0.8132(9) 0.4933(8) -0.1494(4)
+H12C H 0.86050 0.57700 -0.16190
+H13C H 0.73490 0.47570 -0.13270
+H14C H 0.80580 0.44640 -0.19450
+C12C C 0.7995(9) 0.5746(8) -0.0013(3)
+C13C C 1.0045(8) 0.4460(6) -0.1893(4)
+#END

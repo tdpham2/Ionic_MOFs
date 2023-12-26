@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JESDUG07
+_audit_creation_date 2014-12-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JESDUG07
+_database_code_depnum_ccdc_archive 'CCDC 1016182'
+_chemical_formula_sum 'C22 H16 Br1 Cu1 N3 S16'
+_chemical_formula_moiety
+;
+C10 H8 S8 1+,C10 H8 S8,n(C2 Br1 Cu1 N3 1-)
+;
+_journal_coden_Cambridge 1695
+_journal_volume 3
+_journal_year 2015
+_journal_page_first 1378
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"T.Hiramatsu"
+"Y.Yoshida"
+"G.Saito"
+"A.Otsuka"
+"H.Yamochi"
+"M.Maesato"
+"Y.Shimizu"
+"H.Ito"
+"H.Kishida"
+_chemical_name_systematic
+;
+catena(bis(bis(Ethylenedithio)tetrathiafulvalene) 
+bromo-(\m~2~-dicyanamido)-copper)
+;
+_cell_volume   3282.332
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.981
+_exptl_special_details
+;
+Magnetic properties, electronic property
+kappa polymorph
+
+;
+_exptl_crystal_description 'rhombic plate'
+_exptl_crystal_preparation 'electrocrystallization'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+C10A,C9A and C10B,C9B disordered over two sites with occupancies 0.794:0.206.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,-1/2+z
+8 x,-1/2-y,z
+_cell_length_a 12.9117(12)
+_cell_length_b 29.845(3)
+_cell_length_c 8.5178(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cu 1.32
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6413(3) -0.01828(12) 0.3600(5)
+C2 C 0.5787(3) 0.01873(12) 0.3588(5)
+C3 C 0.7805(3) -0.07829(13) 0.4098(5)
+C4 C 0.7213(3) -0.09501(12) 0.2933(5)
+C5 C 0.5027(3) 0.09800(12) 0.3880(5)
+C6 C 0.4454(3) 0.07835(12) 0.2766(5)
+C7 C 0.9140(4) -0.14923(16) 0.3757(6)
+H1 H 0.94980 -0.13820 0.27900
+H2 H 0.96280 -0.16980 0.43130
+C8 C 0.8199(4) -0.17565(14) 0.3268(5)
+H3 H 0.78000 -0.18410 0.42300
+H4 H 0.84330 -0.20400 0.27500
+C9 C 0.4159(5) 0.17837(18) 0.2995(8)
+H5 H 0.39470 0.20910 0.33370
+H6 H 0.45960 0.18180 0.20320
+C10 C 0.3206(5) 0.15274(19) 0.2564(8)
+H7 H 0.27710 0.17160 0.18540
+H8 H 0.27960 0.14680 0.35380
+S1 S 0.74645(7) -0.02544(3) 0.48390(12)
+S2 S 0.61655(8) -0.06252(3) 0.23168(12)
+S3 S 0.59877(8) 0.06521(3) 0.47844(12)
+S4 S 0.47265(8) 0.02234(3) 0.23287(12)
+S5 S 0.88812(9) -0.10214(4) 0.50085(15)
+S6 S 0.73490(9) -0.14609(3) 0.19462(13)
+S7 S 0.49700(11) 0.15312(4) 0.45686(14)
+S8 S 0.34650(9) 0.10110(4) 0.16226(14)
+C11? C 0.3871(15) 0.1726(6) 0.392(3)
+H9? H 0.32890 0.15740 0.44870
+H10? H 0.38280 0.20540 0.41530
+C12? C 0.3753(16) 0.1651(6) 0.217(2)
+H11? H 0.44040 0.17490 0.16310
+H12? H 0.31740 0.18430 0.17710
+C13 C 0.8459(5) 0.25000 0.6014(7)
+C14 C 0.9741(4) 0.25000 0.7917(8)
+N1 N 0.7661(4) 0.25000 0.5438(7)
+N2 N 0.9415(4) 0.25000 0.6455(7)
+N3 N 1.0166(4) 0.25000 0.9082(6)
+Cu1 Cu 0.63001(6) 0.25000 0.43919(9)
+Br1 Br 0.64186(6) 0.25000 0.16621(7)
+N3B N 0.5166(4) 0.25000 0.5918(6)
+Cu1B Cu 1.13001(6) 0.25000 1.06081(9)
+#END

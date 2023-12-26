@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Fe2Cl4O8C4
+_chemical_formula_sum              "Fe2 Cl4 O8 C4"
+_cell_length_a       8.975
+_cell_length_b       10.874
+_cell_length_c       13.035
+_cell_angle_alpha    67.965
+_cell_angle_beta     78.851
+_cell_angle_gamma    81.254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.74496  0.14616  0.41737  1.0000
+  Fe  Fe2       1.0  0.25504  0.85384  0.58263  1.0000
+  Cl  Cl1       1.0  0.80537  0.32758  0.44012  1.0000
+  Cl  Cl2       1.0  0.19463  0.67242  0.55988  1.0000
+  Cl  Cl3       1.0  0.68435  0.24340  0.24261  1.0000
+  Cl  Cl4       1.0  0.31565  0.75660  0.75739  1.0000
+  O   O1        1.0  0.67460  0.96500  0.42690  1.0000
+  O   O2        1.0  0.32540  0.03500  0.57310  1.0000
+  O   O3        1.0  0.46680  0.85010  0.49230  1.0000
+  O   O4        1.0  0.53320  0.14990  0.50770  1.0000
+  O   O5        1.0  0.96180  0.08170  0.36354  1.0000
+  O   O6        1.0  0.03820  0.91830  0.63646  1.0000
+  O   O7        1.0  0.17850  0.97580  0.42710  1.0000
+  O   O8        1.0  0.82150  0.02420  0.57290  1.0000
+  C   C1        1.0  0.54230  0.94690  0.47680  1.0000
+  C   C2        1.0  0.45770  0.05310  0.52320  1.0000
+  C   C3        1.0  0.04250  0.01670  0.43920  1.0000
+  C   C4        1.0  0.95750  0.98330  0.56080  1.0000

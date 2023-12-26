@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEMCUF
+_audit_creation_date 2018-01-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEMCUF
+_database_code_depnum_ccdc_archive 'CCDC 967370'
+_chemical_formula_sum 'C5 H6 Cu1 O9'
+_chemical_formula_moiety
+;
+(C3 H3 Cu1 O6 1-)n,n(C2 H3 O3 1+)
+;
+_journal_coden_Cambridge 1736
+_journal_volume 2
+_journal_year 2014
+_journal_page_first 5
+_journal_name_full 'Commun.Inorg.Synth. '
+loop_
+_publ_author_name
+"Si Yue Wei"
+"Feng Ying Bai"
+"Ge Song"
+"Ya Nan Hou"
+"Xue Ting Xu"
+"Xiao Xi Zhang"
+"Huan Zhi Zhang"
+"Yong Heng Xing"
+_chemical_name_systematic
+;
+catena-(hydrogen formic anhydride tris(\m-formato)-copper)
+;
+_cell_volume    877.301
+_exptl_crystal_density_diffrn 2.072
+_exptl_special_details
+;
+The cation is drawn as represented in the paper, although may be incorrect. 
+The more likely identity of the cation is perhaps dimethylammonium. Further 
+determinations of the structure in that case are in refcode family MACUFR
+;
+_diffrn_ambient_temperature 273
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0301
+_refine_ls_wR_factor_gt 0.0301
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.681(3)
+_cell_length_b 8.7192(16)
+_cell_length_c 8.8542(16)
+_cell_angle_alpha 90
+_cell_angle_beta 123.837(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.75000 0.25000 0.50000
+C1 C 1.00000 0.2134(5) 0.75000
+H1 H 1.00000 0.32000 0.75000
+C2 C 0.7216(3) 0.0375(4) 0.7252(4)
+H2 H 0.78280 -0.01620 0.73220
+O1 O 0.90328(18) 0.1473(2) 0.6595(3)
+O2 O 0.68924(19) 0.1611(3) 0.6367(3)
+O3 O 0.6778(2) -0.0176(3) 0.8036(3)
+C3 C 0.4422(4) 0.2791(5) 0.5841(6)
+H3 H 0.39120 0.23990 0.46770
+O4 O 0.463(5) 0.389(5) 0.610(2)
+O5 O 0.50000 0.1839(5) 0.75000
+O1A O 1.09672(18) 0.1473(2) 0.8405(3)
+C2F C 0.7784(3) 0.4625(4) 0.2748(4)
+H2F H 0.71720 0.51620 0.26780
+O2F O 0.81076(19) 0.3389(3) 0.3633(3)
+O3F O 0.8222(2) 0.5176(3) 0.1964(3)
+Cu1A Cu 1.25000 0.25000 1.00000
+Cu1C Cu 0.75000 -0.25000 1.00000
+Cu1C* Cu 0.75000 0.75000 0.00000
+O1F O 0.59672(18) 0.3527(2) 0.3405(3)
+O3C O 0.8222(2) 0.4824(3) 0.6964(3)
+O3E O 0.6778(2) 0.0176(3) 0.3036(3)
+C3A C 0.5578(4) 0.2791(5) 0.9159(6)
+H3A H 0.60880 0.23990 1.03230
+O4A O 0.537(5) 0.389(5) 0.890(2)
+#END

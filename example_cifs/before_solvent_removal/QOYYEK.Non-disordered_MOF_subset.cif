@@ -1,0 +1,180 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOYYEK
+_audit_creation_date 2015-02-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOYYEK
+_database_code_depnum_ccdc_archive 'CCDC 1017774'
+_chemical_formula_sum 'C39 H36 Fe1 In4 N7 O2 S8'
+_chemical_formula_moiety
+;
+(C36 H24 Fe1 N6 2+)n,n(In4 S8 2-),2n(H2 O1),0.5n(C6 H16 N2)
+;
+_journal_coden_Cambridge 222
+_journal_volume 44
+_journal_year 2015
+_journal_page_first 4520
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Jing Wu"
+"Ya-Yang Pu"
+"Xiao-Wei Zhao"
+"Li-Wen Qian"
+"Guo-Qing Bian"
+"Qin-Yu Zhu"
+"Jie Dai"
+_chemical_name_systematic
+;
+catena-[tris(1,10-phenanthroline)-iron octakis(\m-sulfido)-di-indium-di-tin 
+1,6-diaminohexane solvate dihydrate]
+;
+_cell_volume   5291.070
+_exptl_crystal_colour 'dark red'
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The indiums are disordered with tin in the ratio 0.5:0.5; The authors' 
+formula is given as C39 H36 In2 N7 Fe O2 S8 Sn2; Disordered solvent molecules 
+were not modelled and the disordered density was taken into account using the 
+SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0798
+_refine_ls_wR_factor_gt 0.0798
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.130(3)
+_cell_length_b 23.728(5)
+_cell_length_c 15.450(3)
+_cell_angle_alpha 90
+_cell_angle_beta 107.46(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+In 1.42
+N 0.68
+S 1.02
+Sn 1.39
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.39259(5) 0.35048(3) 0.73234(5)
+S1 S 0.4018(2) 0.44955(12) 0.7713(2)
+S2 S 0.5358(2) 0.29695(14) 0.7833(2)
+S3 S 0.3373(2) 0.34790(14) 0.5629(2)
+S4 S 0.2642(2) 0.29167(13) 0.7494(2)
+In2 In 0.46282(6) 0.44496(3) 0.93556(6)
+In3 In 0.56106(6) 0.29604(4) 0.94614(6)
+In4 In 0.22192(5) 0.28428(3) 0.58532(6)
+S5 S 0.6170(2) 0.48742(16) 0.9942(3)
+S6 S 0.4424(2) 0.35028(14) 0.9836(2)
+S7 S 0.5591(2) 0.19889(14) 1.0066(2)
+S8 S 0.7275(2) 0.31025(14) 1.0279(2)
+Fe1 Fe 0.59824(10) 0.78616(6) 0.72771(10)
+N1 N 0.6836(6) 0.8456(3) 0.7137(6)
+N2 N 0.6733(6) 0.7907(4) 0.8562(6)
+N3 N 0.6769(6) 0.7251(3) 0.7071(6)
+N4 N 0.5236(6) 0.7223(4) 0.7491(6)
+N5 N 0.5229(6) 0.7881(3) 0.5975(6)
+N6 N 0.5073(6) 0.8437(4) 0.7401(6)
+C1 C 0.6886(8) 0.8724(5) 0.6401(8)
+H1 H 0.64350 0.86550 0.58520
+C2 C 0.7603(11) 0.9111(5) 0.6423(11)
+H2 H 0.76010 0.92960 0.58920
+C3 C 0.8270(11) 0.9216(6) 0.7170(12)
+H3 H 0.87430 0.94670 0.71720
+C4 C 0.8252(9) 0.8937(5) 0.7975(10)
+C5 C 0.7533(7) 0.8567(5) 0.7917(8)
+C6 C 0.6659(9) 0.7633(6) 0.9293(9)
+H4 H 0.61630 0.73880 0.92200
+C7 C 0.7274(10) 0.7693(7) 1.0147(10)
+H5 H 0.71710 0.75000 1.06320
+C8 C 0.8044(11) 0.8036(7) 1.0294(10)
+H6 H 0.84940 0.80520 1.08560
+C9 C 0.8119(10) 0.8371(7) 0.9529(9)
+C10 C 0.7461(8) 0.8277(5) 0.8703(8)
+C11 C 0.8953(12) 0.9022(7) 0.8839(14)
+H7 H 0.94360 0.92730 0.88790
+C12 C 0.8913(10) 0.8745(7) 0.9575(13)
+H8 H 0.93840 0.87880 1.01190
+C13 C 0.7554(8) 0.7271(5) 0.6834(8)
+H9 H 0.77930 0.76210 0.67510
+C14 C 0.8029(8) 0.6783(5) 0.6706(8)
+H10 H 0.85670 0.68180 0.65380
+C15 C 0.7721(9) 0.6275(5) 0.6822(9)
+H11 H 0.80390 0.59530 0.67430
+C16 C 0.6913(8) 0.6236(5) 0.7066(9)
+C17 C 0.6465(7) 0.6720(4) 0.7191(8)
+C18 C 0.4463(7) 0.7210(5) 0.7716(8)
+H12 H 0.41910 0.75520 0.77870
+C19 C 0.4024(9) 0.6712(5) 0.7854(9)
+H13 H 0.34690 0.67280 0.79950
+C20 C 0.4398(8) 0.6224(5) 0.7784(8)
+H14 H 0.41080 0.58970 0.78900
+C21 C 0.5238(9) 0.6179(5) 0.7550(9)
+C22 C 0.5630(7) 0.6728(5) 0.7428(8)
+C23 C 0.6503(10) 0.5700(5) 0.7219(13)
+H15 H 0.68010 0.53640 0.71720
+C24 C 0.5706(11) 0.5687(6) 0.7426(13)
+H16 H 0.54510 0.53390 0.74910
+C25 C 0.5342(9) 0.7609(5) 0.5264(8)
+H17 H 0.58510 0.73730 0.53450
+C26 C 0.4722(11) 0.7668(6) 0.4405(8)
+H18 H 0.48000 0.74550 0.39290
+C27 C 0.4029(11) 0.8018(7) 0.4256(9)
+H19 H 0.36300 0.80580 0.36700
+C28 C 0.3873(9) 0.8341(6) 0.4978(9)
+C29 C 0.4503(8) 0.8258(5) 0.5846(7)
+C30 C 0.5018(10) 0.8706(5) 0.8148(10)
+H20 H 0.54680 0.86430 0.87000
+C31 C 0.4292(11) 0.9081(6) 0.8108(12)
+H21 H 0.42450 0.92440 0.86400
+C32 C 0.3671(11) 0.9209(6) 0.7326(12)
+H22 H 0.32170 0.94760 0.73080
+C33 C 0.3697(10) 0.8937(5) 0.6514(11)
+C34 C 0.4425(8) 0.8543(4) 0.6616(8)
+C35 C 0.3108(11) 0.8747(8) 0.4909(13)
+H23 H 0.26660 0.88100 0.43520
+C36 C 0.3057(10) 0.9018(7) 0.5632(14)
+H24 H 0.25800 0.92770 0.55680
+Sn1? Sn 0.39259(5) 0.35048(3) 0.73234(5)
+Sn2? Sn 0.46282(6) 0.44496(3) 0.93556(6)
+Sn3? Sn 0.56106(6) 0.29604(4) 0.94614(6)
+Sn4? Sn 0.22192(5) 0.28428(3) 0.58532(6)
+S5B S 0.3830(2) 0.51258(16) 1.0058(3)
+S7C S 0.0591(2) 0.30111(14) 0.5066(2)
+S8C S 0.2275(2) 0.18975(14) 0.5279(2)
+In2B In 0.53718(6) 0.55504(3) 1.06444(6)
+In3C In 0.06106(6) 0.20396(4) 0.44614(6)
+#END

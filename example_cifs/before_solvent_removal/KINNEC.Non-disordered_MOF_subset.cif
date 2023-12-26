@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KINNEC
+_audit_creation_date 2013-09-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KINNEC
+_database_code_depnum_ccdc_archive 'CCDC 960404'
+_chemical_formula_sum 'C26 H36 Cu1 F4 N5 O2'
+_chemical_formula_moiety
+;
+(C12 Cu1 F4 N4 1-)n,n(C10 H24 N1 1+),2n(C2 H6 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 13
+_journal_year 2013
+_journal_page_first 3018
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"B.F.Abrahams"
+"R.W.Elliott"
+"T.A.Hudson"
+"R.Robson"
+_chemical_name_systematic
+;
+catena-[dimethyl-di-t-butylammonium 
+(\m~4~-2,2'-(2,3,5,6-tetrafluorocyclohexa-2,5-diene-1,4-diylidene)dipropanedin
+itrile)-copper ethanol solvate]
+;
+_cell_volume   1234.182
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.588
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+Disordered cation and solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0487
+_refine_ls_wR_factor_gt 0.0487
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 42/m m c'
+_symmetry_Int_Tables_number 131
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,-y,z
+4 -x,y,-z
+5 y,x,1/2-z
+6 y,-x,1/2+z
+7 -y,x,1/2+z
+8 -y,-x,1/2-z
+9 -x,-y,-z
+10 -x,y,z
+11 x,y,-z
+12 x,-y,z
+13 -y,-x,-1/2+z
+14 -y,x,-1/2-z
+15 y,-x,-1/2-z
+16 y,x,-1/2+z
+_cell_length_a 7.4736(1)
+_cell_length_b 7.4736(1)
+_cell_length_c 22.0963(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cu 1.32
+F 0.64
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.50000 0.50000 0.25000
+C1 C 0.50000 0.00000 0.0662(2)
+C2 C 0.50000 0.1585(5) 0.16700(14)
+N1 N 0.50000 0.2816(4) 0.19771(12)
+C3 C 0.50000 0.1539(5) 0.03137(15)
+C4 C 0.50000 0.00000 0.1326(2)
+F1 F 0.50000 0.3121(4) 0.05868(10)
+C2B C 0.50000 -0.1585(5) 0.16700(14)
+N1B N 0.50000 -0.2816(4) 0.19771(12)
+C3B C 0.50000 -0.1539(5) 0.03137(15)
+F1B F 0.50000 -0.3121(4) 0.05868(10)
+C1A C 0.50000 0.00000 -0.0662(2)
+C2C C 0.50000 0.1585(5) -0.16700(14)
+N1C N 0.50000 0.2816(4) -0.19771(12)
+C3C C 0.50000 0.1539(5) -0.03137(15)
+C4A C 0.50000 0.00000 -0.1326(2)
+F1C F 0.50000 0.3121(4) -0.05868(10)
+C2A C 0.50000 -0.1585(5) -0.16700(14)
+N1A N 0.50000 -0.2816(4) -0.19771(12)
+C3A C 0.50000 -0.1539(5) -0.03137(15)
+F1A F 0.50000 -0.3121(4) -0.05868(10)
+Cu1* Cu 0.50000 -0.50000 0.25000
+Cu1A Cu 0.50000 -0.50000 -0.25000
+Cu1A* Cu 0.50000 0.50000 -0.25000
+N1B* N 0.50000 0.7184(4) 0.19771(12)
+N1D N 0.28160 0.5000(4) 0.30229(12)
+N1G N 0.71840 0.5000(4) 0.30229(12)
+#END

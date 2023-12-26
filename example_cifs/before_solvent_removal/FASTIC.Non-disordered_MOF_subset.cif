@@ -1,0 +1,166 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FASTIC
+_audit_creation_date 1987-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FASTIC
+_chemical_formula_sum 'C56 H72 Ag2 Cl24 N2 Pt2'
+_chemical_formula_moiety
+;
+(C24 Ag2 Cl24 Pt2 2-)n,2n(C16 H36 N1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 25
+_journal_year 1986
+_journal_page_first 4519
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"R.Uson"
+"J.Fornies"
+"M.Tomas"
+"J.M.Casas"
+"F.A.Cotton"
+"L.R.Falvello"
+_chemical_name_systematic
+;
+catena-(Tetra-n-butylammonium 
+bis((\m~2~-chloro)-pentachlorophenyl)-silver-platinum)
+;
+_cell_volume   4205.460
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.76
+_exptl_special_details
+;
+C4-C5 is reported as 1.51; we calculate 1.48
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.061
+_refine_ls_wR_factor_gt 0.061
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 19.300(3)
+_cell_length_b 26.523(4)
+_cell_length_c 8.450(2)
+_cell_angle_alpha 90
+_cell_angle_beta 103.53(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Ag 1.40
+Cl 0.99
+N 0.68
+Pt 1.40
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pt1 Pt 0.00000 0.09076(3) 0.25000
+Ag1 Ag 0.00000 0.00000 0.00000
+Cl1 Cl -0.0011(3) 0.0931(2) -0.0255(6)
+C1 C 0.111(1) 0.0936(8) 0.308(2)
+C2 C 0.156(1) 0.0500(7) 0.320(2)
+C3 C 0.231(1) 0.050(1) 0.342(3)
+C4 C 0.260(1) 0.098(2) 0.354(3)
+C5 C 0.214(2) 0.143(1) 0.344(3)
+C6 C 0.144(1) 0.1376(8) 0.317(2)
+Cl2 Cl 0.1166(3) -0.0091(2) 0.305(1)
+Cl3 Cl 0.2786(4) -0.0015(3) 0.358(1)
+Cl4 Cl 0.3515(5) 0.1018(4) 0.381(2)
+Cl5 Cl 0.2608(5) 0.1996(3) 0.367(1)
+Cl6 Cl 0.0987(4) 0.1931(2) 0.3052(8)
+N1 N 0.50000 0.2463(8) 0.25000
+C7 C 0.561(1) 0.272(1) 0.203(2)
+C8 C 0.604(2) 0.302(2) 0.344(3)
+C9 C 0.665(2) 0.326(2) 0.295(5)
+C10 C 0.701(2) 0.362(2) 0.424(6)
+C11 C 0.518(1) 0.215(1) 0.404(2)
+C12 C 0.584(2) 0.184(1) 0.408(4)
+C13 C 0.592(2) 0.146(1) 0.541(4)
+C14 C 0.585(3) 0.171(2) 0.695(4)
+Cl1B Cl 0.0011(3) 0.0931(2) 0.5255(6)
+C1B C -0.111(1) 0.0936(8) 0.192(2)
+Cl1D Cl 0.0011(3) -0.0931(2) 0.0255(6)
+Ag1B Ag 0.00000 0.00000 0.50000
+C2B C -0.156(1) 0.0500(7) 0.180(2)
+C6B C -0.144(1) 0.1376(8) 0.183(2)
+Pt1D Pt 0.00000 -0.09076(3) -0.25000
+Cl1F Cl -0.0011(3) -0.0931(2) 0.4745(6)
+C3B C -0.231(1) 0.050(1) 0.158(3)
+Cl2B Cl -0.1166(3) -0.0091(2) 0.195(1)
+C5B C -0.214(2) 0.143(1) 0.156(3)
+Cl6B Cl -0.0987(4) 0.1931(2) 0.1948(8)
+Cl1F* Cl -0.0011(3) -0.0931(2) -0.5255(6)
+C1D C -0.111(1) -0.0936(8) -0.308(2)
+C1F C 0.111(1) -0.0936(8) -0.192(2)
+Pt1D* Pt 0.00000 -0.09076(3) 0.75000
+C4B C -0.260(1) 0.098(2) 0.146(3)
+Cl3B Cl -0.2786(4) -0.0015(3) 0.142(1)
+Cl5B Cl -0.2608(5) 0.1996(3) 0.133(1)
+C2D C -0.156(1) -0.0500(7) -0.320(2)
+C6D C -0.144(1) -0.1376(8) -0.317(2)
+C2F C 0.156(1) -0.0500(7) -0.180(2)
+C6F C 0.144(1) -0.1376(8) -0.183(2)
+Cl4B Cl -0.3515(5) 0.1018(4) 0.119(2)
+C3D C -0.231(1) -0.050(1) -0.342(3)
+Cl2D Cl -0.1166(3) 0.0091(2) -0.305(1)
+C5D C -0.214(2) -0.143(1) -0.344(3)
+Cl6D Cl -0.0987(4) -0.1931(2) -0.3052(8)
+C3F C 0.231(1) -0.050(1) -0.158(3)
+Cl2F Cl 0.1166(3) 0.0091(2) -0.195(1)
+C5F C 0.214(2) -0.143(1) -0.156(3)
+Cl6F Cl 0.0987(4) -0.1931(2) -0.1948(8)
+C4D C -0.260(1) -0.098(2) -0.354(3)
+Cl3D Cl -0.2786(4) 0.0015(3) -0.358(1)
+Cl5D Cl -0.2608(5) -0.1996(3) -0.367(1)
+C4F C 0.260(1) -0.098(2) -0.146(3)
+Cl3F Cl 0.2786(4) 0.0015(3) -0.142(1)
+Cl5F Cl 0.2608(5) -0.1996(3) -0.133(1)
+Cl4D Cl -0.3515(5) -0.1018(4) -0.381(2)
+Cl4F Cl 0.3515(5) -0.1018(4) -0.119(2)
+C7B C 0.439(1) 0.272(1) 0.297(2)
+C11B C 0.482(1) 0.215(1) 0.096(2)
+C8B C 0.396(2) 0.302(2) 0.156(3)
+C12B C 0.416(2) 0.184(1) 0.092(4)
+C9B C 0.335(2) 0.326(2) 0.205(5)
+C13B C 0.408(2) 0.146(1) -0.041(4)
+C10B C 0.299(2) 0.362(2) 0.076(6)
+C14B C 0.415(3) 0.171(2) -0.195(4)
+#END

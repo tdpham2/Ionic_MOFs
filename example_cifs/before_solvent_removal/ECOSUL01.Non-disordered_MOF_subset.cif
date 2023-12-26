@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ECOSUL01
+_audit_creation_date 2006-11-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ECOSUL01
+_database_code_depnum_ccdc_archive 'CCDC 619924'
+_chemical_formula_sum 'C8 H8 Fe3 Na2 O18 P2'
+_chemical_formula_moiety
+;
+(Na1 1+)2n,n(C8 H8 Fe3 O18 P2 2-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 45
+_journal_year 2006
+_journal_page_first 6361
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Chun-Po Tsao"
+"Chyi-Yang Sheu"
+"Ninh Nguyen"
+"Kwang-Hwa Lii"
+_chemical_name_systematic
+;
+catena-(Di-sodium 
+(\m~4~-oxalato)-bis(\m~3~-oxalato)-bis(\m~2~-methylphosphonato)-tri-iron(ii))
+;
+_cell_volume    886.612
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.501
+_exptl_special_details
+;
+isostructural with the Mn(ii) analogue
+
+;
+_exptl_crystal_description 'rod'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 5.8063(1)
+_cell_length_b 10.3867(3)
+_cell_length_c 14.8094(4)
+_cell_angle_alpha 90
+_cell_angle_beta 96.926(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.35
+Na 0.97
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na -0.12332(8) 0.74997(4) 0.17337(3)
+Fe1 Fe 0.40815(2) -0.443590(13) 0.24305(1)
+Fe2 Fe 0.50000 0.00000 0.50000
+P1 P 0.57676(5) -0.31287(3) 0.45317(2)
+O1 O 0.50948(16) -0.17439(8) 0.43978(6)
+O2 O 0.44805(15) -0.40936(8) 0.38851(6)
+O3 O 0.5297(2) -0.35056(10) 0.55281(6)
+H1 H 0.558(4) -0.428(2) 0.5706(16)
+O4 O 0.29677(12) -0.63873(7) 0.25489(6)
+O5 O -0.01401(13) -0.75722(7) 0.27524(6)
+O6 O -0.27238(13) -0.54221(8) 0.26306(6)
+O7 O 0.04358(13) -0.42806(7) 0.24084(6)
+O8 O 0.22083(13) -0.06886(8) 0.57523(6)
+O9 O -0.15462(13) -0.03861(8) 0.59098(5)
+C1 C 0.8831(3) -0.32946(17) 0.44856(13)
+C2 C 0.08703(16) -0.65344(9) 0.26165(7)
+C3 C -0.06233(16) -0.53019(9) 0.25420(7)
+C4 C 0.02063(17) -0.03099(10) 0.54789(7)
+Fe1B Fe 0.59185(2) 0.443590(13) 0.75695(1)
+Fe1A Fe 0.09185(2) -0.943590(13) 0.25695(1)
+Fe1* Fe -0.59185(2) -0.443590(13) 0.24305(1)
+Fe1C Fe -0.09185(2) -0.056410(13) 0.74305(1)
+Fe1A* Fe 0.09185(2) 0.056410(13) 0.25695(1)
+Fe1A** Fe 1.09185(2) 0.056410(13) 0.25695(1)
+Fe2* Fe -0.50000 0.00000 0.50000
+P1B P 0.42324(5) 0.31287(3) 0.54683(2)
+O1B O 0.49052(16) 0.17439(8) 0.56022(6)
+O2B O 0.55195(15) 0.40936(8) 0.61149(6)
+O3B O 0.4703(2) 0.35056(10) 0.44719(6)
+H1B H 0.442(4) 0.428(2) 0.4294(16)
+O4A O 0.20323(12) -0.13873(7) 0.24511(6)
+O4B O 0.70323(12) 0.63873(7) 0.74511(6)
+O5A O 0.51401(13) -0.25722(7) 0.22476(6)
+O5C O 0.48599(13) 0.25722(7) 0.77524(6)
+O6A O 0.77238(13) -0.04221(8) 0.23694(6)
+O6* O 0.72762(13) -0.54221(8) 0.26306(6)
+O6B O 0.27238(13) 0.54221(8) 0.73694(6)
+O7A O 0.45642(13) 0.07194(7) 0.25916(6)
+O7B O 0.95642(13) 0.42806(7) 0.75916(6)
+O8B O -0.22083(13) 0.06886(8) 0.42477(6)
+O8B* O 0.77917(13) 0.06886(8) 0.42477(6)
+O9B O 0.15462(13) 0.03861(8) 0.40902(5)
+O9C O 0.34538(13) -0.46139(8) 0.09098(5)
+O9* O 0.84538(13) -0.03861(8) 0.59098(5)
+O9A O 0.65462(13) 0.46139(8) 0.90902(5)
+C1B C 0.1169(3) 0.32946(17) 0.55144(13)
+C2A C 0.41297(16) -0.15344(9) 0.23835(7)
+C3A C 0.56233(16) -0.03019(9) 0.24580(7)
+C4B C -0.02063(17) 0.03099(10) 0.45211(7)
+#END

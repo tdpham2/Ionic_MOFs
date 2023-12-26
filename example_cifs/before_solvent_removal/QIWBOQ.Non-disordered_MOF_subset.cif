@@ -1,0 +1,200 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QIWBOQ
+_audit_creation_date 2019-03-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QIWBOQ
+_database_code_depnum_ccdc_archive 'CCDC 1884335'
+_chemical_formula_sum 'C33 H46 N12 O12 Zn2'
+_chemical_formula_moiety
+;
+(C26 H17 N9 O8 Zn2 2-)n,2(C2 H8 N1 1+),C3 H7 N1 O1,3(H2 O1)
+;
+_journal_coden_Cambridge 1747
+_journal_volume 6
+_journal_year 2019
+_journal_page_first 1129
+_journal_name_full 'Inorg.Chem.Front. '
+loop_
+_publ_author_name
+"Meiling Li"
+"Guojian Ren"
+"Fuxiang Wang"
+"Zhimeng Li"
+"Weiting Yang"
+"Dongxu Gu"
+"Yinghui Wang"
+"Guangshan Zhu"
+"Qinhe Pan"
+_chemical_name_systematic
+;
+catena-[bis(dim,ethylammonium) 
+(\m-5-{bis[(4-carboxyphenyl)methyl]amino}benzene-1,3-dicarboxylato)-bis(tetraz
+olyl)-di-zinc N,N-dimethylformamide solvate trihydrate]
+;
+_chemical_name_common
+;
+HNU-25
+;
+_cell_volume  25044.612
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 0.85
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+Disordered cation and solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0961
+_refine_ls_wR_factor_gt 0.0961
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,1/2-z
+5 x-y,-y,1/2-z
+6 -x,-x+y,1/2-z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3+y,1/3+x,5/6-z
+11 2/3+x-y,1/3-y,5/6-z
+12 2/3-x,1/3-x+y,5/6-z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3+y,2/3+x,1/6-z
+17 1/3+x-y,2/3-y,1/6-z
+18 1/3-x,2/3-x+y,1/6-z
+19 -x,-y,-z
+20 y,-x+y,-z
+21 x-y,x,-z
+22 -y,-x,-1/2+z
+23 -x+y,y,-1/2+z
+24 x,x-y,-1/2+z
+25 -2/3-x,-1/3-y,-1/3-z
+26 -2/3+y,-1/3-x+y,-1/3-z
+27 -2/3+x-y,-1/3+x,-1/3-z
+28 -2/3-y,-1/3-x,-5/6+z
+29 -2/3-x+y,-1/3+y,-5/6+z
+30 -2/3+x,-1/3+x-y,-5/6+z
+31 -1/3-x,-2/3-y,-2/3-z
+32 -1/3+y,-2/3-x+y,-2/3-z
+33 -1/3+x-y,-2/3+x,-2/3-z
+34 -1/3-y,-2/3-x,-1/6+z
+35 -1/3-x+y,-2/3+y,-1/6+z
+36 -1/3+x,-2/3+x-y,-1/6+z
+_cell_length_a 21.5586(3)
+_cell_length_b 21.5586(3)
+_cell_length_c 62.2218(15)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 18
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2536(6) 0.5263(5) 0.38388(17)
+C2 C 0.2716(5) 0.5500(4) 0.36263(16)
+H1 H 0.25819 0.58146 0.35689
+C3 C 0.3084(5) 0.5273(5) 0.35036(16)
+H2 H 0.31981 0.54310 0.33624
+C4 C 0.3283(4) 0.4832(4) 0.35817(17)
+C5 C 0.3104(5) 0.4576(4) 0.37922(17)
+H3 H 0.32275 0.42478 0.38441
+C6 C 0.2744(6) 0.4808(5) 0.39232(16)
+H4 H 0.26443 0.46588 0.40655
+C7 C 0.3696(5) 0.4618(5) 0.3440(2)
+C8 C 0.2139(7) 0.5556(6) 0.3965(2)
+H5 H 0.24619 0.60599 0.39937
+H6 H 0.17483 0.55187 0.38775
+C9 C 0.1203(7) 0.4536(7) 0.41667
+C10 C 0.0890(6) 0.4191(6) 0.43576(10)
+H7 H 0.11119 0.44026 0.44868
+C11 C 0.0264(7) 0.3551(7) 0.43619(13)
+C12 C -0.0102(7) 0.3231(7) 0.41667
+H8 H -0.05337 0.27996 0.41667
+C13 C 0.0043(8) 0.3253(8) 0.4583(2)
+N1 N 0.5739(5) 0.4481(5) 0.3120(2)
+N2 N 0.6372(4) 0.5040(5) 0.3138(2)
+N3 N 0.5272(3) 0.4593(3) 0.32292(10)
+C14 C 0.5664(3) 0.5159(3) 0.33346(9)
+H9 H 0.54962 0.53342 0.34268
+N4 N 0.6353(3) 0.5456(3) 0.32902(11)
+N5 N 0.1852(7) 0.5185(7) 0.41667
+O1 O 0.3772(3) 0.4152(3) 0.34797(12)
+O2 O 0.3932(5) 0.4915(6) 0.32631(13)
+O3 O 0.0365(5) 0.3605(5) 0.47452(9)
+O4 O -0.0436(6) 0.2694(6) 0.45812(18)
+Zn1 Zn 0.42283(4) 0.38810(3) 0.32489(2)
+C1I C 0.192967(600) 0.586933(500) 0.449453(170)
+C2I C 0.216667(500) 0.604933(400) 0.470703(160)
+H1I H 0.24813 0.59153 0.47644
+C3I C 0.193967(500) 0.641733(500) 0.482973(160)
+H2I H 0.20977 0.65314 0.49709
+C4I C 0.149867(400) 0.661633(400) 0.475163(170)
+C5I C 0.124267(500) 0.643733(400) 0.454113(170)
+H3I H 0.09144 0.65608 0.44892
+C6I C 0.147467(600) 0.607733(500) 0.441013(160)
+H4I H 0.13255 0.59776 0.42678
+C7I C 0.128467(500) 0.702933(500) 0.489333(200)
+C8I C 0.222267(700) 0.547233(600) 0.436833(200)
+H5I H 0.27266 0.57952 0.43396
+H6I H 0.21854 0.50817 0.44558
+C10I C 0.085767(600) 0.422333(600) 0.397573(100)
+H7I H 0.10693 0.44453 0.38465
+C11I C 0.021767(700) 0.359733(700) 0.397143(130)
+C13I C -0.008033(800) 0.337633(800) 0.375033(200)
+O1I O 0.081867(300) 0.710533(300) 0.485363(120)
+O2I O 0.158167(500) 0.726533(600) 0.507023(130)
+O3I O 0.027167(500) 0.369833(500) 0.358813(90)
+O4I O -0.063933(600) 0.289733(600) 0.375213(180)
+N1I N 0.114767(500) 0.907233(500) 0.521333(200)
+N2I N 0.170667(400) 0.970533(500) 0.519533(200)
+N3I N 0.125967(300) 0.860533(300) 0.510413(100)
+C14I C 0.182567(300) 0.899733(300) 0.499873(90)
+H9I H 0.20009 0.88296 0.49065
+N4I N 0.212267(300) 0.968633(300) 0.504313(110)
+Zn1I Zn 0.054767(40) 0.756163(30) 0.508443(20)
+N4Z N 0.423033(300) 0.301967(300) 0.337647(110)
+N4CA N -0.031367(300) 0.756367(300) 0.495687(110)
+O3R O -0.0365(5) 0.6395(5) 0.52548(9)
+O3GA O 0.306167(500) 0.296833(500) 0.307853(90)
+O4R O 0.0436(6) 0.7306(6) 0.54188(18)
+O4GA O 0.397267(600) 0.376933(600) 0.291453(180)
+Zn1X Zn -0.089497(40) 0.278567(30) 0.341777(20)
+Zn1Y Zn 0.721433(40) 0.631937(30) 0.341777(20)
+Zn1AA Zn -0.054767(40) 0.243837(30) 0.491557(20)
+Zn1BA Zn 0.298603(40) 1.054767(30) 0.491557(20)
+#END

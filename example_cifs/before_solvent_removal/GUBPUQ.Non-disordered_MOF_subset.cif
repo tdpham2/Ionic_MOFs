@@ -1,0 +1,150 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUBPUQ
+_audit_creation_date 2015-04-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUBPUQ
+_database_code_depnum_ccdc_archive 'CCDC 1038144'
+_chemical_formula_sum 'C8 H14 Al1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Al1 Mn1 O12 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 182
+_journal_volume 51
+_journal_year 2015
+_journal_page_first 8288
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Jiong-Peng Zhao"
+"Song-De Han"
+"Xue Jiang"
+"Sui-Jun Liu"
+"Ran Zhao"
+"Ze Chang"
+"Xian-He Bu"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium hexakis(\m~2~-formato-O,O')-aluminium-manganese)
+;
+_cell_volume    798.101
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.657
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 113
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.33.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0352
+_refine_ls_wR_factor_gt 0.0352
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.2179(12)
+_cell_length_b 8.2179(12)
+_cell_length_c 13.646(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.21
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 1.33330 0.66670 0.25000
+Al1 Al 1.00000 1.00000 0.00000
+O1 O 1.1107(2) 0.6617(2) 0.16447(12)
+O2 O 0.98914(19) 0.8045(2) 0.07932(10)
+C1 C 1.1257(3) 0.7954(3) 0.11514(15)
+H1 H 1.24590 0.89570 0.10380
+C2 C 0.66670 0.33330 0.1618(11)
+H2 H 0.70900 0.41810 0.10710
+N1 N 0.7220(9) 0.4439(19) 0.25000
+H3 H 0.66790 0.52410 0.25000
+O1A O 1.3383(2) 0.4490(2) 0.16447(12)
+O2A O 1.19550(19) 0.18464(20) 0.07932(10)
+C1A C 1.2046(3) 0.3303(3) 0.11514(15)
+H1A H 1.10430 0.35020 0.10380
+O1A* O 1.3383(2) 1.4490(2) 0.16447(12)
+O2A* O 1.19550(19) 1.18464(20) 0.07932(10)
+C1A* C 1.2046(3) 1.3303(3) 0.11514(15)
+H1A* H 1.10430 1.35020 0.10380
+O1B O 0.5510(2) 0.8893(2) 0.16447(12)
+O2B O 0.81536(19) 1.01086(20) 0.07932(10)
+C1B C 0.6697(3) 0.8743(3) 0.11514(15)
+H1B H 0.64980 0.75410 0.10380
+O1B* O 1.5510(2) 0.8893(2) 0.16447(12)
+O2B* O 1.81536(19) 1.01086(20) 0.07932(10)
+C1B* C 1.6697(3) 0.8743(3) 0.11514(15)
+H1B* H 1.64980 0.75410 0.10380
+O1C O 1.3383(2) 0.8893(2) 0.33553(12)
+O2C O 1.19550(19) 1.01086(20) 0.42068(10)
+C1C C 1.2046(3) 0.8743(3) 0.38486(15)
+H1C H 1.10430 0.75410 0.39620
+Mn1* Mn 0.33330 0.66670 0.25000
+Mn1** Mn 1.33330 1.66670 0.25000
+Al1* Al 1.00000 0.00000 0.00000
+Al1** Al 2.00000 1.00000 0.00000
+Al1C Al 1.00000 1.00000 0.50000
+O1D O 1.5510(2) 0.6617(2) 0.33553(12)
+O1E O 1.1107(2) 0.4490(2) 0.33553(12)
+O2F O 1.01086(19) 1.1955(2) -0.07932(10)
+O2G O 0.80450(19) 0.81536(20) -0.07932(10)
+O2H O 1.18464(19) 0.98914(20) -0.07932(10)
+H2A H 0.58190 0.29090 0.10710
+N1A N 0.5561(9) 0.2781(19) 0.25000
+H3A H 0.47590 0.14380 0.25000
+H2B H 0.70910 0.29100 0.10710
+N1B N 0.7219(9) 0.2780(19) 0.25000
+H3B H 0.85620 0.33210 0.25000
+C2C C 0.66670 0.33330 0.3382(11)
+H2C H 0.58190 0.29100 0.39290
+H3C H 0.47590 0.33210 0.25000
+H2D H 0.70910 0.41810 0.39290
+H3D H 0.85620 0.52410 0.25000
+H2E H 0.70900 0.29090 0.39290
+H3E H 0.66790 0.14380 0.25000
+#END

@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZIXDES
+_audit_creation_date 2018-12-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZIXDES
+_database_code_depnum_ccdc_archive 'CCDC 1858492'
+_chemical_formula_sum 'C8 H14 Co1 Cr1 N1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Co1 Cr1 O12 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 58
+_journal_year 2019
+_journal_page_first 1184
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Jiong-Peng Zhao"
+"Song-De Han"
+"Fu-Chen Liu"
+_chemical_name_systematic
+;
+catena-[dimethylammonium hexakis(\m-formato)-chromium-cobalt]
+;
+_cell_volume    775.074
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.83
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.3333.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.1491(12)
+_cell_length_b 8.1491(12)
+_cell_length_c 13.477(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+Cr 1.39
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.33333 0.66667 0.25000
+Cr1 Cr 0.00000 1.00000 0.00000
+O1 O 0.3410(5) 0.8844(4) 0.1667(2)
+O2 O 0.2045(4) 1.0116(4) 0.0822(2)
+C1 C 0.2084(6) 0.8732(6) 0.1190(3)
+H1 H 0.102(12) 0.756(11) 0.104(5)
+C2 C 0.66667 0.33333 0.1574(19)
+H2 H 0.62041 0.24082 0.10413
+H3 H 0.73263 0.46526 0.13717
+N1 N 0.716(2) 0.433(5) 0.25000
+O1A O 0.1156(5) 0.4566(4) 0.1667(2)
+O2A O -0.0116(4) 0.1929(4) 0.0822(2)
+C1A C 0.1268(6) 0.3352(6) 0.1190(3)
+H1A H 0.244(12) 0.346(11) 0.104(5)
+O1A* O 0.1156(5) 1.4566(4) 0.1667(2)
+O2A* O -0.0116(4) 1.1929(4) 0.0822(2)
+C1A* C 0.1268(6) 1.3352(6) 0.1190(3)
+H1A* H 0.244(12) 1.346(11) 0.104(5)
+O1B O -0.4566(5) 0.6590(4) 0.1667(2)
+O2B O -0.1929(4) 0.7955(4) 0.0822(2)
+C1B C -0.3352(6) 0.7916(6) 0.1190(3)
+H1B H -0.346(12) 0.898(11) 0.104(5)
+O1B* O 0.5434(5) 0.6590(4) 0.1667(2)
+O2B* O 0.8071(4) 0.7955(4) 0.0822(2)
+C1B* C 0.6648(6) 0.7916(6) 0.1190(3)
+H1B* H 0.654(12) 0.898(11) 0.104(5)
+O1C O 0.1156(5) 0.6590(4) 0.3333(2)
+O2C O -0.0116(4) 0.7955(4) 0.4178(2)
+C1C C 0.1268(6) 0.7916(6) 0.3810(3)
+H1C H 0.244(12) 0.898(11) 0.396(5)
+Co1* Co -0.66667 0.66667 0.25000
+Co1** Co 0.33333 1.66667 0.25000
+Cr1* Cr 0.00000 0.00000 0.00000
+Cr1** Cr 1.00000 1.00000 0.00000
+Cr1C Cr 0.00000 1.00000 0.50000
+O1D O 0.5434(5) 0.8844(4) 0.3333(2)
+O1E O 0.3410(5) 0.4566(4) 0.3333(2)
+O2F O -0.2045(4) 0.9884(4) -0.0822(2)
+O2G O 0.0116(4) 0.8071(4) -0.0822(2)
+O2H O 0.1929(4) 1.2045(4) -0.0822(2)
+H2A H 0.75918 0.37959 0.10413
+H3A H 0.53474 0.26737 0.13717
+N1A N 0.567(2) 0.283(5) 0.25000
+H2B H 0.62041 0.37959 0.10413
+H3B H 0.73263 0.26737 0.13717
+N1B N 0.717(2) 0.284(5) 0.25000
+C2C C 0.66667 0.33333 0.3426(19)
+H2C H 0.75918 0.37959 0.39587
+H3C H 0.53474 0.26737 0.36283
+H2D H 0.62041 0.24082 0.39587
+H3D H 0.73263 0.46526 0.36283
+H2E H 0.62041 0.37959 0.39587
+H3E H 0.73263 0.26737 0.36283
+#END

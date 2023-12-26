@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BIFPEO
+_audit_creation_date 2018-07-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BIFPEO
+_database_code_depnum_ccdc_archive 'CCDC 1835643'
+_chemical_formula_sum 'C8 H22 N8 O17 Th1'
+_chemical_formula_moiety
+;
+4(H5 N2 1+),n(C8 O16 Th1 4-),H2 O1
+;
+_journal_coden_Cambridge 1147
+_journal_volume 18
+_journal_year 2018
+_journal_page_first 4593
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"F.Blanchard"
+"M.Rivenet"
+"N.Vigier"
+"I.Hablot"
+"S.Grandjean"
+"F.Abraham"
+_chemical_name_systematic
+;
+catena-[tetrakis(hydrazinium) (\m-oxalato)-tris(oxalato)-thorium(iv) 
+monohydrate]
+;
+_cell_volume   2130.878
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 2.289
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0255
+_refine_ls_wR_factor_gt 0.0255
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.5286(10)
+_cell_length_b 18.6468(19)
+_cell_length_c 12.7401(13)
+_cell_angle_alpha 90
+_cell_angle_beta 109.720(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Th 2.06
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Th1 Th 0.67211(2) 0.27302(2) 0.52947(2)
+O1 O 0.5478(2) 0.27543(11) 0.15779(15)
+O2 O 0.7756(2) 0.18216(11) 0.22823(15)
+O3 O 0.8159(2) 0.17362(11) 0.64717(16)
+O4 O 0.9458(2) 0.28208(10) 0.58895(17)
+O5 O 0.7651(2) 0.39591(10) 0.52689(17)
+O6 O 0.7906(2) 0.20621(12) 0.40382(16)
+O7 O 0.6000(2) 0.31310(11) 0.33246(16)
+O8 O 0.5624(2) 0.15129(11) 0.46419(18)
+O9 O 0.5134(2) 0.37238(10) 0.55865(18)
+O10 O 0.4000(2) 0.26634(10) 0.42780(18)
+O11 O 1.0337(2) 0.12627(12) 0.7467(2)
+O12 O 1.1628(2) 0.22471(12) 0.6416(2)
+O13 O 0.7829(2) 0.50528(11) 0.60141(19)
+O14 O 0.3611(3) 0.08124(12) 0.4183(2)
+O15 O 0.5162(2) 0.48019(12) 0.63428(19)
+O16 O 0.1899(2) 0.20373(13) 0.3797(2)
+C1 C 0.6180(3) 0.27255(15) 0.2593(2)
+C2 C 0.7398(3) 0.21505(14) 0.3011(2)
+C3 C 0.9569(3) 0.17105(15) 0.6814(2)
+C4 C 1.0318(3) 0.23072(15) 0.6335(2)
+C5 C 0.7186(3) 0.44800(15) 0.5714(2)
+C6 C 0.4232(3) 0.13990(16) 0.4316(2)
+C7 C 0.5692(3) 0.43375(15) 0.5907(2)
+C8 C 0.3260(3) 0.20851(16) 0.4098(2)
+N1 N 0.6704(3) 0.60377(13) 0.73174(19)
+H1 H 0.64330 0.56510 0.68870
+H2 H 0.76530 0.61400 0.74220
+H3 H 0.61330 0.64070 0.69890
+N2 N 0.6527(3) 0.59009(15) 0.8374(2)
+H4 H 0.69690 0.62440 0.88130
+H5 H 0.69930 0.55010 0.86170
+N3 N 0.8029(3) 0.65688(15) 0.4874(2)
+H6 H 0.84290 0.66750 0.55950
+H7 H 0.70840 0.64360 0.47240
+H8 H 0.80650 0.69530 0.44690
+N4 N 0.8838(3) 0.59998(16) 0.4609(3)
+H9 H 0.87770 0.56720 0.51180
+H10 H 0.97750 0.61690 0.47660
+N5 N 0.6438(3) 0.44664(14) 0.1724(2)
+H11 H 0.62460 0.48210 0.12290
+H12 H 0.55860 0.42940 0.17620
+H13 H 0.69290 0.41190 0.15160
+N6 N 0.7335(3) 0.47334(16) 0.2802(2)
+H14 H 0.67170 0.50120 0.29930
+H15 H 0.75120 0.43490 0.32340
+N7 N 0.9509(3) 0.58639(15) 0.2335(2)
+H16 H 0.89210 0.62020 0.19200
+H17 H 1.03520 0.60620 0.27750
+H18 H 0.90470 0.56500 0.27510
+N8 N 0.9841(3) 0.53457(16) 0.1626(3)
+H19 H 0.90070 0.52560 0.10910
+H20 H 1.00870 0.49580 0.20360
+O17 O 0.7903(3) 0.45696(14) 0.9522(3)
+H21 H 0.85980 0.44380 0.92870
+H22 H 0.72530 0.42390 0.94000
+Th1C Th 0.67211(2) 0.22698(2) 0.02947(2)
+O1C O 0.5478(2) 0.22457(11) 0.65779(15)
+O2C O 0.7756(2) 0.31784(11) 0.72823(15)
+#END

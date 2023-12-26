@@ -1,0 +1,193 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAFXUV
+_audit_creation_date 2011-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAFXUV
+_database_code_depnum_ccdc_archive 'CCDC 744592'
+_chemical_formula_sum 'C120 H296 Cu3 N6 O83 S45 V4 W8'
+_chemical_formula_moiety
+;
+(H1 O19 V2 W4 3-)2n,3n(C18 H32 Cu1 N2 O4 S4 2+),33n(C2 H6 O1 S1)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 12
+_journal_year 2010
+_journal_page_first 3522
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"Chunling Wang"
+"Yuanghang Ren"
+"Chengbo Du"
+"Bin Yue"
+"Zuping Kong"
+"Linhong Weng"
+"Heyong He"
+_chemical_name_systematic
+;
+catena-(tris((\m~2~-4,4'-bipyridine)-tetrakis(dimethyl sulfoxide)-copper(ii)) 
+bis((\m~6~-oxo)-(\m~2~-hydroxo)-undecakis(\m~2~-oxo)-hexaoxo-tetra-tungsten-di
+-vanadium) dimethyl sulfoxide solvate)
+;
+_cell_volume  10733.065
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.18
+_exptl_special_details
+;
+The dimethyl sulfoxide free solvent molecules do not appear to have been 
+located but they have been described
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 273
+_refine_special_details
+;
+S1 disordered by symmetry over two sites with occupancy 0.50; C6,S2 
+disordered by symmetry over two sites with occupancy 0.50. One of the keggin 
+metal sites is a mixed occupancy W/V site with occupancies of 0.67:0.33, 
+respectively. The sum formula in the CIF is given as C54 H24 Cu3 N6 O50 S12 
+V3.96 W8.04 whereas in the paper the sum formula is published as C120 H296 
+Cu3 N6 O83 S45 V4 W8, as input.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0728
+_refine_ls_wR_factor_gt 0.0728
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 6/m c c'
+_symmetry_Int_Tables_number 192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,z
+5 y,-x+y,z
+6 x-y,x,z
+7 y,x,1/2-z
+8 x-y,-y,1/2-z
+9 -x,-x+y,1/2-z
+10 -y,-x,1/2-z
+11 -x+y,y,1/2-z
+12 x,x-y,1/2-z
+13 -x,-y,-z
+14 y,-x+y,-z
+15 x-y,x,-z
+16 x,y,-z
+17 -y,x-y,-z
+18 -x+y,-x,-z
+19 -y,-x,-1/2+z
+20 -x+y,y,-1/2+z
+21 x,x-y,-1/2+z
+22 y,x,-1/2+z
+23 x-y,-y,-1/2+z
+24 -x,-x+y,-1/2+z
+_cell_length_a 23.717(6)
+_cell_length_b 23.717(6)
+_cell_length_c 22.033(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.41
+N 0.68
+O 0.68
+S 1.02
+V 1.53
+W 1.40
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.50000 0.50000 0.50000
+V1? V 0.58724(4) 0.25433(6) 0.31068(3)
+W1 W 0.58724(4) 0.25433(6) 0.31068(3)
+S1 S 0.5304(6) 0.3722(6) 0.4645(5)
+S2 S 0.3627(8) 0.3888(8) 0.4630(7)
+O1 O 0.6025(6) 0.2050(4) 0.25000
+O2 O 0.5287(6) 0.1961(8) 0.3548(5)
+O3 O 0.5391(8) 0.2695(7) 0.25000
+O4 O 0.66670 0.33330 0.25000
+O5 O 0.6023(5) 0.3328(7) 0.3473(5)
+O6 O 0.4981(11) 0.3965(12) 0.50000
+O7 O 0.3999(12) 0.4522(10) 0.50000
+C1 C 0.50000 0.50000 0.7158(8)
+C2 C 0.461(1) 0.5154(12) 0.6831(7)
+H1 H 0.43410 0.52690 0.70390
+C3 C 0.4593(10) 0.5148(11) 0.6212(7)
+H2 H 0.43110 0.52420 0.60000
+C4 C 0.609(2) 0.3980(12) 0.50000
+C5 C 0.5020(13) 0.293(3) 0.50000
+C6 C 0.296(3) 0.396(2) 0.430(2)
+C7 C 0.357(2) 0.318(4) 0.50000
+N1 N 0.50000 0.50000 0.5918(7)
+Cu1F Cu 0.50000 0.50000 1.00000
+W1A W 0.74567(4) 0.33291(6) 0.31068(3)
+W1B W 0.66709(4) 0.41276(6) 0.31068(3)
+W1J W 0.66709(4) 0.25433(6) 0.18932(3)
+W1K W 0.58724(4) 0.33291(6) 0.18932(3)
+W1I W 0.74567(4) 0.41276(6) 0.18932(3)
+S1O S 0.5304(6) 0.3722(6) 0.5355(5)
+S1C S 0.4696(6) 0.6278(6) 0.4645(5)
+S1L S 0.4696(6) 0.6278(6) 0.5355(5)
+S2O S 0.3627(8) 0.3888(8) 0.5370(7)
+S2C S 0.6373(8) 0.6112(8) 0.4630(7)
+S2L S 0.6373(8) 0.6112(8) 0.5370(7)
+O1A O 0.7950(6) 0.3975(4) 0.25000
+O1B O 0.6025(6) 0.3975(4) 0.25000
+O2A O 0.8039(6) 0.3326(8) 0.3548(5)
+O2B O 0.6674(6) 0.4713(8) 0.3548(5)
+O2J O 0.6674(6) 0.1961(8) 0.1452(5)
+O2K O 0.5287(6) 0.3326(8) 0.1452(5)
+O2I O 0.8039(6) 0.4713(8) 0.1452(5)
+O3A O 0.7305(8) 0.2696(7) 0.25000
+O3B O 0.7304(8) 0.4609(7) 0.25000
+O5A O 0.6672(5) 0.2695(7) 0.3473(5)
+O5B O 0.7305(5) 0.3977(7) 0.3473(5)
+O5J O 0.7305(5) 0.3328(7) 0.1527(5)
+O5K O 0.6023(5) 0.2695(7) 0.1527(5)
+O5I O 0.6672(5) 0.3977(7) 0.1527(5)
+O6C O 0.5019(11) 0.6035(12) 0.50000
+O7C O 0.6001(12) 0.5478(10) 0.50000
+C1F C 0.50000 0.50000 0.7842(8)
+C2F C 0.5154(10) 0.4610(12) 0.8169(7)
+C2I C 0.4846(10) 0.5390(12) 0.8169(7)
+C2C C 0.539(1) 0.4846(12) 0.6831(7)
+H1F H 0.52690 0.43410 0.79610
+H1I H 0.47310 0.56590 0.79610
+H1C H 0.56590 0.47310 0.70390
+C3F C 0.5148(10) 0.4593(11) 0.8788(7)
+C3I C 0.4852(10) 0.5407(11) 0.8788(7)
+C3C C 0.5407(10) 0.4852(11) 0.6212(7)
+H2F H 0.52420 0.43110 0.90000
+H2I H 0.47580 0.56890 0.90000
+H2C H 0.56890 0.47580 0.60000
+C4C C 0.391(2) 0.6020(12) 0.50000
+C5C C 0.4980(13) 0.707(3) 0.50000
+C6O C 0.296(3) 0.396(2) 0.570(2)
+C6C C 0.704(3) 0.604(2) 0.430(2)
+C6L C 0.704(3) 0.604(2) 0.570(2)
+C7C C 0.643(2) 0.682(4) 0.50000
+N1F N 0.50000 0.50000 0.9082(7)
+N1L N 0.50000 0.50000 0.4082(7)
+#END

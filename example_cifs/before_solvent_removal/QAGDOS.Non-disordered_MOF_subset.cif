@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAGDOS
+_audit_creation_date 2003-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAGDOS
+_database_code_depnum_ccdc_archive 'CCDC 181840'
+_chemical_formula_sum 'C12 H24 Ag1 K1 O6 S4 W1'
+_chemical_formula_moiety
+;
+(C12 H24 K1 O6 1+)n,n(Ag1 S4 W1 1-)
+;
+_journal_coden_Cambridge 1186
+_journal_volume 15
+_journal_year 2003
+_journal_page_first 127
+_journal_name_full 'Supramol.Chem. '
+loop_
+_publ_author_name
+"Biao Wu"
+"Xiaojuan Yang"
+"Wen-Hua Sun"
+"Tianzhu Zhang"
+_chemical_name_systematic
+;
+catena-((18-crown-6-potassium) tetrakis(\m~2~-sulfido)-silver-tungsten)
+;
+_cell_volume   2250.708
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 2.135
+_exptl_crystal_description 'Prismatic'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0487
+_refine_ls_wR_factor_gt 0.0487
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,1/2+z
+4 -x,y,z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2+x,1/2-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a 14.163(5)
+_cell_length_b 15.063(7)
+_cell_length_c 10.550(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.59
+K 1.88
+O 0.68
+S 1.02
+W 1.37
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+W1 W 0.00000 -0.06720(4) 0.24168(8)
+S1 S 0.00000 -0.1373(4) 0.4254(7)
+S2 S 0.00000 0.0794(3) 0.2542(13)
+S3 S -0.1251(2) -0.1066(3) 0.1321(4)
+K1 K 0.00000 -0.3123(5) 0.0952(8)
+Ag1 Ag 0.00000 0.03101(19) 0.4747(3)
+O1 O 0.00000 -0.4230(13) 0.3259(16)
+O2 O -0.1708(10) -0.3746(8) 0.2081(17)
+O3 O -0.1657(8) -0.3482(9) -0.0625(13)
+O4 O 0.00000 -0.2965(10) -0.1724(14)
+C1 C -0.079(4) -0.396(3) 0.395(3)
+H1 H -0.07870 -0.33210 0.40670
+H2 H -0.07980 -0.42410 0.47780
+C2 C -0.167(4) -0.4247(18) 0.317(5)
+H3 H -0.16280 -0.48720 0.29520
+H4 H -0.22420 -0.41570 0.36610
+C3 C -0.2490(14) -0.3927(18) 0.112(3)
+H5 H -0.24190 -0.45220 0.07770
+H6 H -0.31000 -0.38910 0.15310
+C4 C -0.2449(12) -0.3322(19) 0.015(4)
+H7 H -0.24110 -0.27280 0.05030
+H8 H -0.30200 -0.33600 -0.03520
+C5 C -0.1643(17) -0.2883(17) -0.158(3)
+H9 H -0.15570 -0.22880 -0.12510
+H10 H -0.22330 -0.29020 -0.20500
+C6 C -0.0886(19) -0.3110(13) -0.238(2)
+H11 H -0.09070 -0.27500 -0.31440
+H12 H -0.09370 -0.37280 -0.26300
+C6C C 0.0886(19) -0.3110(13) -0.238(2)
+C5C C 0.1643(17) -0.2883(17) -0.158(3)
+O3C O 0.1657(8) -0.3482(9) -0.0625(13)
+C4C C 0.2449(12) -0.3322(19) 0.015(4)
+C3C C 0.2490(14) -0.3927(18) 0.112(3)
+O2C O 0.1708(10) -0.3746(8) 0.2081(17)
+C2C C 0.167(4) -0.4247(18) 0.317(5)
+C1C C 0.079(4) -0.396(3) 0.395(3)
+H1C H 0.07870 -0.33210 0.40670
+H2C H 0.07980 -0.42410 0.47780
+H3C H 0.16280 -0.48720 0.29520
+H4C H 0.22420 -0.41570 0.36610
+H5C H 0.24190 -0.45220 0.07770
+H6C H 0.31000 -0.38910 0.15310
+H7C H 0.24110 -0.27280 0.05030
+H8C H 0.30200 -0.33600 -0.03520
+H9C H 0.15570 -0.22880 -0.12510
+H10C H 0.22330 -0.29020 -0.20500
+H11C H 0.09070 -0.27500 -0.31440
+H12C H 0.09370 -0.37280 -0.26300
+S3C S 0.1251(2) -0.1066(3) 0.1321(4)
+Ag1A Ag 0.00000 -0.03101(19) -0.0253(3)
+W1A W 0.00000 0.06720(4) 0.74168(8)
+S3A S 0.1251(2) 0.1066(3) 0.6321(4)
+S3B S -0.1251(2) 0.1066(3) 0.6321(4)
+#END

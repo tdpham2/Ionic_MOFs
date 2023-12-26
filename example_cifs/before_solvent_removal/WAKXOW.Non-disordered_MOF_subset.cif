@@ -1,0 +1,181 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAKXOW
+_audit_creation_date 2005-08-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAKXOW
+_database_code_depnum_ccdc_archive 'CCDC 198392'
+_chemical_formula_sum 'C6 H59 Al1 Na7 O43.5 P6'
+_chemical_formula_moiety
+;
+(C6 H24 Al1 Na7 O31 P6 10-)n,10n(H3 O1 1+),2.5n(H2 O1)
+;
+_journal_coden_Cambridge 229
+_journal_volume 264
+_journal_year 2004
+_journal_page_first 400
+_journal_name_full 'J.Cryst.Growth '
+loop_
+_publ_author_name
+"Zongbin Wu"
+"Zhongmin Liu"
+"Peng Tian"
+"Yue Yang"
+"Lei Xu"
+"Haibin Song"
+"Xinhe Bao"
+"Xiumei Liu"
+"Xianchun Liu"
+_chemical_name_systematic
+;
+catena-[Decaoxonium tris(\m~7~-dihydrogen 
+1-hydroxyethylidenediphosphonato)-heptakis(\m~2~-oxo)-triaqua-aluminium-hepta-
+sodium hydrate]
+;
+_cell_volume   2485.282
+_exptl_crystal_density_diffrn 1.605
+_exptl_special_details
+;
+isostructural with the 1.48 hydrate, the 1.57 hydrate and the dioxonium 
+nona-sodium-octa-aqua-1.75 hydrate
+formulation not given in paper- authors state there are protonated water 
+molecules which balance the charge on the aluminodiphosphonate framework. We 
+have input 10 oxonium ions and given the framework a charge of 10-, adding 2 
+protons each to the diphosphonate ligands. No reply from authors with regard 
+to structure clarification
+;
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+One water molecule is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0534
+_refine_ls_wR_factor_gt 0.0534
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,-z
+5 y,-x+y,-z
+6 x-y,x,-z
+_cell_length_a 17.981(6)
+_cell_length_b 17.981(6)
+_cell_length_c 8.876(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.35
+Na 1.74
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+P1 P 0.25024(7) 0.47218(7) 0.12014(11)
+P2 P 0.16140(7) 0.51005(7) -0.13546(11)
+Al1 Al 0.33330 0.66670 -0.0052(2)
+Na1 Na 0.44612(12) 0.58160(11) 0.2221(2)
+Na2 Na 0.38949(11) 0.43074(12) -0.0601(2)
+Na3 Na 0.33330 0.66670 0.3487(3)
+C1 C 0.2093(3) 0.4451(3) -0.0752(4)
+C2 C 0.1462(3) 0.3491(3) -0.0941(5)
+H1 H 0.12660 0.33760 -0.19660
+H2 H 0.09810 0.33220 -0.02810
+H3 H 0.17440 0.31730 -0.06960
+O1 O 0.5427(2) 0.5345(2) 0.3180(4)
+O2 O 0.17429(18) 0.4386(2) 0.2260(3)
+O3 O 0.30126(19) 0.57112(17) 0.1267(3)
+O4 O 0.3100(2) 0.4371(2) 0.1485(3)
+O5 O 0.23763(17) 0.60286(17) -0.1308(3)
+O6 O 0.09070(18) 0.49746(18) -0.0283(3)
+O7 O 0.13092(19) 0.48642(19) -0.2978(3)
+O8 O 0.28251(18) 0.46553(19) -0.1738(3)
+O9 O 0.3877(2) 0.5860(2) 0.4652(4)
+O10 O 0.3024(3) 0.2912(3) -0.2051(5)
+O11 O 0.2235(3) 0.4378(3) 0.5086(4)
+O12 O 0.3565(4) 0.0898(3) 0.3842(5)
+O13? O 0.3033(9) 0.0696(8) 0.4424(15)
+O14 O 0.3728(3) 0.0201(3) 0.5923(6)
+O15 O 0.1496(7) 0.1449(7) 0.912(2)
+O16 O 0.1839(8) 0.2501(8) 0.2396(18)
+O17 O 0.2288(10) 0.1207(17) 0.4457(19)
+P1A P 0.52782(7) 0.77806(7) 0.12014(11)
+P1B P 0.22194(7) 0.74976(7) 0.12014(11)
+P2A P 0.48995(7) 0.65135(7) -0.13546(11)
+P2B P 0.34865(7) 0.83860(7) -0.13546(11)
+Na1A Na 0.41840(12) 0.86452(11) 0.2221(2)
+Na1B Na 0.13548(12) 0.55388(11) 0.2221(2)
+Na1C Na 0.55388(12) 0.41840(11) -0.2221(2)
+Na1D Na 0.58160(12) 1.13548(11) -0.2221(2)
+Na1E Na -0.13548(12) 0.44612(11) -0.2221(2)
+Na2A Na 0.56926(11) 0.95875(12) -0.0601(2)
+Na2B Na 0.04125(11) 0.61051(12) -0.0601(2)
+Na2C Na 0.61051(11) 0.56926(12) 0.0601(2)
+Na2E Na -0.04125(11) 0.38949(12) 0.0601(2)
+Na2D Na 0.43074(11) 1.04125(12) 0.0601(2)
+C1A C 0.5549(3) 0.7642(3) -0.0752(4)
+C1B C 0.2358(3) 0.7907(3) -0.0752(4)
+C2A C 0.6509(3) 0.7971(3) -0.0941(5)
+C2B C 0.2029(3) 0.8538(3) -0.0941(5)
+H1A H 0.66240 0.78900 -0.19660
+H1B H 0.21100 0.87340 -0.19660
+H2A H 0.66780 0.76590 -0.02810
+H2B H 0.23410 0.90190 -0.02810
+H3A H 0.68270 0.85710 -0.06960
+H3B H 0.14290 0.82560 -0.06960
+O1C O 0.4573(2) 0.4655(2) -0.3180(4)
+O1A O 0.4655(2) 1.0082(2) 0.3180(4)
+O1B O -0.0082(2) 0.4573(2) 0.3180(4)
+O1D O 0.5345(2) 0.9918(2) -0.3180(4)
+O1E O 0.0082(2) 0.5427(2) -0.3180(4)
+O2A O 0.56140(18) 0.73569(20) 0.2260(3)
+O2B O 0.26431(18) 0.82571(20) 0.2260(3)
+O3A O 0.42888(19) 0.73014(17) 0.1267(3)
+O3B O 0.26986(19) 0.69874(17) 0.1267(3)
+O4A O 0.5629(2) 0.8729(2) 0.1485(3)
+O4B O 0.1271(2) 0.6900(2) 0.1485(3)
+O5A O 0.39714(17) 0.63477(17) -0.1308(3)
+O5B O 0.36523(17) 0.76237(17) -0.1308(3)
+O6A O 0.50254(18) 0.59324(18) -0.0283(3)
+O6B O 0.40676(18) 0.90930(18) -0.0283(3)
+O6D O 0.49746(18) 0.40676(18) 0.0283(3)
+O6E O 0.59324(18) 1.09070(18) 0.0283(3)
+O6C O -0.09070(18) 0.50254(18) 0.0283(3)
+O7A O 0.51358(19) 0.64450(19) -0.2978(3)
+O7B O 0.35550(19) 0.86908(19) -0.2978(3)
+O8A O 0.53447(18) 0.81698(19) -0.1738(3)
+O8B O 0.18302(18) 0.71749(19) -0.1738(3)
+O9B O 0.1983(2) 0.6123(2) 0.4652(4)
+O9A O 0.4140(2) 0.8017(2) 0.4652(4)
+O10A O 0.7088(3) 1.0112(3) -0.2051(5)
+O10B O -0.0112(3) 0.6976(3) -0.2051(5)
+#END

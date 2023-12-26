@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAWVIS07
+_audit_creation_date 2020-11-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAWVIS07
+_database_code_depnum_ccdc_archive 'CCDC 1964393'
+_chemical_formula_sum 'C10 H22 Cr1 K1 N2 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Cr1 K1 O12 2-)n,2(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 983
+_journal_volume 124
+_journal_year 2020
+_journal_page_first 6337
+_journal_name_full 'J.Phys.Chem.C '
+loop_
+_publ_author_name
+"M.Ptak"
+"K.L.Svane"
+"I.E.Collings"
+"W.Paraguassu"
+_chemical_name_systematic
+;
+catena-[bis(ethylammonium) hexakis(\m-formato)-chromium(iii)-potassium]
+;
+_cell_volume    912.310
+_exptl_crystal_colour 'dark blue'
+_exptl_crystal_density_diffrn 1.65
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 910000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0675
+_refine_ls_wR_factor_gt 0.0675
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.3247(17)
+_cell_length_b 8.8916(15)
+_cell_length_c 12.3381(14)
+_cell_angle_alpha 90
+_cell_angle_beta 87.379(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+K 2.03
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.50000 0.50000 0.50000
+K1 K 0.50000 0.50000 1.00000
+C1 C 0.7724(7) 0.3044(6) 0.4495(4)
+H1 H 0.73427 0.25217 0.51075
+C2 C 0.3257(7) 0.2141(6) 0.5102(4)
+H2 H 0.26725 0.25124 0.45354
+C3 C 0.5817(7) 0.4875(5) 0.7259(4)
+H3 H 0.47661 0.45361 0.73725
+O1 O 0.6901(4) 0.4153(4) 0.4197(2)
+O2 O 0.8994(5) 0.2591(4) 0.4044(3)
+O3 O 0.4324(4) 0.2976(4) 0.5477(2)
+O4 O 0.2946(6) 0.0881(5) 0.5434(4)
+O5 O 0.6287(5) 0.5153(3) 0.6301(2)
+O6 O 0.6627(5) 0.5011(4) 0.8062(3)
+N1 N 0.4887(6) -0.0711(6) 1.2747(4)
+H4 H 0.51715 -0.12596 1.21665
+H5 H 0.38223 -0.06150 1.27953
+H6 H 0.52181 -0.11638 1.33405
+C4 C 0.5632(10) 0.0788(8) 1.2647(6)
+H7 H 0.53501 0.13727 1.32920
+H8 H 0.67930 0.06810 1.25966
+C5 C 0.5112(12) 0.1571(9) 1.1707(8)
+H9 H 0.40196 0.18965 1.18329
+H10 H 0.51795 0.09106 1.10911
+H11 H 0.57889 0.24305 1.15682
+C1B C 0.2276(7) 0.6956(6) 0.5505(4)
+H1B H 0.26573 0.74783 0.48925
+C2B C 0.6743(7) 0.7859(6) 0.4898(4)
+H2B H 0.73276 0.74876 0.54646
+C3B C 0.4183(7) 0.5125(5) 0.2741(4)
+H3B H 0.52339 0.54639 0.26275
+O1B O 0.3099(4) 0.5847(4) 0.5803(2)
+O2B O 0.1006(5) 0.7409(4) 0.5956(3)
+O3B O 0.5676(4) 0.7024(4) 0.4523(2)
+O4B O 0.7054(6) 0.9119(5) 0.4566(4)
+O5B O 0.3713(5) 0.4847(3) 0.3699(2)
+O6B O 0.3373(5) 0.4989(4) 0.1938(3)
+K1* K 0.50000 0.50000 0.00000
+K1A K 0.00000 0.00000 0.50000
+K1A* K 0.00000 1.00000 0.50000
+K1A** K 1.00000 0.00000 0.50000
+K1A*** K 1.00000 1.00000 0.50000
+O2A O 0.6006(5) 0.7591(4) 1.0956(3)
+O2C O 0.3994(5) 0.2409(4) 0.9044(3)
+O4A O 0.2054(6) 0.5881(5) 0.9566(4)
+O4C O 0.7946(6) 0.4119(5) 1.0434(4)
+O6B* O 0.3373(5) 0.4989(4) 1.1938(3)
+N1B N 0.5113(6) 1.0711(6) 0.7253(4)
+H4B H 0.48285 1.12596 0.78335
+H5B H 0.61777 1.06150 0.72047
+H6B H 0.47819 1.11638 0.66595
+C4B C 0.4368(10) 0.9212(8) 0.7353(6)
+H7B H 0.46499 0.86273 0.67080
+H8B H 0.32070 0.93190 0.74034
+C5B C 0.4888(12) 0.8429(9) 0.8293(8)
+H9B H 0.59804 0.81035 0.81671
+H10B H 0.48205 0.90894 0.89089
+H11B H 0.42111 0.75695 0.84318
+#END

@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAGYED
+_audit_creation_date 1997-07-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAGYED
+_database_code_depnum_ccdc_archive 'CCDC 124308 100029'
+_chemical_formula_sum 'C10 H12 Cu1 Mo4 N2 O14'
+_chemical_formula_moiety
+;
+(C10 H8 Cu1 N2 1+)n,n(Mo4 O12 1-),2n(H2 O1)
+;
+_journal_coden_Cambridge 179
+_journal_volume 36
+_journal_year 1997
+_journal_page_first 873
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"D.Hagrman"
+"C.Zubieta"
+"D.J.Rose"
+"J.Zubieta"
+"R.C.Haushalter"
+_chemical_name_systematic
+;
+catena-((\m~2~-4,4'-Bipyridyl)-copper dodeca-oxa-tetra-molybdenum dihydrate)
+;
+_cell_volume   1892.570
+_exptl_crystal_colour 'yellow-brown'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Mo2, O6 and O7 were refined at occupancies 0.75,0.50, 0.33 respectively.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0627
+_refine_ls_wR_factor_gt 0.0627
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'I 2/a'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 1/2+x,-y,z
+4 x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-1/2-z
+7 -1/2-x,y,-z
+8 -x,-1/2+y,-1/2-z
+_cell_length_a 21.797(2)
+_cell_length_b 3.7557(4)
+_cell_length_c 24.425(4)
+_cell_angle_alpha 90
+_cell_angle_beta 108.823(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.52
+Mo 1.27
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mo1 Mo 0.94197(6) 0.0821(3) 0.33245(5)
+Mo2 Mo 0.92672(9) -0.4213(5) 0.21808(8)
+Cu1 Cu 1.00000 0.50000 0.50000
+O1 O 0.9658(5) 0.0746(34) 0.4052(4)
+O2 O 0.8571(5) 0.0749(33) 0.3123(6)
+O3 O 0.9503(5) -0.4214(28) 0.3165(5)
+O4 O 1.0483(5) 0.0797(29) 0.3412(5)
+O5 O 0.9441(6) 0.0818(29) 0.2436(4)
+O6 O 0.8494(10) -0.4211(24) 0.1960(8)
+N1 N 0.9120(5) 0.5115(33) 0.4980(5)
+C1 C 0.8980(6) 0.4177(41) 0.5461(6)
+H1 H 0.9313(6) 0.3456(41) 0.5788(6)
+C2 C 0.8339(6) 0.4265(39) 0.5479(6)
+H2 H 0.8258(6) 0.3664(39) 0.5818(6)
+C3 C 0.7838(5) 0.5231(32) 0.4999(5)
+C4 C 0.7992(6) 0.6128(41) 0.4498(6)
+H3 H 0.7665(6) 0.6735(41) 0.4159(6)
+C5 C 0.8622(7) 0.6101(49) 0.4515(7)
+H4 H 0.8714(7) 0.6805(49) 0.4184(7)
+O7 O 1.196(2) 0.0678(35) 0.2529(19)
+C3F C 0.7162(5) 0.5231(32) 0.5001(5)
+C2F C 0.6661(6) 0.4265(39) 0.4521(6)
+C1F C 0.6020(6) 0.4177(41) 0.4539(6)
+N1F N 0.5880(5) 0.5115(33) 0.5020(5)
+C5F C 0.6378(7) 0.6101(49) 0.5485(7)
+C4F C 0.7008(6) 0.6128(41) 0.5502(6)
+H3F H 0.7335(6) 0.6735(41) 0.5841(6)
+H4F H 0.6286(7) 0.6805(49) 0.5816(7)
+H1F H 0.5687(6) 0.3456(41) 0.4212(6)
+H2F H 0.6742(6) 0.3664(39) 0.4182(6)
+O3* O 0.9503(5) 0.5786(28) 0.3165(5)
+Mo1* Mo 0.94197(6) 1.0821(3) 0.33245(5)
+Mo2* Mo 0.92672(9) 0.5787(5) 0.21808(8)
+O4G O 0.9517(5) -0.4203(29) 0.1588(5)
+O5* O 0.9441(6) -0.9182(29) 0.2436(4)
+O1* O 0.9658(5) 1.0746(34) 0.4052(4)
+O2* O 0.8571(5) 1.0749(33) 0.3123(6)
+O6* O 0.8494(10) 0.5789(24) 0.1960(8)
+N1D N 1.0880(5) 0.4885(33) 0.5020(5)
+Mo1** Mo 0.94197(6) -0.9179(3) 0.33245(5)
+Mo2G Mo 1.07328(9) 0.0787(5) 0.28192(8)
+Cu1B Cu 0.50000 0.50000 0.50000
+O3** O 0.9503(5) 1.5786(28) 0.3165(5)
+O4* O 1.0483(5) 1.0797(29) 0.3412(5)
+O5** O 0.9441(6) 1.0818(29) 0.2436(4)
+O4G* O 0.9517(5) 0.5797(29) 0.1588(5)
+Mo1G Mo 1.05803(6) -0.4179(3) 0.16755(5)
+Mo2** Mo 0.92672(9) -1.4213(5) 0.21808(8)
+#END

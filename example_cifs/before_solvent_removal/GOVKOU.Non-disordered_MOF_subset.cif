@@ -1,0 +1,158 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOVKOU
+_audit_creation_date 2019-10-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOVKOU
+_database_code_depnum_ccdc_archive 'CCDC 1009730'
+_chemical_formula_sum 'C3 H13 N1 O7.5 P1 Zn1'
+_chemical_formula_moiety
+;
+(C3 H4 O5 P1 Zn1 1-)n,H4 N1 1+,2.5(H2 O1)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 25
+_journal_year 2019
+_journal_page_first 13865
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Chao Zhao"
+"L.Male"
+"Tzu-Yu Chen"
+"J.A.Barker"
+"I.J.Shannon"
+"P.A.Anderson"
+_chemical_name_systematic
+;
+catena-[ammonium (\m-3-phosphonatopropanoato)-zinc hydrate]
+;
+_cell_volume   8822.632
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.683
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+N101,N201,O301,O401,O501,O601 and N102,N202,O302,O402,O502,O602 disordered 
+over two sites with occupancies 
+0.25,0.35,0.25,0.38,0.25,0.40:0.25,0.18,0.20,0.27,0.15,0.10; N203,O403 and 
+O304 and O305 and O306 disordered over four sites with occupancies 
+0.15:0.15:0.10:0.10; O303 disordered by symmetry over two configurations with 
+occupancy 0.20.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0718
+_refine_ls_wR_factor_gt 0.0718
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41/a c d'
+_symmetry_Int_Tables_number 142
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,z
+3 x,-y,1/2-z
+4 1/2-x,y,-z
+5 1/4-y,1/4-x,1/4-z
+6 3/4+y,1/4+x,1/4-z
+7 1/4+y,1/4-x,3/4+z
+8 1/4-y,3/4+x,1/4+z
+9 1/2+x,1/2+y,1/2+z
+10 1/2-x,-y,1/2+z
+11 1/2+x,1/2-y,-z
+12 -x,1/2+y,1/2-z
+13 3/4-y,3/4-x,3/4-z
+14 1/4+y,3/4+x,3/4-z
+15 3/4+y,3/4-x,1/4+z
+16 3/4-y,1/4+x,3/4+z
+17 -x,-y,-z
+18 x,-1/2+y,-z
+19 -x,y,-1/2+z
+20 -1/2+x,-y,z
+21 -1/4+y,-1/4+x,-1/4+z
+22 -3/4-y,-1/4-x,-1/4+z
+23 -1/4-y,-1/4+x,-3/4-z
+24 -1/4+y,-3/4-x,-1/4-z
+25 -1/2-x,-1/2-y,-1/2-z
+26 -1/2+x,y,-1/2-z
+27 -1/2-x,-1/2+y,z
+28 x,-1/2-y,-1/2+z
+29 -3/4+y,-3/4+x,-3/4+z
+30 -1/4-y,-3/4-x,-3/4+z
+31 -3/4-y,-3/4+x,-1/4-z
+32 -3/4+y,-1/4-x,-3/4-z
+_cell_length_a 22.3019(17)
+_cell_length_b 22.3019(17)
+_cell_length_c 17.7384(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 32
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+P 1.05
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3057(3) 0.2338(3) 0.1694(4)
+C2 C 0.3031(3) 0.3018(3) 0.1788(4)
+H1 H 0.30760 0.32050 0.12850
+H2 H 0.26280 0.31270 0.19800
+C3 C 0.3495(3) 0.3285(3) 0.2308(4)
+H3 H 0.38960 0.32520 0.20730
+H4 H 0.35010 0.30580 0.27870
+O1 O 0.3853(2) 0.4313(2) 0.2956(3)
+O2 O 0.3270(2) 0.4381(2) 0.1739(3)
+O3 O 0.2658(3) 0.2133(2) 0.1256(3)
+O4 O 0.2738(2) 0.4093(2) 0.2917(3)
+O5 O 0.3410(3) 0.2026(2) 0.2047(4)
+P1 P 0.33333(7) 0.40607(7) 0.24981(10)
+Zn1 Zn 0.24965(4) 0.12812(3) 0.11433(4)
+N1 N 0.4672(14) 0.2285(15) 0.2062(18)
+N2 N 0.2923(6) 0.9577(6) 0.12500
+O6 O 0.5098(12) 0.4285(15) 0.2733(14)
+O7 O 0.5405(13) 0.50000 0.25000
+O8 O 0.4776(13) 0.3473(16) 0.3219(17)
+O9 O 0.3272(10) 0.8829(9) -0.0056(13)
+O10 O 0.368(3) 0.868(2) 0.054(3)
+O11 O 0.4474(13) 0.8528(13) 0.0982(16)
+N3? N 0.4684(14) 0.2062(15) 0.1919(17)
+N4? N 0.2683(11) 0.9473(11) 0.0425(15)
+O12? O 0.5047(16) 0.397(2) 0.263(2)
+O13? O 0.484(2) 0.311(2) 0.312(2)
+O14? O 0.498(3) 0.374(3) 0.309(4)
+O15? O 0.492(3) 0.364(3) 0.271(4)
+O16? O 0.529(3) 0.461(4) 0.264(4)
+O17? O 0.3455(17) 0.8744(15) 0.032(2)
+O18? O 0.421(2) 0.910(2) 0.107(3)
+N5? N 0.2803(13) 0.9528(14) 0.0859(17)
+O1T O 0.1813(2) 0.1353(2) 0.0456(3)
+O2V O 0.3119(2) 0.0770(2) 0.0761(3)
+O4X O 0.2262(2) 0.0907(2) 0.2083(3)
+Zn1X Zn 0.25035(4) 0.37188(3) 0.38567(4)
+Zn1BA Zn 0.37812(4) 0.49965(3) 0.36433(4)
+Zn1EA Zn 0.37812(4) 0.50035(3) 0.13567(4)
+#END

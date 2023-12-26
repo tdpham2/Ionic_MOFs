@@ -1,0 +1,165 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEXWOZ03
+_audit_creation_date 2014-05-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEXWOZ03
+_database_code_depnum_ccdc_archive 'CCDC 975365'
+_chemical_formula_sum 'C3 H7 Mn1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Mn1 O6 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 1500
+_journal_volume 4
+_journal_year 2014
+_journal_page_first 20605
+_journal_name_full 'RSC Advances '
+loop_
+_publ_author_name
+"Jian-Qiang Liu"
+"Jian Wu"
+"Jun Wang"
+"Lu Lu"
+"C.Daiguebonne"
+"G.Calvez"
+"O.Guillou"
+"H.Sakiyama"
+"Ng Seik Weng"
+"M.Zeller"
+_chemical_name_systematic
+;
+catena-[ammonium tris(\m-formato)-manganese]
+;
+_cell_volume   1874.957
+_exptl_crystal_density_diffrn 1.474
+_exptl_special_details
+;
+Im3 polymorph
+
+;
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0556
+_refine_ls_wR_factor_gt 0.0556
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'I m 3'
+_symmetry_Int_Tables_number 204
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 x,-y,-z
+4 -x,y,-z
+5 y,z,x
+6 -y,-z,x
+7 y,-z,-x
+8 -y,z,-x
+9 z,x,y
+10 -z,x,-y
+11 -z,-x,y
+12 z,-x,-y
+13 1/2+x,1/2+y,1/2+z
+14 1/2-x,1/2-y,1/2+z
+15 1/2+x,1/2-y,1/2-z
+16 1/2-x,1/2+y,1/2-z
+17 1/2+y,1/2+z,1/2+x
+18 1/2-y,1/2-z,1/2+x
+19 1/2+y,1/2-z,1/2-x
+20 1/2-y,1/2+z,1/2-x
+21 1/2+z,1/2+x,1/2+y
+22 1/2-z,1/2+x,1/2-y
+23 1/2-z,1/2-x,1/2+y
+24 1/2+z,1/2-x,1/2-y
+25 -x,-y,-z
+26 x,y,-z
+27 -x,y,z
+28 x,-y,z
+29 -y,-z,-x
+30 y,z,-x
+31 -y,z,x
+32 y,-z,x
+33 -z,-x,-y
+34 z,-x,y
+35 z,x,-y
+36 -z,x,y
+37 -1/2-x,-1/2-y,-1/2-z
+38 -1/2+x,-1/2+y,-1/2-z
+39 -1/2-x,-1/2+y,-1/2+z
+40 -1/2+x,-1/2-y,-1/2+z
+41 -1/2-y,-1/2-z,-1/2-x
+42 -1/2+y,-1/2+z,-1/2-x
+43 -1/2-y,-1/2+z,-1/2+x
+44 -1/2+y,-1/2-z,-1/2+x
+45 -1/2-z,-1/2-x,-1/2-y
+46 -1/2+z,-1/2-x,-1/2+y
+47 -1/2+z,-1/2+x,-1/2-y
+48 -1/2-z,-1/2+x,-1/2+y
+_cell_length_a 12.3309(7)
+_cell_length_b 12.331
+_cell_length_c 12.331
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.25000 0.25000 0.25000
+O1 O 0.4101(2) 0.2023(3) 0.3103(3)
+C1 C 0.50000 0.2269(6) 0.2737(6)
+H1 H 0.50000 0.26890 0.21100
+N1 N 0.50000 0.50000 0.50000
+N2 N 0.3946(14) 0.00000 0.50000
+H2? H 0.55770 0.54080 0.50000
+H3? H 0.40710 0.03110 0.56210
+H4? H 0.40520 0.04650 0.44790
+H5? H 0.32770 -0.02260 0.49810
+H6? H 0.50000 0.45920 0.55770
+H7? H 0.43820 -0.05490 0.49190
+O1Z O 0.5899(2) 0.2023(3) 0.3103(3)
+O1D O 0.2023(2) 0.3103(3) 0.4101(3)
+C1D C 0.22690 0.2737(6) 0.5000(6)
+H1D H 0.26890 0.21100 0.50000
+O1CA O 0.2023(2) 0.3103(3) 0.5899(3)
+O1H O 0.3103(2) 0.4101(3) 0.2023(3)
+C1H C 0.27370 0.5000(6) 0.2269(6)
+H1H H 0.21100 0.50000 0.26890
+O1GA O 0.3103(2) 0.5899(3) 0.2023(3)
+Mn1M Mn 0.25000 0.25000 0.75000
+Mn1N Mn 0.75000 0.25000 0.25000
+Mn1O Mn 0.25000 0.75000 0.25000
+O1JA O 0.0899(2) 0.2977(3) 0.1897(3)
+O1NA O 0.2977(2) 0.1897(3) 0.0899(3)
+O1RA O 0.1897(2) 0.0899(3) 0.2977(3)
+#END

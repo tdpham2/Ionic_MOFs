@@ -1,0 +1,171 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QUGWOG
+_audit_creation_date 2015-06-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QUGWOG
+_database_code_depnum_ccdc_archive 'CCDC 1405490'
+_chemical_formula_sum 'C40 H42 I2 N4 O12 Zn3'
+_chemical_formula_moiety
+;
+(C24 H12 I2 O12 Zn3 2-)n,2(C8 H15 N2 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 44
+_journal_year 2015
+_journal_page_first 17980
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Zong-Hui Zhang"
+"Bing Liu"
+"Ling Xu"
+"Huan Jiao"
+_chemical_name_systematic
+;
+catena-[bis(1-butyl-3-methylimidazolium) 
+tris(\m-terephthalato)-diiodo-tri-zinc]
+;
+_cell_volume   2253.308
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.799
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0715
+_refine_ls_wR_factor_gt 0.0715
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.2721(12)
+_cell_length_b 9.6225(7)
+_cell_length_c 18.4952(12)
+_cell_angle_alpha 90
+_cell_angle_beta 107.452(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+I 1.40
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.74344(4) 0.95470(6) -0.05788(3)
+Zn2 Zn 1.00000 1.00000 0.00000
+I1 I 0.56321(3) 0.83778(6) -0.07882(3)
+C1 C 0.83245(19) 1.1759(3) -0.22316(12)
+C2 C 0.92752(19) 1.1882(4) -0.23972(15)
+H1 H 0.98930 1.15320 -0.20630
+C3 C 0.9302(2) 1.2531(5) -0.30626(18)
+H2 H 0.99390 1.26140 -0.31730
+C4 C 0.8379(3) 1.3055(4) -0.35625(16)
+C5 C 0.7428(3) 1.2932(4) -0.33969(15)
+H3 H 0.68100 1.32830 -0.37310
+C6 C 0.74010(19) 1.2283(4) -0.27315(14)
+H4 H 0.67650 1.22000 -0.26210
+C7 C 0.8321(4) 1.1068(6) -0.1515(3)
+C8 C 0.8422(4) 1.3782(5) -0.4273(2)
+O1 O 0.9185(3) 1.0858(4) -0.1033(2)
+O2 O 0.7431(3) 1.0715(4) -0.14403(19)
+O3 O 0.9277(3) 1.3817(4) -0.44010(19)
+C9 C 0.9394(4) 0.6158(5) -0.0289(3)
+C10 C 0.9936(5) 0.6121(6) 0.0463(3)
+H5 H 0.99160 0.68730 0.07750
+C11 C 0.9494(5) 0.5036(5) -0.0751(3)
+H6 H 0.91600 0.50860 -0.12700
+C12 C 0.8678(4) 0.7356(6) -0.0619(3)
+O4 O 0.8042(4) 0.7254(5) -0.1252(2)
+O5 O 0.8744(3) 0.8432(4) -0.01947(19)
+O6 O 0.7561(3) 1.4239(4) -0.46986(19)
+N1 N 0.6280(8) 0.3856(9) -0.0803(5)
+N2 N 0.4943(9) 0.2842(9) -0.1657(5)
+C13 C 0.5557(9) 0.2779(11) -0.0982(6)
+H7 H 0.55230 0.20800 -0.06420
+C14 C 0.5246(14) 0.3942(17) -0.1938(8)
+H8 H 0.49480 0.42450 -0.24340
+C15 C 0.6036(14) 0.4586(17) -0.1432(8)
+H9 H 0.63580 0.54070 -0.15100
+C16 C 0.7036(14) 0.4256(18) -0.0079(9)
+H10 H 0.70290 0.35770 0.02990
+H11 H 0.68450 0.51470 0.00730
+H12 H 0.77320 0.43070 -0.01340
+C17 C 0.1921(9) 0.343(2) -0.1479(9)
+H13 H 0.17180 0.43880 -0.15060
+H14 H 0.21140 0.31210 -0.09620
+H15 H 0.13380 0.28800 -0.17770
+C18 C 0.2830(11) 0.326(2) -0.1776(9)
+H16 H 0.33990 0.38630 -0.14970
+H17 H 0.26250 0.35400 -0.23040
+C19 C 0.3201(16) 0.1860(16) -0.1716(9)
+H18 H 0.33950 0.15430 -0.11950
+H19 H 0.26660 0.12430 -0.20260
+C20 C 0.4137(11) 0.1912(13) -0.1995(8)
+H20 H 0.44420 0.09880 -0.19440
+H21 H 0.38910 0.21220 -0.25330
+C9B C 1.0606(4) 0.3842(5) 0.0289(3)
+C10B C 1.0064(5) 0.3879(6) -0.0463(3)
+H5B H 1.00840 0.31270 -0.07750
+C11B C 1.0506(5) 0.4964(5) 0.0751(3)
+H6B H 1.08400 0.49140 0.12700
+C12B C 1.1322(4) 0.2644(6) 0.0619(3)
+O4B O 1.1958(4) 0.2746(5) 0.1252(2)
+O5B O 1.1256(3) 0.1568(4) 0.01947(19)
+Zn1B Zn 1.25656(4) 0.04530(6) 0.05788(3)
+I1B I 1.43679(3) 0.16222(6) 0.07882(3)
+C1B C 1.16755(19) -0.1759(3) 0.22316(12)
+C2B C 1.07248(19) -0.1882(4) 0.23972(15)
+H1B H 1.01070 -0.15320 0.20630
+C3B C 1.0698(2) -0.2531(5) 0.30626(18)
+H2B H 1.00610 -0.26140 0.31730
+C4B C 1.1621(3) -0.3055(4) 0.35625(16)
+C5B C 1.2572(3) -0.2932(4) 0.33969(15)
+H3B H 1.31900 -0.32830 0.37310
+C6B C 1.25990(19) -0.2283(4) 0.27315(14)
+H4B H 1.32350 -0.22000 0.26210
+C7B C 1.1679(4) -0.1068(6) 0.1515(3)
+C8B C 1.1578(4) -0.3782(5) 0.4273(2)
+O1B O 1.0815(3) -0.0858(4) 0.1033(2)
+O2B O 1.2569(3) -0.0715(4) 0.14403(19)
+O3B O 1.0723(3) -0.3817(4) 0.44010(19)
+O6B O 1.2439(3) -0.4239(4) 0.46986(19)
+Zn1A Zn 1.25656(4) -0.54530(6) 0.55788(3)
+Zn1C Zn 0.74344(4) 1.54530(6) -0.55788(3)
+Zn2* Zn 1.00000 0.00000 0.00000
+Zn2A Zn 1.00000 -0.50000 0.50000
+Zn2A* Zn 1.00000 1.50000 -0.50000
+O1B* O 1.0815(3) 0.9142(4) 0.1033(2)
+O3A O 1.0723(3) 0.8817(4) -0.05990(19)
+O3C O 0.9277(3) 1.1183(4) 0.05990(19)
+O5B* O 1.1256(3) 1.1568(4) 0.01947(19)
+O6A O 1.2439(3) -0.0761(4) -0.03014(19)
+O6C O 0.7561(3) 1.0761(4) 0.03014(19)
+#END

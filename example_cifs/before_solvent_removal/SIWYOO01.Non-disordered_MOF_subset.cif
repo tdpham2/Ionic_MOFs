@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SIWYOO01
+_audit_creation_date 2016-04-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SIWYOO01
+_database_code_depnum_ccdc_archive 'CCDC 1469426'
+_chemical_formula_sum 'C3 H8 N2 O6 Zn1'
+_chemical_formula_moiety
+;
+(C3 H3 O6 Zn1 1-)n,n(H5 N2 1+)
+;
+_journal_coden_Cambridge 1475
+_journal_volume 7
+_journal_year 2016
+_journal_page_first 5108
+_journal_name_full 'Chemical Science '
+loop_
+_publ_author_name
+"G.Kieslich"
+"S.Kumagai"
+"A.C.Forse"
+"Shijing Sun"
+"S.Henke"
+"M.Yamashita"
+"C.P.Grey"
+"A.K.Cheetham"
+_chemical_name_systematic
+;
+catena-(Hydrazinium tris(\m~2~-formato)-zinc)
+;
+_cell_volume    768.927
+_exptl_crystal_density_diffrn 2.017
+_exptl_special_details
+;
+Pna21 polymorph
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 123
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0233
+_refine_ls_wR_factor_gt 0.0233
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+_cell_length_a 8.6706(2)
+_cell_length_b 7.72008(19)
+_cell_length_c 11.4872(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.47041(2) -0.00015(2) 0.31512(4)
+O1 O 0.25912(10) 0.08195(12) 0.38689(9)
+O2 O 0.18505(10) -0.42183(12) 0.24877(10)
+O3 O 0.3750(1) -0.22944(12) 0.24788(9)
+O4 O 0.06780(11) 0.27376(12) 0.38594(9)
+O5 O 0.44405(12) 0.14250(13) 0.16011(8)
+O6 O 0.48726(13) 0.13739(14) -0.03048(9)
+C1 C 0.46809(16) 0.06340(15) 0.06560(12)
+H1 H 0.47180 -0.05700 0.06740
+C2 C 0.23963(14) -0.27629(16) 0.27379(12)
+H2 H 0.17710 -0.19840 0.31360
+C3 C 0.18843(14) 0.20970(16) 0.34389(12)
+H3 H 0.22840 0.25960 0.27670
+N1 N 0.43644(18) -0.50593(14) 0.08368(14)
+H4 H 0.36580 -0.49300 0.02810
+H5 H 0.42500 -0.42290 0.13670
+H6 H 0.42470 -0.60890 0.11730
+N2 N 0.58904(18) -0.49449(18) 0.03296(19)
+H7 H 0.587(3) -0.406(4) -0.014(3)
+H8 H 0.592(3) -0.595(3) -0.017(2)
+Zn1A Zn 0.52959(2) 0.00015(2) -0.18488(4)
+Zn1C Zn -0.02959(2) -0.49985(2) 0.31512(4)
+Zn1C* Zn -0.02959(2) 0.50015(2) 0.31512(4)
+O2C O 0.68505(10) -0.07817(12) 0.24877(10)
+O4C O 0.56780(11) 0.22624(12) 0.38594(9)
+O6A O 0.51274(13) -0.13739(14) 0.46952(9)
+#END

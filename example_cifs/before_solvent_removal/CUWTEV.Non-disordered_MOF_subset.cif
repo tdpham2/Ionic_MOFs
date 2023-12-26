@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUWTEV
+_audit_creation_date 2015-11-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUWTEV
+_database_code_depnum_ccdc_archive 'CCDC 1422201'
+_chemical_formula_sum 'C10 H26 Fe2 N2 O18'
+_chemical_formula_moiety
+;
+(C6 Fe2 O12 2-)n,C4 H14 N2 2+,6(H2 O1)
+;
+_journal_coden_Cambridge 1475
+_journal_volume 7
+_journal_year 2016
+_journal_page_first 1349
+_journal_name_full 'Chemical Science '
+loop_
+_publ_author_name
+"M.Sadakiyo"
+"T.Yamada"
+"K.Kato"
+"M.Takata"
+"H.Kitagawa"
+_chemical_name_systematic
+;
+catena-[butane-1,4-diaminium tris(\m-oxalato)-di-iron hexahydrate]
+;
+_cell_volume   1134.535
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.68
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0196
+_refine_ls_wR_factor_gt 0.0196
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.2586(9)
+_cell_length_b 15.8638(17)
+_cell_length_c 9.4209(10)
+_cell_angle_alpha 90
+_cell_angle_beta 113.190(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.527480(18) 0.669966(9) 0.958035(17)
+O1 O 0.24755(10) 0.67737(5) 0.83600(9)
+O2 O 0.0454(1) 0.73325(5) 0.62135(9)
+O3 O 0.50434(9) 0.74902(5) 0.77290(9)
+O4 O 0.30398(10) 0.81147(5) 0.56562(9)
+O5 O 0.51242(11) 0.58416(5) 1.12307(9)
+O6 O 0.4651(1) 0.44710(5) 1.14821(9)
+C1 C 0.20015(13) 0.72080(6) 0.71591(12)
+C2 C 0.49370(13) 0.50878(7) 1.07898(12)
+C3 C 0.34949(13) 0.76423(6) 0.68109(12)
+O7 O 0.74618(12) 0.67726(5) 0.66391(11)
+H1 H 0.702(2) 0.7084(12) 0.7026(19)
+H2 H 0.830(3) 0.6976(12) 0.659(2)
+O8 O 0.06139(12) 0.59842(6) 0.99772(10)
+H3 H 0.107(2) 0.6247(11) 0.955(2)
+H4 H -0.010(2) 0.6293(12) 1.012(2)
+O9 O 0.46081(15) 0.62104(9) 1.39727(14)
+H5 H 0.495(2) 0.6170(12) 1.328(2)
+H6 H 0.548(3) 0.6345(14) 1.471(2)
+N1 N 0.69365(13) 0.99763(7) 0.77191(12)
+C4 C 0.57830(15) 1.00985(7) 0.97885(13)
+C5 C 0.54523(15) 0.97819(8) 0.81860(13)
+H7 H 0.599(2) 1.0695(11) 0.9819(18)
+H8 H 0.445(2) 1.0038(9) 0.7443(17)
+H9 H 0.681(2) 0.9839(10) 1.0505(17)
+H10 H 0.533(2) 0.9220(11) 0.8152(19)
+H11 H 0.665(2) 0.9794(10) 0.675(2)
+H12 H 0.712(2) 1.0520(11) 0.7769(18)
+H13 H 0.783(2) 0.9732(10) 0.8318(19)
+O5B O 0.48758(11) 0.41584(5) 0.87693(9)
+C2B C 0.50630(13) 0.49122(7) 0.92102(12)
+O6B O 0.5349(1) 0.55290(5) 0.85179(9)
+Fe1B Fe 0.472520(18) 0.330034(9) 1.041965(17)
+O1B O 0.75245(10) 0.32263(5) 1.16400(9)
+O2B O 0.9546(1) 0.26675(5) 1.37865(9)
+O3B O 0.49566(9) 0.25098(5) 1.22710(9)
+O4B O 0.69602(10) 0.18853(5) 1.43438(9)
+C1B C 0.79985(13) 0.27920(6) 1.28409(12)
+C3B C 0.65051(13) 0.23577(6) 1.31891(12)
+Fe1A Fe 0.972520(18) 0.169966(9) 1.541965(17)
+Fe1C Fe 0.027480(18) 0.830034(9) 0.458035(17)
+O2A O 0.4546(1) 0.23325(5) 0.87865(9)
+O2C O 0.5454(1) 0.76675(5) 1.12135(9)
+O4A O 0.19602(10) 0.31147(5) 0.93438(9)
+O4C O 0.80398(10) 0.68853(5) 1.06562(9)
+N1B N 0.30635(13) 1.00237(7) 1.22809(12)
+C4B C 0.42170(15) 0.99015(7) 1.02115(13)
+C5B C 0.45477(15) 1.02181(8) 1.18140(13)
+H7B H 0.401(2) 0.9305(11) 1.0181(18)
+H8B H 0.555(2) 0.9962(9) 1.2557(17)
+H9B H 0.319(2) 1.0161(10) 0.9495(17)
+H10B H 0.467(2) 1.0780(11) 1.1848(19)
+H11B H 0.335(2) 1.0206(10) 1.325(2)
+H12B H 0.288(2) 0.9480(11) 1.2231(18)
+H13B H 0.217(2) 1.0268(10) 1.1682(19)
+#END

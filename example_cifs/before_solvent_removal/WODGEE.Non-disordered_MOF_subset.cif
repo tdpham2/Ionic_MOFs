@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WODGEE
+_audit_creation_date 2019-02-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WODGEE
+_database_code_depnum_ccdc_archive 'CCDC 1884110'
+_chemical_formula_sum 'C10 H11 In1 N2 O8'
+_chemical_formula_moiety
+;
+(C4 In1 O8 1-)n,n(C6 H11 N2 1+)
+;
+_journal_coden_Cambridge 179
+_journal_volume 58
+_journal_year 2019
+_journal_page_first 2889
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Fei-Yan Yi"
+"Huajun Yang"
+"Xiang Zhao"
+"Pingyun Feng"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-(1-ethyl-3-methylimidazolium bis(\m-oxalato)-indium unknown solvate)
+;
+_chemical_name_common
+;
+CPM-520-GIS
+;
+_cell_volume   5843.368
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+We have assumed that the cation is the tempating 1-ethyl-3-methylimidazolium
+
+;
+_exptl_crystal_description 'polyhedron'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The SQUEEZE/PLATON program was used to model the cation and some guest 
+molecules.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.018
+_refine_ls_wR_factor_gt 0.018
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41/a m d'
+_symmetry_Int_Tables_number 141
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/4-y,3/4+x,1/4+z
+4 1/4+y,1/4-x,3/4+z
+5 1/2-x,y,1/2-z
+6 x,-y,-z
+7 1/4+y,3/4+x,1/4-z
+8 1/4-y,1/4-x,3/4-z
+9 1/2+x,1/2+y,1/2+z
+10 -x,1/2-y,z
+11 3/4-y,1/4+x,3/4+z
+12 3/4+y,3/4-x,1/4+z
+13 -x,1/2+y,-z
+14 1/2+x,1/2-y,1/2-z
+15 3/4+y,1/4+x,3/4-z
+16 3/4-y,3/4-x,1/4-z
+17 -x,-y,-z
+18 -1/2+x,y,-1/2-z
+19 -1/4+y,-3/4-x,-1/4-z
+20 -1/4-y,-1/4+x,-3/4-z
+21 -1/2+x,-y,-1/2+z
+22 -x,y,z
+23 -1/4-y,-3/4-x,-1/4+z
+24 -1/4+y,-1/4+x,-3/4+z
+25 -1/2-x,-1/2-y,-1/2-z
+26 x,-1/2+y,-z
+27 -3/4+y,-1/4-x,-3/4-z
+28 -3/4-y,-3/4+x,-1/4-z
+29 x,-1/2-y,z
+30 -1/2-x,-1/2+y,-1/2+z
+31 -3/4-y,-1/4-x,-3/4+z
+32 -3/4+y,-3/4+x,-1/4+z
+_cell_length_a 21.797(11)
+_cell_length_b 21.797(11)
+_cell_length_c 12.299(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+In 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.86464(2) 0.61464(2) 0.12500
+C1 C 1.00000 0.59510(17) 0.1766(3)
+C2 C 1.00000 0.63249(19) 0.0687(3)
+C3 C 0.85466(12) 0.48122(12) 0.0529(2)
+O1 O 0.94888(8) 0.58099(9) 0.21457(17)
+O2 O 0.94909(8) 0.64515(10) 0.02891(16)
+O3 O 0.85536(9) 0.51039(9) 0.14020(16)
+O4 O 0.85406(9) 0.42397(8) 0.04365(16)
+O1U O 1.05112(8) 0.58099(9) 0.21457(17)
+O2U O 1.05091(8) 0.64515(10) 0.02891(16)
+C3E C 0.85466(12) 0.51878(12) -0.0529(2)
+O3E O 0.85536(9) 0.48961(9) -0.14020(16)
+O4E O 0.85406(9) 0.57603(8) -0.04365(16)
+In1C In 0.86464(2) 0.38536(2) -0.12500
+In1S In 1.13536(2) 0.61464(2) 0.12500
+O1F O 0.83099(8) 0.69888(9) 0.03543(17)
+O2F O 0.89515(8) 0.69909(10) 0.22109(16)
+O3F O 0.76039(9) 0.60536(9) 0.10980(16)
+O4B O 0.82603(9) 0.60406(8) 0.29365(16)
+#END

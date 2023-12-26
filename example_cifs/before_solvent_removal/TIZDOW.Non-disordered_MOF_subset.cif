@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TIZDOW
+_audit_creation_date 2008-07-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TIZDOW
+_database_code_depnum_ccdc_archive 'CCDC 662364'
+_chemical_formula_sum 'C18 H42 Br6 Cd3 N10 O2'
+_chemical_formula_moiety
+;
+(C9 H19 Br1 Cd1 N5 1+)2n,n(Br4 Cd1 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 29
+_journal_volume 634
+_journal_year 2008
+_journal_page_first 708
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"Yi Lu"
+"Xi-Hong Lu"
+"Yong-Qing Huang"
+"T.Okamura"
+"Ling-Yan Kong"
+"Wei-Yin Sun"
+"N.Ueyama"
+_chemical_name_systematic
+;
+catena-(bis((\m~2~-N-(2-Aminoethyl)-N-(2-(1-imidazolyl)ethyl)ethane-1,2-diamin
+e)-bromo-cadmium(ii)) tetrabromo-cadmium(ii) dihydrate)
+;
+_cell_volume   3505.889
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.363
+_exptl_special_details
+;
+luminescent
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0633
+_refine_ls_wR_factor_gt 0.0633
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 -x,y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 x,-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 23.181(6)
+_cell_length_b 8.719(2)
+_cell_length_c 17.346(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cd 1.69
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.32069(4) -0.18113(11) 0.08022(5)
+Cd2 Cd 0.50000 -0.48891(15) -0.75000
+Br1 Br 0.52146(10) -0.3116(2) -0.86300(11)
+Br2 Br 0.21731(8) -0.1408(3) 0.03665(10)
+Br3 Br 0.41591(9) -0.6573(2) -0.78680(11)
+N1 N 0.1311(6) -0.5428(13) 0.5989(7)
+H1 H 0.15570 -0.62240 0.59510
+H2 H 0.11530 -0.54410 0.64630
+N2 N 0.1327(4) -0.3643(11) 0.4532(5)
+N3 N 0.1138(5) -0.1270(12) 0.5673(5)
+H3 H 0.08240 -0.14910 0.59560
+H4 H 0.12900 -0.03920 0.58550
+N4 N 0.2466(4) -0.2286(11) 0.3133(5)
+N5 N 0.2957(5) -0.2220(14) 0.2034(6)
+C1 C 0.1099(6) -0.5210(15) 0.4612(8)
+H5 H 0.14090 -0.59310 0.45130
+H6 H 0.08060 -0.53690 0.42200
+C2 C 0.0971(6) -0.1057(16) 0.4878(8)
+H7 H 0.12790 -0.05250 0.46090
+H8 H 0.06310 -0.04100 0.48600
+C3 C 0.0842(7) -0.5564(18) 0.5382(8)
+H9 H 0.06850 -0.65950 0.53820
+H10 H 0.05320 -0.48510 0.54940
+C4 C 0.0846(6) -0.2514(17) 0.4471(7)
+H11 H 0.07740 -0.22970 0.39320
+H12 H 0.04990 -0.29640 0.46860
+C5 C 0.1701(6) -0.3614(15) 0.3834(6)
+H13 H 0.14680 -0.38530 0.33850
+H14 H 0.19930 -0.44030 0.38810
+C6 C 0.1995(6) -0.2075(14) 0.3709(6)
+H15 H 0.17180 -0.13290 0.35210
+H16 H 0.21530 -0.17010 0.41910
+C7 C 0.2432(7) -0.1898(16) 0.2386(6)
+H17 H 0.21110 -0.14820 0.21440
+C8 C 0.3002(6) -0.2847(15) 0.3304(7)
+H18 H 0.31300 -0.31920 0.37810
+C9 C 0.3309(6) -0.2801(16) 0.2639(8)
+H19 H 0.36920 -0.31030 0.25870
+H20 H 0.43660 -0.05680 -0.72840
+H21 H 0.46790 -0.07030 -0.79630
+O1 O 0.4411(15) -0.016(5) -0.7701(18)
+Cd1A Cd 0.17931(4) -0.31887(11) 0.58022(5)
+Br1B Br 0.47854(10) -0.3116(2) -0.63700(11)
+Br3B Br 0.58409(9) -0.6573(2) -0.71320(11)
+N1A N 0.3689(6) 0.0428(13) 0.0989(7)
+H1A H 0.34430 0.12240 0.09510
+H2A H 0.38470 0.04410 0.14630
+N2A N 0.3673(4) -0.1357(11) -0.0468(5)
+N3A N 0.3862(5) -0.3730(12) 0.0673(5)
+H3A H 0.41760 -0.35090 0.09560
+H4A H 0.37100 -0.46080 0.08550
+#END

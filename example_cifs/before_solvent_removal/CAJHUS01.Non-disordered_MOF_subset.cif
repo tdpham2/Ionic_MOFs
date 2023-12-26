@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAJHUS01
+_audit_creation_date 2012-01-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAJHUS01
+_database_code_depnum_ccdc_archive 'CCDC 840004'
+_chemical_formula_sum 'C3 H7 Fe1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Fe1 O6 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 133
+_journal_year 2011
+_journal_page_first 14948
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Guan-Cheng Xu"
+"Wen Zhang"
+"Xiao-Ming Ma"
+"Yi-Hong Chen"
+"Li Zhang"
+"Hong-Ling Cai"
+"Zhe-Ming Wang"
+"Ren-Gen Xiong"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[Ammonium tris(\m~2~-formato)-iron]
+;
+_cell_volume   1153.115
+_exptl_crystal_colour 'pale green'
+_exptl_crystal_density_diffrn 1.805
+_exptl_special_details
+;
+hexagonal polymorph
+
+;
+_exptl_crystal_description 'hexagonal block'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0287
+_refine_ls_wR_factor_gt 0.0287
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+_cell_length_a 12.6167(3)
+_cell_length_b 12.6167(3)
+_cell_length_c 8.3647(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.33559(3) 0.33106(3) 0.58603(12)
+O1 O 0.42644(15) 0.26393(15) 0.44052(19)
+O2 O 0.42840(15) 0.15631(15) 0.23046(19)
+O3 O 0.39944(15) 0.48893(15) 0.43905(18)
+O4 O 0.50288(14) 0.60179(15) 0.22919(17)
+O5 O 0.17264(14) 0.23350(15) 0.44618(19)
+O6 O 0.06986(15) 0.24469(15) 0.23627(18)
+C1 C 0.3759(3) 0.1881(2) 0.3294(3)
+H1 H 0.28960 0.15160 0.31990
+C2 C 0.4711(2) 0.5142(2) 0.3228(3)
+H2 H 0.50400 0.46200 0.30460
+C3 C 0.1385(2) 0.2905(2) 0.3561(3)
+H3 H 0.16640 0.37390 0.38000
+N1 N 0.66670 0.33330 0.5412(5)
+H4 H 0.5906(16) 0.310(3) 0.506(2)
+H5 H 0.66670 0.33330 0.653(2)
+N2 N 0.33330 0.66670 0.5391(5)
+H6 H 0.356(3) 0.614(2) 0.505(2)
+H7 H 0.33330 0.66670 0.654(2)
+N3 N 0.00000 0.00000 0.1375(6)
+H8 H 0.024(2) 0.0753(15) 0.171(2)
+H9 H 0.00000 0.00000 0.023(2)
+Fe1C Fe 0.66441(3) 0.66894(3) 0.08603(12)
+Fe1D Fe 0.33106(3) -0.00453(3) 0.08603(12)
+Fe1E Fe 0.00453(3) 0.33559(3) 0.08603(12)
+O2E O 0.27209(15) 0.42840(15) 0.73046(19)
+O4C O 0.49712(14) 0.39821(15) 0.72919(17)
+O6D O 0.24469(15) 0.17483(15) 0.73627(18)
+H4A H 0.6900(16) 0.2806(30) 0.506(2)
+H4B H 0.7194(16) 0.4094(30) 0.506(2)
+H6A H 0.386(3) 0.742(2) 0.505(2)
+H6B H 0.258(3) 0.644(2) 0.505(2)
+H8A H -0.0753(20) -0.0513(15) 0.171(2)
+H8B H 0.0513(20) -0.0240(15) 0.171(2)
+#END

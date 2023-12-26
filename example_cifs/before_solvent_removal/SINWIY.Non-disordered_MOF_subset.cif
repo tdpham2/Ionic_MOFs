@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SINWIY
+_audit_creation_date 2018-08-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SINWIY
+_database_code_depnum_ccdc_archive 'CCDC 1546392'
+_chemical_formula_sum 'C27 H44 In10 N4 O8 S16'
+_chemical_formula_moiety
+;
+2(C9 H18 N2 2+),n(C9 H8 In10 O8 S16 4-)
+;
+_journal_coden_Cambridge 4
+_journal_volume 140
+_journal_year 2018
+_journal_page_first 11189
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Huajun Yang"
+"Jiaxu Zhang"
+"Min Luo"
+"Wei Wang"
+"Haiping Lin"
+"Youyong Li"
+"Dongsheng Li"
+"Pingyun Feng"
+"Tao Wu"
+_chemical_name_systematic
+;
+catena-[bis(1,8-diazoniabicyclo[5.4.0]undec-7-ene) 
+hexadecakis(\m-sulfido)-(\m-5-carboxybenzene-1,3-dicarboxylato)-diaqua-deca-in
+dium unknown solvate]
+;
+_chemical_name_common
+;
+IOS-3
+;
+_cell_volume  12238.832
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.03
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The SQUEEZE/PLATON program has been used to model some disorder. The unit 
+cell was found to contain a void of 8418 A$3! holding 4340 electrons.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1341
+_refine_ls_wR_factor_gt 0.1341
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 25.029(2)
+_cell_length_b 30.399(3)
+_cell_length_c 17.1175(17)
+_cell_angle_alpha 90
+_cell_angle_beta 109.996(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+In 1.42
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.84558(7) 0.08526(5) 0.95980(9)
+In2 In 0.76791(8) -0.01209(5) 0.79418(11)
+In3 In 0.70536(8) 0.11321(5) 0.7569(1)
+In4 In 0.75728(8) -0.01087(5) 1.02922(11)
+In5 In 0.69832(8) 0.11463(5) 0.99316(12)
+In6 In 0.62041(8) 0.01704(5) 0.82641(14)
+In7 In 0.83004(8) 0.08399(6) 1.17029(10)
+In8 In 0.57190(9) 0.13436(6) 0.80010(15)
+In9 In 0.84612(9) 0.08246(8) 0.73951(11)
+In10 In 0.69106(10) -0.09700(6) 0.86519(18)
+S1 S 0.8165(2) 0.00625(17) 0.9433(3)
+S2 S 0.7571(2) 0.13096(16) 0.9074(3)
+S3 S 0.8080(3) 0.0064(2) 1.1742(4)
+S4 S 0.6191(3) 0.1571(2) 0.7084(5)
+S5 S 0.9052(3) 0.1026(3) 0.8793(3)
+S6 S 0.7495(3) 0.1338(2) 1.1371(4)
+S7 S 0.8983(2) 0.0998(2) 1.1028(3)
+S8 S 0.6703(2) 0.03540(18) 0.9777(4)
+S9 S 0.6793(3) 0.03314(19) 0.7412(4)
+S10 S 0.7345(4) -0.0882(2) 1.0132(6)
+S11 S 0.7474(3) -0.0889(2) 0.7747(5)
+S12 S 0.5339(3) 0.0590(2) 0.7751(6)
+S13 S 0.6153(4) 0.1597(3) 0.9419(5)
+S14 S 0.7657(3) 0.1309(3) 0.6763(4)
+S15 S 0.8335(4) 0.0041(3) 0.7228(5)
+S16 S 0.5985(4) -0.0608(2) 0.8079(7)
+O1 O 0.4866(9) 0.1615(7) 0.7486(14)
+O2 O 0.8992(11) 0.0976(10) 0.6620(14)
+O3 O 0.5095(8) 0.2307(9) 0.780(2)
+O4 O 0.2337(8) 0.1551(6) 0.5547(12)
+O5 O 0.8862(13) 0.1072(12) 1.3043(14)
+O6 O 0.3488(8) 0.3390(7) 0.669(2)
+O7 O 0.304(1) 0.1096(7) 0.5923(15)
+O8 O 0.2641(7) 0.3168(6) 0.5981(14)
+C1 C 0.2814(12) 0.1468(9) 0.5887(19)
+C2 C 0.3929(11) 0.2548(7) 0.700(2)
+C3 C 0.3774(9) 0.1777(6) 0.6709(15)
+C4 C 0.2997(9) 0.2281(8) 0.6114(14)
+C5 C 0.3414(10) 0.2617(7) 0.652(2)
+C6 C 0.3219(7) 0.1872(6) 0.6266(15)
+C7 C 0.4765(12) 0.1990(12) 0.749(3)
+C8 C 0.4131(11) 0.2101(8) 0.7037(18)
+C9 C 0.3179(11) 0.3072(7) 0.6336(19)
+In10A In 0.30894(10) 0.40300(6) 0.63481(18)
+O6A O 0.6512(8) -0.1610(7) 0.831(2)
+#END

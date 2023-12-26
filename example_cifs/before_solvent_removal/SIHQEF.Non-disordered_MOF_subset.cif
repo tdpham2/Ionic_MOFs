@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SIHQEF
+_audit_creation_date 2001-11-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SIHQEF
+_chemical_formula_sum 'C14 H22 N2 O12 Sn2'
+_chemical_formula_moiety
+;
+(C8 H22 N2 2+)n,n(C6 O12 Sn2 2-)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 10
+_journal_year 1998
+_journal_page_first 3746
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"S.Ayyappan"
+"A.K.Cheetham"
+"S.Natarajan"
+"C.N.R.Rao"
+_chemical_name_systematic
+;
+catena-(N,N,N',N'-Tetramethylbutane-1,4-diammonium 
+tris(\m~2~-oxalato)-di-tin(ii))
+;
+_cell_volume   1048.265
+_exptl_crystal_density_diffrn 2.06
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+A carbon atom of the cation is disordered over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0551
+_refine_ls_wR_factor_gt 0.0551
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.427(2)
+_cell_length_b 14.257(1)
+_cell_length_c 8.868(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.3(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+Sn 1.50
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn1 Sn 0.19440(9) 0.40047(4) 0.09075(6)
+O1 O 0.3191(7) 0.2804(5) 0.0223(6)
+O2 O 0.485(2) 0.4486(7) 0.1739(8)
+O3 O 0.3270(8) 0.1696(4) -0.1510(6)
+O4 O 0.0386(8) 0.3429(5) -0.1338(7)
+O5 O 0.0428(8) 0.2327(7) -0.3119(7)
+O6 O 0.685(2) 0.5307(9) 0.1082(9)
+C1 C 0.2623(9) 0.2376(5) -0.1026(7)
+C2 C 0.100(1) 0.2737(7) -0.1922(8)
+C3 C 0.549(3) 0.496(1) 0.082(1)
+C4 C 0.075(1) 0.9755(8) -0.015(1)
+C5 C 0.215(3) 0.975(2) 0.085(2)
+C6? C 0.118(3) 0.888(1) 0.052(2)
+N1 N 0.314(2) 0.876(1) 0.058(1)
+C7 C 0.366(2) 0.892(1) -0.097(1)
+C8 C 0.294(2) 0.780(2) 0.087(2)
+C3B C 0.451(3) 0.504(1) -0.082(1)
+O2B O 0.515(2) 0.5514(7) -0.1739(8)
+O6B O 0.315(2) 0.4693(9) -0.1082(9)
+C4B C -0.075(1) 1.0245(8) 0.015(1)
+C5B C -0.215(3) 1.025(2) -0.085(2)
+N1B N -0.314(2) 1.124(1) -0.058(1)
+C7B C -0.366(2) 1.108(1) 0.097(1)
+C8B C -0.294(2) 1.220(2) -0.087(2)
+O1C O 0.3191(7) 0.2196(5) 0.5223(6)
+O3C O 0.3270(8) 0.3304(4) 0.3490(6)
+O4C O 0.0386(8) 0.1571(5) 0.3662(7)
+O5C O 0.0428(8) 0.2673(7) 0.1881(7)
+C1C C 0.2623(9) 0.2624(5) 0.3974(7)
+C2C C 0.100(1) 0.2263(7) 0.3078(8)
+Sn1C Sn 0.19440(9) 0.09953(4) 0.59075(6)
+Sn1C* Sn 0.19440(9) 0.09953(4) -0.40925(6)
+Sn1B Sn 0.80560(9) 0.59953(4) -0.09075(6)
+O2C O 0.485(2) 0.0514(7) 0.6739(8)
+O3* O 0.3270(8) 0.1696(4) 0.8490(6)
+O5* O 0.0428(8) 0.2327(7) 0.6881(7)
+O6A O 0.315(2) 0.0307(9) 0.3918(9)
+#END

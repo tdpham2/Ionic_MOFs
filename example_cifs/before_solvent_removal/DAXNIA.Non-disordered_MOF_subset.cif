@@ -1,0 +1,171 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAXNIA
+_audit_creation_date 2006-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAXNIA
+_database_code_depnum_ccdc_archive 'CCDC 266350'
+_chemical_formula_sum 'C5 H11 N1 O6 Zn1'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(C3 H3 O6 Zn1 1-)
+;
+_journal_coden_Cambridge 208
+_journal_volume 178
+_journal_year 2005
+_journal_page_first 3342
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"H.F.Clausen"
+"R.D.Poulsen"
+"A.D.Bond"
+"M.-A.S.Chevallier"
+"B.B.Iversen"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium tris(\m~2~-formato)-zinc(ii))
+;
+_cell_volume   1282.573
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.915
+_exptl_special_details
+;
+air-sensitive
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 180
+_refine_special_details
+;
+The dimethylammonium ion is extensively disordered related by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0135
+_refine_ls_wR_factor_gt 0.0135
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,1/2-z
+5 2/3+x,1/3+y,1/3+z
+6 2/3-y,1/3+x-y,1/3+z
+7 2/3-x+y,1/3-x,1/3+z
+8 2/3+y,1/3+x,5/6-z
+9 1/3+x,2/3+y,2/3+z
+10 1/3+y,2/3+x,1/6-z
+11 x-y,-y,1/2-z
+12 -x,-x+y,1/2-z
+13 1/3-y,2/3+x-y,2/3+z
+14 1/3-x+y,2/3-x,2/3+z
+15 1/3+x-y,2/3-y,1/6-z
+16 1/3-x,2/3-x+y,1/6-z
+17 2/3+x-y,1/3-y,5/6-z
+18 2/3-x,1/3-x+y,5/6-z
+19 -x,-y,-z
+20 y,-x+y,-z
+21 x-y,x,-z
+22 -y,-x,-1/2+z
+23 -2/3-x,-1/3-y,-1/3-z
+24 -2/3+y,-1/3-x+y,-1/3-z
+25 -2/3+x-y,-1/3+x,-1/3-z
+26 -2/3-y,-1/3-x,-5/6+z
+27 -1/3-x,-2/3-y,-2/3-z
+28 -1/3-y,-2/3-x,-1/6+z
+29 -x+y,y,-1/2+z
+30 x,x-y,-1/2+z
+31 -1/3+y,-2/3-x+y,-2/3-z
+32 -1/3+x-y,-2/3+x,-2/3-z
+33 -1/3-x+y,-2/3+y,-1/6+z
+34 -1/3+x,-2/3+x-y,-1/6+z
+35 -2/3-x+y,-1/3+y,-5/6+z
+36 -2/3+x,-1/3+x-y,-5/6+z
+_cell_length_a 8.1818(1)
+_cell_length_b 8.1818(1)
+_cell_length_c 22.1235(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.33330 0.66670 0.97189(11)
+H1 H 0.20500 0.56480 0.97180
+H2 H 0.33530 0.78440 0.97630
+H3 H 0.40020 0.65080 1.00490
+N1 N 0.4211(5) 0.66670 0.91670
+H4 H 0.53760 0.76880 0.91670
+H5 H 0.43550 0.56460 0.91670
+Zn1 Zn 1.00000 0.00000 1.00000
+O1 O 0.78216(11) -0.01078(11) 0.94627(3)
+C2 C 0.7894(2) 0.1227(2) 0.91670
+H6 H 0.90300 0.23640 0.91670
+C1P C 0.33327 0.66663 0.861443(110)
+H1A H 0.43520 0.64020 0.97180
+H1B H 0.35980 0.79500 0.97180
+H1P H 0.30687 0.76853 0.86153
+H1Q H 0.46167 0.69313 0.86153
+H1G H 0.23147 0.53833 0.86153
+H2A H 0.21560 0.55090 0.97630
+H2B H 0.44910 0.66470 0.97630
+H2Q H 0.33137 0.78243 0.85703
+H2G H 0.45107 0.66863 0.85703
+H2P H 0.21757 0.54893 0.85703
+H3A H 0.34920 0.74940 1.00490
+H3B H 0.25060 0.59980 1.00490
+H3P H 0.41607 0.68253 0.82843
+H3Q H 0.26647 0.58393 0.82843
+H3G H 0.31747 0.73353 0.82843
+N1A N 0.3333(5) 0.75440 0.91670
+N1B N 0.2456(5) 0.57890 0.91670
+H4B H 0.23120 0.46240 0.91670
+H4Q H 0.12907 0.56453 0.91663
+H4A H 0.23120 0.76880 0.91670
+H4G H 0.43547 0.87093 0.91663
+Zn1G Zn 0.66667 0.33333 0.83333
+Zn1G* Zn 0.66667 -0.66667 0.83333
+Zn1G** Zn 1.66667 0.33333 0.83333
+O1G O 0.655887(110) 0.115493(110) 0.887063(30)
+O1A O 1.01078(11) -0.20706(11) 0.94627(3)
+O1Q O 0.884507(110) -0.459607(110) 0.887063(30)
+O1B O 1.20706(11) 0.21784(11) 0.94627(3)
+O1P O 1.459607(110) 0.344113(110) 0.887063(30)
+O1R O 1.21784(11) 0.01078(11) 1.05373(3)
+O1S O 0.98922(11) 0.20706(11) 1.05373(3)
+O1T O 0.79294(11) -0.21784(11) 1.05373(3)
+C2A C 0.8773(2) -0.3333(2) 0.91670
+C2B C 1.3333(2) 0.2106(2) 0.91670
+H6A H 0.76360 -0.33340 0.91670
+H6B H 1.33340 0.09700 0.91670
+#END

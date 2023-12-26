@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAKBUV
+_audit_creation_date 2017-01-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAKBUV
+_database_code_depnum_ccdc_archive 'CCDC 1515781'
+_chemical_formula_sum 'C15 H20 Mn1 N9 P1'
+_chemical_formula_moiety
+;
+C9 H20 P1 1+,n(C6 Mn1 N9 1-)
+;
+_journal_coden_Cambridge 1695
+_journal_volume 5
+_journal_year 2017
+_journal_page_first 1529
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"Fu-Juan Geng"
+"Lin Zhou"
+"Ping-Ping Shi"
+"Xiao-Li Wang"
+"Xuan Zheng"
+"Yi Zhang"
+"Da-Wei Fu"
+"Qiong Ye"
+_chemical_name_systematic
+;
+catena-[allyl(triethyl)phosphonium tris(\m-dicyanamide)-manganese]
+;
+_cell_volume   2088.608
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.311
+_exptl_special_details
+;
+reversible phase transition at 350 K with large thermal hysteresis
+
+;
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0484
+_refine_ls_wR_factor_gt 0.0484
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.098(2)
+_cell_length_b 12.156(2)
+_cell_length_c 17.119(3)
+_cell_angle_alpha 90
+_cell_angle_beta 96.32(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.73110(4) 0.77455(3) 0.21230(2)
+C1 C 0.6526(3) 1.0373(2) 0.19286(16)
+C2 C 0.8226(3) 0.5131(2) 0.25089(18)
+C3 C 0.9625(3) 0.3696(2) 0.27910(17)
+C4 C 0.7586(3) 0.8386(2) 0.40331(16)
+N1 N 0.6736(3) 0.9464(2) 0.18471(18)
+N2 N 0.7915(3) 0.6019(2) 0.23928(16)
+C5 C 0.5500(3) 1.1858(2) 0.23658(18)
+N3 N 0.6373(3) 1.1433(2) 0.19520(18)
+N4 N 0.8434(3) 0.4091(2) 0.2642(2)
+N5 N 0.7571(4) 0.8161(3) 0.33947(16)
+N6 N 0.7670(4) 0.8757(3) 0.47431(16)
+N7 N 1.0592(3) 0.3241(2) 0.2939(2)
+N8 N 0.4786(3) 1.2311(2) 0.2726(2)
+C6 C 0.7318(3) 0.8166(2) 0.53167(16)
+N9 N 0.7053(3) 0.7747(2) 0.58670(15)
+P1 P 0.77281(8) 0.25280(6) -0.01044(4)
+C7 C 0.6361(3) 0.1560(3) -0.01882(19)
+H1 H 0.62810 0.12470 0.03260
+H2 H 0.55420 0.19530 -0.03530
+C8 C 0.9306(3) 0.1783(3) 0.0089(2)
+H3 H 0.93870 0.12800 -0.03430
+H4 H 1.00310 0.23070 0.01000
+C9 C 0.7778(4) 0.3246(3) -0.10198(19)
+H5 H 0.77160 0.27070 -0.14400
+H6 H 0.69950 0.37110 -0.11040
+C10 C 0.6513(4) 0.0659(3) -0.0748(2)
+H7 H 0.64500 0.08280 -0.12810
+C11 C 0.8979(4) 0.3943(3) -0.1087(2)
+H8 H 0.91670 0.43740 -0.06180
+H9 H 0.88130 0.44230 -0.15320
+H10 H 0.97280 0.34790 -0.11530
+C12 C 0.7590(4) 0.3465(3) 0.0678(2)
+H11 H 0.78250 0.30880 0.11730
+H12 H 0.82240 0.40580 0.06440
+C13 C 0.9456(4) 0.1148(4) 0.0835(2)
+H13 H 0.93140 0.16270 0.12640
+H14 H 1.03380 0.08440 0.09190
+H15 H 0.88140 0.05630 0.08050
+C14 C 0.6731(4) -0.0369(3) -0.0537(3)
+H16 H 0.67980 -0.05610 -0.00080
+H17 H 0.68180 -0.09040 -0.09160
+C15 C 0.6180(5) 0.3960(4) 0.0675(3)
+H18 H 0.58980 0.42630 0.01660
+H19 H 0.61960 0.45310 0.10640
+H20 H 0.55690 0.33950 0.07930
+Mn1A Mn 0.26890(4) 1.27455(3) 0.28770(2)
+Mn1A* Mn 1.26890(4) 0.27455(3) 0.28770(2)
+Mn1C Mn 0.73110(4) 0.72545(3) 0.71230(2)
+N7A N 0.9408(3) 0.8241(2) 0.2061(2)
+N8A N 0.5214(3) 0.7311(2) 0.2274(2)
+N9C N 0.7053(3) 0.7253(2) 0.08670(15)
+#END

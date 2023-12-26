@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VATXIY
+_audit_creation_date 2006-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VATXIY
+_database_code_depnum_ccdc_archive 'CCDC 288041'
+_chemical_formula_sum 'C10 H15.2 Na2 O27.6 U2'
+_chemical_formula_moiety
+;
+(C10 O20 U2 2-)n,2n(Na1 1+),7.6n(H2 O1)
+;
+_journal_coden_Cambridge 208
+_journal_volume 178
+_journal_year 2005
+_journal_page_first 3046
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"B.Chapelet-Arab"
+"G.Nowogrocki"
+"F.Abraham"
+"S.Grandjean"
+_chemical_name_systematic
+;
+catena-(di-sodium pentakis(\m~2~-oxalato-O,O',O'',O''')-di-uranium(iv) 
+hydrate)
+;
+_cell_volume   2751.438
+_exptl_crystal_colour 'green'
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+There are 2.56 Na atoms for charge balance although only 2 atoms have been 
+input in the 2D diagram due to the mixed metal disorder. The metal sites are 
+mixed occupancy U/Nd with occupancies of 0.72:0.28, respectively. The overall 
+formula for the metal complex is C10 Nd0.56 O20 U1.44 2.56-.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0511
+_refine_ls_wR_factor_gt 0.0511
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 -x,y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 x,-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 18.79(3)
+_cell_length_b 11.465(15)
+_cell_length_c 12.772(17)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Na 0.97
+Nd 1.81
+O 0.68
+U 1.58
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na 0.5519(4) 0.2834(6) 0.1302(6)
+Na2 Na 0.50000 0.50000 0.00000
+O1 O 0.5890(7) 0.4849(10) 0.1284(11)
+O2 O 0.5731(6) 0.2924(11) 0.3141(11)
+O3 O 0.3907(9) 0.5145(13) 0.1298(14)
+O4 O 0.4940(7) 0.3001(16) -0.0503(15)
+O5 O 0.50000 0.218(3) -0.25000
+O6 O 0.3756(16) 0.651(3) 0.258(2)
+U1 U 0.671144(19) 0.00223(4) 0.02364(3)
+O7 O 0.6616(4) 0.2221(7) 0.0527(7)
+O8 O 0.8399(4) 0.2806(7) 0.0037(7)
+O9 O 0.7783(4) 0.1144(7) -0.0152(6)
+O10 O 0.7218(3) 0.3893(6) 0.0662(6)
+C1 C 0.7849(6) 0.2198(10) 0.0073(8)
+C2 C 0.7162(7) 0.2802(11) 0.0439(9)
+O11 O 0.7244(4) 0.0740(7) 0.1888(6)
+O12 O 0.6381(4) -0.1114(7) 0.3594(6)
+O13 O 0.6318(4) -0.1004(7) 0.1856(6)
+O14 O 0.7241(4) 0.0707(6) 0.3627(6)
+O15 O 0.5540(4) 0.0767(6) 0.0846(6)
+O16 O 0.4357(4) 0.0767(7) 0.0678(7)
+C3 C 0.7045(7) 0.0354(10) 0.2758(9)
+C4 C 0.6523(6) -0.0704(11) 0.2745(10)
+C5 C 0.4977(6) 0.0421(12) 0.0453(10)
+Nd1? Nd 0.671144(19) 0.00223(4) 0.02364(3)
+U1G U 0.828856(19) -0.49777(4) 0.02364(3)
+U1G* U 0.828856(19) 0.50223(4) 0.02364(3)
+U1F U 0.671144(19) -0.00223(4) 0.52364(3)
+U1D U 0.328856(19) -0.00223(4) -0.02364(3)
+U1F* U 0.671144(19) -0.00223(4) -0.47636(3)
+O7G O 0.8384(4) -0.2779(7) 0.0527(7)
+O8G O 0.6601(4) -0.2194(7) 0.0037(7)
+O8* O 0.8399(4) -0.7194(7) 0.0037(7)
+O9G O 0.7217(4) -0.3856(7) -0.0152(6)
+O10G O 0.7782(3) -0.1107(6) 0.0662(6)
+O10* O 0.7218(3) -0.6107(6) 0.0662(6)
+C1G C 0.7151(6) -0.2802(10) 0.0073(8)
+C2G C 0.7838(7) -0.2198(11) 0.0439(9)
+O11F O 0.7244(4) -0.0740(7) -0.3112(6)
+O11G O 0.7756(4) -0.4260(7) 0.1888(6)
+O12F O 0.6381(4) 0.1114(7) -0.1406(6)
+O12A O 0.8619(4) -0.3886(7) -0.1406(6)
+O13F O 0.6318(4) 0.1004(7) -0.3144(6)
+O13G O 0.8682(4) -0.6004(7) 0.1856(6)
+O14F O 0.7241(4) -0.0707(6) -0.1373(6)
+O14A O 0.7759(4) -0.5707(6) -0.1373(6)
+O15D O 0.4460(4) -0.0767(6) -0.0846(6)
+O15G O 0.9460(4) -0.4233(6) 0.0846(6)
+O16D O 0.5643(4) -0.0767(7) -0.0678(7)
+O16C O 0.9357(4) -0.5767(7) -0.0678(7)
+C3F C 0.7045(7) -0.0354(10) -0.2242(9)
+C4F C 0.6523(6) 0.0704(11) -0.2255(10)
+C5D C 0.5023(6) -0.0421(12) -0.0453(10)
+#END

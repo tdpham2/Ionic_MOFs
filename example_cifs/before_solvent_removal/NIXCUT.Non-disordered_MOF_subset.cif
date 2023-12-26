@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIXCUT
+_audit_creation_date 2008-08-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIXCUT
+_database_code_depnum_ccdc_archive 'CCDC 602526'
+_chemical_formula_sum 'C2 H5.5 Eu1 Na2 O8.25 P2'
+_chemical_formula_moiety
+;
+(C2 H5 Eu1 O8 P2 2-)n,2n(Na1 1+),0.25n(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 130
+_journal_year 2008
+_journal_page_first 150
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"F.N.Shi"
+"L.Cunha-Silva"
+"R.A.Sa Ferreira"
+"L.Mafra"
+"T.Trindade"
+"L.D.Carlos"
+"F.A.A.Paz"
+"J.Rocha"
+_chemical_name_systematic
+;
+catena-(Di-sodium (\m~4~-1-oxyethylidenediphosphonato)-aqua-europium(iii) 
+hydrate)
+;
+_chemical_name_common
+;
+catena-(Di-sodium (mu!4$-etidronate)-aqua-europium(iii) hydrate)
+;
+_cell_volume    938.930
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.981
+_exptl_special_details
+;
+luminescent
+isostructural with the yttrium, lanthanum, cerium, neodymium, gadolinium, 
+terbium and erbium analogues
+;
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+The sodium cation is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0198
+_refine_ls_wR_factor_gt 0.0198
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 10.438(2)
+_cell_length_b 8.6510(17)
+_cell_length_c 10.398(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.99
+Na 0.89
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 1.14810(3) 0.25000 0.11296(3)
+P1 P 0.84041(10) 0.07489(14) 0.12664(10)
+O1 O 0.9760(3) 0.0793(4) 0.1808(3)
+O2 O 0.7381(3) 0.0838(3) 0.2298(3)
+O3 O 0.8179(3) -0.0615(4) 0.0393(3)
+O4 O 0.9474(4) 0.25000 -0.0505(4)
+C1 C 0.8298(5) 0.25000 0.0285(6)
+C2 C 0.7116(6) 0.25000 -0.0578(6)
+H1 H 0.63420 0.25000 -0.00440
+H2 H 0.71230 0.15750 -0.11220
+H3 H 0.71230 0.34250 -0.11220
+Na1 Na 1.0900(5) -0.1211(6) 0.2538(7)
+Na2? Na 1.0683(5) -0.1293(8) 0.3422(6)
+O5 O 1.3847(5) 0.25000 0.0782(5)
+H4 H 1.408(6) 0.1604(6) 0.032(4)
+O6 O 1.50000 0.00000 0.00000
+Eu1E Eu 0.64810(3) 0.25000 0.38704(3)
+Eu1D Eu 0.85190(3) -0.25000 -0.11296(3)
+Eu1D* Eu 0.85190(3) 0.75000 -0.11296(3)
+P1F P 0.84041(10) 0.42511(14) 0.12664(10)
+O1F O 0.9760(3) 0.4207(4) 0.1808(3)
+O2F O 0.7381(3) 0.4162(3) 0.2298(3)
+O2E O 1.2381(3) 0.0838(3) 0.2702(3)
+O2C O 1.2381(3) 0.4162(3) 0.2702(3)
+O3F O 0.8179(3) 0.5615(4) 0.0393(3)
+O3D O 1.1821(3) 0.0615(4) -0.0393(3)
+O3B O 1.1821(3) 0.4385(4) -0.0393(3)
+H4F H 1.408(6) 0.3396(6) 0.032(4)
+#END

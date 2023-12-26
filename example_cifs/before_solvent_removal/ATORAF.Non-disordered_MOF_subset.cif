@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ATORAF
+_audit_creation_date 2021-05-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ATORAF
+_database_code_depnum_ccdc_archive 'CCDC 1980609'
+_chemical_formula_sum 'C6 H34 N2 O29 P6 S1 Tb2'
+_chemical_formula_moiety
+;
+(C3 H12 N1 O14 P3 S1 Tb1 1-)n,(C3 H14 N1 O11 P3 Tb1 1+)n,4(H2 O1)
+;
+_journal_coden_Cambridge 1440
+_journal_volume 13
+_journal_year 2021
+_journal_page_first 15279
+_journal_name_full 'ACS Applied Materials and Interfaces '
+loop_
+_publ_author_name
+"I.R.Salcedo"
+"R.M.P.Colodrero"
+"M.Bazaga-Garcia"
+"M.Lopez-Gonzalez"
+"C.del Rio"
+"K.Xanthopoulos"
+"K.D.Demadis"
+"G.B.Hix"
+"A.D.Furasova"
+"D.Choquesillo-Lazarte"
+"P.Olivera-Pastor"
+"A.Cabeza"
+_chemical_name_systematic
+;
+catena-[([\m-tetrahydrogen 
+nitrilotris(methylene)]tris(phosphonato))-(hydrogen 
+sulfato)-aqua-terbium(iii) ([\m-tetrahydrogen 
+nitrilotris(methylene)]tris(phosphonato))-diaqua-terbium(iii) tetrahydrate]
+;
+_cell_volume   1388.252
+_exptl_crystal_colour 'white'
+_exptl_special_details
+;
+powder data
+
+;
+_exptl_crystal_description 'Polycrystalline'
+_diffrn_ambient_temperature 298
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+Sulfate (O10,O11,O12,O13,S1) disordered by symmetry over two configurations 
+with occupancy 0.5.
+Rietveld Refinement
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0479
+_refine_ls_wR_factor_gt 0.0479
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.57200(19)
+_cell_length_b 16.2769(5)
+_cell_length_c 10.56506(19)
+_cell_angle_alpha 90
+_cell_angle_beta 109.6499(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+P 1.05
+S 1.02
+Tb 1.94
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Tb1 Tb 0.64620(22) 0.20468(12) 0.43639(16)
+O1 O 0.4360(18) 0.1044(9) 0.4486(15)
+C1 C 0.9310(15) 0.4111(12) 0.4015(18)
+C2 C 1.0879(21) 0.2937(10) 0.3201(18)
+C3 C 1.2139(19) 0.3820(9) 0.5138(17)
+N1 N 1.0477(17) 0.3427(10) 0.4262(17)
+P1 P 0.7141(9) 0.3907(5) 0.2802(7)
+P2 P 0.9452(9) 0.2114(6) 0.2397(6)
+P3 P 1.3451(9) 0.2851(5) 0.5891(7)
+O2 O 0.6326(18) 0.3377(7) 0.3545(15)
+O3 O 0.7063(20) 0.3616(9) 0.146(1)
+O4 O 0.642(2) 0.4809(8) 0.2602(15)
+O5 O 0.8326(16) 0.2179(12) 0.3193(14)
+O6 O 0.8592(17) 0.2123(10) 0.093(1)
+O7 O 1.0608(19) 0.1379(8) 0.2649(17)
+O8 O 1.2276(17) 0.2198(8) 0.5790(14)
+O9 O 1.4476(16) 0.2744(10) 0.5037(14)
+O10 O 1.4307(16) 0.3171(10) 0.7281(10)
+S1 S 0.8112(12) -0.0119(8) 0.4263(13)
+O11 O 0.704(4) 0.0618(9) 0.4226(33)
+O12 O 0.6816(23) -0.0793(11) 0.3673(23)
+O13 O 0.9021(34) 0.015(2) 0.3303(24)
+O14 O 0.9128(26) -0.0374(18) 0.5666(17)
+O15 O 0.0477(20) 0.3767(10) 0.1814(15)
+O16 O 0.6444(20) 0.0458(11) 0.0799(16)
+O17? O 0.742(5) 0.0712(12) 0.3872(32)
+Tb1* Tb 1.64620(22) 0.20468(12) 0.43639(16)
+Tb1C Tb 0.64620(22) 0.29532(12) -0.06361(16)
+Tb1C* Tb 1.64620(22) 0.29532(12) 0.93639(16)
+O3C O 0.7063(20) 0.1384(9) 0.646(1)
+O6C O 0.8592(17) 0.2877(10) 0.593(1)
+O9* O 0.4476(16) 0.2744(10) 0.5037(14)
+O10C O 0.4307(16) 0.1829(10) 0.2281(10)
+#END

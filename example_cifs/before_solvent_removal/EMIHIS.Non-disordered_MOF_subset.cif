@@ -1,0 +1,201 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EMIHIS
+_audit_creation_date 2011-04-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EMIHIS
+_database_code_depnum_ccdc_archive 'CCDC 795467'
+_chemical_formula_sum 'C90 H154 Cd4 In16 N20 S31'
+_chemical_formula_moiety
+;
+(C18 H18 Cd4 In16 N4 S31 8-)n,8n(C9 H17 N2 1+)
+;
+_journal_coden_Cambridge 179
+_journal_volume 50
+_journal_year 2011
+_journal_page_first 2536
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Tao Wu"
+"R.Khazhakyan"
+"Le Wang"
+"Xianhui Bu"
+"Shou-Tian Zheng"
+"V.Chau"
+"Pingyun Feng"
+_chemical_name_systematic
+;
+catena-((\m~4~-sulfido)-dodecakis(\m~3~-sulfido)-bis(\m~2~-5,6-dimethylbenzimi
+dazolyl)-octadecakis(\m~2~-sulfido)-tetra-cadmium-hexadeca-indium 
+octakis(2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepin-1-ium))
+;
+_chemical_name_common
+;
+SCIF-9
+;
+_cell_volume  32016.911
+_exptl_special_details
+;
+The authors report that the negatively charged frameworks are balanced by 
+lithium cations and protonated DBU molecules but it is not clear which 
+cations are present in each individual framework
+;
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+The organic template cations could not be located owing to serious disorder.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1459
+_refine_ls_wR_factor_gt 0.1459
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 25.7722(10)
+_cell_length_b 25.6993(11)
+_cell_length_c 48.340(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+In 1.42
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.91493(19) 0.2825(2) 0.10626(11)
+Cd2 Cd 0.9181(3) 0.1578(3) 0.15548(16)
+Cd3 Cd 1.03875(19) 0.2563(2) 0.15429(10)
+Cd4 Cd 1.0103(2) 0.1640(2) 0.08883(13)
+S1 S 1.2276(7) 0.3556(9) -0.0791(5)
+S2 S 1.3261(8) 0.4789(9) -0.0641(5)
+S3 S 1.3232(9) 0.3484(8) -0.0120(4)
+S4 S 0.7520(7) 0.2341(8) 0.1435(4)
+S5 S 0.8497(7) 0.1153(7) 0.1285(4)
+S6 S 0.8463(7) 0.2446(7) 0.0771(3)
+S7 S 0.9470(8) -0.0028(7) 0.1122(4)
+S8 S 0.9448(7) 0.1203(7) 0.0604(3)
+S9 S 0.9402(7) 0.2507(8) 0.0118(3)
+S10 S 0.7748(8) 0.3226(8) 0.2074(4)
+S11 S 0.8742(7) 0.2058(8) 0.1923(4)
+S12 S 0.8725(6) 0.3354(6) 0.1418(3)
+S13 S 0.9710(6) 0.0886(7) 0.1775(3)
+S14 S 0.9708(6) 0.2151(6) 0.1265(3)
+S15 S 0.9666(6) 0.3438(7) 0.0773(3)
+S16 S 1.0666(9) -0.0260(8) 0.1600(4)
+S17 S 1.0676(7) 0.0975(7) 0.1084(3)
+S18 S 1.0640(6) 0.2195(7) 0.0581(3)
+S19 S 1.0551(8) 0.3496(8) 0.0112(4)
+S20 S 0.9055(8) 0.2949(9) 0.2578(4)
+S21 S 0.9000(8) 0.4236(8) 0.2067(4)
+S22 S 1.0020(8) 0.1846(8) 0.2411(4)
+S23 S 0.9999(6) 0.3073(7) 0.1921(4)
+S24 S 0.9972(7) 0.4308(8) 0.1437(4)
+S25 S 1.0995(8) 0.0687(9) 0.2248(4)
+S26 S 1.0969(6) 0.1911(7) 0.1756(3)
+S27 S 1.0948(6) 0.3122(7) 0.1256(3)
+S28 S 1.0896(7) 0.4390(8) 0.0797(4)
+S29 S 1.1934(7) 0.0719(8) 0.1550(4)
+S30 S 1.1883(7) 0.1955(8) 0.1077(4)
+S31 S 1.1822(8) 0.3164(8) 0.0573(4)
+In1 In 1.2814(2) 0.4045(2) -0.04592(13)
+In2 In 0.7958(2) 0.1841(2) 0.10745(11)
+In3 In 0.8927(2) 0.0648(2) 0.09075(11)
+In4 In 0.8904(2) 0.1918(2) 0.04053(11)
+In5 In 0.8201(2) 0.2732(2) 0.17117(11)
+In6 In 1.0122(2) 0.0416(2) 0.13899(11)
+In7 In 1.00620(19) 0.2891(2) 0.03969(10)
+In8 In 0.8512(2) 0.3562(2) 0.23086(12)
+In9 In 0.9448(2) 0.2479(2) 0.22006(10)
+In10 In 0.94251(19) 0.3740(2) 0.17059(10)
+In11 In 1.04042(19) 0.1340(2) 0.20409(10)
+In12 In 1.03614(18) 0.3818(2) 0.10688(10)
+In13 In 1.1308(2) 0.0274(2) 0.18340(12)
+In14 In 1.13505(19) 0.1396(2) 0.13592(11)
+In15 In 1.13053(19) 0.2601(2) 0.0868(1)
+In16 In 1.1187(2) 0.3807(2) 0.04422(11)
+N1 N 1.225(2) 0.434(3) -0.0160(13)
+N2 N 1.172(2) 0.430(3) 0.0157(11)
+N3 N 1.183(2) -0.093(3) 0.2391(11)
+N4 N 1.172(3) -0.033(3) 0.2053(13)
+C1 C 1.207(3) 0.408(3) 0.0037(17)
+H1 H 1.21860 0.37430 0.00860
+C2 C 1.202(3) 0.479(3) -0.0142(15)
+C3 C 1.199(3) 0.530(3) -0.0294(14)
+H2 H 1.22180 0.53610 -0.04460
+C4 C 1.163(3) 0.569(3) -0.0211(17)
+C5 C 1.127(5) 0.549(5) 0.003(3)
+C6 C 1.124(4) 0.508(4) 0.013(2)
+H3 H 1.09720 0.50010 0.02530
+C7 C 1.156(4) 0.477(4) 0.005(2)
+C8 C 1.170(4) 0.621(3) -0.0355(19)
+H4 H 1.20650 0.62940 -0.03720
+H5 H 1.15230 0.64840 -0.02470
+H6 H 1.15390 0.61940 -0.05400
+C9 C 1.091(4) 0.600(4) 0.006(2)
+H7 H 1.05790 0.59470 -0.00340
+H8 H 1.10860 0.63060 -0.00180
+H9 H 1.08400 0.60710 0.02590
+C10 C 1.159(3) -0.055(3) 0.2249(18)
+H10 H 1.12640 -0.04410 0.23210
+C11 C 1.221(3) -0.091(3) 0.2235(17)
+C12 C 1.265(3) -0.127(3) 0.2254(17)
+H11 H 1.26790 -0.15200 0.23990
+C13 C 1.312(3) -0.123(3) 0.2011(18)
+C14 C 1.322(6) -0.068(5) 0.187(3)
+C15 C 1.261(5) -0.043(4) 0.184(2)
+H12 H 1.25480 -0.02070 0.16850
+C16 C 1.218(4) -0.054(3) 0.2027(18)
+C17 C 1.365(4) -0.157(4) 0.200(2)
+H13 H 1.39450 -0.13340 0.19630
+H14 H 1.36260 -0.18240 0.18500
+H15 H 1.37030 -0.17450 0.21760
+C18 C 1.365(4) -0.076(4) 0.172(2)
+H16 H 1.37850 -0.04260 0.16500
+H17 H 1.35630 -0.09810 0.15570
+H18 H 1.39170 -0.09350 0.18280
+S1B S 0.7276(7) 0.1444(9) 0.0791(5)
+S2B S 0.8261(8) 0.0211(9) 0.0641(5)
+S3B S 0.8232(9) 0.1516(8) 0.0120(4)
+In2B In 1.2958(2) 0.3159(2) -0.10745(11)
+In3B In 1.3927(2) 0.4352(2) -0.09075(11)
+In4B In 1.3904(2) 0.3082(2) -0.04053(11)
+In8C In 1.1488(2) -0.1438(2) 0.26914(12)
+N3C N 0.817(2) 0.407(3) 0.2609(11)
+#END

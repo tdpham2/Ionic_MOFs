@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VUKDEN
+_audit_creation_date 2020-04-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VUKDEN
+_database_code_depnum_ccdc_archive 'CCDC 1965003'
+_chemical_formula_sum 'C4 H8 N4 Na2 O10'
+_chemical_formula_moiety
+;
+(C4 N4 Na1 O6 1-)n,n(H6 Na1 O3 1+),H2 O1
+;
+_journal_coden_Cambridge 29
+_journal_volume 646
+_journal_year 2020
+_journal_page_first 368
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"Lili Guo"
+"Xing-Pu Lv"
+"Jing-Huo Chen"
+"Wenhua Zhang"
+"Guang Yang"
+_chemical_name_systematic
+;
+catena-[tris(\m-aqua)-sodium 
+(\m-4-carboxylato-3,5-dinitropyrazol-1-yl)-sodium monohydrate]
+;
+_cell_volume   1196.707
+_exptl_crystal_colour 'light colorless'
+_exptl_crystal_density_diffrn 1.766
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0314
+_refine_ls_wR_factor_gt 0.0314
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.8722(17)
+_cell_length_b 6.3120(12)
+_cell_length_c 21.636(4)
+_cell_angle_alpha 90
+_cell_angle_beta 99.006(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na 0.20166(8) 0.24409(10) 0.42965(3)
+O1 O 0.88495(18) 0.2959(3) 0.40145(7)
+O2 O 0.98896(15) 0.2595(2) 0.49738(7)
+O3 O 0.30125(13) 0.2174(2) 0.55060(6)
+O4 O 0.49633(16) 0.2146(2) 0.62508(6)
+O5 O 0.83795(14) 0.43350(19) 0.62264(6)
+O6 O 0.84916(13) 0.08068(18) 0.62076(5)
+N1 N 0.48293(15) 0.2578(2) 0.46314(6)
+N2 N 0.60180(16) 0.2750(2) 0.43246(6)
+N3 N 0.87602(17) 0.2780(2) 0.45680(7)
+N4 N 0.44047(16) 0.2254(2) 0.56974(7)
+C1 C 0.72899(18) 0.2736(2) 0.47616(8)
+C2 C 0.69893(17) 0.2569(2) 0.53686(7)
+C3 C 0.54094(18) 0.2475(2) 0.52467(7)
+C4 C 0.80452(18) 0.2579(2) 0.59877(8)
+Na2 Na 0.76004(8) 0.12177(11) 0.25480(3)
+O7 O 0.83399(11) -0.14889(17) 0.33122(5)
+O8 O 0.95922(11) 0.38472(17) 0.27264(5)
+O9 O 0.60047(16) 0.3651(2) 0.29981(6)
+H1 H 0.9286(6) -0.137(4) 0.3452(10)
+H2 H 0.790(3) -0.164(4) 0.3630(7)
+H3 H 1.005(3) 0.437(4) 0.3066(6)
+H4 H 1.019(3) 0.372(6) 0.2457(10)
+H5 H 0.50190 0.38436 0.29009
+H6 H 0.61799 0.38770 0.34017
+O10 O 0.2825(2) 0.4368(4) 0.24344(8)
+H7 H 0.29347 0.43280 0.20514
+H8 H 0.27513 0.30763 0.25367
+Na1* Na 1.20166(8) 0.24409(10) 0.42965(3)
+Na1B Na 0.79834(8) -0.24409(10) 0.57035(3)
+Na1B* Na 0.79834(8) 0.75591(10) 0.57035(3)
+O1* O -0.11505(18) 0.2959(3) 0.40145(7)
+O2* O -0.01104(15) 0.2595(2) 0.49738(7)
+O5B O 0.16205(14) 0.56650(19) 0.37736(6)
+O6B O 0.15084(13) -0.08068(18) 0.37924(5)
+Na2A Na 0.73996(8) -0.37823(11) 0.24520(3)
+Na2A* Na 0.73996(8) 0.62177(11) 0.24520(3)
+O7A O 0.66601(11) 0.35111(17) 0.16878(5)
+O8A O 0.54078(11) -0.11528(17) 0.22736(5)
+O9A O 0.89953(16) -0.1349(2) 0.20019(6)
+#END

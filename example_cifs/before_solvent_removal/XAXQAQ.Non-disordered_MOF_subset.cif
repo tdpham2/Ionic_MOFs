@@ -1,0 +1,152 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XAXQAQ
+_audit_creation_date 2012-09-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XAXQAQ
+_database_code_depnum_ccdc_archive 'CCDC 852628'
+_chemical_formula_sum 'C22 H24 In1 N1 O8'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(C20 H16 In1 O8 1-)
+;
+_journal_coden_Cambridge 208
+_journal_volume 190
+_journal_year 2012
+_journal_page_first 208
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"Liping Wang"
+"Tianyou Song"
+"Chao Li"
+"Jing Xia"
+"Shengyan Wang"
+"Li Wang"
+"Jianing Xu"
+_chemical_name_systematic
+;
+catena-[Dimethylammonium 
+bis(\m~2~-cis-2,2'-(1,4-phenylene)diacetato)-indium(iii)]
+;
+_cell_volume   2212.642
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.625
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The dimethylammonium cation is disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.372(7)
+_cell_length_b 7.8278(16)
+_cell_length_c 16.441(3)
+_cell_angle_alpha 90
+_cell_angle_beta 126.443(19)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.00000 0.67476(4) -0.25000
+O1 O 0.02298(13) 0.4744(3) -0.33162(19)
+O2 O -0.09668(14) 0.5389(3) -0.39333(19)
+O3 O -0.40124(17) 0.6726(3) -0.7212(2)
+O4 O -0.51009(17) 0.6201(4) -0.8663(3)
+C1 C -0.04841(18) 0.4568(4) -0.3989(2)
+C2 C -0.0764(2) 0.3360(4) -0.4864(3)
+H1 H -0.04390 0.35050 -0.50910
+H2 H -0.07010 0.21940 -0.46270
+C3 C -0.16026(19) 0.3637(4) -0.5749(2)
+C4 C -0.1807(2) 0.4688(5) -0.6549(3)
+H3 H -0.14200 0.52140 -0.65560
+C5 C -0.2580(2) 0.4967(5) -0.7339(3)
+H4 H -0.27020 0.56960 -0.78610
+C6 C -0.31739(19) 0.4191(4) -0.7373(2)
+C7 C -0.2971(2) 0.3113(4) -0.6577(3)
+H5 H -0.33590 0.25600 -0.65830
+C8 C -0.2198(2) 0.2851(4) -0.5777(3)
+H6 H -0.20750 0.21370 -0.52480
+C9 C -0.4016(2) 0.4517(5) -0.8232(3)
+H7 H -0.40490 0.48270 -0.88280
+H8 H -0.43040 0.34640 -0.83820
+C10 C -0.4400(2) 0.5897(4) -0.8032(3)
+C11 C 0.2261(3) 0.1684(5) 0.5403(4)
+H9 H 0.26080 0.10880 0.60400
+H10 H 0.17110 0.15780 0.51030
+N1 N 0.2485(3) 0.1826(6) 0.4744(5)
+In1F In -0.50000 0.82524(4) -0.75000
+In1F* In 0.50000 0.82524(4) 0.25000
+O1A O -0.02298(13) 0.4744(3) -0.16838(19)
+O2A O 0.09668(14) 0.5389(3) -0.10667(19)
+O3A O 0.40124(17) 0.6726(3) 0.2212(2)
+O3F O -0.09876(17) 0.8274(3) -0.2788(2)
+O3G O 0.09876(17) 0.8274(3) -0.2212(2)
+O4A O 0.51009(17) 0.6201(4) 0.3663(3)
+O4F O 0.01009(17) 0.8799(4) -0.1337(3)
+O4G O -0.01009(17) 0.8799(4) -0.3663(3)
+C1A C 0.04841(18) 0.4568(4) -0.1011(2)
+C2A C 0.0764(2) 0.3360(4) -0.0136(3)
+H1A H 0.04390 0.35050 0.00910
+H2A H 0.07010 0.21940 -0.03730
+C3A C 0.16026(19) 0.3637(4) 0.0749(2)
+C4A C 0.1807(2) 0.4688(5) 0.1549(3)
+H3A H 0.14200 0.52140 0.15560
+C5A C 0.2580(2) 0.4967(5) 0.2339(3)
+H4A H 0.27020 0.56960 0.28610
+C6A C 0.31739(19) 0.4191(4) 0.2373(2)
+C7A C 0.2971(2) 0.3113(4) 0.1577(3)
+H5A H 0.33590 0.25600 0.15830
+C8A C 0.2198(2) 0.2851(4) 0.0777(3)
+H6A H 0.20750 0.21370 0.02480
+C9A C 0.4016(2) 0.4517(5) 0.3232(3)
+H7A H 0.40490 0.48270 0.38280
+H8A H 0.43040 0.34640 0.33820
+C10A C 0.4400(2) 0.5897(4) 0.3032(3)
+C11F C 0.2739(3) 0.3316(5) 0.4597(4)
+H9F H 0.23920 0.39120 0.39600
+H10F H 0.32890 0.34220 0.48970
+N1F N 0.2515(3) 0.3174(6) 0.5256(5)
+#END

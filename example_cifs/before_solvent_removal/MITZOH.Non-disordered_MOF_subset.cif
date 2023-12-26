@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MITZOH
+_audit_creation_date 2019-02-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MITZOH
+_database_code_depnum_ccdc_archive 'CCDC 1845665'
+_chemical_formula_sum 'C18 H14 Eu1 N1 O8'
+_chemical_formula_moiety
+;
+(C16 H6 Eu1 O8 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 222
+_journal_volume 48
+_journal_year 2019
+_journal_page_first 3723
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Yue Pan"
+"Hai-Quan Su"
+"En-Long Zhou"
+"Hong-Zong Yin"
+"Kui-Zhan Shao"
+"Zhong-Min Su"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+(\m-[1,1'-biphenyl]-3,3',5,5'-tetracarboxylato)-europium(iii)]
+;
+_cell_volume   3799.726
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296.1
+_diffrn_special_details
+;
+twin
+
+;
+_refine_special_details
+;
+Disordered cation molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0277
+_refine_ls_wR_factor_gt 0.0277
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 y,x,-z
+5 -x,-x+y,1/3-z
+6 x-y,-y,2/3-z
+_cell_length_a 13.8165(16)
+_cell_length_b 13.8165(16)
+_cell_length_c 22.984(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.98
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.66626(3) 0.69514(3) 0.08980(2)
+O1 O 0.6037(4) 0.5210(3) 0.04823(18)
+O2 O 0.6765(4) 0.5096(4) -0.0366(2)
+O3 O 0.4202(5) 0.1857(4) 0.17416(18)
+O4 O 0.4909(5) 0.0773(5) 0.1761(2)
+O5 O 0.7317(4) -0.1207(4) 0.05338(19)
+O6 O 0.7258(5) -0.1764(4) -0.03829(19)
+O7 O 0.8786(5) 0.2778(5) -0.1726(2)
+O8 O 0.9672(5) 0.1843(5) -0.1661(2)
+C1 C 0.6358(6) 0.4740(6) 0.0133(3)
+C2 C 0.6257(6) 0.3629(6) 0.0328(3)
+C3 C 0.5642(6) 0.3138(6) 0.0827(3)
+H1 H 0.53074 0.34725 0.10323
+C4 C 0.5537(7) 0.2138(6) 0.1010(3)
+C5 C 0.4838(7) 0.1551(7) 0.1537(3)
+C6 C 0.6041(6) 0.1667(6) 0.0704(3)
+H2 H 0.59704 0.09991 0.08370
+C7 C 0.6655(6) 0.2144(6) 0.0202(3)
+C8 C 0.6758(6) 0.3163(6) 0.0015(3)
+H3 H 0.71626 0.35137 -0.03188
+C9 C 0.7201(6) 0.1593(6) -0.0122(3)
+C10 C 0.7138(7) 0.0606(6) 0.0085(3)
+H4 H 0.67992 0.03188 0.04422
+C11 C 0.7562(6) 0.0055(6) -0.0224(3)
+C12 C 0.8154(6) 0.0514(6) -0.0738(3)
+H5 H 0.84675 0.01558 -0.09415
+C13 C 0.8270(6) 0.1520(6) -0.0940(3)
+C14 C 0.7803(6) 0.2060(7) -0.0628(3)
+H6 H 0.78978 0.27377 -0.07621
+C15 C 0.8958(7) 0.2070(7) -0.1477(3)
+C16 C 0.7365(6) -0.1053(6) 0.0003(3)
+Eu1* Eu 0.66626(3) -0.30486(3) 0.08980(2)
+Eu1B Eu 1.02888(3) 0.33374(3) -0.243533(20)
+Eu1C Eu 0.69514(3) -0.33374(3) -0.08980(2)
+Eu1C* Eu 0.69514(3) 0.66626(3) -0.08980(2)
+Eu1D Eu 0.33374(3) 0.02888(3) 0.243533(20)
+O2C O 0.5096(4) 0.6765(4) 0.0366(2)
+O3D O 0.5798(5) 0.7655(4) 0.159173(180)
+O4D O 0.5091(5) 0.5864(5) 0.157233(200)
+O5* O 0.7317(4) 0.8793(4) 0.05338(19)
+O6C O 0.8236(5) 0.7258(4) 0.03829(19)
+O7A O 0.7222(5) 0.6008(5) 0.160733(200)
+O8A O 0.8157(5) 0.7829(5) 0.167233(200)
+#END

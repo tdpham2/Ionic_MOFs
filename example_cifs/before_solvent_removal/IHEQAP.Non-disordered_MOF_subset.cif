@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IHEQAP
+_audit_creation_date 2015-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IHEQAP
+_database_code_depnum_ccdc_archive 'CCDC 979213'
+_chemical_formula_sum 'C12 H28 Co1 Cu2 N2 O20'
+_chemical_formula_moiety
+;
+(C12 H12 Cu2 N2 O12 2-)n,H12 Co1 O6 2+,2(H2 O1)
+;
+_journal_coden_Cambridge 910
+_journal_volume 24
+_journal_year 2014
+_journal_page_first 819
+_journal_name_full 'J.Inorg.Organomet.Polym.Mater. '
+loop_
+_publ_author_name
+"Hai-Bin Lin"
+"Qing-Hua Wang"
+"Zhao-Hui Zhou"
+_chemical_name_systematic
+;
+catena-[bis(\m-2,2',2''-nitrilotriacetato)-di-copper hexaaqua-cobalt 
+dihydrate]
+;
+_cell_volume   2315.378
+_exptl_crystal_density_diffrn 2.026
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0341
+_refine_ls_wR_factor_gt 0.0341
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 12.646(3)
+_cell_length_b 11.234(2)
+_cell_length_c 16.298(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.76141(3) 0.26151(3) 0.29099(2)
+Cu2 Cu 1.01451(3) 0.26859(3) 0.42207(2)
+N1 N 0.7038(2) 0.2710(2) 0.17511(17)
+N2 N 0.9602(2) 0.2682(2) 0.53803(18)
+O1 O 0.7849(3) -0.0272(2) 0.15443(19)
+O2 O 0.7843(2) 0.0925(2) 0.26098(16)
+O3 O 0.7145(2) 0.5832(2) 0.20315(19)
+O4 O 0.7398(2) 0.43548(19) 0.28874(18)
+O5 O 0.4382(2) 0.2037(4) 0.24194(18)
+O6 O 0.5819(2) 0.2314(2) 0.31532(14)
+O7 O 0.6905(2) 0.2265(3) 0.4738(2)
+O8 O 0.8321(2) 0.2585(2) 0.39638(16)
+O9 O 1.0277(3) 0.5735(2) 0.53882(17)
+O10 O 1.01653(19) 0.4417(2) 0.43937(15)
+O11 O 1.0085(3) -0.0429(3) 0.53066(18)
+O12 O 1.0159(2) 0.0952(2) 0.43547(15)
+C1 C 0.7612(3) 0.1771(3) 0.1302(2)
+H1 H 0.82930 0.20710 0.11230
+H2 H 0.72120 0.15380 0.08200
+C2 C 0.7767(3) 0.0717(3) 0.1851(2)
+C3 C 0.7309(3) 0.3909(3) 0.1473(2)
+H3 H 0.68180 0.41570 0.10490
+H4 H 0.80150 0.39070 0.12400
+C4 C 0.7264(3) 0.4771(3) 0.2182(2)
+C5 C 0.5892(4) 0.2520(4) 0.1703(3)
+H5 H 0.57640 0.18640 0.13290
+H6 H 0.55770 0.32250 0.14600
+C6 C 0.5317(3) 0.2261(3) 0.2491(2)
+C7 C 0.8442(3) 0.2760(4) 0.5396(2)
+H7 H 0.80950 0.29740 0.58770
+H8 H 0.83070 0.35690 0.52380
+C8 C 0.7829(3) 0.2498(3) 0.4644(2)
+C9 C 1.0093(3) 0.3736(3) 0.5762(2)
+H9 H 1.07930 0.35320 0.59610
+H10 H 0.96710 0.39920 0.62270
+C10 C 1.0173(3) 0.4725(3) 0.5152(2)
+C11 C 0.9961(3) 0.1549(3) 0.5731(2)
+H11 H 0.94620 0.12920 0.61460
+H12 H 1.06410 0.16660 0.59950
+C12 C 1.0062(3) 0.0601(3) 0.5093(2)
+Co1 Co 0.93518(4) 0.76499(4) 0.33330(3)
+O13 O 0.8084(3) 0.7722(3) 0.4118(2)
+H13 H 0.77840 0.70600 0.42050
+H14 H 0.76710 0.83030 0.40390
+O14 O 0.9230(2) 0.5798(2) 0.32728(19)
+H15 H 0.86980 0.54340 0.30760
+H16 H 0.95930 0.54480 0.36370
+O15 O 1.0318(3) 0.7629(2) 0.43543(19)
+H17 H 1.02920 0.69510 0.45820
+H18 H 1.02810 0.83360 0.45300
+O16 O 0.9535(2) 0.9481(2) 0.31823(18)
+H19 H 0.98350 0.98740 0.35530
+H20 H 0.90450 0.99190 0.30060
+O17 O 1.0722(2) 0.7418(2) 0.26345(19)
+H21 H 1.11250 0.80150 0.26100
+H22 H 1.11060 0.68260 0.27640
+O18 O 0.8401(3) 0.7728(2) 0.2320(2)
+H23 H 0.81530 0.82710 0.20260
+H24 H 0.79830 0.71530 0.22800
+O19 O 0.7353(3) 0.5469(3) 0.4463(2)
+H25 H 0.68270 0.55750 0.47770
+H26 H 0.72440 0.52150 0.39810
+O20 O 0.6732(2) -0.0648(2) 0.35217(19)
+H27 H 0.70870 -0.01190 0.32770
+H28 H 0.63560 -0.03770 0.38010
+Cu1B Cu 0.26141(3) 0.23849(3) 0.29099(2)
+Cu2B Cu 0.51451(3) 0.23141(3) 0.42207(2)
+O5B O 0.9382(2) 0.2963(4) 0.24194(18)
+O6B O 1.0819(2) 0.2686(2) 0.31532(14)
+O7B O 1.1905(2) 0.2735(3) 0.4738(2)
+#END

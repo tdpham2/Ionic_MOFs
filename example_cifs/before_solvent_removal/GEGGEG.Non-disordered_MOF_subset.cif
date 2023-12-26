@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEGGEG
+_audit_creation_date 2012-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEGGEG
+_database_code_depnum_ccdc_archive 'CCDC 892632'
+_chemical_formula_sum 'C18 H19 Co2 N1 O11'
+_chemical_formula_moiety
+;
+(C16 H11 Co2 O11 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 24
+_journal_year 2012
+_journal_page_first 303
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"Ru-Xin Yao"
+"Xia Xu"
+"Xian-Ming Zhang"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium 
+(\m~7~-3,3',4,4'-biphenyltetracarboxylato)-(\m~3~-hydroxo)-diaqua-di-cobalt)
+;
+_cell_volume   2021.775
+_exptl_crystal_colour 'purple red'
+_exptl_crystal_density_diffrn 1.785
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.5820(4)
+_cell_length_b 10.8173(3)
+_cell_length_c 14.7037(5)
+_cell_angle_alpha 90
+_cell_angle_beta 110.628(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.40940(2) 0.90253(3) 0.461140(19)
+Co2 Co 0.50410(2) 1.01046(3) 0.292355(19)
+O1 O 0.30171(12) 1.03085(15) 0.37152(12)
+O2 O 0.38874(12) 1.13627(15) 0.29233(12)
+O3 O 0.38456(13) 1.40413(16) 0.23922(13)
+O4 O 0.31145(14) 1.28400(18) 0.10949(13)
+O5 O -0.37868(12) 1.14708(16) 0.34202(12)
+O6 O -0.28445(12) 1.15314(16) 0.50137(11)
+O7 O -0.36646(12) 1.27736(14) 0.15499(11)
+O8 O -0.37028(12) 1.39592(14) 0.27892(11)
+O9 O 0.53889(11) 0.95814(14) 0.43247(10)
+C1 C 0.31118(16) 1.11738(19) 0.31930(15)
+C2 C 0.22311(16) 1.2097(2) 0.28512(15)
+C3 C 0.13869(16) 1.1958(2) 0.31750(17)
+H1 H 0.13890 1.13000 0.35830
+C4 C 0.05413(16) 1.2776(2) 0.29055(16)
+C5 C 0.05643(18) 1.3757(2) 0.22957(19)
+H2 H 0.00110 1.43190 0.21040
+C6 C 0.14015(18) 1.3907(2) 0.19700(19)
+H3 H 0.13990 1.45680 0.15650
+C7 C 0.22447(16) 1.3081(2) 0.22409(16)
+C8 C 0.31475(17) 1.3317(2) 0.18780(17)
+C9 C -0.03451(16) 1.2588(2) 0.32627(16)
+C10 C -0.01760(16) 1.2031(2) 0.41638(16)
+H4 H 0.05040 1.18220 0.45600
+C11 C -0.10107(16) 1.1786(2) 0.44736(16)
+H5 H -0.08850 1.14160 0.50750
+C12 C -0.20313(16) 1.20913(19) 0.38917(15)
+C13 C -0.22052(15) 1.27064(19) 0.30129(15)
+C14 C -0.13720(16) 1.2937(2) 0.26956(16)
+H6 H -0.14970 1.33270 0.21010
+C15 C -0.29640(16) 1.16666(19) 0.41330(15)
+C16 C -0.32852(15) 1.31688(19) 0.24070(15)
+O10 O 0.48142(14) 1.09737(19) 0.15189(13)
+O11 O 0.49685(15) 0.73334(19) 0.54137(13)
+N1 N 0.2514(2) 0.0384(3) 0.0550(2)
+H7 H 0.28900 -0.00830 0.10610
+H8 H 0.27130 0.11750 0.06920
+C17 C 0.1403(3) 0.0272(4) 0.0417(4)
+H9 H 0.12940 0.05340 0.09980
+H10 H 0.11870 -0.05740 0.02820
+H11 H 0.09960 0.07820 -0.01180
+C18 C 0.2768(4) -0.0001(4) -0.0319(3)
+H12 H 0.35090 0.00910 -0.01830
+H13 H 0.23860 0.05080 -0.08640
+H14 H 0.25720 -0.08510 -0.04690
+Co1B Co -0.40940(2) 1.09747(3) 0.538860(19)
+Co1A Co -0.40940(2) 1.40253(3) 0.038860(19)
+Co1B* Co 0.59060(2) 1.09747(3) 0.538860(19)
+Co2A Co 0.49590(2) 1.51046(3) 0.207645(19)
+Co2* Co -0.49590(2) 1.01046(3) 0.292355(19)
+Co2A* Co -0.50410(2) 1.51046(3) 0.207645(19)
+O3A O 0.61544(13) 0.90413(16) 0.26078(13)
+O5* O 0.62132(12) 1.14708(16) 0.34202(12)
+O6B O 0.28445(12) 0.84686(16) 0.49863(11)
+O7A O 0.36646(12) 0.77736(14) 0.34501(11)
+O8A O 0.37028(12) 0.89592(14) 0.22108(11)
+O9B O 0.46111(11) 1.04186(14) 0.56753(10)
+#END

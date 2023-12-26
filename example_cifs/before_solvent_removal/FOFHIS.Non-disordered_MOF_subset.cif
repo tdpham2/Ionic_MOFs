@@ -1,0 +1,166 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FOFHIS
+_audit_creation_date 2005-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FOFHIS
+_database_code_depnum_ccdc_archive 'CCDC 266752'
+_chemical_formula_sum 'C12 H32 Ga2 N4 O24 P4 V2'
+_chemical_formula_moiety
+;
+(C2 Ga2 O22 P4 V2 4-)n,n(C10 H28 N4 4+),2n(H2 O1)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 17
+_journal_year 2005
+_journal_page_first 74
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"Wen-Ming Chang"
+"Sue-Lein Wang"
+_chemical_name_systematic
+;
+catena-((1,4-bis(3-ammoniopropyl)piperazine) 
+(bis(\m~4~-phosphato)-bis(\m~3~-phosphato)-(\m~2~-oxalato)-dioxo-di-gallium-di
+-vanadium(iv)) dihydrate)
+;
+_cell_volume    731.834
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.227
+_exptl_crystal_description 'lamellar'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The piperazine ring is disordered over two sites with occupancies 0.53:0.46.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0421
+_refine_ls_wR_factor_gt 0.0421
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.2932(4)
+_cell_length_b 9.0002(5)
+_cell_length_c 10.1814(5)
+_cell_angle_alpha 82.415(1)
+_cell_angle_beta 81.080(1)
+_cell_angle_gamma 78.572(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ga 1.22
+N 0.74
+O 0.68
+P 1.05
+V 1.33
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga1 Ga 0.25185(6) 0.52088(5) 0.53654(5)
+V1 V 0.27958(8) 0.09441(7) 0.35468(7)
+P1 P 0.10063(14) 0.45132(13) 0.30442(12)
+P2 P 0.53780(13) 0.23588(12) 0.50693(12)
+O1 O 0.2118(4) 0.5376(4) 0.3640(3)
+O2 O -0.0828(4) 0.5279(3) 0.3410(3)
+O3 O 0.1221(4) 0.2868(4) 0.3647(4)
+O4 O 0.1425(4) 0.4740(4) 0.1536(3)
+O5 O 0.4572(4) 0.1797(4) 0.4046(3)
+O6 O 0.4189(4) 0.3644(3) 0.5795(3)
+O7 O 0.6892(4) 0.3032(3) 0.4312(3)
+O8 O 0.5917(4) 0.1136(3) 0.6169(3)
+O9 O 0.1607(4) 0.0582(3) 0.5580(3)
+O10 O -0.0794(4) 0.0023(4) 0.6683(3)
+O11 O 0.3445(5) 0.1127(4) 0.1880(3)
+O12 O 0.1095(5) 0.3042(5) -0.0390(5)
+C1 C 0.0224(6) 0.0180(5) 0.5667(4)
+N1 N 0.2817(7) 0.0863(8) 0.7934(6)
+N2 N 0.3757(7) -0.3719(6) 1.0440(5)
+C2 C 0.2294(12) -0.0537(9) 0.8551(8)
+C3 C 0.3196(15) -0.0855(13) 0.9811(10)
+C4? C 0.198(2) -0.1118(19) 1.0136(14)
+C5 C 0.2561(15) -0.2158(13) 1.0687(12)
+C6? C 0.3590(19) -0.1990(16) 1.0606(14)
+C7 C 0.4075(8) -0.4064(8) 0.9012(6)
+C8 C 0.5287(8) -0.4248(8) 1.1063(6)
+H1 H 0.20350 0.12830 0.68270
+H2 H 0.20640 0.15850 0.83300
+H3 H 0.40270 0.00680 0.81020
+H4 H 0.29060 -0.42630 1.09850
+H5 H 0.25650 -0.13570 0.79690
+H6 H 0.12120 -0.06160 0.85100
+H7 H 0.49620 -0.32850 0.84020
+H8 H 0.31620 -0.37410 0.86870
+H9 H 0.44460 -0.40960 1.21540
+H10 H 0.60870 -0.37790 1.05820
+Ga1A Ga -0.25185(6) 0.47912(5) 0.46346(5)
+Ga1A* Ga 0.74815(6) 0.47912(5) 0.46346(5)
+V1A V -0.27958(8) 0.90559(7) 0.64532(7)
+V1A* V 0.72042(8) -0.09441(7) 0.64532(7)
+V1A** V -0.27958(8) -0.09441(7) 0.64532(7)
+V1A*** V 0.72042(8) 0.90559(7) 0.64532(7)
+V1* V 0.27958(8) 1.09441(7) 0.35468(7)
+P1A P -0.10063(14) 0.54868(13) 0.69558(12)
+P2A P 0.46220(13) 0.76412(12) 0.49307(12)
+O1A O -0.2118(4) 0.4624(4) 0.6360(3)
+O2A O 0.0828(4) 0.4721(3) 0.6590(3)
+O3A O -0.1221(4) 0.7132(4) 0.6353(4)
+O4A O -0.1425(4) 0.5260(4) 0.8464(3)
+O5A O 0.5428(4) 0.8203(4) 0.5954(3)
+O5A* O -0.4572(4) 0.8203(4) 0.5954(3)
+O6A O 0.5811(4) 0.6356(3) 0.4205(3)
+O6A* O -0.4189(4) 0.6356(3) 0.4205(3)
+O7A O 0.3108(4) 0.6968(3) 0.5688(3)
+O7* O -0.3108(4) 0.3032(3) 0.4312(3)
+O8A O 0.4083(4) 0.8864(3) 0.3831(3)
+O8A* O 0.4083(4) -0.1136(3) 0.3831(3)
+O8* O -0.4083(4) 1.1136(3) 0.6169(3)
+O9A O -0.1607(4) -0.0582(3) 0.4420(3)
+O9A* O -0.1607(4) 0.9418(3) 0.4420(3)
+O10A O 0.0794(4) -0.0023(4) 0.3317(3)
+O10* O -0.0794(4) 1.0023(4) 0.6683(3)
+O11A O -0.3445(5) 0.8873(4) 0.8120(3)
+C1A C -0.0224(6) -0.0180(5) 0.4333(4)
+N1A N 0.7183(7) -1.0863(8) 1.2066(6)
+N2A N 0.6243(7) -0.6281(6) 0.9560(5)
+C2A C 0.7706(12) -0.9463(9) 1.1449(8)
+C3A C 0.6804(15) -0.9145(13) 1.0189(10)
+C5A C 0.7439(15) -0.7842(13) 0.9313(12)
+C7A C 0.5925(8) -0.5936(8) 1.0988(6)
+C8A C 0.4713(8) -0.5752(8) 0.8937(6)
+H1A H 0.79650 -1.12830 1.31730
+H2A H 0.79360 -1.15850 1.16700
+H3A H 0.59730 -1.00680 1.18980
+H4A H 0.70940 -0.57370 0.90150
+H5A H 0.74350 -0.86430 1.20310
+H6A H 0.87880 -0.93840 1.14900
+H7A H 0.50380 -0.67150 1.15980
+H8A H 0.68380 -0.62590 1.13130
+H9A H 0.55540 -0.59040 0.78460
+H10A H 0.39130 -0.62210 0.94180
+#END

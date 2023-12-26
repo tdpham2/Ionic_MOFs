@@ -1,0 +1,163 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QIMFEA
+_audit_creation_date 2018-11-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QIMFEA
+_database_code_depnum_ccdc_archive 'CCDC 1857694'
+_chemical_formula_sum 'C16 H15 Mg2 N1 O12'
+_chemical_formula_moiety
+;
+(C14 H7 Mg2 O12 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 57
+_journal_year 2018
+_journal_page_first 14280
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Xiao-Juan Lei"
+"Xiang-Yang Hou"
+"Shu-Ni Li"
+"Yu-Cheng Jiang"
+"Guo-Xin Sun"
+"Man-Cheng Hu"
+"Quan-Guo Zhai"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+(\m-acetato)-bis(\m-furan-2,5-dicarboxylato)-di-magnesium]
+;
+_chemical_name_common
+;
+SNNU-36
+;
+_cell_volume   5803.444
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.057
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Disordered dimethylammonium ions were not modelled and the disordered density 
+was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0668
+_refine_ls_wR_factor_gt 0.0668
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_symmetry_Int_Tables_number 139
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,z
+3 -x,-y,z
+4 y,-x,z
+5 x,-y,-z
+6 y,x,-z
+7 -x,y,-z
+8 -y,-x,-z
+9 1/2+x,1/2+y,1/2+z
+10 1/2-y,1/2+x,1/2+z
+11 1/2-x,1/2-y,1/2+z
+12 1/2+y,1/2-x,1/2+z
+13 1/2+x,1/2-y,1/2-z
+14 1/2+y,1/2+x,1/2-z
+15 1/2-x,1/2+y,1/2-z
+16 1/2-y,1/2-x,1/2-z
+17 -x,-y,-z
+18 y,-x,-z
+19 x,y,-z
+20 -y,x,-z
+21 -x,y,z
+22 -y,-x,z
+23 x,-y,z
+24 y,x,z
+25 -1/2-x,-1/2-y,-1/2-z
+26 -1/2+y,-1/2-x,-1/2-z
+27 -1/2+x,-1/2+y,-1/2-z
+28 -1/2-y,-1/2+x,-1/2-z
+29 -1/2-x,-1/2+y,-1/2+z
+30 -1/2-y,-1/2-x,-1/2+z
+31 -1/2+x,-1/2-y,-1/2+z
+32 -1/2+y,-1/2+x,-1/2+z
+_cell_length_a 21.6301(7)
+_cell_length_b 21.6301(7)
+_cell_length_c 12.4042(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mg 1.41
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg 0.18273(5) 0.18273(5) 0.00000
+Mg2 Mg 0.25000 0.25000 -0.25000
+C1 C 0.26691(16) 0.26691(16) 0.00000
+C2 C 0.31581(19) 0.31581(19) 0.00000
+C3 C 0.11214(14) 0.2312(2) 0.1980(3)
+C4 C 0.05020(14) 0.2409(2) 0.2456(3)
+C5 C 0.03277(16) 0.2651(3) 0.3400(3)
+H1 H 0.05850 0.27920 0.39480
+O1 O 0.24557(9) 0.24557(9) -0.0854(2)
+O2 O 0.11404(10) 0.20671(15) 0.10624(18)
+O3 O 0.15594(10) 0.24951(15) 0.25388(18)
+O4 O 0.00000 0.2260(2) 0.1859(2)
+O1E O 0.24557(9) 0.24557(9) 0.0854(2)
+C3T C -0.11214(14) 0.2312(2) 0.1980(3)
+C4T C -0.05020(14) 0.2409(2) 0.2456(3)
+C5T C -0.03277(16) 0.2651(3) 0.3400(3)
+H1T H -0.05850 0.27920 0.39480
+O2T O -0.11404(10) 0.20671(15) 0.10624(18)
+O3T O -0.15594(10) 0.24951(15) 0.25388(18)
+C3E C 0.23120(14) 0.11214(20) -0.1980(3)
+C4E C 0.24090(14) 0.0502(2) -0.2456(3)
+C5E C 0.26510(16) 0.03277(30) -0.3400(3)
+H1E H 0.27920 0.05850 -0.39480
+O2E O 0.20671(10) 0.11404(15) -0.10624(18)
+O3E O 0.24951(10) 0.15594(15) -0.25388(18)
+O4E O 0.22600 0.0000(2) -0.1859(2)
+C3Q C 0.23120(14) -0.11214(20) -0.1980(3)
+C4Q C 0.24090(14) -0.0502(2) -0.2456(3)
+C5Q C 0.26510(16) -0.03277(30) -0.3400(3)
+H1Q H 0.27920 -0.05850 -0.39480
+O2Q O 0.20671(10) -0.11404(15) -0.10624(18)
+O3Q O 0.24951(10) -0.15594(15) -0.25388(18)
+Mg1A Mg -0.18273(5) 0.18273(5) 0.00000
+Mg1C Mg 0.18273(5) -0.18273(5) 0.00000
+Mg2C Mg 0.25000 -0.25000 -0.25000
+Mg2E Mg 0.25000 0.25000 0.25000
+Mg2F Mg -0.25000 0.25000 0.25000
+O1O O 0.25443(9) 0.25443(9) -0.4146(2)
+O2R O 0.11404(10) 0.20671(15) -0.10624(18)
+O2W O 0.20671(10) 0.11404(15) 0.10624(18)
+O3J O 0.34406(10) 0.25049(15) -0.24612(18)
+O3R O 0.15594(10) 0.24951(15) -0.25388(18)
+O3CA O 0.25049(10) 0.34406(15) -0.24612(18)
+#END

@@ -1,0 +1,192 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SIZJUH
+_audit_creation_date 2008-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SIZJUH
+_database_code_depnum_ccdc_archive 'CCDC 615681'
+_chemical_formula_sum 'C10 H42 Mo10 N2 Na8 O55'
+_chemical_formula_moiety
+;
+(C10 H12 Mo10 N2 O40 8-)n,8n(Na1 1+),15n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 47
+_journal_year 2008
+_journal_page_first 3402
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Guang-Gang Gao"
+"Lin Xu"
+"Xiao-Shu Qu"
+"Hong Liu"
+"Yan-Yan Yang"
+_chemical_name_systematic
+;
+catena-(Octa-sodium 
+bis(\m~4~-oxo)-tetrakis(\m~3~-oxo)-(\m~2~-ethylenediaminetetra-acetato-N,N',O,
+O',O'',O''')-octakis(\m~2~-oxo)-octadecaoxo-deca-molybdenum(vi) 
+pentadecahydrate)
+;
+_cell_volume   7881.990
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.89
+_exptl_special_details
+;
+The coordination to the sodium cations has not been represented in the 
+diagram. The structure appears to contain 15 molecules of water, not 35 as 
+stated in the paper
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0556
+_refine_ls_wR_factor_gt 0.0556
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 30.317(6)
+_cell_length_b 21.295(4)
+_cell_length_c 13.384(3)
+_cell_angle_alpha 90
+_cell_angle_beta 114.19(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mo 1.40
+N 0.68
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mo1 Mo 0.225326(16) 0.21006(2) 0.37697(4)
+Mo2 Mo 0.085692(18) 0.15243(3) 0.09841(4)
+Mo3 Mo 0.331331(18) 0.29776(3) 0.46393(4)
+Mo4 Mo 0.125303(19) 0.29944(3) 0.26348(5)
+Mo5 Mo 0.22890(2) 0.36950(3) 0.32448(5)
+Na1 Na 0.1779(2) 0.0344(3) 0.2583(6)
+Na2 Na 0.2337(4) -0.0351(5) 0.5010(9)
+Na3 Na 0.1419(7) 0.3711(8) 0.0084(15)
+Na4 Na 0.3934(6) 0.2321(8) 0.2659(15)
+O1 O -0.0192(3) 0.2909(5) -0.0653(10)
+O2 O 0.08030(18) 0.3115(3) 0.3071(5)
+O3 O 0.28425(16) 0.2093(2) 0.3832(4)
+O4 O 0.20140(16) 0.1410(2) 0.3147(4)
+O5 O 0.10630(15) 0.2143(2) 0.2000(4)
+O6 O 0.1050(2) 0.3336(3) 0.1369(5)
+O7 O 0.19723(15) 0.2717(2) 0.2676(3)
+O8 O 0.25893(14) 0.30779(18) 0.4704(3)
+O9 O 0.3590(2) 0.3678(3) 0.5196(5)
+O10 O 0.09878(18) 0.0868(2) 0.1762(5)
+O11 O 0.2069(2) 0.3940(3) 0.1906(5)
+O12 O 0.16506(13) 0.24210(19) 0.4070(3)
+O13 O 0.1241(2) 0.1525(3) 0.0328(5)
+O14 O 0.03399(19) 0.1014(3) -0.0330(4)
+O15 O 0.16919(17) 0.3654(2) 0.3436(4)
+O16 O 0.2518(2) 0.4350(3) 0.4003(5)
+O17 O 0.28721(17) 0.3323(3) 0.3246(4)
+O18 O 0.37316(18) 0.2594(3) 0.4303(5)
+O19 O -0.0373(2) 0.0546(4) -0.1096(5)
+O20 O 0.04206(18) 0.2240(3) -0.0146(4)
+O21 O 0.1545(4) 0.0188(5) 0.3988(9)
+O22 O 0.2568(5) 0.0044(6) 0.3705(11)
+O23 O 0.1386(4) -0.0522(5) 0.1612(9)
+O24 O 0.1997(5) 0.0637(6) 0.1107(12)
+O25 O 0.1840(4) 0.2613(5) 0.0467(9)
+O26 O 0.2177(5) -0.1449(7) 0.3967(12)
+O27 O 0.2990(6) 0.2082(7) 0.1790(14)
+O28 O 0.3147(10) -0.0783(13) 0.597(2)
+O29 O 0.0602(4) 0.9792(6) 0.3259(10)
+O30 O 0.1642(6) 0.4065(7) 0.5332(13)
+O31 O 0.0874(9) 0.3045(11) -0.116(2)
+O32 O 0.1138(14) 0.4606(18) 0.005(3)
+O33 O 0.3868(11) 0.3445(14) 0.216(3)
+O34 O 0.4236(16) 0.1393(19) 0.497(4)
+O35 O 0.25000 0.25000 0.00000
+N1 N 0.01221(16) 0.1596(3) 0.1204(4)
+C1 C 0.0047(3) 0.2477(5) -0.0068(7)
+C2 C -0.0092(3) 0.2219(4) 0.0791(7)
+H1 H 0.00080 0.25110 0.13990
+H2 H -0.04420 0.21840 0.04950
+C3 C -0.0184(3) 0.1055(4) 0.0588(6)
+H3 H -0.01280 0.07010 0.10820
+H4 H -0.05220 0.11710 0.03270
+C4 C -0.0080(3) 0.0859(4) -0.0365(6)
+C5 C 0.0227(2) 0.1540(3) 0.2393(5)
+H5 H 0.04320 0.18870 0.27850
+H6 H 0.04040 0.11540 0.26760
+Mo1E Mo 0.274674(16) 0.28994(2) 0.62303(4)
+Mo2E Mo 0.414308(18) 0.34757(3) 0.90159(4)
+Mo2B Mo -0.085692(18) 0.15243(3) 0.40159(4)
+Mo3E Mo 0.168669(18) 0.20224(3) 0.53607(4)
+Mo4E Mo 0.374697(19) 0.20056(3) 0.73652(5)
+Mo5E Mo 0.27110(2) 0.13050(3) 0.67552(5)
+O1B O 0.0192(3) 0.2909(5) 0.5653(10)
+O2E O 0.41970(18) 0.1885(3) 0.6929(5)
+O3E O 0.21575(16) 0.2907(2) 0.6168(4)
+O4E O 0.29860(16) 0.3590(2) 0.6853(4)
+O5E O 0.39370(15) 0.2857(2) 0.8000(4)
+O6E O 0.3950(2) 0.1664(3) 0.8631(5)
+O7E O 0.30277(15) 0.2283(2) 0.7324(3)
+O8E O 0.24107(14) 0.19221(18) 0.5296(3)
+O9E O 0.1410(2) 0.1322(3) 0.4804(5)
+O10E O 0.40122(18) 0.4132(2) 0.8238(5)
+O11E O 0.2931(2) 0.1060(3) 0.8094(5)
+O12E O 0.33494(13) 0.25790(19) 0.5930(3)
+O13E O 0.3759(2) 0.3475(3) 0.9672(5)
+O14B O -0.03399(19) 0.1014(3) 0.5330(4)
+O14E O 0.46601(19) 0.3986(3) 1.0330(4)
+O15E O 0.33081(17) 0.1346(2) 0.6564(4)
+O16E O 0.2482(2) 0.0650(3) 0.5997(5)
+O17E O 0.21279(17) 0.1677(3) 0.6754(4)
+O18E O 0.12684(18) 0.2406(3) 0.5697(5)
+O19B O 0.0373(2) 0.0546(4) 0.6096(5)
+O20B O -0.04206(18) 0.2240(3) 0.5146(4)
+O20E O 0.45794(18) 0.2760(3) 1.0146(4)
+N1B N -0.01221(16) 0.1596(3) 0.3796(4)
+N1E N 0.48779(16) 0.3404(3) 0.8796(4)
+C1B C -0.0047(3) 0.2477(5) 0.5068(7)
+C2B C 0.0092(3) 0.2219(4) 0.4209(7)
+H1B H -0.00080 0.25110 0.36010
+H2B H 0.04420 0.21840 0.45050
+C3B C 0.0184(3) 0.1055(4) 0.4412(6)
+H3B H 0.01280 0.07010 0.39180
+H4B H 0.05220 0.11710 0.46730
+C4B C 0.0080(3) 0.0859(4) 0.5365(6)
+C5B C -0.0227(2) 0.1540(3) 0.2607(5)
+H5B H -0.04320 0.18870 0.22150
+H6B H -0.04040 0.11540 0.23240
+#END

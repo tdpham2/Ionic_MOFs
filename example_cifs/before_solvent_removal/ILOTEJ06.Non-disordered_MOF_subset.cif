@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ILOTEJ06
+_audit_creation_date 2017-01-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ILOTEJ06
+_database_code_depnum_ccdc_archive 'CCDC 1530295'
+_chemical_formula_sum 'C8 H14 Fe1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+C2 H8 N1 1+,n(C6 H6 Fe1 Mn1 O12 1-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 56
+_journal_year 2017
+_journal_page_first 197
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"L.Mazzuca"
+"L.Canadillas-Delgado"
+"J.Alberto Rodriguez-Velamazan"
+"O.Fabelo"
+"M.Scarrozza"
+"A.Stroppa"
+"SilviaPicozzi"
+"Jiong-Peng Zhao"
+"Xian-He Bu"
+"J.Rodriguez-Carvajal"
+_chemical_name_systematic
+;
+catena-[dimethylammonium hexakis(\m-formato)-iron(iii)-manganese(ii)]
+;
+_cell_volume    823.604
+_exptl_crystal_colour 'dark yellow'
+_exptl_crystal_density_diffrn 1.722
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 75
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.3333.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0354
+_refine_ls_wR_factor_gt 0.0354
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.2744(1)
+_cell_length_b 8.2744(1)
+_cell_length_c 13.8904(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.66670 0.33330 0.25000
+Fe1 Fe 1.00000 0.00000 0.00000
+O1 O 0.88898(19) 0.34220(18) 0.16603(10)
+O2 O 1.01577(16) 0.20817(17) 0.08187(9)
+C1 C 0.8785(2) 0.2112(2) 0.11848(11)
+H1 H 0.76080 0.10760 0.10910
+C2 C 1.33330 0.66670 0.1604(18)
+N1 N 1.2799(7) 0.5598(14) 0.25000
+O1A O 0.65780(19) -0.45322(18) 0.16603(10)
+O2A O 0.79183(16) -0.19240(17) 0.08187(9)
+C1A C 0.7888(2) -0.3327(2) 0.11848(11)
+H1A H 0.89240 -0.34680 0.10910
+O1A* O 0.65780(19) 0.54678(18) 0.16603(10)
+O2A* O 0.79183(16) 0.80760(17) 0.08187(9)
+C1A* C 0.7888(2) 0.6673(2) 0.11848(11)
+H1A* H 0.89240 0.65320 0.10910
+O1B O 0.45322(19) 0.11102(18) 0.16603(10)
+O2B O 0.19240(16) -0.01577(17) 0.08187(9)
+C1B C 0.3327(2) 0.1215(2) 0.11848(11)
+H1B H 0.34680 0.23920 0.10910
+O1B* O 1.45322(19) 0.11102(18) 0.16603(10)
+O2B* O 1.19240(16) -0.01577(17) 0.08187(9)
+C1B* C 1.3327(2) 0.1215(2) 0.11848(11)
+H1B* H 1.34680 0.23920 0.10910
+O1C O 0.65780(19) 0.11102(18) 0.33397(10)
+O2C O 0.79183(16) -0.01577(17) 0.41813(9)
+C1C C 0.7888(2) 0.1215(2) 0.38152(11)
+H1C H 0.89240 0.23920 0.39090
+Mn1* Mn 0.66670 -0.66670 0.25000
+Mn1** Mn 1.66670 0.33330 0.25000
+Fe1* Fe 0.00000 0.00000 0.00000
+Fe1** Fe 1.00000 1.00000 0.00000
+Fe1C Fe 1.00000 0.00000 0.50000
+O1D O 0.45322(19) 0.34220(18) 0.33397(10)
+O1E O 0.88898(19) 0.54678(18) 0.33397(10)
+O2F O 0.98423(16) -0.20817(17) -0.08187(9)
+O2G O 1.20817(16) 0.19240(17) -0.08187(9)
+O2H O 0.80760(16) 0.01577(17) -0.08187(9)
+N1A N 1.4402(7) 0.7201(14) 0.25000
+N1B N 1.2799(7) 0.7201(14) 0.25000
+C2C C 1.33330 0.66670 0.3396(18)
+#END

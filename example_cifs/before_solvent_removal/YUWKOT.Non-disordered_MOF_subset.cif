@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUWKOT
+_audit_creation_date 2020-08-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUWKOT
+_database_code_depnum_ccdc_archive 'CCDC 2011400'
+_chemical_formula_sum 'C6 H13 N1 O16 Zr1'
+_chemical_formula_moiety
+;
+(C6 O12 Zr1 2-)n,H3 O1 1+,H4 N1 1+,3(H2 O1)
+;
+_journal_coden_Cambridge 2066
+_journal_volume 5
+_journal_year 2020
+_journal_page_first 21260
+_journal_name_full 'ACS Omega '
+loop_
+_publ_author_name
+"R.Thomas"
+"P.Devaux"
+"M.Rivenet"
+"N.Henry"
+"F.Abraham"
+_chemical_name_systematic
+;
+catena-[ammonium oxonium (\m-oxalato)-bis(oxalato)-zirconium trihydrate]
+;
+_cell_volume   1416.849
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.093
+_exptl_crystal_description 'Plate'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0248
+_refine_ls_wR_factor_gt 0.0248
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.3411(7)
+_cell_length_b 11.1701(8)
+_cell_length_c 14.2537(9)
+_cell_angle_alpha 90
+_cell_angle_beta 107.699(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zr 1.75
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zr1 Zr 0.39207(2) 0.10223(2) 0.24528(2)
+C1 C 0.42248(15) 0.37367(11) 0.2372(1)
+C2 C 0.58143(14) 0.32918(11) 0.25394(9)
+C3 C 0.29194(18) 0.10865(13) 0.02159(11)
+C4 C 0.14367(17) 0.11696(13) 0.04747(11)
+C5 C 0.27927(17) 0.10932(13) 0.42349(11)
+C6 C 0.44913(17) 0.13243(13) 0.46491(11)
+O1 O 0.68023(11) 0.41049(8) 0.26763(8)
+O2 O 0.40403(11) 0.48481(9) 0.23322(8)
+O3 O 0.60000(11) 0.21962(8) 0.25318(8)
+O4 O 0.32365(11) 0.29456(8) 0.22876(8)
+O5 O 0.29344(17) 0.11701(13) -0.06305(9)
+O6 O 0.02365(15) 0.13350(13) -0.01532(9)
+O7 O 0.40804(12) 0.09391(10) 0.09894(8)
+O8 O 0.16289(11) 0.10529(9) 0.14101(8)
+O9 O 0.51530(12) 0.13449(11) 0.39731(8)
+O10 O 0.23641(12) 0.09427(10) 0.32897(8)
+O11 O 0.51191(14) 0.14733(12) 0.55260(8)
+O12 O 0.19912(15) 0.10700(12) 0.4764(1)
+O13 O 0.92280(15) 0.13622(14) 0.19831(11)
+H1 H 0.812(2) 0.142(2) 0.1305(16)
+H2 H 0.995(3) 0.120(2) 0.1795(18)
+H3 H 0.945(3) 0.203(2) 0.2364(17)
+O14 O 0.68493(15) 0.14667(13) 0.06360(11)
+H4 H 0.621(3) 0.105(2) 0.0791(18)
+H5 H 0.647(3) 0.213(2) 0.0616(18)
+O15 O 0.97917(18) 0.33935(15) 0.28315(10)
+H6 H 1.045(3) 0.341(2) 0.3306(17)
+H7 H 0.895(3) 0.366(2) 0.2913(19)
+O16 O 0.84180(17) 0.34126(15) 0.97184(14)
+H8 H 0.870(3) 0.270(2) 0.967(2)
+H9 H 0.745(3) 0.345(3) 0.947(2)
+N1 N 0.0639(2) 0.46466(18) 0.12988(14)
+H10 H -0.011(3) 0.424(2) 0.0850(18)
+H11 H 0.055(3) 0.445(2) 0.1869(17)
+H12 H 0.139(3) 0.430(2) 0.1215(18)
+H13 H 0.067(3) 0.535(2) 0.1101(18)
+Zr1A Zr 0.60793(2) 0.60223(2) 0.25472(2)
+O1A O 0.31977(11) -0.08951(8) 0.23237(8)
+O2A O 0.59597(11) -0.01519(9) 0.26678(8)
+#END

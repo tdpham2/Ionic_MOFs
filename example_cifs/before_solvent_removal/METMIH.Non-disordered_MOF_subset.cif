@@ -1,0 +1,158 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_METMIH
+_audit_creation_date 2002-03-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD METMIH
+_database_code_depnum_ccdc_archive 'CCDC 163683'
+_chemical_formula_sum 'C10 H40 Li2 N10 S1 Sn1 Te2'
+_chemical_formula_moiety
+;
+(C10 H40 Li2 N10 2+)n,n(S1 Sn1 Te2 2-)
+;
+_journal_coden_Cambridge 29
+_journal_volume 628
+_journal_year 2002
+_journal_page_first 279
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"S.Dehnen"
+"C.Zimmermann"
+"C.E.Anson"
+_chemical_name_systematic
+;
+catena-(tris(\m~2~-1,2-Diaminoethano)-bis(1,2-diaminoethane)-di-lithium 
+ditellurido-sulfido-tin(iv))
+;
+_cell_volume   2528.311
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.892
+_exptl_crystal_description 'platelets'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0421
+_refine_ls_wR_factor_gt 0.0421
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 9.0610(7)
+_cell_length_b 12.2937(12)
+_cell_length_c 22.772(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.646(10)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Li 1.06
+N 0.68
+S 1.02
+Sn 1.46
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn1 Sn 0.55936(4) 0.37815(3) 0.033090(16)
+Te1 Te 0.65355(5) 0.36509(3) 0.146900(17)
+Te2 Te 0.56681(5) 0.19447(3) -0.028776(18)
+S1 S 0.30988(17) 0.46966(10) 0.01498(6)
+N1 N 0.2545(6) 0.7812(4) 0.3652(2)
+H1 H 0.163(9) 0.806(5) 0.351(3)
+H2 H 0.264(8) 0.828(6) 0.398(3)
+C1 C 0.3732(7) 0.8139(5) 0.3287(3)
+H3 H 0.34930 0.78660 0.28910
+H4 H 0.46400 0.77850 0.34410
+C2 C 0.4025(7) 0.9348(5) 0.3249(3)
+H5 H 0.47190 0.94700 0.29530
+H6 H 0.31070 0.97100 0.31160
+N2 N 0.4615(7) 0.9853(4) 0.3800(3)
+H7 H 0.411(9) 0.971(6) 0.407(3)
+H8 H 0.533(10) 0.959(6) 0.392(3)
+N3 N 0.5415(9) 0.8051(6) 0.5371(4)
+H9 H 0.548(12) 0.862(8) 0.528(5)
+H10 H 0.622(12) 0.812(8) 0.534(5)
+C3 C 0.4709(15) 0.7322(9) 0.4965(4)
+H11 H 0.54670 0.70380 0.47290
+H12 H 0.40430 0.77490 0.47010
+C4 C 0.3928(14) 0.6460(9) 0.5136(5)
+H13 H 0.46400 0.59500 0.53200
+H14 H 0.33370 0.67170 0.54450
+N4 N 0.2964(9) 0.5852(5) 0.4739(4)
+H15 H 0.233(11) 0.518(8) 0.481(4)
+H16 H 0.362(9) 0.546(7) 0.459(4)
+N5 N 0.3934(7) 0.2236(5) 0.3097(3)
+H17 H 0.306(11) 0.213(7) 0.308(4)
+H18 H 0.413(10) 0.195(7) 0.277(2)
+C5 C 0.4216(9) 0.3374(6) 0.2988(4)
+H19 H 0.40330 0.35230 0.25700
+H20 H 0.52470 0.35360 0.31030
+C6 C 0.3270(9) 0.4068(7) 0.3318(5)
+H21 H 0.33940 0.38620 0.37300
+H22 H 0.22460 0.39320 0.31800
+N6 N 0.3571(7) 0.5273(5) 0.3270(3)
+H23 H 0.363(10) 0.555(7) 0.295(4)
+H24 H 0.440(11) 0.545(7) 0.340(4)
+N7 N -0.3131(7) 0.5738(5) 0.3721(3)
+H25 H -0.304(10) 0.635(7) 0.362(4)
+H26 H -0.278(10) 0.561(7) 0.409(4)
+C7 C -0.2241(7) 0.5027(5) 0.3377(3)
+H27 H -0.27650 0.49200 0.29930
+H28 H -0.21630 0.43240 0.35700
+C8 C -0.0700(7) 0.5423(5) 0.3288(3)
+H29 H -0.02120 0.48790 0.30640
+H30 H -0.07810 0.60800 0.30510
+N8 N 0.0232(6) 0.5652(4) 0.3820(3)
+H31 H -0.014(9) 0.613(6) 0.404(3)
+H32 H 0.039(8) 0.510(4) 0.404(3)
+N9 N 1.0501(7) 1.1377(5) 0.3208(3)
+H33 H 1.033(10) 1.079(7) 0.325(4)
+H34 H 1.074(10) 1.158(7) 0.359(4)
+C9 C 0.9338(8) 1.2069(6) 0.2953(3)
+H35 H 0.93990 1.20800 0.25300
+H36 H 0.95300 1.28030 0.30960
+C10 C 0.7764(7) 1.1775(6) 0.3071(3)
+H37 H 0.71100 1.23180 0.28820
+H38 H 0.75260 1.10860 0.28790
+N10 N 0.7423(6) 1.1683(4) 0.3682(2)
+H39 H 0.791(7) 1.219(4) 0.388(3)
+H40 H 0.765(8) 1.107(3) 0.382(3)
+Li1 Li 0.2390(12) 0.6156(8) 0.3824(5)
+Li2 Li 0.5180(12) 1.1501(8) 0.3804(5)
+S1B S 0.69012(17) 0.53034(10) -0.01498(6)
+Sn1B Sn 0.44064(4) 0.62185(3) -0.033090(16)
+Li2B Li 0.4820(12) 0.8499(8) 0.6196(5)
+Li2* Li 0.5180(12) 0.1501(8) 0.3804(5)
+N3B N 0.4585(9) 1.1949(6) 0.4629(4)
+N5* N 0.3934(7) 1.2236(5) 0.3097(3)
+H9B H 0.452(12) 1.138(8) 0.472(5)
+H10B H 0.378(12) 1.188(8) 0.466(5)
+H17* H 0.306(11) 1.213(7) 0.308(4)
+H18* H 0.413(10) 1.195(7) 0.277(2)
+#END

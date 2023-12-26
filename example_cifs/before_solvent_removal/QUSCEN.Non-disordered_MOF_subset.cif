@@ -1,0 +1,177 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QUSCEN
+_audit_creation_date 2011-05-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QUSCEN
+_database_code_depnum_ccdc_archive 'CCDC 733217'
+_chemical_formula_sum 'C30 H24 Cd1 Li1 N1 O10'
+_chemical_formula_moiety
+;
+(C28 H16 Cd1 Li1 O10 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 10
+_journal_year 2010
+_journal_page_first 146
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Jian-Di Lin"
+"Xi-Fa Long"
+"Ping Lin"
+"Shao-Wu Du"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium bis(\m~4~-4,4'-oxybis(benzoato))-cadmium-lithium)
+;
+_cell_volume   3572.576
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.257
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The cation is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0358
+_refine_ls_wR_factor_gt 0.0358
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I -4 2 d'
+_symmetry_Int_Tables_number 122
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 y,-x,-z
+4 -y,x,-z
+5 1/2-x,y,3/4-z
+6 1/2+x,-y,3/4-z
+7 1/2-y,-x,3/4+z
+8 1/2+y,x,3/4+z
+9 1/2+x,1/2+y,1/2+z
+10 1/2-x,1/2-y,1/2+z
+11 1/2+y,1/2-x,1/2-z
+12 1/2-y,1/2+x,1/2-z
+13 -x,1/2+y,1/4-z
+14 x,1/2-y,1/4-z
+15 -y,1/2-x,1/4+z
+16 y,1/2+x,1/4+z
+_cell_length_a 23.3033(8)
+_cell_length_b 23.3033(8)
+_cell_length_c 6.5788(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+Li 1.28
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.00000 -0.50000 0.75000
+O1 O -0.03725(14) -0.45566(13) 0.4545(8)
+O2 O -0.07442(16) -0.42430(15) 0.7323(17)
+O3 O -0.19148(18) -0.25000 0.12500
+N1 N -0.0292(4) 0.25000 0.62500
+C1 C -0.07083(17) -0.42190(17) 0.5472(8)
+C2 C -0.10212(17) -0.37746(15) 0.4276(6)
+C3 C -0.1457(2) -0.3468(2) 0.5236(9)
+H1 H -0.15540 -0.35530 0.65730
+C4 C -0.1745(2) -0.3038(2) 0.4223(10)
+H2 H -0.20340 -0.28340 0.48780
+C5 C -0.16070(15) -0.29133(17) 0.2275(8)
+C6 C -0.1191(2) -0.3244(2) 0.1259(7)
+H3 H -0.11130 -0.31770 -0.01080
+C7 C -0.09011(18) -0.36611(18) 0.2281(6)
+H4 H -0.06190 -0.38710 0.16160
+C8 C -0.0055(17) 0.2933(14) 0.785(12)
+H5 H 0.01930 0.32040 0.71920
+H6 H 0.01560 0.27280 0.88720
+H7 H -0.03700 0.31330 0.84750
+C9? C -0.071(3) 0.2068(19) 0.723(11)
+H8? H -0.08380 0.17970 0.62180
+H9? H -0.10410 0.22700 0.77490
+H10? H -0.05260 0.18680 0.83130
+Li1 Li 0.00000 -0.50000 0.25000
+Cd1F Cd 0.00000 0.00000 -0.50000
+Cd1F* Cd 0.00000 -1.00000 -0.50000
+O1M O -0.03725(14) -0.04434(13) -0.2045(8)
+O1A O 0.03725(14) -0.54434(13) 0.4545(8)
+O1L O 0.03725(14) -0.95566(13) -0.2045(8)
+O1J O 0.04434(14) -0.46275(13) 1.0455(8)
+O1K O -0.04434(14) -0.53725(13) 1.0455(8)
+O1K* O -0.04434(14) -0.53725(13) 0.0455(8)
+O1J* O 0.04434(14) -0.46275(13) 0.0455(8)
+O2M O -0.07442(16) -0.07570(15) -0.4823(17)
+O2A O 0.07442(16) -0.57570(15) 0.7323(17)
+O2L O 0.07442(16) -0.92430(15) -0.4823(17)
+O2J O 0.07570(16) -0.42558(15) 0.7677(17)
+O2K O -0.07570(16) -0.57442(15) 0.7677(17)
+O3A O 0.19148(18) -0.75000 0.12500
+C1M C -0.07083(17) -0.07810(17) -0.2972(8)
+C1A C 0.07083(17) -0.57810(17) 0.5472(8)
+C1L C 0.07083(17) -0.92190(17) -0.2972(8)
+C2M C -0.10212(17) -0.12254(15) -0.1776(6)
+C2A C 0.10212(17) -0.62254(15) 0.4276(6)
+C2L C 0.10212(17) -0.87746(15) -0.1776(6)
+C3M C -0.1457(2) -0.1532(2) -0.2736(9)
+C3A C 0.1457(2) -0.6532(2) 0.5236(9)
+C3L C 0.1457(2) -0.8468(2) -0.2736(9)
+H1M H -0.15540 -0.14470 -0.40730
+H1A H 0.15540 -0.64470 0.65730
+H1L H 0.15540 -0.85530 -0.40730
+C4M C -0.1745(2) -0.1962(2) -0.1723(10)
+C4A C 0.1745(2) -0.6962(2) 0.4223(10)
+C4L C 0.1745(2) -0.8038(2) -0.1723(10)
+H2M H -0.20340 -0.21660 -0.23780
+H2A H 0.20340 -0.71660 0.48780
+H2L H 0.20340 -0.78340 -0.23780
+C5M C -0.16070(15) -0.20867(17) 0.0225(8)
+C5A C 0.16070(15) -0.70867(17) 0.2275(8)
+C5L C 0.16070(15) -0.79133(17) 0.0225(8)
+C6M C -0.1191(2) -0.1756(2) 0.1241(7)
+C6A C 0.1191(2) -0.6756(2) 0.1259(7)
+C6L C 0.1191(2) -0.8244(2) 0.1241(7)
+H3M H -0.11130 -0.18230 0.26080
+H3A H 0.11130 -0.68230 -0.01080
+H3L H 0.11130 -0.81770 0.26080
+C7M C -0.09011(18) -0.13389(18) 0.0219(6)
+C7A C 0.09011(18) -0.63389(18) 0.2281(6)
+C7L C 0.09011(18) -0.86611(18) 0.0219(6)
+H4M H -0.06190 -0.11290 0.08840
+H4A H 0.06190 -0.61290 0.16160
+H4L H 0.06190 -0.88710 0.08840
+C8M C -0.0055(17) 0.2067(14) 0.465(12)
+H5M H 0.01930 0.17960 0.53080
+H6M H 0.01560 0.22720 0.36280
+H7M H -0.03700 0.18670 0.40250
+Li1F Li 0.00000 0.00000 0.00000
+Li1F* Li 0.00000 -1.00000 0.00000
+#END

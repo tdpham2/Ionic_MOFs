@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEFLUH
+_audit_creation_date 2017-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEFLUH
+_database_code_depnum_ccdc_archive 'CCDC 1537292'
+_chemical_formula_sum 'C9 H18 Al1 N2 Na1 O12'
+_chemical_formula_moiety
+;
+C3 H12 N2 2+,n(C6 H6 Al1 Na1 O12 2-)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 23
+_journal_year 2017
+_journal_page_first 9857
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Yao Yu"
+"Ran Shang"
+"Sa Chen"
+"Bin-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[(propane-1,3-diaminium) hexakis(\m-formato)-aluminium(iii)-sodium(i)]
+;
+_cell_volume   1661.130
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.584
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0248
+_refine_ls_wR_factor_gt 0.0248
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.1658(2)
+_cell_length_b 14.4097(3)
+_cell_length_c 14.1173(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.166(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.21
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1 Al 0.72440(4) 0.42494(2) 0.27290(2)
+Na1 Na 0.22422(5) 0.27743(3) 0.00652(3)
+O1 O 0.53491(9) 0.44048(5) 0.19728(6)
+O2 O 0.3332(1) 0.40518(6) 0.09807(6)
+O3 O 0.63287(9) 0.51577(5) 0.35358(6)
+O4 O 0.61991(10) 0.65980(6) 0.41006(6)
+O5 O 0.90731(9) 0.41578(5) 0.35350(6)
+O6 O 1.11944(10) 0.34662(6) 0.42227(6)
+O7 O 0.79891(9) 0.33113(5) 0.18851(6)
+O8 O 0.97793(10) 0.26223(6) 0.09381(6)
+O9 O 0.63210(9) 0.32759(5) 0.34638(6)
+O10 O 0.47216(10) 0.22192(5) 0.41182(6)
+O11 O 0.84303(10) 0.51496(6) 0.20522(6)
+O12 O 0.91853(10) 0.61681(6) 0.09619(6)
+C1 C 0.45879(14) 0.38503(8) 0.14300(8)
+H1 H 0.50090 0.32390 0.13640
+C2 C 0.69706(14) 0.59210(8) 0.38042(8)
+H2 H 0.81290 0.59730 0.37740
+C3 C 0.99640(13) 0.34524(8) 0.37322(8)
+H3 H 0.96400 0.28710 0.34750
+C4 C 0.93784(14) 0.32550(8) 0.14794(8)
+H4 H 1.01560 0.37310 0.16020
+C5 C 0.49252(14) 0.29267(8) 0.36427(8)
+H5 H 0.39830 0.32290 0.33950
+C6 C 0.81664(14) 0.56479(8) 0.13345(9)
+H6 H 0.71050 0.56230 0.10580
+N1 N 0.26257(12) 0.59627(7) 0.14283(7)
+H7 H 0.28460 0.53660 0.12620
+H8 H 0.32290 0.63550 0.10640
+H9 H 0.15410 0.60800 0.13380
+C7 C 0.30555(13) 0.61065(8) 0.24523(8)
+H10 H 0.29670 0.67730 0.26130
+H11 H 0.41990 0.59080 0.25680
+C8 C 0.24193(15) 0.54863(8) 0.41079(8)
+H12 H 0.15210 0.52050 0.44800
+H13 H 0.33890 0.50770 0.41630
+C9 C 0.19030(14) 0.55470(8) 0.30728(8)
+H14 H 0.18210 0.49100 0.28140
+H15 H 0.07990 0.58290 0.30390
+N2 N 0.28243(12) 0.64177(7) 0.45105(7)
+H16 H 0.38250 0.66010 0.42980
+H17 H 0.28410 0.63830 0.51540
+H18 H 0.20530 0.68360 0.43240
+Na1* Na 1.22422(5) 0.27743(3) 0.00652(3)
+Na1A Na 0.77578(5) 0.77743(3) 0.49348(3)
+Na1B Na 0.77578(5) 0.72257(3) -0.00652(3)
+Na1C Na 0.22422(5) 0.22257(3) 0.50652(3)
+Na1C* Na 1.22422(5) 0.22257(3) 0.50652(3)
+O4A O 0.38009(10) 0.15980(6) 0.08994(6)
+O6C O 0.11944(10) 0.15338(6) -0.07773(6)
+O8* O -0.02207(10) 0.26223(6) 0.09381(6)
+O10C O 0.47216(10) 0.27808(5) -0.08818(6)
+O12B O 0.08147(10) 0.38319(6) -0.09619(6)
+#END

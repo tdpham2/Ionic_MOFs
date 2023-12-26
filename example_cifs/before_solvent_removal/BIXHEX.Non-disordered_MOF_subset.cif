@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BIXHEX
+_audit_creation_date 2014-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BIXHEX
+_database_code_depnum_ccdc_archive 'CCDC 940808'
+_chemical_formula_sum 'C20 H15 F6 Li1 N10'
+_chemical_formula_moiety
+;
+(C12 F6 Li1 N8 1-)n,n(C8 H15 N2 1+)
+;
+_journal_coden_Cambridge 1326
+_journal_volume 16
+_journal_year 2014
+_journal_page_first 11417
+_journal_name_full 'Phys.Chem.Chem.Phys.(PCCP) '
+loop_
+_publ_author_name
+"L.Niedzicki"
+"E.Karpierz"
+"M.Zawadzki"
+"M.Dranka"
+"M.Kasprzyk"
+"A.Zalewska"
+"M.Marcinek"
+"J.Zachara"
+"U.Domanska"
+"W.Wieczorek"
+_chemical_name_systematic
+;
+catena-[1-butyl-3-methyl-1H-imidazol-3-ium 
+(\m~2~-4,5-dicyano-2-(trifluoromethyl)-1H-imidazol-1-yl)-(\m~2~-4,5-dicyano-2-
+(trifluoromethyl)-1H-imidazol-1-ido)-lithium]
+;
+_cell_volume   1148.674
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.493
+_exptl_special_details
+;
+Moisture-sensitive
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0298
+_refine_ls_wR_factor_gt 0.0298
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.42410(11)
+_cell_length_b 11.66815(17)
+_cell_length_c 12.85431(18)
+_cell_angle_alpha 73.0547(13)
+_cell_angle_beta 74.4505(12)
+_cell_angle_gamma 76.7560(12)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+Li 1.28
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+F1 F 0.42315(9) 0.89973(7) 0.18574(6)
+F2 F 0.68087(9) 0.90079(7) 0.10196(6)
+F3 F 0.50854(11) 0.87223(7) 0.01907(6)
+F4 F 0.64896(10) -0.05836(7) 0.63479(7)
+F5 F 0.48819(10) -0.18469(7) 0.65073(7)
+F6 F 0.47905(10) -0.11600(7) 0.78996(6)
+N1 N 0.54819(13) 0.66286(9) 0.27512(8)
+N2 N 0.65447(14) 0.63753(10) 0.09800(9)
+N3 N 0.77871(18) 0.32851(11) 0.10742(10)
+N4 N 0.58428(13) 0.36848(9) 0.45798(9)
+N5 N 0.38941(13) 0.13512(9) 0.61377(8)
+N6 N 0.21376(13) 0.00016(10) 0.64178(9)
+N7 N -0.17683(14) 0.1684(1) 0.59712(9)
+N8 N 0.17258(14) 0.43108(10) 0.52894(10)
+C1 C 0.58467(15) 0.71241(11) 0.16497(10)
+C2 C 0.66474(16) 0.52710(11) 0.17197(10)
+C3 C 0.60076(15) 0.54198(11) 0.27969(10)
+C4 C 0.72888(18) 0.41650(13) 0.13656(11)
+C5 C 0.58937(15) 0.44784(11) 0.38034(10)
+C6 C 0.54936(16) 0.84641(12) 0.11784(10)
+C7 C 0.36394(16) 0.01919(11) 0.6422(1)
+C8 C 0.13306(16) 0.11551(12) 0.60927(10)
+C9 C 0.23926(16) 0.19774(11) 0.59203(10)
+C10 C -0.03833(17) 0.14283(11) 0.60126(10)
+C11 C 0.20441(15) 0.32717(12) 0.55685(11)
+C12 C 0.49497(16) -0.08500(12) 0.67916(11)
+Li1 Li 0.5702(3) 0.23517(19) 0.60449(18)
+N9 N 0.13556(14) 0.38767(10) 0.24351(9)
+N10 N 0.08862(14) 0.22548(10) 0.21704(9)
+C13 C 0.17804(16) 0.31470(12) 0.17481(11)
+H1 H 0.25910 0.32480 0.10670
+C14 C -0.01608(16) 0.24208(12) 0.31589(11)
+H2 H -0.09400 0.19160 0.36330
+C15 C 0.01298(16) 0.34375(12) 0.33272(11)
+H3 H -0.04060 0.37840 0.39420
+C16 C 0.10007(18) 0.12542(12) 0.16678(11)
+H4 H 0.15900 0.14570 0.08860
+H5 H -0.01250 0.11220 0.17110
+H6 H 0.16140 0.05130 0.20700
+C17 C 0.20345(18) 0.49933(13) 0.22447(12)
+H7 H 0.31370 0.49430 0.17220
+H8 H 0.22070 0.50510 0.29590
+C18 C 0.09033(17) 0.61359(12) 0.17728(11)
+H9 H -0.01550 0.62480 0.23270
+H10 H 0.06360 0.60570 0.10950
+C19 C 0.17767(18) 0.72301(12) 0.14874(12)
+H11 H 0.20650 0.72840 0.21680
+H12 H 0.28330 0.71040 0.09350
+C20 C 0.07344(19) 0.84240(13) 0.10214(12)
+H13 H 0.04220 0.83740 0.03560
+H14 H 0.13860 0.90820 0.08230
+H15 H -0.02770 0.85860 0.15840
+N1A N 0.45181(13) 0.33714(9) 0.72488(8)
+N7* N 0.82317(14) 0.1684(1) 0.59712(9)
+Li1* Li -0.4298(3) 0.23517(19) 0.60449(18)
+Li1A Li 0.4298(3) 0.76483(19) 0.39551(18)
+#END

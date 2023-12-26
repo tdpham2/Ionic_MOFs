@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DADPAC
+_audit_creation_date 2016-12-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DADPAC
+_database_code_depnum_ccdc_archive 'CCDC 1508535'
+_chemical_formula_sum 'C8 H25 Fe1 N2 O25 S4 Sm2'
+_chemical_formula_moiety
+;
+(C4 H4 Fe1 O22 S4 Sm2 1-)n,C2 H8 N1 1+,3(H2 O1),C2 H7 N1
+;
+_journal_coden_Cambridge 1147
+_journal_volume 17
+_journal_year 2017
+_journal_page_first 347
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Xingxiang He"
+"Weiwei Cheng"
+"Qingfang Lin"
+"Yayu Dong"
+"Yan Xu"
+_chemical_name_systematic
+;
+catena-[dimethylammonium dimethylamine 
+(\m-tartarato)-tetrakis(\m-sulfato)-iron(iii)-di-samarium(iii) trihydrate]
+;
+_cell_volume   3212.225
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.138
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0498
+_refine_ls_wR_factor_gt 0.0498
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.498(4)
+_cell_length_b 16.400(4)
+_cell_length_c 12.660(3)
+_cell_angle_alpha 90
+_cell_angle_beta 93.360(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+S 1.02
+Sm 1.98
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sm1 Sm 0.12257(3) 0.19019(3) 0.91378(3)
+Fe1 Fe 0.00000 0.05061(10) 0.75000
+S1 S 0.10822(12) 0.21911(14) 0.66777(15)
+S2 S 0.18208(13) 0.35054(14) 1.07458(19)
+O1 O 0.0538(4) 0.0629(4) 0.9015(5)
+O2 O 0.1035(4) 0.1416(3) 0.7294(5)
+O3 O 0.0861(4) 0.1427(4) 1.0790(4)
+O4 O 0.0252(4) 0.2343(4) 0.6097(5)
+O5 O 0.1246(5) 0.3256(5) 0.9860(7)
+O6 O 0.1236(4) 0.2823(4) 0.7499(5)
+O7 O 0.0751(5) 0.0402(4) 1.1860(6)
+O8 O 0.1774(4) 0.2172(6) 0.5981(6)
+O9 O 0.2534(4) 0.4006(4) 1.0429(6)
+C1 C 0.0636(6) 0.0727(6) 1.0969(8)
+O10 O 0.1313(5) 0.3891(6) 1.1528(8)
+O11 O 0.2251(5) 0.2755(6) 1.1179(8)
+C2 C 0.0368(8) 0.0231(8) 0.9960(9)
+H1 H 0.08130 -0.01940 0.99850
+C3 C -0.1107(15) -0.2317(17) 0.6653(19)
+H2 H -0.10060 -0.27490 0.71570
+H3 H -0.12940 -0.25430 0.59790
+H4 H -0.05820 -0.20150 0.65860
+C4 C -0.2192(15) -0.0994(14) 0.654(2)
+H5 H -0.26200 -0.07760 0.69820
+H6 H -0.17460 -0.05960 0.64650
+H7 H -0.24570 -0.11240 0.58580
+N1 N -0.1812(15) -0.1743(13) 0.7036(19)
+H8 H -0.22620 -0.20660 0.71310
+H9 H -0.16180 -0.15880 0.76800
+O12 O 0.2222(15) 0.5046(17) 0.8601(18)
+H10 H 0.25210 0.51210 0.91530
+H11 H 0.20160 0.45860 0.86730
+O13 O 0.006(3) 0.434(3) 0.8523(8)
+O1D O -0.0538(4) -0.0629(4) 1.0985(5)
+O3D O -0.0861(4) -0.1427(4) 0.9210(4)
+O7D O -0.0751(5) -0.0402(4) 0.8140(6)
+C1D C -0.0636(6) -0.0727(6) 0.9031(8)
+C2D C -0.0368(8) -0.0231(8) 1.0040(9)
+H1D H -0.08130 0.01940 1.00150
+Sm1A Sm -0.12257(3) 0.19019(3) 0.58622(3)
+S1A S -0.10822(12) 0.21911(14) 0.83223(15)
+S2A S -0.18208(13) 0.35054(14) 0.42542(19)
+O2A O -0.1035(4) 0.1416(3) 0.7706(5)
+O4A O -0.0252(4) 0.2343(4) 0.8903(5)
+O5A O -0.1246(5) 0.3256(5) 0.5140(7)
+O6A O -0.1236(4) 0.2823(4) 0.7501(5)
+O8A O -0.1774(4) 0.2172(6) 0.9019(6)
+O9A O -0.2534(4) 0.4006(4) 0.4571(6)
+O10A O -0.1313(5) 0.3891(6) 0.3472(8)
+O11A O -0.2251(5) 0.2755(6) 0.3821(8)
+Sm1D Sm -0.12257(3) -0.19019(3) 1.08622(3)
+Sm1F Sm 0.37743(3) 0.30981(3) 1.08622(3)
+Sm1G Sm -0.37743(3) 0.30981(3) 0.41378(3)
+Fe1D Fe 0.00000 -0.05061(10) 1.25000
+O1A O -0.0538(4) 0.0629(4) 0.5985(5)
+O3A O -0.0861(4) 0.1427(4) 0.4210(4)
+O7E O 0.0751(5) -0.0402(4) 0.6860(6)
+O9F O 0.2466(4) 0.0994(4) 0.9571(6)
+O9G O -0.2466(4) 0.0994(4) 0.5429(6)
+O11F O 0.2749(5) 0.2245(6) 0.8821(8)
+O11G O -0.2749(5) 0.2245(6) 0.6179(8)
+#END

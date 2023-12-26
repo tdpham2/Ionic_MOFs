@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LECKIN
+_audit_creation_date 2000-04-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LECKIN
+_database_code_depnum_ccdc_archive 'CCDC 140651'
+_chemical_formula_sum 'C12 H30 Bi1 Co1 N6 O15'
+_chemical_formula_moiety
+;
+(C10 H12 Bi1 N2 O8 1-)n,n(C2 H12 Co1 N4 O4 1+),3n(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 44
+_journal_year 1999
+_journal_page_first 727
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"A.S.Antsyshkina"
+"G.G.Sadikov"
+"A.L.Poznyak"
+"V.S.Sergienko"
+"Yu.N.Mikhailov"
+_chemical_name_systematic
+;
+catena-(Tetra-ammine-(oxalato-O,O')-cobalt(iii) 
+(\m~3~-ethylenediaminotetra-acetato)-bismuth(iii) trihydrate)
+;
+_cell_volume   2295.316
+_exptl_crystal_colour 'deep-red'
+_exptl_crystal_density_diffrn 2.218
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.325(2)
+_cell_length_b 22.346(4)
+_cell_length_c 11.454(2)
+_cell_angle_alpha 90
+_cell_angle_beta 105.91(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.84
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.06704(6) -0.22435(3) 0.30788(4)
+Co1 Co -0.4136(2) -0.36992(11) -0.6447(2)
+N1 N 0.1868(14) -0.1334(7) 0.2566(12)
+N2 N -0.0696(15) -0.1362(6) 0.3557(11)
+N3 N -0.5662(18) -0.3667(8) -0.5515(15)
+N4 N -0.3240(17) -0.2973(8) -0.5608(14)
+N5 N -0.2595(20) -0.3728(10) -0.7348(17)
+N6 N -0.5461(17) -0.3251(8) -0.7824(12)
+O1 O -0.0195(13) -0.1984(6) 0.0977(9)
+O2 O 0.0644(17) -0.1728(7) -0.059(1)
+O3 O 0.3425(16) -0.2324(7) 0.3614(12)
+O4 O 0.5363(16) -0.1783(9) 0.4703(13)
+O5 O 0.1527(14) -0.1952(6) 0.5139(11)
+O6 O 0.0786(18) -0.1727(7) 0.6783(11)
+O7 O -0.2012(14) -0.2404(7) 0.2544(13)
+O8 O -0.4239(15) -0.1982(8) 0.1820(13)
+O9 O -0.2853(16) -0.4172(7) -0.5168(13)
+O10 O -0.4926(17) -0.4450(7) -0.7105(12)
+O11 O -0.2486(23) -0.5124(8) -0.4614(17)
+O12 O -0.4800(19) -0.5420(7) -0.6637(15)
+C1 C 0.0745(22) -0.1742(8) 0.0488(13)
+C2 C 0.2127(20) -0.1448(9) 0.1377(14)
+H1 H 0.2345(20) -0.1077(9) 0.1039(14)
+H2 H 0.2975(20) -0.1706(9) 0.1479(14)
+C3 C 0.4114(20) -0.1827(10) 0.3968(15)
+C4 C 0.3312(18) -0.1239(9) 0.3499(14)
+H3 H 0.3947(18) -0.0998(9) 0.3156(14)
+H4 H 0.3132(18) -0.1023(9) 0.4169(14)
+C5 C 0.0607(19) -0.1743(8) 0.5635(15)
+C6 C -0.0821(20) -0.1495(9) 0.4837(13)
+H5 H -0.1069(20) -0.1133(9) 0.5190(13)
+H6 H -0.1611(20) -0.1777(9) 0.4789(13)
+C7 C -0.2880(18) -0.1946(9) 0.2336(14)
+C8 C -0.2215(19) -0.1341(9) 0.2685(17)
+H7 H -0.2862(19) -0.1115(9) 0.3041(17)
+H8 H -0.2153(19) -0.1136(9) 0.1964(17)
+C9 C 0.0836(20) -0.0812(8) 0.2507(15)
+H9 H 0.138(2) -0.0447(8) 0.2516(15)
+H10 H 0.0056(20) -0.0828(8) 0.1759(15)
+C10 C 0.0158(20) -0.0812(7) 0.3542(15)
+H11 H -0.0487(20) -0.0472(7) 0.3482(15)
+H12 H 0.0934(20) -0.0781(7) 0.4289(15)
+C11 C -0.3103(25) -0.4714(11) -0.5250(19)
+C12 C -0.4377(24) -0.4903(10) -0.643(2)
+O13 O -0.0439(27) -0.5574(9) -0.2526(19)
+O14 O -0.7517(24) -0.4657(11) -0.8912(18)
+O15 O 0.6372(35) -0.4523(17) 0.0432(22)
+Bi1A Bi 0.06704(6) -0.27565(3) -0.19212(4)
+O2A O 0.0644(17) -0.3272(7) 0.441(1)
+O6A O 0.0786(18) -0.3273(7) 0.1783(11)
+Bi1A* Bi 0.06704(6) -0.27565(3) 0.80788(4)
+#END

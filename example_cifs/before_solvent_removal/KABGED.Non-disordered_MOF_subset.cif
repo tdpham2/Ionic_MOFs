@@ -1,0 +1,158 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KABGED
+_audit_creation_date 2020-11-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KABGED
+_database_code_depnum_ccdc_archive 'CCDC 1964764'
+_chemical_formula_sum 'C20 H24 Cd1 N2 O8'
+_chemical_formula_moiety
+;
+(C16 H8 Cd1 O8 2-)n,2(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 26
+_journal_year 2020
+_journal_page_first 7458
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Zheng Wang"
+"Cheng-Yi Zhu"
+"Peng-Yan Fu"
+"Jun-Ting Mo"
+"Jia Ruan"
+"Mei Pan"
+"Cheng-Yong Su"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) bis(\m-benzene-1,4-dicarboxylato)-cadmium(ii) 
+unknown solvate]
+;
+_chemical_name_common
+;
+LIFMWZ13
+;
+_cell_volume   5769.342
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+Disordered cation (dimethylammonium) and solvent molecules were not modelled 
+and the disordered density was taken into account using the SQUEEZE/PLATON 
+procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0651
+_refine_ls_wR_factor_gt 0.0651
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F d d d'
+_symmetry_Int_Tables_number 70
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 3/4-x,3/4-y,z
+3 3/4-x,y,3/4-z
+4 x,3/4-y,3/4-z
+5 x,1/2+y,1/2+z
+6 3/4-x,1/4-y,1/2+z
+7 3/4-x,1/2+y,1/4-z
+8 x,1/4-y,1/4-z
+9 1/2+x,y,1/2+z
+10 1/4-x,3/4-y,1/2+z
+11 1/4-x,y,1/4-z
+12 1/2+x,3/4-y,1/4-z
+13 1/2+x,1/2+y,z
+14 1/4-x,1/4-y,z
+15 1/4-x,1/2+y,3/4-z
+16 1/2+x,1/4-y,3/4-z
+17 -x,-y,-z
+18 -3/4+x,-3/4+y,-z
+19 -3/4+x,-y,-3/4+z
+20 -x,-3/4+y,-3/4+z
+21 -x,-1/2-y,-1/2-z
+22 -3/4+x,-1/4+y,-1/2-z
+23 -3/4+x,-1/2-y,-1/4+z
+24 -x,-1/4+y,-1/4+z
+25 -1/2-x,-y,-1/2-z
+26 -1/4+x,-3/4+y,-1/2-z
+27 -1/4+x,-y,-1/4+z
+28 -1/2-x,-3/4+y,-1/4+z
+29 -1/2-x,-1/2-y,-z
+30 -1/4+x,-1/4+y,-z
+31 -1/4+x,-1/2-y,-3/4+z
+32 -1/2-x,-1/4+y,-3/4+z
+_cell_length_a 9.7678(2)
+_cell_length_b 21.1750(4)
+_cell_length_c 27.8937(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 1.12500 0.62500 0.62500
+O1 O 1.0159(7) 0.5369(4) 0.6608(3)
+O2 O 0.9427(9) 0.6266(4) 0.6900(3)
+C1 C 0.9412(10) 0.5672(5) 0.6877(4)
+C2 C 0.8299(10) 0.4676(5) 0.7166(4)
+H1 H 0.88010 0.44520 0.69390
+C3 C 0.8404(9) 0.5329(5) 0.7206(4)
+C4 C 0.7603(11) 0.5630(5) 0.7516(4)
+H2 H 0.76400 0.60690 0.75230
+O1X O 0.4841(7) 0.4631(4) 0.8392(3)
+O2X O 0.5573(9) 0.3734(4) 0.8100(3)
+C1X C 0.5588(10) 0.4328(5) 0.8123(4)
+C2X C 0.6701(10) 0.5324(5) 0.7834(4)
+H1X H 0.61990 0.55480 0.80610
+C3X C 0.6596(9) 0.4671(5) 0.7794(4)
+C4X C 0.7397(11) 0.4370(5) 0.7484(4)
+H2X H 0.73600 0.39310 0.74770
+O1G O 1.0159(7) 0.7131(4) 0.5892(3)
+O2G O 0.9427(9) 0.6234(4) 0.5600(3)
+C1G C 0.9412(10) 0.6828(5) 0.5623(4)
+C2G C 0.8299(10) 0.7824(5) 0.5334(4)
+H1G H 0.88010 0.80480 0.55610
+C3G C 0.8404(9) 0.7171(5) 0.5294(4)
+C4G C 0.7603(11) 0.6870(5) 0.4984(4)
+H2G H 0.76400 0.64310 0.49770
+O1AA O 0.4841(7) 0.7869(4) 0.4108(3)
+O2AA O 0.5573(9) 0.8766(4) 0.4400(3)
+C1AA C 0.5588(10) 0.8172(5) 0.4377(4)
+C2AA C 0.6701(10) 0.7176(5) 0.4666(4)
+H1AA H 0.61990 0.69520 0.44390
+C3AA C 0.6596(9) 0.7829(5) 0.4706(4)
+C4AA C 0.7397(11) 0.8130(5) 0.5016(4)
+H2AA H 0.73600 0.85690 0.50230
+Cd1Q Cd 0.37500 0.87500 0.37500
+Cd1R Cd 0.37500 0.37500 0.87500
+O1J O 1.2341(7) 0.5369(4) 0.5892(3)
+O1M O 1.2341(7) 0.7131(4) 0.6608(3)
+O2J O 1.3073(9) 0.6266(4) 0.5600(3)
+O2M O 1.3073(9) 0.6234(4) 0.6900(3)
+#END

@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KEYMUY
+_audit_creation_date 2013-05-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KEYMUY
+_database_code_depnum_ccdc_archive 'CCDC 918253'
+_chemical_formula_sum 'C18 H24 Cd1 N1 Na1 O14'
+_chemical_formula_moiety
+;
+(C16 H12 Cd1 Na1 O12 1-)n,n(C2 H8 N1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 13
+_journal_year 2013
+_journal_page_first 1736
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Fenglei Du"
+"Huabin Zhang"
+"Chongbin Tian"
+"Shaowu Du"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium 
+(\m~4~-5-hydroxyisophthalato-O,O,O',O'',O'',O''')-(\m~4~-5-hydroxyisophthalato
+-O,O,O',O'',O''')-diaqua-cadmium-sodium dihydrate)
+;
+_cell_volume   2728.432
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.494
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0601
+_refine_ls_wR_factor_gt 0.0601
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,-y,z
+4 1/2-x,y,1/2+z
+_cell_length_a 18.6294(10)
+_cell_length_b 9.9345(5)
+_cell_length_c 14.7424(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd -0.531550(19) 0.95931(3) 0.10302(5)
+Na1 Na -0.44033(17) 0.9452(3) -0.1243(2)
+O1 O -0.5070(3) 0.8100(4) -0.0052(3)
+O2 O -0.5271(3) 0.6865(5) 0.1162(4)
+O3 O -0.5430(3) 0.1817(5) 0.0709(4)
+O4 O -0.5177(5) 0.0943(6) -0.0599(5)
+O5 O -0.4794(4) 0.5077(7) -0.2645(4)
+H1 H -0.46090 0.58240 -0.26840
+O6 O -0.4242(3) 0.9888(7) 0.1655(4)
+O7 O -0.4772(2) 1.1280(5) 0.2632(4)
+O8 O -0.1573(2) 1.0942(6) 0.1096(5)
+O9 O -0.0976(3) 1.0672(6) 0.2353(4)
+O10 O -0.2635(3) 1.2185(7) 0.4800(4)
+H2 H -0.28970 1.17600 0.51440
+O11 O -0.3555(6) 0.9923(15) -0.0037(6)
+O12 O -0.3594(3) 0.7712(7) -0.1664(5)
+C1 C -0.5158(4) 0.6968(6) 0.0330(4)
+C2 C -0.5134(4) 0.5735(7) -0.0258(4)
+C3 C -0.5205(4) 0.4431(7) 0.0094(5)
+H3 H -0.52890 0.43010 0.07090
+C4 C -0.5147(4) 0.3332(6) -0.0485(4)
+C5 C -0.5249(3) 0.1929(6) -0.0098(5)
+C6 C -0.5004(4) 0.3486(7) -0.1409(4)
+H4 H -0.49520 0.27410 -0.17860
+C7 C -0.4940(5) 0.4800(8) -0.1755(5)
+C8 C -0.5027(4) 0.5902(7) -0.1196(5)
+H5 H -0.50140 0.67640 -0.14410
+C9 C -0.4237(3) 1.0728(7) 0.2315(4)
+C10 C -0.3499(3) 1.1029(7) 0.2696(4)
+C11 C -0.2894(4) 1.0869(8) 0.2156(5)
+H6 H -0.29410 1.05560 0.15640
+C12 C -0.2214(3) 1.1181(7) 0.2503(4)
+C13 C -0.1547(4) 1.0910(7) 0.1940(4)
+C14 C -0.2156(4) 1.1651(9) 0.3391(5)
+H7 H -0.17070 1.18830 0.36180
+C15 C -0.2752(4) 1.1780(8) 0.3937(5)
+C16 C -0.3434(4) 1.1457(7) 0.3580(5)
+H8 H -0.38400 1.15340 0.39430
+O13 O -0.57580(18) 0.2754(3) 0.2033(2)
+O14 O -0.2604(6) 0.6741(10) -0.1181(7)
+N1 N -0.7921(6) 1.4472(12) 0.1417(9)
+H9 H -0.81950 1.51560 0.13280
+C17 C -0.7229(9) 1.4733(15) 0.1487(13)
+H10 H -0.71560 1.56900 0.14850
+H11 H -0.69790 1.43390 0.09830
+H12 H -0.70490 1.43610 0.20430
+C18 C -0.8220(9) 1.339(2) 0.146(2)
+H13 H -0.87290 1.35150 0.14060
+H14 H -0.81150 1.29760 0.20360
+H15 H -0.80530 1.28180 0.09810
+Cd1* Cd -0.531550(19) -0.04069(3) 0.10302(5)
+Cd1B Cd -0.031550(19) 1.04069(3) 0.10302(5)
+Na1* Na -0.44033(17) -0.0548(3) -0.1243(2)
+Na1A Na -0.55967(17) 1.0548(3) 0.3757(2)
+Na1C Na -0.05967(17) 0.9452(3) 0.3757(2)
+O3* O -0.5430(3) 1.1817(5) 0.0709(4)
+O4* O -0.5177(5) 1.0943(6) -0.0599(5)
+O7A O -0.5228(2) 0.8720(5) -0.2368(4)
+O8B O -0.6573(2) 0.9058(6) 0.1096(5)
+O9B O -0.5976(3) 0.9328(6) 0.2353(4)
+O9C O -0.4024(3) 1.0672(6) -0.2647(4)
+#END

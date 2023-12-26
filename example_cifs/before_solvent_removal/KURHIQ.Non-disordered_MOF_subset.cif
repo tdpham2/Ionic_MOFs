@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KURHIQ
+_audit_creation_date 2015-09-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KURHIQ
+_database_code_depnum_ccdc_archive 'CCDC 1420089'
+_chemical_formula_sum 'C14 H12 Mn2 N16'
+_chemical_formula_moiety
+;
+(C10 Mn2 N15 1-)n,C4 H12 N1 1+
+;
+_journal_coeditor_code "lf3019"
+_journal_coden_Cambridge 1777
+_journal_volume 71
+_journal_year 2015
+_journal_page_first 850
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Chem. '
+loop_
+_publ_author_name
+"H.-T.Wang"
+_chemical_name_systematic
+;
+catena-[tetramethylammonium pentakis(\m-dicyanamido)-di-manganese]
+;
+_cell_volume   1035.144
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.65
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0348
+_refine_ls_wR_factor_gt 0.0348
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 10.368(2)
+_cell_length_b 10.377(2)
+_cell_length_c 11.898(2)
+_cell_angle_alpha 65.64(3)
+_cell_angle_beta 82.28(3)
+_cell_angle_gamma 62.83(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.15430(3) 0.77945(4) 0.73446(3)
+Mn2 Mn 0.45551(3) 1.14431(4) 0.73319(3)
+N1 N 0.3662(2) 1.0750(3) 0.61795(19)
+N2 N 0.7193(2) 1.5879(2) 0.37102(19)
+N3 N 0.5090(2) 1.2376(3) 0.84650(19)
+N4 N 0.6323(2) 0.9083(2) 0.8239(2)
+N5 N 0.1864(2) 1.0001(2) 0.58237(17)
+N6 N 0.0182(2) 1.1541(3) 0.39690(19)
+N7 N 0.6630(2) 1.2544(2) 1.17046(19)
+N8 N 0.8366(2) 0.4475(2) 1.14708(18)
+N9 N 0.0045(2) 1.0823(3) 1.1730(2)
+N10 N 0.6950(2) 1.3521(2) 0.39593(17)
+N11 N 0.5053(3) 1.3484(3) 0.9922(2)
+N12 N 0.2942(3) 1.1001(3) 0.8620(2)
+N13 N 0.5898(2) 1.2214(3) 0.5791(2)
+N14 N 0.1520(2) 0.9928(3) 1.0187(2)
+N15 N 0.8310(2) 0.6742(2) 0.9648(2)
+C1 C 0.2814(2) 1.0441(2) 0.59740(19)
+C2 C 0.1000(2) 1.0866(2) 0.4808(2)
+C3 C 0.5945(2) 1.2896(2) 1.0857(2)
+C4 C 0.5144(2) 1.2812(3) 0.9192(2)
+C5 C 0.8246(2) 0.5586(3) 1.0610(2)
+C6 C 0.6385(2) 1.2853(3) 0.4957(2)
+C7 C 0.7197(3) 0.7957(3) 0.8947(2)
+C8 C 0.0765(2) 1.0476(3) 1.0984(2)
+C9 C 0.7059(2) 1.4775(3) 0.38595(19)
+C10 C 0.2257(2) 1.0559(3) 0.9383(2)
+N16 N 0.1781(2) 0.5460(2) 0.26852(19)
+C11 C 0.1565(4) 0.6144(4) 0.1308(3)
+H1 H 0.22120 0.53650 0.10000
+H2 H 0.17650 0.70450 0.09620
+H3 H 0.05790 0.64640 0.10770
+C12 C 0.1499(12) 0.4125(9) 0.3200(5)
+H4 H 0.16400 0.36890 0.40850
+H5 H 0.21500 0.33460 0.28930
+H6 H 0.05140 0.44350 0.29720
+C13 C 0.0815(10) 0.6616(7) 0.3168(5)
+H7 H 0.09650 0.61610 0.40530
+H8 H -0.01740 0.69370 0.29440
+H9 H 0.10110 0.75190 0.28290
+C14 C 0.3210(6) 0.5052(12) 0.3027(4)
+H10 H 0.33460 0.46110 0.39120
+H11 H 0.33690 0.59780 0.26850
+H12 H 0.38880 0.42880 0.27170
+Mn1A Mn -0.15430(3) 1.22055(4) 0.26554(3)
+Mn1A* Mn -0.15430(3) 1.22055(4) 1.26554(3)
+Mn1A** Mn 0.84570(3) 0.22055(4) 1.26554(3)
+Mn1A*** Mn 0.84570(3) 1.22055(4) 0.26554(3)
+Mn1A**** Mn 0.84570(3) 1.22055(4) 1.26554(3)
+Mn2A Mn 0.54449(3) 1.85569(4) 0.26681(3)
+N2A N 0.2807(2) 1.4121(2) 0.62898(19)
+N6A N -0.0182(2) 0.8459(3) 0.60310(19)
+N7A N 0.3370(2) 0.7456(2) 0.82954(19)
+N8A N 0.1634(2) 0.5525(2) 0.85292(18)
+N9A N -0.0045(2) 0.9177(3) 0.8270(2)
+N10A N 0.3050(2) 0.6479(2) 0.60407(17)
+#END

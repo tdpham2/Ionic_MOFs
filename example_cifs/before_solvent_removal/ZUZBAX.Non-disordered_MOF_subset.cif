@@ -1,0 +1,162 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZUZBAX
+_audit_creation_date 1996-11-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZUZBAX
+_chemical_formula_sum 'C35 H36 F12 Hg3 N2 S1'
+_chemical_formula_moiety
+;
+(C19 F12 Hg3 N1 S1 1-)n,n(C16 H36 N1 1+)
+;
+_journal_coden_Cambridge 36
+_journal_volume 508
+_journal_year 1996
+_journal_page_first 271
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"I.A.Tikhonova"
+"F.M.Dolgushin"
+"A.I.Yanovsky"
+"Yu.T.Struchkov"
+"A.N.Gavrilova"
+"L.N.Saitkulova"
+"E.S.Shubina"
+"L.M.Epstein"
+"G.G.Furin"
+"V.B.Shur"
+_chemical_name_systematic
+;
+catena-(Tetra-n-butylammonium 
+(\m~6~-isothiocyanato)-tris(\m~4~-tetrafluoro-o-phenylene)-tri-mercury(ii))
+;
+_cell_volume   7773.234
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.301
+_diffrn_ambient_temperature 188
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0442
+_refine_ls_wR_factor_gt 0.0442
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_symmetry_Int_Tables_number 92
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,1/2+x,1/4+z
+3 1/2+x,1/2-y,3/4-z
+4 -x,-y,1/2+z
+5 y,x,-z
+6 1/2+y,1/2-x,3/4+z
+7 1/2-x,1/2+y,1/4-z
+8 -y,-x,1/2-z
+_cell_length_a 20.724(4)
+_cell_length_b 20.724(4)
+_cell_length_c 18.099(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+F 0.64
+Hg 1.56
+N 0.68
+S 1.41
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Hg1 Hg 0.4851(1) 0.0623(1) 0.3757(1)
+Hg2 Hg 0.5989(1) -0.0489(1) 0.4562(1)
+Hg3 Hg 0.6442(1) 0.1134(1) 0.4214(1)
+S1 S 0.5200(6) 0.1034(5) 0.5407(6)
+F1 F 0.5286(10) -0.1849(10) 0.4699(11)
+F2 F 0.4062(10) -0.2213(11) 0.4403(11)
+F3 F 0.3212(9) -0.1346(11) 0.3928(11)
+F4 F 0.3526(11) -0.0124(9) 0.3652(10)
+F5 F 0.7862(11) 0.1318(11) 0.4869(12)
+F6 F 0.8672(14) 0.0487(10) 0.5562(14)
+F7 F 0.8358(13) -0.0769(10) 0.5736(12)
+F8 F 0.7196(10) -0.1190(9) 0.5295(11)
+F9 F 0.4202(10) 0.1785(10) 0.2885(11)
+F10 F 0.4612(12) 0.2980(12) 0.2504(14)
+F11 F 0.5822(12) 0.3379(14) 0.2840(16)
+F12 F 0.6609(11) 0.2537(11) 0.3603(14)
+N1 N 0.5077(16) 0.2392(16) 0.5287(20)
+N2 N 0.8506(16) 0.1494(16) 0.25000
+N3 N 0.6614(18) 0.6614(18) 0.50000
+C1 C 0.4618(21) -0.0318(21) 0.4055(22)
+C2 C 0.5113(19) -0.0734(19) 0.4184(19)
+C3 C 0.4844(17) -0.1375(17) 0.4420(17)
+C4 C 0.4239(21) -0.1608(20) 0.4286(21)
+C5 C 0.3736(14) -0.1147(14) 0.4109(14)
+C6 C 0.4012(17) -0.0571(18) 0.3928(16)
+C7 C 0.6873(19) -0.0113(18) 0.4854(20)
+C8 C 0.7080(18) 0.0528(18) 0.4734(18)
+C9 C 0.7693(21) 0.069(2) 0.4997(22)
+C10 C 0.8105(20) 0.0257(20) 0.5316(21)
+C11 C 0.7983(20) -0.0322(20) 0.5435(21)
+C12 C 0.7320(21) -0.0560(19) 0.5191(20)
+C13 C 0.5792(20) 0.1711(20) 0.3636(22)
+C14 C 0.5154(17) 0.1529(17) 0.3440(18)
+C15 C 0.4829(19) 0.1966(20) 0.3078(21)
+C16 C 0.4962(23) 0.2529(23) 0.2815(24)
+C17 C 0.5610(22) 0.2786(22) 0.3021(23)
+C18 C 0.5995(21) 0.2354(23) 0.3447(22)
+C19 C 0.5088(21) 0.1863(18) 0.5324(20)
+C20 C 0.7781(21) 0.1359(21) 0.2405(22)
+C21 C 0.7468(22) 0.1772(21) 0.1762(23)
+C22 C 0.6703(21) 0.1636(21) 0.1814(23)
+C23 C 0.6355(25) 0.2105(24) 0.1341(28)
+C24 C 0.8875(28) 0.1323(28) 0.1799(29)
+C25 C 0.8853(20) 0.0576(20) 0.1652(22)
+C26 C 0.9291(21) 0.0464(22) 0.0972(22)
+C27 C 1.0031(25) 0.0621(22) 0.1104(30)
+C28 C 0.6046(19) 0.6604(18) 0.5569(21)
+C29 C 0.5384(21) 0.6518(20) 0.5123(22)
+C30 C 0.4879(22) 0.6489(21) 0.5780(25)
+C31 C 0.4231(22) 0.6300(22) 0.5452(26)
+C32 C 0.6572(21) 0.7258(22) 0.4567(24)
+C33 C 0.7124(19) 0.7375(18) 0.4051(19)
+C34 C 0.7051(20) 0.8043(20) 0.3653(23)
+C35 C 0.7531(23) 0.8184(23) 0.3079(29)
+Hg1A Hg 0.4377(1) -0.0149(1) 0.6257(1)
+Hg2A Hg 0.5489(1) 0.0989(1) 0.7062(1)
+C20G C 0.8641(21) 0.2219(21) 0.2595(22)
+C21G C 0.8228(22) 0.2532(21) 0.3238(23)
+C22G C 0.8364(21) 0.3297(21) 0.3186(23)
+C23G C 0.7895(25) 0.3645(24) 0.3659(28)
+C24G C 0.8677(28) 0.1125(28) 0.3201(29)
+C25G C 0.9424(20) 0.1147(20) 0.3348(22)
+C26G C 0.9536(21) 0.0709(22) 0.4028(22)
+C27G C 0.9379(25) -0.0031(22) 0.3896(30)
+C28D C 0.6604(19) 0.6046(18) 0.4431(21)
+C29D C 0.6518(21) 0.5384(20) 0.4877(22)
+C30D C 0.6489(22) 0.4879(21) 0.4220(25)
+C31D C 0.6300(22) 0.4231(22) 0.4548(26)
+C32D C 0.7258(21) 0.6572(22) 0.5433(24)
+C33D C 0.7375(19) 0.7124(18) 0.5949(19)
+C34D C 0.8043(20) 0.7051(20) 0.6347(23)
+C35D C 0.8184(23) 0.7531(23) 0.6921(29)
+S1E S 0.6034(6) -0.0200(5) 0.2907(6)
+#END

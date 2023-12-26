@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WUQQUX01
+_audit_creation_date 2020-07-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WUQQUX01
+_database_code_depnum_ccdc_archive 'CCDC 2004014'
+_chemical_formula_sum 'C16 H18 Mn1 N10 O1'
+_chemical_formula_moiety
+;
+C10 H16 N1 1+,(C6 H2 Mn1 N9 O1 1-)n
+;
+_journal_coden_Cambridge 1695
+_journal_volume 8
+_journal_year 2020
+_journal_page_first 11735
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"M.Maczka"
+"A.Gagor"
+"A.Stroppa"
+"J.N.Goncalves"
+"J.K.Zareba"
+"D.Stefanska"
+"A.Pikul"
+"M.Drozd"
+"A.Sieradzki"
+_chemical_name_systematic
+;
+catena-(benzyl(trimethyl)ammonium 
+bis(\m-dicyanamide)-aqua-dicyanamide-manganese)
+;
+_cell_volume   1964.797
+_exptl_crystal_density_diffrn 1.424
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 120.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0209
+_refine_ls_wR_factor_gt 0.0209
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 16.9085(3)
+_cell_length_b 8.67119(14)
+_cell_length_c 13.4009(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.28208(2) 0.33460(3) 0.61898(3)
+O1 O 0.28403(10) 0.31844(19) 0.78041(15)
+H1 H 0.24484 0.25781 0.80677
+H2 H 0.27386 0.41131 0.80938
+N1 N 0.27842(12) 0.3453(2) 0.44479(18)
+N2 N 0.31835(13) 0.5839(2) 0.35723(15)
+N3 N 0.22833(13) 0.1091(2) 0.36285(15)
+N4 N 0.4096(1) 0.3725(2) 0.60620(18)
+N5 N 0.53443(13) 0.3062(3) 0.52398(17)
+N6 N 0.65455(10) 0.2137(2) 0.60783(17)
+N7 N 0.26083(10) 0.58145(18) 0.61342(17)
+N8 N 0.24176(16) 0.8415(2) 0.54631(19)
+N9 N 0.29950(11) 1.08437(19) 0.60557(17)
+C1 C 0.29921(14) 0.4696(3) 0.39373(17)
+C2 C 0.25218(14) 0.2222(3) 0.39594(17)
+C3 C 0.46947(14) 0.3384(2) 0.57127(18)
+C4 C 0.59699(13) 0.2593(3) 0.57271(18)
+C5 C 0.25501(13) 0.7065(2) 0.58572(17)
+C6 C 0.27367(14) 0.9671(2) 0.58163(19)
+N10 N 0.52002(12) 0.8240(2) 0.41379(14)
+C7 C 0.50161(14) 1.0234(3) 0.27574(16)
+C8 C 0.42546(14) 1.0806(3) 0.26275(19)
+H3 H 0.38222 1.01504 0.26927
+C9 C 0.41372(14) 1.2358(3) 0.24000(17)
+H4 H 0.36270 1.27389 0.23202
+C10 C 0.47784(16) 1.3329(3) 0.22934(19)
+H5 H 0.46985 1.43644 0.21440
+C11 C 0.55419(15) 1.2768(3) 0.24078(19)
+H6 H 0.59736 1.34231 0.23349
+C12 C 0.56552(16) 1.1226(4) 0.26312(19)
+H7 H 0.61668 1.08466 0.26982
+C13 C 0.51414(15) 0.8559(3) 0.30198(18)
+H8 H 0.56233 0.82051 0.27009
+H9 H 0.47066 0.79621 0.27485
+C14 C 0.59070(16) 0.9027(3) 0.4573(2)
+H10 H 0.63758 0.86769 0.42381
+H11 H 0.59439 0.87889 0.52708
+H12 H 0.58554 1.01222 0.44886
+C15 C 0.52932(17) 0.6534(3) 0.4275(2)
+H13 H 0.57565 0.61893 0.39265
+H14 H 0.48363 0.60154 0.40142
+H15 H 0.53463 0.63055 0.49730
+C16 C 0.44682(17) 0.8773(4) 0.4669(2)
+H16 H 0.45011 0.84954 0.53613
+H17 H 0.40128 0.82913 0.43757
+H18 H 0.44224 0.98724 0.46099
+Mn1* Mn 0.28208(2) 1.33460(3) 0.61898(3)
+Mn1B Mn 0.78208(2) 0.16540(3) 0.61898(3)
+N6B N 0.15455(10) 0.2863(2) 0.60783(17)
+N9* N 0.29950(11) 0.08437(19) 0.60557(17)
+#END

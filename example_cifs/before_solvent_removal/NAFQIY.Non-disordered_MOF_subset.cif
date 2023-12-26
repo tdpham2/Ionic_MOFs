@@ -1,0 +1,157 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NAFQIY
+_audit_creation_date 2020-11-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NAFQIY
+_database_code_depnum_ccdc_archive 'CCDC 2013017'
+_chemical_formula_sum 'C20 H22 Cd1 N4 O12'
+_chemical_formula_moiety
+;
+(C16 H6 Cd1 N2 O12 2-)n,2(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 169
+_journal_volume 225
+_journal_year 2021
+_journal_page_first 133
+_journal_name_full 'Faraday Discuss. '
+loop_
+_publ_author_name
+"D.Watkins"
+"T.M.Roseveare"
+"M.R.Warren"
+"S.P.Thompson"
+"A.J.Fletcher"
+"L.Brammer"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) 
+bis(\m-2-nitrobenzene-1,4-dicarboxylato)-cadmium(ii)]
+;
+_chemical_name_common
+;
+SHF-81
+;
+_cell_volume   2246.958
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.381
+_exptl_special_details
+;
+Solvent removed by heating prior to study. Data collection under 5 bar CO2 
+atmosphere
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'N,N-dimethylformamide'
+_diffrn_ambient_temperature 298
+_diffrn_ambient_pressure 500.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0748
+_refine_ls_wR_factor_gt 0.0748
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 x-y,-y,2/3-z
+5 -x,-x+y,1/3-z
+6 y,x,-z
+_cell_length_a 14.0982(10)
+_cell_length_b 14.0982(10)
+_cell_length_c 13.0538(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.47128(14) 0.47128(14) 0.00000
+O1 O 0.429(2) 0.559(2) 0.1290(17)
+O2 O 0.3128(17) 0.378(2) 0.1212(14)
+C1 C 0.349(2) 0.474(3) 0.1631(18)
+C2 C 0.2986(15) 0.4834(13) 0.2606(11)
+C3 C 0.2623(16) 0.4063(13) 0.3389(13)
+C4 C 0.2106(16) 0.4190(12) 0.4242(11)
+H1 H 0.18640 0.36740 0.47660
+C5 C 0.1952(13) 0.5087(12) 0.4311(9)
+C6 C 0.2315(13) 0.5858(11) 0.3528(10)
+H2 H 0.22120 0.64590 0.35750
+C7 C 0.2832(14) 0.5732(13) 0.2676(9)
+H3 H 0.30750 0.62480 0.21520
+O3 O 0.084(2) 0.446(2) 0.5747(15)
+O4 O 0.1425(13) 0.6109(15) 0.5363(9)
+C8 C 0.1404(19) 0.526(2) 0.5225(16)
+N1 N 0.272(4) 0.314(3) 0.343(3)
+O5 O 0.380(4) 0.342(3) 0.337(3)
+O6 O 0.227(6) 0.248(5) 0.430(3)
+N2 N -0.161(2) 0.229(3) 0.486(3)
+H4 H -0.23260 0.18260 0.49220
+H5 H -0.14470 0.29340 0.51320
+C9 C -0.086(5) 0.178(7) 0.540(4)
+H6 H -0.08900 0.12140 0.49690
+H7 H -0.11490 0.14850 0.60620
+H8 H -0.01110 0.23570 0.54670
+C10 C -0.129(3) 0.238(6) 0.394(3)
+H9 H -0.05780 0.30200 0.38790
+H10 H -0.17960 0.24540 0.35040
+H11 H -0.12530 0.17440 0.37530
+O1E O 0.559(2) 0.429(2) -0.1290(17)
+O2E O 0.3780(17) 0.3128(20) -0.1212(14)
+C1E C 0.474(2) 0.349(3) -0.1631(18)
+C2E C 0.4834(15) 0.2986(13) -0.2606(11)
+C3E C 0.4063(16) 0.2623(13) -0.3389(13)
+C4E C 0.4190(16) 0.2106(12) -0.4242(11)
+H1E H 0.36740 0.18640 -0.47660
+C5E C 0.5087(13) 0.1952(12) -0.4311(9)
+C6E C 0.5858(13) 0.2315(11) -0.3528(10)
+H2E H 0.64590 0.22120 -0.35750
+C7E C 0.5732(14) 0.2832(13) -0.2676(9)
+H3E H 0.62480 0.30750 -0.21520
+O3E O 0.446(2) 0.084(2) -0.5747(15)
+O4E O 0.6109(13) 0.1425(15) -0.5363(9)
+C8E C 0.5260(19) 0.1404(20) -0.5225(16)
+N1E N 0.314(4) 0.272(3) -0.343(3)
+O5E O 0.342(4) 0.380(3) -0.337(3)
+O6E O 0.248(6) 0.227(5) -0.430(3)
+Cd1A Cd 0.52872(14) 0.00000(14) -0.66667
+Cd1B Cd 0.00000(14) 0.52872(14) 0.66667
+O3A O 0.554(2) 0.638(2) -0.091967(1500)
+O3C O 0.638(2) 0.554(2) 0.091967(1500)
+O4A O 0.3891(13) 0.5316(15) -0.130367(900)
+O4C O 0.5316(13) 0.3891(15) 0.130367(900)
+#END

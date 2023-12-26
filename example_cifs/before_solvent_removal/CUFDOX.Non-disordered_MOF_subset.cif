@@ -1,0 +1,222 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUFDOX
+_audit_creation_date 2010-08-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUFDOX
+_database_code_depnum_ccdc_archive 'CCDC 671548'
+_chemical_formula_sum 'C57 H68 In3 N5 O29'
+_chemical_formula_moiety
+;
+(C36 H12 In3 O24 3-)n,3n(C5 H14 N1 O1 1+),2n(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 131
+_journal_year 2009
+_journal_page_first 16027
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Shumei Chen"
+"Jian Zhang"
+"Tao Wu"
+"Pingyun Feng"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-(tetrakis(\m~3~-Benzene-1,3,5-tricarboxylato)-tri-indium 
+tris(cholinium) dimethylformamide solvate)
+;
+_cell_volume   8487.167
+_exptl_special_details
+;
+Choline is a B-complex vitamin
+The cholinium ions and the solvent molecules have not been located and there 
+is no evidence of their existence in the cif but they are described in the 
+paper
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'I -4 3 d'
+_symmetry_Int_Tables_number 220
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 z,x,y
+6 1/2+z,1/2-x,-y
+7 1/2-z,-x,1/2+y
+8 -z,1/2+x,1/2-y
+9 y,z,x
+10 -y,1/2+z,1/2-x
+11 1/2+y,1/2-z,-x
+12 1/2-y,-z,1/2+x
+13 1/4+y,1/4+x,1/4+z
+14 1/4-y,3/4-x,3/4+z
+15 3/4+y,1/4-x,3/4-z
+16 3/4-y,3/4+x,1/4-z
+17 1/4+x,1/4+z,1/4+y
+18 3/4-x,3/4+z,1/4-y
+19 1/4-x,3/4-z,3/4+y
+20 3/4+x,1/4-z,3/4-y
+21 1/4+z,1/4+y,1/4+x
+22 3/4+z,1/4-y,3/4-x
+23 3/4-z,3/4+y,1/4-x
+24 1/4-z,3/4-y,3/4+x
+25 1/2+x,1/2+y,1/2+z
+26 -x,1/2-y,z
+27 1/2-x,y,-z
+28 x,-y,1/2-z
+29 1/2+z,1/2+x,1/2+y
+30 z,-x,1/2-y
+31 -z,1/2-x,y
+32 1/2-z,x,-y
+33 1/2+y,1/2+z,1/2+x
+34 1/2-y,z,-x
+35 y,-z,1/2-x
+36 -y,1/2-z,x
+37 3/4+y,3/4+x,3/4+z
+38 3/4-y,1/4-x,1/4+z
+39 1/4+y,3/4-x,1/4-z
+40 1/4-y,1/4+x,3/4-z
+41 3/4+x,3/4+z,3/4+y
+42 1/4-x,1/4+z,3/4-y
+43 3/4-x,1/4-z,1/4+y
+44 1/4+x,3/4-z,1/4-y
+45 3/4+z,3/4+y,3/4+x
+46 1/4+z,3/4-y,1/4-x
+47 1/4-z,1/4+y,3/4-x
+48 3/4-z,1/4-y,1/4+x
+_cell_length_a 20.3980(1)
+_cell_length_b 20.3980(1)
+_cell_length_c 20.3980(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.50000 0.25000 0.12500
+O1 O 0.5821(2) 0.1959(2) 0.1655(2)
+O2 O 0.5634(2) 0.2859(2) 0.2188(2)
+C1 C 0.6531(3) 0.2204(3) 0.2530(4)
+C2 C 0.6934(3) 0.1672(3) 0.2395(3)
+H1 H 0.68450 0.14060 0.20350
+C3 C 0.5965(3) 0.2356(3) 0.2106(3)
+In1G In 0.87500 0.00000 0.25000
+In1J In 0.75000 0.37500 0.50000
+In1I In 0.75000 0.62500 0.00000
+In1F In 0.37500 0.50000 -0.25000
+In1D In 0.12500 0.50000 0.25000
+In1H In 0.25000 0.12500 0.50000
+In1K In 0.25000 -0.12500 0.00000
+In1E In 0.62500 0.00000 -0.25000
+O1G O 0.8345(2) 0.0821(2) 0.3041(2)
+O1J O 0.6959(2) 0.3345(2) 0.4179(2)
+O1O O 0.5541(2) 0.3321(2) 0.0845(2)
+O1R O 0.6679(2) 0.5845(2) -0.0541(2)
+O1T O 0.4155(2) 0.4459(2) -0.1679(2)
+O1Y O 0.4179(2) 0.3041(2) 0.1655(2)
+O1CA O 0.1655(2) 0.4179(2) 0.3041(2)
+O1GA O 0.3041(2) 0.1655(2) 0.4179(2)
+O1LA O 0.4459(2) 0.1679(2) 0.0845(2)
+O1NA O 0.3321(2) -0.0845(2) -0.0541(2)
+O1UA O 0.5845(2) 0.0541(2) -0.1679(2)
+O1U O 0.9155(2) 0.0541(2) 0.1679(2)
+O1DA O 0.8345(2) -0.0821(2) 0.1959(2)
+O1RA O 0.9155(2) -0.0541(2) 0.3321(2)
+O1P O 0.8321(2) 0.4155(2) 0.4459(2)
+O1IA O 0.8041(2) 0.3345(2) 0.5821(2)
+O1OA O 0.6679(2) 0.4155(2) 0.5541(2)
+O2G O 0.7812(2) 0.0634(2) 0.2141(2)
+O2J O 0.7859(2) 0.2812(2) 0.4366(2)
+O2O O 0.4641(2) 0.3134(2) 0.0312(2)
+O2R O 0.6866(2) 0.5312(2) 0.0359(2)
+O2T O 0.4688(2) 0.5359(2) -0.1866(2)
+O2Y O 0.4366(2) 0.2141(2) 0.2188(2)
+O2CA O 0.2188(2) 0.4366(2) 0.2141(2)
+O2GA O 0.2141(2) 0.2188(2) 0.4366(2)
+O2LA O 0.5359(2) 0.1866(2) 0.0312(2)
+O2NA O 0.3134(2) -0.0312(2) 0.0359(2)
+O2UA O 0.5312(2) -0.0359(2) -0.1866(2)
+O2U O 0.9688(2) -0.0359(2) 0.1866(2)
+O2DA O 0.7812(2) -0.0634(2) 0.2859(2)
+O2RA O 0.9688(2) 0.0359(2) 0.3134(2)
+O2P O 0.8134(2) 0.4688(2) 0.5359(2)
+O2IA O 0.7141(2) 0.2812(2) 0.5634(2)
+O2OA O 0.6866(2) 0.4688(2) 0.4641(2)
+C1G C 0.7470(3) 0.1531(3) 0.2796(4)
+C1J C 0.7204(3) 0.2470(3) 0.3469(4)
+C1O C 0.5296(3) 0.4031(3) -0.0030(4)
+C1R C 0.5969(3) 0.4970(3) -0.0296(4)
+C1T C 0.5030(3) 0.4704(3) -0.0969(4)
+C1Y C 0.3469(3) 0.2796(3) 0.2530(4)
+C1CA C 0.2530(3) 0.3469(3) 0.2796(4)
+C1GA C 0.2796(3) 0.2530(3) 0.3469(4)
+C1LA C 0.4704(3) 0.0969(3) -0.0030(4)
+C1NA C 0.4031(3) 0.0030(3) -0.0296(4)
+C1UA C 0.4970(3) 0.0296(3) -0.0969(4)
+C2G C 0.7605(3) 0.1934(3) 0.3328(3)
+C2J C 0.6672(3) 0.2605(3) 0.3066(3)
+C2O C 0.5828(3) 0.4434(3) 0.0105(3)
+C2R C 0.5566(3) 0.5105(3) -0.0828(3)
+C2T C 0.4895(3) 0.4172(3) -0.0566(3)
+C2Y C 0.3066(3) 0.3328(3) 0.2395(3)
+C2CA C 0.2395(3) 0.3066(3) 0.3328(3)
+C2GA C 0.3328(3) 0.2395(3) 0.3066(3)
+C2LA C 0.4172(3) 0.0566(3) 0.0105(3)
+C2NA C 0.4434(3) -0.0105(3) -0.0828(3)
+C2UA C 0.5105(3) 0.0828(3) -0.0566(3)
+H1J H 0.64060 0.29650 0.31550
+H1G H 0.79650 0.18450 0.35940
+H1O H 0.60940 0.43450 0.04650
+H1T H 0.45350 0.39060 -0.06550
+H1R H 0.56550 0.54650 -0.10940
+H1Y H 0.31550 0.35940 0.20350
+H1GA H 0.35940 0.20350 0.31550
+H1CA H 0.20350 0.31550 0.35940
+H1LA H 0.39060 0.06550 0.04650
+H1UA H 0.54650 0.10940 -0.06550
+H1NA H 0.43450 -0.04650 -0.10940
+C3G C 0.7894(3) 0.0965(3) 0.2644(3)
+C3J C 0.7356(3) 0.2894(3) 0.4035(3)
+C3O C 0.5144(3) 0.3465(3) 0.0394(3)
+C3R C 0.6535(3) 0.5394(3) -0.0144(3)
+C3T C 0.4606(3) 0.4856(3) -0.1535(3)
+C3Y C 0.4035(3) 0.2644(3) 0.2106(3)
+C3CA C 0.2106(3) 0.4035(3) 0.2644(3)
+C3GA C 0.2644(3) 0.2106(3) 0.4035(3)
+C3LA C 0.4856(3) 0.1535(3) 0.0394(3)
+C3NA C 0.3465(3) -0.0394(3) -0.0144(3)
+C3UA C 0.5394(3) 0.0144(3) -0.1535(3)
+#END

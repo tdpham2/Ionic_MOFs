@@ -1,0 +1,157 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OWITIY
+_audit_creation_date 2011-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OWITIY
+_database_code_depnum_ccdc_archive 'CCDC 839251'
+_chemical_formula_sum 'C50 H104 Mn2 N2 O25'
+_chemical_formula_moiety
+;
+(C18 H6 Mn2 O12 2-)n,2n(C16 H36 N1 1+),13n(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 11
+_journal_year 2011
+_journal_page_first 2717
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"B.F.Abrahams"
+"T.A.Hudson"
+"L.J.McCormick"
+"R.Robson"
+_chemical_name_systematic
+;
+catena-(bis(tetrabutylammonium) 
+tris(\m~2~-2,5-dioxy-1,4-benzoquinonato)-di-manganese(ii) tridecahydrate)
+;
+_cell_volume  11702.049
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.411
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+The SQUEEZE/PLATON program has been used to model the ammonium cations and 
+the water molecules.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1252
+_refine_ls_wR_factor_gt 0.1252
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41/a c d'
+_symmetry_Int_Tables_number 142
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/4-z
+3 -x,1/2-y,1/4-z
+4 1/2-x,1/2-y,1/2+z
+5 -x,1/2+y,3/4-z
+6 1/2+x,y,3/4-z
+7 1/2-x,1/2+y,z
+8 x,-y,1/2+z
+9 -y,1/2+x,1/4+z
+10 y,x,1/2-z
+11 1/2-y,1/2-x,-z
+12 -y,x,-z
+13 1/2+y,1/2-x,1/2-z
+14 y,1/2+x,3/4+z
+15 1/2+y,-x,3/4+z
+16 1/2-y,-x,1/4+z
+17 1/2+x,1/2+y,1/2+z
+18 x,1/2-y,3/4-z
+19 1/2-x,-y,3/4-z
+20 -x,-y,z
+21 1/2-x,y,1/4-z
+22 x,1/2+y,1/4-z
+23 -x,y,1/2+z
+24 1/2+x,1/2-y,z
+25 1/2-y,x,3/4+z
+26 1/2+y,1/2+x,-z
+27 -y,-x,1/2-z
+28 1/2-y,1/2+x,1/2-z
+29 y,-x,-z
+30 1/2+y,x,1/4+z
+31 y,1/2-x,1/4+z
+32 -y,1/2-x,3/4+z
+_cell_length_a 23.4246(6)
+_cell_length_b 23.4246(6)
+_cell_length_c 21.3264(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4863(2) 0.94292(17) 0.0012(2)
+C2 C 0.54418(16) 0.95582(16) 0.00000
+H1 H 0.57230 0.92770 0.00000
+C3 C 0.3107(2) 0.8769(2) 0.11192(19)
+C4 C 0.2680(2) 0.8791(2) 0.0610(2)
+C5 C 0.2924(2) 0.8761(2) 0.1752(2)
+H2 H 0.31890 0.87360 0.20750
+O1 O 0.46891(17) 0.89070(16) 0.0065(2)
+O2 O 0.36018(19) 0.87643(19) 0.09960(19)
+O3 O 0.2875(2) 0.8825(2) 0.00638(17)
+Mn1 Mn 0.37919(4) 0.87919(4) 0.00000
+C1J C 0.55708(20) 1.01370(17) -0.0012(2)
+C1Y C 0.44292(20) 0.98630(17) -0.0012(2)
+C1S C 0.5137(2) 1.05708(17) 0.0012(2)
+C2S C 0.45582(16) 1.04418(16) 0.00000
+H1S H 0.42770 1.07230 0.00000
+C3T C 0.1893(2) 0.8769(2) 0.13808(19)
+C3Y C 0.3769(2) 0.8107(2) -0.11192(19)
+C3N C 0.3769(2) 0.6893(2) -0.13808(19)
+C4T C 0.2320(2) 0.8791(2) 0.1890(2)
+C4Y C 0.3791(2) 0.7680(2) -0.0610(2)
+C4N C 0.3791(2) 0.7320(2) -0.1890(2)
+C5T C 0.2076(2) 0.8761(2) 0.0748(2)
+C5Y C 0.3761(2) 0.7924(2) -0.1752(2)
+C5N C 0.3761(2) 0.7076(2) -0.0748(2)
+H2T H 0.18110 0.87360 0.04250
+H2Y H 0.37360 0.81890 -0.20750
+H2N H 0.37360 0.68110 -0.04250
+O1J O 0.60930(17) 1.03109(16) -0.0065(2)
+O1Y O 0.39070(17) 0.96891(16) -0.0065(2)
+O1S O 0.53109(17) 1.10930(16) 0.0065(2)
+O2T O 0.13982(19) 0.87643(19) 0.15040(19)
+O2Y O 0.37643(19) 0.86018(19) -0.09960(19)
+O2N O 0.37643(19) 0.63982(19) -0.15040(19)
+O2S O 0.63982(19) 1.12357(19) 0.09960(19)
+O2J O 0.62357(19) 1.13982(19) -0.09960(19)
+O3T O 0.2125(2) 0.8825(2) 0.24362(17)
+O3Y O 0.3825(2) 0.7875(2) -0.00638(17)
+O3N O 0.3825(2) 0.7125(2) -0.24362(17)
+O3S O 0.7125(2) 1.1175(2) 0.00638(17)
+O3J O 0.6175(2) 1.2125(2) -0.00638(17)
+Mn1J Mn 0.62081(4) 1.12081(4) 0.00000
+Mn1H Mn 0.12081(4) 0.87919(4) 0.25000
+Mn1N Mn 0.37919(4) 0.62081(4) -0.25000
+#END

@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MIZQOB
+_audit_creation_date 2002-07-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MIZQOB
+_database_code_depnum_ccdc_archive 'CCDC 143818'
+_chemical_formula_sum 'C8 H4 La2 N1 O16'
+_chemical_formula_moiety
+;
+(H4 N1 1+)n,n(C8 La2 O16 1-)
+;
+_journal_coden_Cambridge 971
+_journal_volume 3
+_journal_year 2001
+_journal_page_first 309
+_journal_name_full 'Solid State Sciences '
+loop_
+_publ_author_name
+"J.-C.Trombe"
+"P.Thomas"
+"C.Brouca-Cabarrecq"
+_chemical_name_systematic
+;
+catena-(Ammonium (\m~4~-oxalato)-tris(\m~2~-oxalato)-di-lanthanum)
+;
+_cell_volume    794.759
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+The published density (2.783) and formula weight (665.98) include a molecule 
+of water although the paper states there is no water in the crystal
+;
+_exptl_crystal_description 'parallelepipedic'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0175
+_refine_ls_wR_factor_gt 0.0175
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.7574(2)
+_cell_length_b 15.634(1)
+_cell_length_c 8.8312(6)
+_cell_angle_alpha 90
+_cell_angle_beta 91.105(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+La 1.87
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+La1 La 0.07225(2) 0.59813(1) 0.81876(1)
+O1 O -0.1101(3) 0.4728(1) 0.6762(2)
+O2 O -0.2465(3) 0.4429(1) 0.4429(2)
+O3 O 0.2551(3) 0.7339(1) 0.7269(2)
+O4 O 0.2443(3) 0.8417(1) 0.5623(2)
+O5 O -0.1449(3) 0.7773(1) 0.4340(2)
+O6 O -0.1431(3) 0.6714(1) 0.6026(2)
+O7 O -0.2107(3) 0.53251(9) 1.0147(2)
+O8 O -0.4837(3) 0.5673(1) 0.8426(2)
+C1 C -0.1046(4) 0.4757(1) 0.5338(2)
+C2 C 0.1658(3) 0.7744(1) 0.6180(2)
+C3 C -0.0610(3) 0.7380(1) 0.5455(2)
+C4 C -0.4140(3) 0.5293(1) 0.9579(2)
+N1 N 0.5618(3) 0.8677(2) 0.8350(3)
+H1 H 0.46500 0.86800 0.92500
+H2 H 0.70400 0.90130 0.85800
+H3 H 0.47800 0.89500 0.74460
+H4 H 0.59760 0.80700 0.81100
+C1B C 0.1046(4) 0.5243(1) 0.4662(2)
+O1B O 0.1101(3) 0.5272(1) 0.3238(2)
+O2B O 0.2465(3) 0.5571(1) 0.5571(2)
+C4B C -0.5860(3) 0.4707(1) 1.0421(2)
+O7B O -0.7893(3) 0.46749(9) 0.9853(2)
+O8B O -0.5163(3) 0.4327(1) 1.1574(2)
+O3C O 0.2551(3) 0.7661(1) 1.2269(2)
+O4C O 0.2443(3) 0.6583(1) 1.0623(2)
+O5C O -0.1449(3) 0.7227(1) 0.9340(2)
+O6C O -0.1431(3) 0.8286(1) 1.1026(2)
+C2C C 0.1658(3) 0.7256(1) 1.1180(2)
+C3C C -0.0610(3) 0.7620(1) 1.0455(2)
+La1B La -0.07225(2) 0.40187(1) 0.18124(1)
+O7B* O 0.2107(3) 0.46749(9) 0.9853(2)
+O8* O 0.5163(3) 0.5673(1) 0.8426(2)
+La1C La 0.07225(2) 0.90187(1) 0.31876(1)
+La1B* La -0.07225(2) 0.40187(1) 1.18124(1)
+La1* La -0.92775(2) 0.59813(1) 0.81876(1)
+La1B** La -1.07225(2) 0.40187(1) 1.18124(1)
+La1C* La 0.07225(2) 0.90187(1) 1.31876(1)
+O3B O -0.2551(3) 0.2661(1) 0.2731(2)
+O4A O -0.2443(3) 0.3417(1) -0.0623(2)
+O5A O 0.1449(3) 0.2773(1) 0.0660(2)
+O6B O 0.1431(3) 0.3286(1) 0.3974(2)
+O7* O -0.2107(3) 0.53251(9) 0.0147(2)
+O7B** O 0.2107(3) 0.46749(9) -0.0147(2)
+O8B* O -0.5163(3) 0.4327(1) 0.1574(2)
+#END

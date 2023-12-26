@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UMOJEN
+_audit_creation_date 2016-05-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UMOJEN
+_database_code_depnum_ccdc_archive 'CCDC 1449928'
+_chemical_formula_sum 'C8 H18 Cu1 N24'
+_chemical_formula_moiety
+;
+(C6 H4 Cu1 N16 2-)n,2(C1 H7 N4 1+)
+;
+_journal_coden_Cambridge 1699
+_journal_volume 4
+_journal_year 2016
+_journal_page_first 7596
+_journal_name_full 'J.Mater.Chem.A '
+loop_
+_publ_author_name
+"Yongan Feng"
+"Yangang Bi"
+"Wenyuan Zhao"
+"Tonglai Zhang"
+_chemical_name_systematic
+;
+catena-[bis(aminoguanidinium) bis(\m-5,5'-methylenebis(tetrazolyl))-copper]
+;
+_cell_volume    934.917
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.826
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 101.8
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0293
+_refine_ls_wR_factor_gt 0.0293
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.590(5)
+_cell_length_b 10.2064(5)
+_cell_length_c 8.269(4)
+_cell_angle_alpha 90
+_cell_angle_beta 107.10(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 1.00000 0.50000 0.00000
+N1 N 0.86762(16) 0.38359(17) 0.2341(2)
+N2 N 0.95662(15) 0.37131(16) 0.1589(2)
+N3 N 1.16427(15) 0.41700(16) 0.0756(2)
+N4 N 1.27041(16) 0.47478(17) 0.0851(2)
+C1 C 1.19155(19) 0.2937(2) 0.1297(3)
+N5 N 1.30986(16) 0.27230(17) 0.1711(2)
+C2 C 0.99998(18) 0.24959(19) 0.1954(3)
+N6 N 1.35655(16) 0.38865(17) 0.1417(2)
+N7 N 0.94119(15) 0.18548(17) 0.2878(2)
+N8 N 0.85886(16) 0.27321(17) 0.3096(2)
+C3 C 1.10133(19) 0.1925(2) 0.1420(3)
+H1 H 1.06850 0.14960 0.03060
+H2 H 1.14220 0.12470 0.22460
+N9 N 1.28545(18) 0.53645(19) 0.4879(3)
+H3 H 1.28080 0.50310 0.58040
+H4 H 1.21490 0.53100 0.41430
+N10 N 1.31693(17) 0.66915(18) 0.5160(2)
+H5 H 1.28060 0.71980 0.57210
+N11 N 1.42543(17) 0.84384(18) 0.4674(3)
+H6 H 1.48250 0.87670 0.42900
+H7 H 1.38320 0.89570 0.51350
+N12 N 1.46516(17) 0.63683(17) 0.3871(2)
+H8 H 1.52250 0.66820 0.34810
+H9 H 1.44920 0.55240 0.38030
+C4 C 1.40307(19) 0.7165(2) 0.4557(3)
+N1B N 1.13238(16) 0.61641(17) -0.2341(2)
+N2B N 1.04338(15) 0.62869(16) -0.1589(2)
+N3B N 0.83573(15) 0.58300(16) -0.0756(2)
+N4B N 0.72959(16) 0.52522(17) -0.0851(2)
+C1B C 0.80845(19) 0.7063(2) -0.1297(3)
+N5B N 0.69014(16) 0.72770(17) -0.1711(2)
+C2B C 1.00002(18) 0.75041(19) -0.1954(3)
+N6B N 0.64345(16) 0.61135(17) -0.1417(2)
+N7B N 1.05881(15) 0.81452(17) -0.2878(2)
+N8B N 1.14114(16) 0.72679(17) -0.3096(2)
+C3B C 0.89867(19) 0.8075(2) -0.1420(3)
+H1B H 0.93150 0.85040 -0.03060
+H2B H 0.85780 0.87530 -0.22460
+Cu1A Cu 1.00000 0.00000 0.50000
+Cu1A* Cu 1.00000 1.00000 -0.50000
+N7A N 1.05881(15) 0.68548(17) 0.2122(2)
+N7C N 0.94119(15) 0.31452(17) -0.2122(2)
+#END

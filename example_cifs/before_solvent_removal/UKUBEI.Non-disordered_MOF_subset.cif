@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UKUBEI
+_audit_creation_date 2011-04-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UKUBEI
+_database_code_depnum_ccdc_archive 'CCDC 702080'
+_chemical_formula_sum 'C14 H30 Bi2 N2 O20'
+_chemical_formula_moiety
+;
+(C12 H8 Bi2 O14 2-)n,n(C2 H10 N2 2+),6n(H2 O1)
+;
+_journal_coden_Cambridge 1487
+_journal_volume 53
+_journal_year 2010
+_journal_page_first 2152
+_journal_name_full 'Sci.China.Chem. '
+loop_
+_publ_author_name
+"Nan Yang"
+"Yan An"
+"JiWen Cai"
+"LiHong Hu"
+"YiBo Zeng"
+"ZongWan Mao"
+"GuanHua Chen"
+"HongZhe Sun"
+_chemical_name_systematic
+;
+catena-(Ethylenediammonium bis(\m~3~-citrato)-di-bismuth hexahydrate)
+;
+_cell_volume   2298.723
+_exptl_special_details
+;
+The cation was not located crystallographically
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0444
+_refine_ls_wR_factor_gt 0.0444
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 16.4044(5)
+_cell_length_b 13.6668(4)
+_cell_length_c 10.2570(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.56(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.70
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.39786(3) 0.12219(4) 0.99455(5)
+O1 O 0.3662(6) 0.0078(7) 0.8378(10)
+O2 O 0.2948(6) -0.0079(8) 0.6525(11)
+O3 O 0.4657(6) 0.0765(6) 0.5803(9)
+O4 O 0.4838(6) 0.2278(7) 0.5157(10)
+O5 O 0.2466(6) 0.1390(7) 0.9645(10)
+O6 O 0.1359(5) 0.2215(7) 0.8930(9)
+O7 O 0.3804(6) 0.2009(7) 0.8127(9)
+C1 C 0.3277(8) 0.0416(11) 0.7353(16)
+C2 C 0.3262(9) 0.1546(12) 0.7185(17)
+C3 C 0.3510(8) 0.183(1) 0.5831(12)
+H1 H 0.34120 0.25240 0.56990
+H2 H 0.31790 0.14730 0.51920
+C4 C 0.4399(9) 0.1611(12) 0.5631(16)
+C5 C 0.2372(8) 0.1922(10) 0.7409(13)
+H3 H 0.23480 0.26060 0.71590
+H4 H 0.20060 0.15680 0.68190
+C6 C 0.2051(9) 0.1836(10) 0.8746(16)
+O8 O 0.50000 -0.1082(10) 0.75000
+O9 O 0.3630(11) 0.3926(10) 0.8175(17)
+H5 H 0.38080 0.32770 0.80380
+H6 H 0.34050 0.41920 0.89690
+O10 O 0.00000 0.156(2) 0.75000
+O11 O 0.1772(13) -0.0640(12) 0.934(2)
+Bi1A Bi 0.60214(3) 0.12219(4) 0.50545(5)
+Bi1F Bi 0.10214(3) 0.37781(4) 1.00545(5)
+Bi1G Bi 0.89786(3) 0.37781(4) 0.49455(5)
+O1A O 0.6338(6) 0.0078(7) 0.6622(10)
+O2A O 0.7052(6) -0.0079(8) 0.8475(11)
+O3A O 0.5343(6) 0.0765(6) 0.9197(9)
+O4A O 0.5162(6) 0.2278(7) 0.9843(10)
+O5A O 0.7534(6) 0.1390(7) 0.5355(10)
+O6A O 0.8641(5) 0.2215(7) 0.6070(9)
+O6F O 0.3641(5) 0.2785(7) 1.1070(9)
+O6G O 0.6359(5) 0.2785(7) 0.3930(9)
+O7A O 0.6196(6) 0.2009(7) 0.6873(9)
+C1A C 0.6723(8) 0.0416(11) 0.7647(16)
+C2A C 0.6738(9) 0.1546(12) 0.7815(17)
+C3A C 0.6490(8) 0.183(1) 0.9169(12)
+H1A H 0.65880 0.25240 0.93010
+H2A H 0.68210 0.14730 0.98080
+C4A C 0.5601(9) 0.1611(12) 0.9369(16)
+C5A C 0.7628(8) 0.1922(10) 0.7591(13)
+H3A H 0.76520 0.26060 0.78410
+H4A H 0.79940 0.15680 0.81810
+C6A C 0.7949(9) 0.1836(10) 0.6254(16)
+#END

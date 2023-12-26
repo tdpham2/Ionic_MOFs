@@ -1,0 +1,195 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIBXIP
+_audit_creation_date 2013-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIBXIP
+_database_code_depnum_ccdc_archive 'CCDC 917046'
+_chemical_formula_sum 'C28 H25 Ag8 N16 O42 P1 W12'
+_chemical_formula_moiety
+;
+(H1 O40 P1 W12 4-)n,4n(C7 H5 Ag2 N4 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 222
+_journal_volume 42
+_journal_year 2013
+_journal_page_first 9809
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Aixiang Tian"
+"Xiaoling Lin"
+"Jun Ying"
+"Juwen Zhang"
+"Hongyan Lin"
+"Guocheng Liu"
+"Dan Zhao"
+"Na Li"
+"Xiuli Wang"
+_chemical_name_systematic
+;
+catena-(tetrakis(\m~4~-5-phenyl-1H-tetrazole)-di-silver 
+hydrogenphosphatododecatungstate dihydrate)
+;
+_cell_volume   3371.297
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 4.257
+_exptl_special_details
+;
+The authors published formula [Ag8(ptz)4(HPWV2WVI10O40)]2(H2O) and includes 
+hydrogen phosphate
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.  The phosphate oxygens 
+are disordered by symmetry and the phenyl ring is extensively disordered.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0564
+_refine_ls_wR_factor_gt 0.0564
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 4/n m m'
+_symmetry_Int_Tables_number 129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,x,z
+3 1/2-x,1/2-y,z
+4 y,1/2-x,z
+5 1/2+x,-y,-z
+6 1/2+y,1/2+x,-z
+7 -x,1/2+y,-z
+8 -y,-x,-z
+9 -x,-y,-z
+10 -1/2+y,-x,-z
+11 -1/2+x,-1/2+y,-z
+12 -y,-1/2+x,-z
+13 -1/2-x,y,z
+14 -1/2-y,-1/2-x,z
+15 x,-1/2-y,z
+16 y,x,z
+_cell_length_a 14.053(5)
+_cell_length_b 14.053(5)
+_cell_length_c 17.071(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.45
+N 0.68
+O 0.68
+P 1.05
+W 1.62
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+P1 P 0.25000 0.25000 0.6880(4)
+W1 W 0.12546(4) 0.12546(4) 0.54059(5)
+W2 W 0.12357(4) 0.12357(4) 0.83497(5)
+W3 W 0.25000 -0.00309(6) 0.68825(5)
+O1 O 0.0657(7) 0.0657(7) 0.4726(8)
+O2 O 0.25000 0.1170(12) 0.5027(11)
+O3 O 0.3404(15) 0.25000 0.7405(12)
+O4 O 0.1556(9) 0.0243(9) 0.6119(7)
+O5 O 0.1178(14) 0.25000 0.8727(12)
+O6 O 0.1551(10) 0.0234(10) 0.7635(8)
+O7 O 0.25000 -0.1197(11) 0.6880(11)
+O8 O 0.0647(8) 0.0647(8) 0.9036(9)
+O9 O 0.1613(14) 0.25000 0.6363(11)
+Ag1 Ag 0.01839(8) 0.01839(8) 0.32633(9)
+Ag2 Ag 0.12697(8) -0.12697(8) 0.50000
+C1 C 0.168(2) -0.0154(19) 0.1596(15)
+H1 H 0.11660 -0.05330 0.17300
+C2 C 0.25000 -0.019(2) 0.2032(18)
+N1 N 0.1714(7) -0.0420(9) 0.3317(6)
+C3 C 0.25000 -0.0304(17) 0.2859(15)
+N2 N 0.2040(7) -0.0737(8) 0.3988(6)
+C4? C 0.25000 -0.007(4) 0.038(3)
+H2? H 0.25000 -0.01910 -0.01570
+C5? C 0.169(4) 0.002(4) 0.076(3)
+H3? H 0.11360 0.01820 0.04960
+H4? H 0.11250 0.11190 0.04680
+H5? H 0.25000 0.01450 -0.00420
+H6? H 0.11190 0.11250 0.04680
+H7? H 0.11190 0.11250 0.04680
+H8? H 0.11250 0.11190 0.04680
+C6? C 0.160(8) 0.072(9) 0.066(7)
+C7? C 0.25000 0.052(8) 0.041(6)
+O3A O 0.2500(15) 0.34040 0.7405(12)
+O9A O 0.2500(14) 0.16130 0.6363(11)
+O3B O 0.1596(15) 0.25000 0.7405(12)
+O9B O 0.3387(14) 0.25000 0.6363(11)
+O3C O 0.2500(15) 0.15960 0.7405(12)
+O9C O 0.2500(14) 0.33870 0.6363(11)
+W1A W 0.37454(4) 0.12546(4) 0.54059(5)
+W2A W 0.37643(4) 0.12357(4) 0.83497(5)
+W3A W 0.50309 0.25000(6) 0.68825(5)
+O1A O 0.4343(7) 0.0657(7) 0.4726(8)
+O2A O 0.38300 0.2500(12) 0.5027(11)
+O4A O 0.4757(9) 0.1556(9) 0.6119(7)
+O5A O 0.2500(14) 0.11780 0.8727(12)
+O6A O 0.4766(10) 0.1551(10) 0.7635(8)
+O7A O 0.61970 0.2500(11) 0.6880(11)
+O8A O 0.4353(8) 0.0647(8) 0.9036(9)
+W1B W 0.37454(4) 0.37454(4) 0.54059(5)
+W2B W 0.37643(4) 0.37643(4) 0.83497(5)
+W3B W 0.25000 0.50309(6) 0.68825(5)
+O1B O 0.4343(7) 0.4343(7) 0.4726(8)
+O2B O 0.25000 0.3830(12) 0.5027(11)
+O4B O 0.3444(9) 0.4757(9) 0.6119(7)
+O5B O 0.3822(14) 0.25000 0.8727(12)
+O6B O 0.3449(10) 0.4766(10) 0.7635(8)
+O7B O 0.25000 0.6197(11) 0.6880(11)
+O8B O 0.4353(8) 0.4353(8) 0.9036(9)
+W1C W 0.12546(4) 0.37454(4) 0.54059(5)
+W2C W 0.12357(4) 0.37643(4) 0.83497(5)
+W3C W -0.00309 0.25000(6) 0.68825(5)
+O1C O 0.0657(7) 0.4343(7) 0.4726(8)
+O2C O 0.11700 0.2500(12) 0.5027(11)
+O4C O 0.0243(9) 0.3444(9) 0.6119(7)
+O5C O 0.2500(14) 0.38220 0.8727(12)
+O6C O 0.0234(10) 0.3449(10) 0.7635(8)
+O7C O -0.11970 0.2500(11) 0.6880(11)
+O8C O 0.0647(8) 0.4353(8) 0.9036(9)
+O4L O 0.3444(9) 0.0243(9) 0.6119(7)
+O6L O 0.3449(10) 0.0234(10) 0.7635(8)
+O4M O 0.4757(9) 0.3444(9) 0.6119(7)
+O6M O 0.4766(10) 0.3449(10) 0.7635(8)
+O4N O 0.1556(9) 0.4757(9) 0.6119(7)
+O6N O 0.1551(10) 0.4766(10) 0.7635(8)
+O4O O 0.0243(9) 0.1556(9) 0.6119(7)
+O6O O 0.0234(10) 0.1551(10) 0.7635(8)
+C1L C 0.332(2) -0.0154(19) 0.1596(15)
+H1L H 0.38340 -0.05330 0.17300
+N1L N 0.3286(7) -0.0420(9) 0.3317(6)
+N2L N 0.2960(7) -0.0737(8) 0.3988(6)
+Ag1A Ag 0.48161(8) 0.01839(8) 0.32633(9)
+Ag2I Ag 0.37303(8) -0.12697(8) 0.50000
+N1O N -0.0420(7) 0.1714(9) 0.3317(6)
+N2G N 0.0737(7) -0.2040(8) 0.6012(6)
+#END

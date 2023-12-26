@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EXOFIH
+_audit_creation_date 2011-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EXOFIH
+_database_code_depnum_ccdc_archive 'CCDC 821438'
+_chemical_formula_sum 'C10 H6.6 In1 O9.8'
+_chemical_formula_moiety
+;
+(H3 O1 1+)n,n(C10 H2 In1 O8 1-),0.8n(H2 O1)
+;
+_journal_coden_Cambridge 222
+_journal_volume 40
+_journal_year 2011
+_journal_page_first 9154
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Zheng-Bo Han"
+"Bi-Ye Li"
+"Jian-Wei Ji"
+"Yi-En Du"
+"Hai-Yan An"
+"Ming-Hua Zeng"
+_chemical_name_systematic
+;
+catena-[Oxonium (\m~4~-benzene-1,2,4,5-tetracarboxylato)-indium(iii) hydrate]
+;
+_cell_volume   1342.323
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.475
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0631
+_refine_ls_wR_factor_gt 0.0631
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 62 2 2'
+_symmetry_Int_Tables_number 180
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,2/3+z
+3 -x+y,-x,1/3+z
+4 -x,-y,z
+5 y,-x+y,2/3+z
+6 x-y,x,1/3+z
+7 y,x,2/3-z
+8 x-y,-y,-z
+9 -x,-x+y,1/3-z
+10 -y,-x,2/3-z
+11 -x+y,y,-z
+12 x,x-y,1/3-z
+_cell_length_a 9.038(2)
+_cell_length_b 9.038(2)
+_cell_length_c 18.975(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 1.00000 0.00000 0.16670
+C1 C 0.7692(10) -0.0016(12) 0.0778(4)
+O1 O 0.8535(10) 0.1120(11) 0.1252(3)
+C2 C 0.50000 0.00000 0.0715(5)
+H1 H 0.50000 0.00000 0.12150
+C3 C 0.6311(9) -0.0031(11) 0.0381(3)
+O2 O 0.8137(10) -0.1123(10) 0.0695(4)
+O3 O 0.685(5) -0.462(9) 0.0449(18)
+H2 H 0.71460 -0.51830 0.07130
+H3 H 0.61710 -0.51070 0.01060
+In1* In 0.00000 0.00000 0.16670
+In1G In 0.00000 0.00000 -0.16670
+In1G* In 1.00000 0.00000 -0.16670
+C1C C 0.2308(10) 0.0016(12) 0.0778(4)
+C1J C 0.2292(10) -0.0016(12) -0.0778(4)
+C1G C 0.7708(10) 0.0016(12) -0.0778(4)
+O1C O 0.1465(10) -0.1120(11) 0.1252(3)
+O1J O 0.2585(10) 0.1120(11) -0.1252(3)
+O1G O 0.7415(10) -0.1120(11) -0.1252(3)
+O1C* O 1.1465(10) -0.1120(11) 0.1252(3)
+O1H O 1.1465(10) 0.2585(11) 0.208133(300)
+O1K O 0.8535(10) -0.2585(11) 0.208133(300)
+C2G C 0.50000 0.00000 -0.0715(5)
+H1G H 0.50000 0.00000 -0.12150
+C3C C 0.3689(9) 0.0031(11) 0.0381(3)
+C3J C 0.3658(9) -0.0031(11) -0.0381(3)
+C3G C 0.6342(9) 0.0031(11) -0.0381(3)
+O2C O 0.1863(10) 0.1123(10) 0.0695(4)
+O2J O 0.074(1) -0.1123(10) -0.0695(4)
+O2G O 0.926(1) 0.1123(10) -0.0695(4)
+O2C* O 1.1863(10) 0.1123(10) 0.0695(4)
+O2H O 1.1863(10) 0.074(1) 0.263833(400)
+O2K O 0.8137(10) -0.074(1) 0.263833(400)
+#END

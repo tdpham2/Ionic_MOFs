@@ -1,0 +1,186 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EDOVEZ
+_audit_creation_date 2007-09-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EDOVEZ
+_database_code_depnum_ccdc_archive 'CCDC 651608'
+_chemical_formula_sum 'C26 H34 Cl6 Mn1 N6 Nb3 O3'
+_chemical_formula_moiety
+;
+(C4 H12 N1 1+)n,n(C21 H18 Cl6 Mn1 N5 Nb3 O2 1-),n(C1 H4 O1)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 19
+_journal_year 2007
+_journal_page_first 2238
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"Huajun Zhou"
+"K.C.Strates"
+"M.A.Munoz"
+"K.J.Little"
+"D.M.Pajerowski"
+"M.W.Meisel"
+"D.R.Talham"
+"A.Lachgar"
+_chemical_name_systematic
+;
+catena-(tetramethylammonium 
+hexakis(\m~2~-chloro)-bis(\m~2~-cyano)-cyano-(N,N'-ethylenebis(7-methylsalicyl
+idene)iminato)-manganese(iii)-tri-niobium methanol solvate)
+;
+_cell_volume   7283.663
+_exptl_crystal_colour 'dark brown'
+_exptl_crystal_density_diffrn 1.869
+_exptl_special_details
+;
+magnetic properties
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+A methanol O atom is disordered equally over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.062
+_refine_ls_wR_factor_gt 0.062
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 13.1663(17)
+_cell_length_b 23.426(3)
+_cell_length_c 23.615(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+Nb 1.48
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nb1 Nb 0.03697(4) 0.42842(2) 0.04705(2)
+Nb2 Nb -0.07858(4) 0.44940(2) -0.05662(2)
+Nb3 Nb -0.13180(4) 0.50991(2) 0.04773(2)
+Mn1 Mn 0.19006(8) 0.22590(4) 0.13161(4)
+Cl1 Cl -0.11082(12) 0.42677(7) 0.11093(7)
+Cl2 Cl -0.04696(12) 0.35612(7) -0.01181(7)
+Cl3 Cl -0.24674(12) 0.45394(7) -0.01206(7)
+Cl4 Cl -0.19794(12) 0.59644(7) 0.00089(7)
+Cl5 Cl 0.13479(12) 0.47535(7) 0.12313(7)
+Cl6 Cl 0.06121(12) 0.42811(7) -0.12257(7)
+O1 O 0.1527(3) 0.22038(19) 0.20841(19)
+O2 O 0.0832(4) 0.1811(2) 0.1047(2)
+N1 N 0.1012(4) 0.3088(3) 0.1219(3)
+N2 N -0.2104(4) 0.3553(2) -0.1395(2)
+N3 N -0.3421(5) 0.5184(3) 0.1326(3)
+N4 N -0.4116(4) 0.4684(2) -0.2095(2)
+N5 N 0.3120(4) 0.2712(2) 0.1538(3)
+N6 N 0.2434(4) 0.2382(2) 0.0526(3)
+C1 C 0.0769(5) 0.3491(3) 0.0983(3)
+C2 C -0.1648(5) 0.3906(3) -0.1163(3)
+C3 C -0.2746(6) 0.5181(3) 0.1025(3)
+C4 C -0.4653(7) 0.5172(3) -0.2373(4)
+H1 H -0.42580 0.55220 -0.23210
+H2 H -0.53260 0.52190 -0.22020
+H3 H -0.47280 0.50930 -0.27790
+C5 C -0.3952(6) 0.4803(4) -0.1483(3)
+H4 H -0.34930 0.51300 -0.14420
+H5 H -0.36510 0.44670 -0.13020
+H6 H -0.46040 0.48910 -0.13040
+C6 C -0.3111(6) 0.4592(4) -0.2375(3)
+H7 H -0.27200 0.49480 -0.23680
+H8 H -0.32180 0.44730 -0.27690
+H9 H -0.27370 0.42930 -0.21730
+C7 C -0.4745(6) 0.4158(3) -0.2161(3)
+H10 H -0.53790 0.42020 -0.19480
+H11 H -0.43690 0.38290 -0.20160
+H12 H -0.49010 0.40990 -0.25620
+C8 C 0.3407(6) 0.3086(3) 0.1069(3)
+H13 H 0.41120 0.32220 0.11240
+H14 H 0.29530 0.34230 0.10610
+C9 C 0.3330(6) 0.2773(3) 0.0528(3)
+H15 H 0.39580 0.25490 0.04670
+H16 H 0.32660 0.30500 0.02130
+C10 C 0.1044(6) 0.1454(4) -0.0459(3)
+H17 H 0.14030 0.15570 -0.07930
+C11 C 0.1862(6) 0.1844(3) 0.2981(3)
+H18 H 0.11740 0.17250 0.30060
+C12 C -0.0205(6) 0.0882(3) -0.0025(4)
+H19 H -0.06960 0.05860 -0.00440
+C13 C 0.3846(6) 0.2210(3) 0.2945(3)
+H20 H 0.45270 0.23440 0.29390
+C14 C 0.2515(6) 0.1727(3) 0.3424(3)
+H21 H 0.22780 0.15210 0.37440
+C15 C 0.3208(5) 0.2331(3) 0.2475(3)
+C16 C 0.1279(6) 0.1747(3) 0.0047(3)
+C17 C 0.0323(7) 0.1025(4) -0.0498(4)
+H22 H 0.02010 0.08350 -0.08470
+C18 C 0.2194(5) 0.2133(3) 0.2496(3)
+C19 C 0.3524(6) 0.1911(3) 0.3401(4)
+H23 H 0.39780 0.18270 0.37030
+C20 C -0.0040(6) 0.1161(3) 0.0485(3)
+H24 H -0.04380 0.10630 0.08070
+C21 C 0.0709(5) 0.1587(3) 0.0532(3)
+C22 C 0.3595(5) 0.2695(3) 0.2024(3)
+C23 C 0.2100(6) 0.2158(3) 0.0062(3)
+C24 C 0.4542(6) 0.3038(4) 0.2127(4)
+H25 H 0.45470 0.33700 0.18750
+H26 H 0.51390 0.28010 0.20510
+H27 H 0.45550 0.31660 0.25220
+C25 C 0.2604(7) 0.2315(4) -0.0495(3)
+H28 H 0.30610 0.26400 -0.04360
+H29 H 0.20820 0.24180 -0.07730
+H30 H 0.29940 0.19880 -0.06360
+C26 C 0.2067(11) 0.3740(6) 0.2767(7)
+O3 O 0.1428(15) 0.3981(8) 0.3177(9)
+O4? O 0.2364(14) 0.3887(8) 0.2202(9)
+Nb1D Nb -0.03697(4) 0.57158(2) -0.04705(2)
+Nb2D Nb 0.07858(4) 0.55060(2) 0.05662(2)
+Nb3D Nb 0.13180(4) 0.49009(2) -0.04773(2)
+Mn1C Mn -0.30994(8) 0.27410(4) -0.13161(4)
+Cl4D Cl 0.19794(12) 0.40356(7) -0.00089(7)
+Cl5D Cl -0.13479(12) 0.52465(7) -0.12313(7)
+Cl6D Cl -0.06121(12) 0.57189(7) 0.12257(7)
+N2C N 0.2896(4) 0.1447(2) 0.1395(2)
+#END

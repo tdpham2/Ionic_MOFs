@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEXXAM15
+_audit_creation_date 2019-12-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEXXAM15
+_database_code_depnum_ccdc_archive 'CCDC 1861356'
+_chemical_formula_sum 'C3 H7 N1 Ni1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Ni1 O6 1-)n,H4 N1 1+
+;
+_journal_coden_Cambridge 1326
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 24465
+_journal_name_full 'Phys.Chem.Chem.Phys.(PCCP) '
+loop_
+_publ_author_name
+"I.E.Collings"
+"R.S.Manna"
+"A.A.Tsirlin"
+"M.Bykov"
+"E.Bykova"
+"M.Hanfland"
+"P.Gegenwart"
+"S.v.Smaalen"
+"L.Dubrovinsky"
+"N.Dubrovinskaia"
+_chemical_name_systematic
+;
+catena-[ammonium tris(\m~2~-formato)-nickel]
+;
+_cell_volume    344.896
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.039
+_exptl_crystal_description 'hexagonal bipyramid'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 1600000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0916
+_refine_ls_wR_factor_gt 0.0916
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.607(3)
+_cell_length_b 8.0559(10)
+_cell_length_c 7.270(2)
+_cell_angle_alpha 90
+_cell_angle_beta 116.96(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.6606(2) 0.2537(2) 0.32059(18)
+O1 O 0.4065(15) 0.3967(11) 0.1060(11)
+O2 O 0.6785(16) 0.3914(10) 0.5601(12)
+C1 C 0.958(2) -0.0233(14) 0.5508(19)
+O3 O 0.3022(15) 0.6094(11) -0.1063(11)
+O4 O 0.6079(16) 0.6110(11) 0.7034(12)
+C2 C 0.590(2) 0.5305(15) 0.549(2)
+O5 O 0.8833(15) 0.1151(10) 0.5589(11)
+O6 O 1.0974(15) -0.1069(11) 0.7065(12)
+C3 C 0.452(3) 0.4984(19) -0.002(2)
+H1 H 0.59457 0.49360 -0.00599
+H2 H 0.50386 0.57856 0.41487
+H3 H 0.90864 -0.07230 0.41680
+N1 N 0.9764(15) 0.257(2) 0.9538(13)
+Ni1A Ni 0.3394(2) 0.7537(2) -0.32059(18)
+Ni1A* Ni 0.3394(2) 0.7537(2) 0.67941(18)
+Ni1A** Ni 1.3394(2) -0.2463(2) 0.67941(18)
+O3A O 0.6978(15) 0.1094(11) 0.1063(11)
+O4A O 0.3921(16) 0.1110(11) 0.2966(12)
+O6A O 0.9026(15) 0.3931(11) 0.2935(12)
+#END

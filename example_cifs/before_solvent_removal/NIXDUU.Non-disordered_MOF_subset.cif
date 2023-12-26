@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIXDUU
+_audit_creation_date 2008-08-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIXDUU
+_database_code_depnum_ccdc_archive 'CCDC 644030'
+_chemical_formula_sum 'C2 H3 Eu1 Na1 O7 P2'
+_chemical_formula_moiety
+;
+(C2 H3 Eu1 O7 P2 1-)n,n(Na1 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 130
+_journal_year 2008
+_journal_page_first 150
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"F.N.Shi"
+"L.Cunha-Silva"
+"R.A.Sa Ferreira"
+"L.Mafra"
+"T.Trindade"
+"L.D.Carlos"
+"F.A.A.Paz"
+"J.Rocha"
+_chemical_name_systematic
+;
+catena-(Sodium (\m~4~-1-oxyethylidenediphosphonato)-europium(iii))
+;
+_chemical_name_common
+;
+catena-(Sodium (mu!4$-etidronate)-europium(iii))
+;
+_cell_volume    767.071
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 3.255
+_exptl_special_details
+;
+luminescent; prepared by dehydration of the corresponding hydrate
+
+;
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 150
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0816
+_refine_ls_wR_factor_gt 0.0816
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.0636(19)
+_cell_length_b 9.7171(19)
+_cell_length_c 9.972(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.972(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.78
+Na 0.97
+O 0.68
+P 0.92
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.71905(13) 0.94079(11) 0.61861(13)
+P1 P 0.9016(6) 0.8329(7) 0.3445(6)
+P2 P 0.5184(7) 0.8469(7) 0.2793(6)
+O1 O 0.8898(16) 0.8171(17) 0.4971(16)
+O2 O 1.0568(15) 0.9098(14) 0.3265(14)
+O3 O 0.8927(18) 0.6932(19) 0.2754(15)
+O4 O 0.7314(18) 1.0557(15) 0.3644(16)
+O5 O 0.5062(16) 0.8632(16) 0.4326(14)
+O6 O 0.5356(16) 0.6998(16) 0.2251(14)
+O7 O 0.3618(17) 0.9160(16) 0.1978(15)
+C1 C 0.720(3) 0.933(2) 0.280(2)
+C2 C 0.726(3) 0.993(3) 0.133(2)
+H1 H 0.62690 1.05100 0.10280
+H2 H 0.72650 0.91700 0.06860
+H3 H 0.82900 1.04790 0.13780
+Na1 Na 0.1164(11) 0.7311(11) 0.6421(9)
+Eu1B Eu 1.28095(13) 1.05921(11) 0.38139(13)
+Eu1C Eu 0.71905(13) 0.55921(11) 0.11861(13)
+Eu1B* Eu 0.28095(13) 1.05921(11) 0.38139(13)
+O2B O 0.9432(15) 1.0902(14) 0.6735(14)
+O3C O 0.8927(18) 0.8068(19) 0.7754(15)
+O5B O 0.4938(16) 1.1368(16) 0.5674(14)
+O6C O 0.5356(16) 0.8002(16) 0.7251(14)
+O7B O 0.6382(17) 1.0840(16) 0.8022(15)
+#END

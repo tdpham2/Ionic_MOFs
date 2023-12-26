@@ -1,0 +1,199 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PAQVIO
+_audit_creation_date 2012-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PAQVIO
+_database_code_depnum_ccdc_archive 'CCDC 863576'
+_chemical_formula_sum 'C57 H45 Fe1 N7 Na1 Ni1 O11'
+_chemical_formula_moiety
+;
+(Na1 1+)n,n(C48 H24 Fe1 N4 Ni1 O8 1-),3n(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 1096
+_journal_volume 23
+_journal_year 2011
+_journal_page_first 4641
+_journal_name_full 'Chem.Mater. '
+loop_
+_publ_author_name
+"A.Fateeva"
+"S.Devautour-Vinot"
+"N.Heymans"
+"T.Devic"
+"J.-M.Greneche"
+"S.Wuttke"
+"S.Miller"
+"A.Lago"
+"C.Serre"
+"G.De Weireld"
+"G.Maurin"
+"A.Vimont"
+"G.Ferey"
+_chemical_name_systematic
+;
+catena-(sodium 
+(\m~5~-5,10,15,20-tetrakis(4-carboxyphenyl)porphyrinato)-iron(iii)-nickel(ii) 
+N,N-dimethylformamide solvate)
+;
+_chemical_name_common
+;
+MIL-141(Na)
+;
+_cell_volume   5504.563
+_exptl_crystal_colour 'red'
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1151
+_refine_ls_wR_factor_gt 0.1151
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.090(2)
+_cell_length_b 25.628(9)
+_cell_length_c 30.347(10)
+_cell_angle_alpha 90
+_cell_angle_beta 93.375(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.25
+N 0.68
+Na 1.06
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na -0.50000 0.2190(3) 0.25000
+Ni1 Ni 0.00000 0.00000 0.00000
+Fe1 Fe 1.00000 -0.17206(7) -0.25000
+N1 N 0.2065(10) -0.0487(3) -0.0005(2)
+N2 N -0.0543(8) -0.0244(2) 0.0579(2)
+C1 C 0.3343(12) -0.0568(4) -0.0339(3)
+C2 C 0.4658(18) -0.0987(5) -0.0223(4)
+H1 H 0.55990 -0.11180 -0.03930
+C3 C 0.425(2) -0.1141(5) 0.0168(5)
+H2 H 0.48660 -0.14070 0.03270
+C4 C 0.1774(14) -0.0917(3) 0.0696(3)
+C5 C 0.2688(15) -0.0839(4) 0.0322(3)
+C6 C 0.0316(10) -0.0630(3) 0.0833(3)
+C7 C -0.0449(12) -0.0673(4) 0.1260(3)
+H3 H -0.00830 -0.09040 0.14850
+C8 C -0.1787(12) -0.0312(5) 0.1265(3)
+H4 H -0.25190 -0.02440 0.15030
+C9 C -0.1939(10) -0.0045(3) 0.0856(3)
+C10 C 0.3232(10) -0.0327(3) -0.0740(3)
+C11 C 0.2546(15) -0.1330(3) 0.0997(3)
+C12 C 0.4321(13) -0.1375(3) 0.1213(3)
+H5 H 0.52360 -0.11220 0.11730
+C13 C 0.4728(10) -0.1797(4) 0.1490(3)
+H6 H 0.59160 -0.18270 0.16350
+C14 C 0.3360(14) -0.2175(3) 0.1551(3)
+C15 C 0.1584(12) -0.2130(4) 0.1334(3)
+H7 H 0.06690 -0.23830 0.13740
+C16 C 0.1178(11) -0.1708(4) 0.1057(3)
+H8 H -0.00100 -0.16780 0.09120
+C17 C 0.387(2) -0.2618(6) 0.1898(5)
+O1 O 0.5326(13) -0.2657(3) 0.2028(3)
+O2 O 0.2537(15) -0.2913(5) 0.2026(4)
+C18 C 0.4493(6) -0.0511(2) -0.10982(17)
+C19 C 0.3746(5) -0.0821(2) -0.14415(19)
+H9 H 0.24550 -0.08880 -0.14680
+C20 C 0.4929(7) -0.1032(2) -0.17449(16)
+H10 H 0.44290 -0.12390 -0.19750
+C21 C 0.6858(6) -0.09319(19) -0.17050(15)
+C22 C 0.7605(5) -0.06218(19) -0.13617(17)
+H11 H 0.88960 -0.05550 -0.13350
+C23 C 0.6422(7) -0.04115(19) -0.10583(15)
+H12 H 0.69220 -0.02040 -0.08290
+C24 C 0.8118(11) -0.1180(3) -0.2018(3)
+O3 O 0.7379(7) -0.14664(19) -0.23325(17)
+O4 O 0.9860(6) -0.1145(2) -0.19815(18)
+Fe1F Fe 0.50000 -0.32794(7) 0.25000
+Fe1B Fe -0.50000 0.32794(7) -0.25000
+Fe1D Fe -1.00000 0.17206(7) 0.25000
+N1D N -0.2065(10) 0.0487(3) 0.0005(2)
+N2D N 0.0543(8) 0.0244(2) -0.0579(2)
+C1D C -0.3343(12) 0.0568(4) 0.0339(3)
+C2D C -0.4658(18) 0.0987(5) 0.0223(4)
+H1D H -0.55990 0.11180 0.03930
+C3D C -0.425(2) 0.1141(5) -0.0168(5)
+H2D H -0.48660 0.14070 -0.03270
+C4D C -0.1774(14) 0.0917(3) -0.0696(3)
+C5D C -0.2688(15) 0.0839(4) -0.0322(3)
+C6D C -0.0316(10) 0.0630(3) -0.0833(3)
+C7D C 0.0449(12) 0.0673(4) -0.1260(3)
+H3D H 0.00830 0.09040 -0.14850
+C8D C 0.1787(12) 0.0312(5) -0.1265(3)
+H4D H 0.25190 0.02440 -0.15030
+C9D C 0.1939(10) 0.0045(3) -0.0856(3)
+C10D C -0.3232(10) 0.0327(3) 0.0740(3)
+C11D C -0.2546(15) 0.1330(3) -0.0997(3)
+C12D C -0.4321(13) 0.1375(3) -0.1213(3)
+H5D H -0.52360 0.11220 -0.11730
+C13D C -0.4728(10) 0.1797(4) -0.1490(3)
+H6D H -0.59160 0.18270 -0.16350
+C14D C -0.3360(14) 0.2175(3) -0.1551(3)
+C15D C -0.1584(12) 0.2130(4) -0.1334(3)
+H7D H -0.06690 0.23830 -0.13740
+C16D C -0.1178(11) 0.1708(4) -0.1057(3)
+H8D H 0.00100 0.16780 -0.09120
+C17D C -0.387(2) 0.2618(6) -0.1898(5)
+O1D O -0.5326(13) 0.2657(3) -0.2028(3)
+O1F O 0.9674(13) -0.2343(3) -0.2028(3)
+O1G O 1.0326(13) -0.2343(3) -0.2972(3)
+O2D O -0.2537(15) 0.2913(5) -0.2026(4)
+C18D C -0.4493(6) 0.0511(2) 0.10982(17)
+C19D C -0.3746(5) 0.0821(2) 0.14415(19)
+H9D H -0.24550 0.08880 0.14680
+C20D C -0.4929(7) 0.1032(2) 0.17449(16)
+H10D H -0.44290 0.12390 0.19750
+C21D C -0.6858(6) 0.09319(19) 0.17050(15)
+C22D C -0.7605(5) 0.06218(19) 0.13617(17)
+H11D H -0.88960 0.05550 0.13350
+C23D C -0.6422(7) 0.04115(19) 0.10583(15)
+H12D H -0.69220 0.02040 0.08290
+C24D C -0.8118(11) 0.1180(3) 0.2018(3)
+O3D O -0.7379(7) 0.14664(19) 0.23325(17)
+O3A O 1.2621(7) -0.14664(19) -0.26675(17)
+O4D O -0.9860(6) 0.1145(2) 0.19815(18)
+O4A O 1.0140(6) -0.1145(2) -0.30185(18)
+#END

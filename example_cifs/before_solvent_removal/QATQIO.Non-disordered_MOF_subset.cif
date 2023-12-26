@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QATQIO
+_audit_creation_date 2017-05-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QATQIO
+_database_code_depnum_ccdc_archive 'CCDC 1503031'
+_chemical_formula_sum 'C14 H11 Dy1 Na2 O12'
+_chemical_formula_moiety
+;
+2(Na1 1+),n(C14 H8 Dy1 O10 1-),H1 O1 1-,H2 O1
+;
+_journal_coden_Cambridge 580
+_journal_volume 132
+_journal_year 2017
+_journal_page_first 123
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"Shi-Yong Zhang"
+"Fu-Yong Liang"
+"He-Rui Wen"
+"Sui-Jun Liu"
+"Xiao-Neng Lu"
+"Zi-Yi Du"
+_chemical_name_systematic
+;
+catena-[bis(sodium) 
+(\m-naphthalene-1,4,5,8-tetracarboxylato)-diaqua-dysprosium hydroxide 
+monohydrate]
+;
+_cell_volume   3304.616
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.33
+_exptl_crystal_description 'granulous'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0196
+_refine_ls_wR_factor_gt 0.0196
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 x,-y,-z
+4 -x,1/2+y,1/2-z
+5 1/2+x,1/2+y,z
+6 1/2-x,-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 1/2-x,y,1/2-z
+9 -x,-y,-z
+10 x,-1/2+y,-1/2-z
+11 -x,y,z
+12 x,-1/2-y,-1/2+z
+13 -1/2-x,-1/2-y,-z
+14 -1/2+x,y,-1/2-z
+15 -1/2-x,-1/2+y,z
+16 -1/2+x,-y,-1/2+z
+_cell_length_a 20.1758(11)
+_cell_length_b 9.6174(6)
+_cell_length_c 17.0307(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Dy 1.92
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Dy1 Dy 0.75000 0.131263(18) 0.75000
+C1 C 0.93077(16) 0.3806(3) 0.82605(18)
+C2 C 0.93053(17) 0.1287(3) 0.86721(19)
+C3 C 0.96536(15) 0.5011(3) 0.81605(19)
+H1 H 0.94260 0.58420 0.80920
+C4 C 0.96545(15) 0.0085(3) 0.8804(2)
+H2 H 0.94270 -0.07410 0.88940
+C5 C 0.96445(14) 0.2538(3) 0.84585(18)
+C6 C 0.85800(17) 0.1268(3) 0.8870(2)
+C7 C 0.85825(17) 0.3859(3) 0.80455(19)
+O1 O 0.82012(11) 0.0409(2) 0.85156(14)
+O2 O 0.83958(12) 0.2070(3) 0.93976(14)
+O3 O 0.83540(11) 0.2843(2) 0.76723(13)
+O4 O 0.82638(10) 0.4947(2) 0.82009(14)
+O5 O 0.71855(12) 0.2546(2) 0.87341(15)
+H3 H 0.7012(19) 0.334(3) 0.867(2)
+H4 H 0.7510(15) 0.256(4) 0.904(2)
+Na1 Na 0.8590(2) 0.3965(4) 1.0422(3)
+O6 O 0.7624(2) 0.50000 1.00000
+O7 O 0.9696(3) 0.3065(6) 1.0377(3)
+Na2? Na 0.8960(4) 0.3886(6) 1.0333(4)
+C1J C 1.06923(16) 0.3806(3) 0.82605(18)
+C2J C 1.06947(17) 0.1287(3) 0.86721(19)
+C3J C 1.03464(15) 0.5011(3) 0.81605(19)
+H1J H 1.05740 0.58420 0.80920
+C4J C 1.03455(15) 0.0085(3) 0.8804(2)
+H2J H 1.05730 -0.07410 0.88940
+C5J C 1.03555(14) 0.2538(3) 0.84585(18)
+C6J C 1.14200(17) 0.1268(3) 0.8870(2)
+C7J C 1.14175(17) 0.3859(3) 0.80455(19)
+O1J O 1.17988(11) 0.0409(2) 0.85156(14)
+O2J O 1.16042(12) 0.2070(3) 0.93976(14)
+O3J O 1.16460(11) 0.2843(2) 0.76723(13)
+O4J O 1.17362(10) 0.4947(2) 0.82009(14)
+O5G O 0.78145(12) 0.2546(2) 0.62659(15)
+H3G H 0.7988(19) 0.334(3) 0.633(2)
+H4G H 0.7490(15) 0.256(4) 0.596(2)
+Dy1C Dy 1.25000 0.631263(18) 0.75000
+Dy1I Dy 0.75000 0.631263(18) 0.75000
+Dy1J Dy 1.25000 0.131263(18) 0.75000
+O1G O 0.67988(11) 0.0409(2) 0.64844(14)
+O3G O 0.66460(11) 0.2843(2) 0.73277(13)
+O4I O 0.82638(10) -0.0053(2) 0.67991(14)
+O4N O 0.67362(10) -0.0053(2) 0.82009(14)
+#END

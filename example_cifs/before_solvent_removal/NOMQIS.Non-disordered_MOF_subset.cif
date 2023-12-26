@@ -1,0 +1,240 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOMQIS
+_audit_creation_date 2019-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOMQIS
+_database_code_depnum_ccdc_archive 'CCDC 1551769'
+_chemical_formula_sum 'C12 H34.88 Cu3 Li1 N6 O20.94'
+_chemical_formula_moiety
+;
+(C12 H13 Cu3 N6 O10 1-)n,10.94(H2 O1),Li1 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 58
+_journal_year 2019
+_journal_page_first 8922
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Yi Han"
+"Kang Liu"
+"M.A.Sinnwell"
+"Lili Liu"
+"Hongliang Huang"
+"P.K.Thallapally"
+_chemical_name_systematic
+;
+catena-[lithium 
+(\m-hydroxo)-tris(\m-pyrazolato-4-carboxylato)-triaqua-tri-copper(ii) 
+hydrate]
+;
+_cell_volume  28062.593
+_exptl_crystal_colour 'violet'
+_exptl_crystal_density_diffrn 1.507
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0504
+_refine_ls_wR_factor_gt 0.0504
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F -4 3 c'
+_symmetry_Int_Tables_number 219
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 y,-x,1/2-z
+3 -x,-y,z
+4 -y,x,1/2-z
+5 x,-y,-z
+6 -y,-x,1/2+z
+7 -x,y,-z
+8 y,x,1/2+z
+9 z,x,y
+10 x,-z,1/2-y
+11 -z,-x,y
+12 -x,z,1/2-y
+13 z,-x,-y
+14 -x,-z,1/2+y
+15 -z,x,-y
+16 x,z,1/2+y
+17 y,z,x
+18 1/2+z,y,x
+19 1/2+z,-y,-x
+20 1/2-z,-y,x
+21 1/2-z,y,-x
+22 y,1/2-z,1/2-x
+23 -y,1/2-z,1/2+x
+24 -y,1/2+z,1/2-x
+25 x,1/2+y,1/2+z
+26 y,1/2-x,-z
+27 -x,1/2-y,1/2+z
+28 -y,1/2+x,-z
+29 x,1/2-y,1/2-z
+30 -y,1/2-x,z
+31 -x,1/2+y,1/2-z
+32 y,1/2+x,z
+33 z,1/2+x,1/2+y
+34 x,1/2-z,-y
+35 -z,1/2-x,1/2+y
+36 -x,1/2+z,-y
+37 z,1/2-x,1/2-y
+38 -x,1/2-z,y
+39 -z,1/2+x,1/2-y
+40 x,1/2+z,y
+41 y,1/2+z,1/2+x
+42 1/2+z,1/2+y,1/2+x
+43 1/2+z,1/2-y,1/2-x
+44 1/2-z,1/2-y,1/2+x
+45 1/2-z,1/2+y,1/2-x
+46 y,-z,-x
+47 -y,-z,x
+48 -y,z,-x
+49 1/2+x,y,1/2+z
+50 1/2+y,-x,-z
+51 1/2-x,-y,1/2+z
+52 1/2-y,x,-z
+53 1/2+x,-y,1/2-z
+54 1/2-y,-x,z
+55 1/2-x,y,1/2-z
+56 1/2+y,x,z
+57 1/2+z,x,1/2+y
+58 1/2+x,-z,-y
+59 1/2-z,-x,1/2+y
+60 1/2-x,z,-y
+61 1/2+z,-x,1/2-y
+62 1/2-x,-z,y
+63 1/2-z,x,1/2-y
+64 1/2+x,z,y
+65 1/2+y,z,1/2+x
+66 z,y,1/2+x
+67 z,-y,1/2-x
+68 -z,-y,1/2+x
+69 -z,y,1/2-x
+70 1/2+y,1/2-z,-x
+71 1/2-y,1/2-z,x
+72 1/2-y,1/2+z,-x
+73 1/2+x,1/2+y,z
+74 1/2+y,1/2-x,1/2-z
+75 1/2-x,1/2-y,z
+76 1/2-y,1/2+x,1/2-z
+77 1/2+x,1/2-y,-z
+78 1/2-y,1/2-x,1/2+z
+79 1/2-x,1/2+y,-z
+80 1/2+y,1/2+x,1/2+z
+81 1/2+z,1/2+x,y
+82 1/2+x,1/2-z,1/2-y
+83 1/2-z,1/2-x,y
+84 1/2-x,1/2+z,1/2-y
+85 1/2+z,1/2-x,-y
+86 1/2-x,1/2-z,1/2+y
+87 1/2-z,1/2+x,-y
+88 1/2+x,1/2+z,1/2+y
+89 1/2+y,1/2+z,x
+90 z,1/2+y,x
+91 z,1/2-y,-x
+92 -z,1/2-y,x
+93 -z,1/2+y,-x
+94 1/2+y,-z,1/2-x
+95 1/2-y,-z,1/2+x
+96 1/2-y,z,1/2-x
+_cell_length_a 30.3885(1)
+_cell_length_b 30.3885(1)
+_cell_length_c 30.3885(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 32
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+Li 1.28
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.57293(3) 0.16308(3) 0.38641(3)
+O1 O 0.52425(18) 0.20545(16) 0.39443(17)
+O2 O 0.56196(19) 0.2464(2) 0.3462(2)
+O3 O 0.62493(19) 0.12493(19) 0.37507(19)
+N1 N 0.4356(2) 0.3124(2) 0.3960(2)
+N2 N 0.45478(19) 0.3337(2) 0.3612(2)
+C1 C 0.4605(2) 0.2759(2) 0.4039(3)
+H1 H 0.45508 0.25509 0.42567
+C2 C 0.4907(2) 0.3109(3) 0.3483(3)
+H2 H 0.50925 0.31872 0.32526
+C3 C 0.4954(2) 0.2748(3) 0.3744(3)
+C4 C 0.5295(2) 0.2402(2) 0.3716(2)
+O4 O 0.5350(6) 0.1098(6) 0.4336(5)
+H3 H 0.52668 0.08517 0.42320
+H4 H 0.51658 0.11868 0.45262
+Li1 Li 0.6768(4) 0.1768(4) 0.3232(4)
+O5 O 0.6099(4) 0.2115(5) 0.2733(5)
+H5 H 0.59158 0.19430 0.26113
+H6 H 0.59653 0.22806 0.29150
+Cu1K Cu 0.42707(3) 0.38641(3) 0.33692(3)
+O1K O 0.47575(18) 0.39443(16) 0.29455(17)
+O2K O 0.43804(19) 0.3462(2) 0.2536(2)
+N1K N 0.5644(2) 0.3960(2) 0.1876(2)
+N2K N 0.54522(19) 0.3612(2) 0.1663(2)
+C1K C 0.5395(2) 0.4039(2) 0.2241(3)
+H1K H 0.54492 0.42567 0.24491
+C2K C 0.5093(2) 0.3483(3) 0.1891(3)
+H2K H 0.49075 0.32526 0.18128
+C3K C 0.5046(2) 0.3744(3) 0.2252(3)
+C4K C 0.4705(2) 0.3716(2) 0.2598(2)
+O4K O 0.4650(6) 0.4336(6) 0.3902(5)
+H3K H 0.47332 0.42320 0.41483
+H4K H 0.48342 0.45262 0.38132
+Cu1KA Cu 0.42707(3) 0.11359(3) 0.16308(3)
+O1KA O 0.47575(18) 0.10557(16) 0.20545(17)
+O2KA O 0.43804(19) 0.1538(2) 0.2464(2)
+N1KA N 0.5644(2) 0.1040(2) 0.3124(2)
+N2KA N 0.54522(19) 0.1388(2) 0.3337(2)
+C1KA C 0.5395(2) 0.0961(2) 0.2759(3)
+H1KA H 0.54492 0.07433 0.25509
+C2KA C 0.5093(2) 0.1517(3) 0.3109(3)
+H2KA H 0.49075 0.17474 0.31872
+C3KA C 0.5046(2) 0.1256(3) 0.2748(3)
+C4KA C 0.4705(2) 0.1284(2) 0.2402(2)
+O4KA O 0.4650(6) 0.0664(6) 0.1098(5)
+H3KA H 0.47332 0.07680 0.08517
+H4KA H 0.48342 0.04738 0.11868
+Cu1J Cu 0.61359(3) 0.42707(3) 0.16308(3)
+Cu1BA Cu 0.57293(3) 0.33692(3) 0.11359(3)
+Cu1LA Cu 0.61359(3) 0.07293(3) 0.33692(3)
+Cu1QB Cu 0.66308(3) 0.11359(3) 0.42707(3)
+Cu1LC Cu 0.38641(3) 0.33692(3) 0.42707(3)
+O3K O 0.37507(19) 0.37507(19) 0.37507(19)
+O3KA O 0.37507(19) 0.12493(19) 0.12493(19)
+N1H N 0.3960(2) 0.4356(2) 0.3124(2)
+N1JA N 0.3960(2) 0.0644(2) 0.1876(2)
+N1MC N 0.6040(2) 0.1876(2) 0.4356(2)
+N2BA N 0.45478(19) 0.1663(2) 0.1388(2)
+#END

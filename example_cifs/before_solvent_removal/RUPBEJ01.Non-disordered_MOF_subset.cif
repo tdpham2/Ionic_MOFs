@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUPBEJ01
+_audit_creation_date 1999-07-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUPBEJ01
+_chemical_formula_sum 'C18 H28 Cr1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+(C6 Cr1 Mn1 O12 1-)n,n(C12 H28 N1 1+)
+;
+_journal_coden_Cambridge 367
+_journal_volume 24
+_journal_year 1998
+_journal_page_first 305
+_journal_name_full 'Koord.Khim.(Russ.)(Coord.Chem.) '
+loop_
+_publ_author_name
+"G.V.Shilov"
+"L.O.Atovmyan"
+"N.S.Ovanesyan"
+"A.A.Pyalling"
+"L.Bott'yan"
+_chemical_name_systematic
+;
+catena-(Tetra-n-propylammonium 
+tris(\m~2~-oxalato)-chromium(iii)-manganese(ii))
+;
+_cell_volume   3718.880
+_exptl_crystal_density_diffrn 1.493
+_exptl_special_details
+;
+z(Mn) is 0.0009, not -0.0009
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One propyl group in the cation is disordered over a symmetry centre.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0632
+_refine_ls_wR_factor_gt 0.0632
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R 3 c'
+_symmetry_Int_Tables_number 161
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -y,-x,1/2+z
+4 -x+y,-x,z
+5 x,x-y,1/2+z
+6 -x+y,y,1/2+z
+7 1/3+x,2/3+y,2/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-y,2/3-x,1/6+z
+10 1/3-x+y,2/3-x,2/3+z
+11 1/3+x,2/3+x-y,1/6+z
+12 1/3-x+y,2/3+y,1/6+z
+13 2/3+x,1/3+y,1/3+z
+14 2/3-y,1/3+x-y,1/3+z
+15 2/3-y,1/3-x,5/6+z
+16 2/3-x+y,1/3-x,1/3+z
+17 2/3+x,1/3+x-y,5/6+z
+18 2/3-x+y,1/3+y,5/6+z
+_cell_length_a 9.350(2)
+_cell_length_b 9.350(2)
+_cell_length_c 49.12(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.60
+Cr 1.35
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 1.00000 0.00000 -0.0009(1)
+Mn1 Mn 1.33340 0.66670 0.0009(1)
+O1 O 1.0069(14) 0.8211(14) 0.0216(2)
+O2 O 1.0162(18) 0.1790(13) -0.0222(2)
+O3 O 1.1421(15) 0.6895(15) 0.0229(2)
+O4 O 0.5374(18) -0.3021(18) -0.0232(2)
+C1 C 1.1139(18) 0.7917(22) 0.0124(3)
+C2 C 1.1163(25) 0.3235(24) -0.0140(2)
+N1 N 0.00000 0.00000 0.1041(5)
+C3 C 0.00000 0.00000 0.1340(7)
+C4 C 0.024(10) 0.1126(65) 0.1568(9)
+C5 C -0.0446(65) 0.0093(74) 0.1823(8)
+C6 C -0.1092(59) -0.1646(51) 0.0914(13)
+C7 C -0.2851(60) -0.2246(57) 0.0929(11)
+C8 C -0.3931(61) -0.4000(53) 0.0860(13)
+Cr1* Cr 1.00000 1.00000 -0.0009(1)
+O3A O 1.3105(15) 0.4526(15) 0.0229(2)
+C1A C 1.2083(18) 0.3222(22) 0.0124(3)
+O1A O 1.1789(14) 0.1858(14) 0.0216(2)
+O1C O 0.8142(14) -0.0069(14) 0.0216(2)
+C1C C 0.6778(18) -0.1139(22) 0.0124(3)
+O3C O 0.5474(15) -0.1421(15) 0.0229(2)
+Mn1* Mn 0.33340 -0.33330 0.0009(1)
+C2A C 0.6765(25) -0.2072(24) -0.0140(2)
+O2A O 0.8210(18) -0.1628(13) -0.0222(2)
+O1* O 1.0069(14) -0.1789(14) 0.0216(2)
+O2C O 1.1628(18) -0.0162(13) -0.0222(2)
+O4C O 1.1605(18) 0.4626(18) -0.0232(2)
+O3C* O 1.5474(15) 0.8579(15) 0.0229(2)
+O4A O 1.3021(18) 0.8395(18) -0.0232(2)
+C2C C 1.2072(25) 0.8837(24) -0.0140(2)
+O2C* O 1.1628(18) 0.9838(13) -0.0222(2)
+O4* O 1.5374(18) 0.6979(18) -0.0232(2)
+C4A C -0.1126(100) -0.0886(65) 0.1568(9)
+C4C C 0.0886(100) -0.0240(65) 0.1568(9)
+C5C C 0.0539(65) 0.0446(74) 0.1823(8)
+C5A C -0.0093(65) -0.0539(74) 0.1823(8)
+C6A C 0.1646(59) 0.0554(51) 0.0914(13)
+C7A C 0.2246(60) -0.0605(57) 0.0929(11)
+C8A C 0.4000(61) 0.0069(53) 0.0860(13)
+C6C C -0.0554(59) 0.1092(51) 0.0914(13)
+C7C C 0.0605(60) 0.2851(57) 0.0929(11)
+C8C C -0.0069(61) 0.3931(53) 0.0860(13)
+#END

@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ONINAD
+_audit_creation_date 2021-03-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ONINAD
+_database_code_depnum_ccdc_archive 'CCDC 2005337'
+_chemical_formula_sum 'C12 H26 N2 O21 U2'
+_chemical_formula_moiety
+;
+(C6 H2 O17 U2 2-)n,C5 H14 N2 2+,C1 H4 O1,3(H2 O1)
+;
+_journal_coden_Cambridge 211
+_journal_volume 74
+_journal_year 2021
+_journal_page_first 1146
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"Yin Su"
+"Xueling Qiao"
+"Jiangang He"
+_chemical_name_systematic
+;
+catena-[(1-methylpiperazine-1,4-diium) 
+tris(\m-oxalato)-aqua-tetraoxo-di-uranium(vi) methanol solvate trihydrate]
+;
+_cell_volume   2370.641
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0304
+_refine_ls_wR_factor_gt 0.0304
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.964(2)
+_cell_length_b 24.623(8)
+_cell_length_c 11.535(6)
+_cell_angle_alpha 90
+_cell_angle_beta 111.39(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+U 1.96
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U 0.76283(2) 0.29619(2) 1.02990(2)
+U2 U 0.72471(2) 0.56256(2) 0.92055(2)
+O1 O 0.3901(4) 0.28491(15) 0.6457(4)
+O2 O 0.4611(4) 0.18475(15) 0.7319(3)
+O3 O 0.7724(5) 0.63445(16) 1.0660(4)
+O4 O 0.6454(4) 0.21726(15) 0.9049(4)
+O5 O 0.7512(4) 0.38739(16) 1.0257(4)
+O6 O 0.5673(4) 0.31775(15) 0.8230(4)
+O7 O 0.7382(5) 0.73939(16) 0.8526(4)
+O8 O 0.7119(4) 0.64950(16) 0.8313(4)
+O9 O 0.7934(5) 0.52233(16) 1.1218(4)
+O10 O 0.7086(4) 0.46466(16) 0.9183(4)
+O11 O 0.8535(5) 0.44874(17) 1.2412(4)
+C1 C 0.4945(6) 0.2797(2) 0.7511(5)
+C2 C 0.5382(6) 0.2223(2) 0.8000(5)
+C3 C 0.7505(6) 0.4384(2) 1.0179(6)
+C4 C 0.7324(6) 0.6933(2) 0.8940(6)
+C5 C 0.7554(6) 0.6850(2) 1.0326(6)
+O12 O 0.7583(5) 0.72296(18) 1.0999(4)
+O13 O 0.6515(5) 0.5416(2) 0.7031(4)
+H1 H 0.69390 0.50970 0.69090
+H2 H 0.68590 0.56730 0.66280
+C6 C 0.8038(7) 0.4710(2) 1.1381(6)
+O14 O 0.9145(4) 0.29708(16) 0.9665(4)
+O15 O 0.6123(4) 0.29284(16) 1.0937(4)
+O16 O 0.5212(5) 0.56417(17) 0.8995(5)
+O17 O 0.9257(5) 0.55906(18) 0.9370(5)
+N1 N 0.7171(5) 0.33274(19) 0.5148(5)
+H3 H 0.72590 0.29640 0.55120
+N2 N 0.9943(6) 0.3803(2) 0.7000(5)
+H4 H 1.08680 0.37740 0.77680
+H5 H 0.99230 0.41670 0.66760
+C7 C 0.7024(7) 0.3728(3) 0.6076(6)
+H6 H 0.60710 0.36480 0.62570
+H7 H 0.69110 0.40910 0.57270
+C8 C 0.8660(7) 0.3438(3) 0.4900(6)
+H8 H 0.86040 0.37980 0.45470
+H9 H 0.87580 0.31770 0.43020
+C9 C 0.8469(8) 0.3707(3) 0.7258(6)
+H10 H 0.83740 0.39810 0.78320
+H11 H 0.85280 0.33540 0.76470
+C10 C 1.0091(7) 0.3400(3) 0.6078(7)
+H12 H 1.10550 0.34720 0.59080
+H13 H 1.01700 0.30360 0.64180
+C11 C 0.5747(8) 0.3336(3) 0.3977(7)
+H14 H 0.47930 0.33040 0.41670
+H15 H 0.58040 0.30370 0.34590
+H16 H 0.57220 0.36710 0.35460
+O18 O 0.6477(6) 0.5867(2) 0.2722(6)
+H17 H 0.57020 0.57830 0.29450
+H18 H 0.62020 0.61300 0.22100
+O19 O 0.8350(7) 0.5970(2) 0.6087(7)
+H19 H 0.83880 0.62450 0.65430
+H20 H 0.75290 0.59930 0.54210
+O20 O 0.0597(10) 0.5188(2) 0.4107(7)
+H21 H 0.10600 0.50320 0.36730
+H22 H -0.01240 0.49810 0.41760
+O21 O 0.6632(9) 0.4902(3) 0.3883(7)
+C12 C 0.586(2) 0.5194(10) 0.4303(19)
+U1C U 0.26283(2) 0.20381(2) 0.52990(2)
+O1C O 0.8901(4) 0.21509(15) 1.1457(4)
+O2C O 0.9611(4) 0.31525(15) 1.2319(3)
+#END

@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UGEPAY
+_audit_creation_date 2010-04-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UGEPAY
+_database_code_depnum_ccdc_archive 'CCDC 653968'
+_chemical_formula_sum 'C18 H23 Co1 K1 N2 O10'
+_chemical_formula_moiety
+;
+(C18 H20 Co1 K1 N2 O9 1-)n,n(H2 O1),n(H1 1+)
+;
+_journal_coden_Cambridge 211
+_journal_volume 62
+_journal_year 2009
+_journal_page_first 2719
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"Jing Han"
+"Yong Heng Xing"
+"Feng Ying Bai"
+"Xing Jing Zhang"
+"Xiao Qing Zeng"
+"Mao-Fa Ge"
+_chemical_name_systematic
+;
+catena-(Hydrogen 
+bis(\m~2~-N-(2-hydroxybenzylidene)glycinato)-(\m~2~-aqua)-diaqua-cobalt-potass
+ium monohydrate)
+;
+_cell_volume   2180.142
+_exptl_crystal_density_diffrn 1.601
+_exptl_special_details
+;
+A hydrogen present in the formula is assumed to be included for charge 
+balancing purposes but does not appear to have been located
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0404
+_refine_ls_wR_factor_gt 0.0404
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 19.017(4)
+_cell_length_b 9.6823(19)
+_cell_length_c 11.848(2)
+_cell_angle_alpha 90
+_cell_angle_beta 92.06(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+K 1.54
+N 0.68
+O 0.86
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1? H 0.576(8) 0.650(17) 0.699(12)
+H2? H 0.562(4) 0.282(8) 0.887(6)
+H3 H 0.488(4) 0.286(9) 0.873(6)
+H4 H 0.628(2) 0.618(5) 0.955(3)
+H5 H 0.635(4) 0.671(8) 1.021(6)
+Co1 Co 0.26469(2) 0.47063(4) 0.48505(3)
+K1 K 0.48890(5) 0.59011(11) 0.87019(7)
+N1 N 0.26477(14) 0.3757(3) 0.6241(2)
+N2 N 0.27456(13) 0.5690(3) 0.3489(2)
+O1 O 0.21149(12) 0.3401(2) 0.40404(17)
+O2 O 0.32077(12) 0.6060(2) 0.56502(18)
+O3 O 0.37916(14) 0.6436(3) 0.7268(2)
+O4 O 0.18241(12) 0.5613(3) 0.52415(18)
+O5 O 0.35024(12) 0.3771(2) 0.44480(18)
+O6 O 0.43516(19) 0.3837(4) 0.3228(3)
+O7 O 0.5288(3) 0.8733(5) 0.8835(5)
+H6 H 0.49520 0.92200 0.86450
+O8 O 0.61353(18) 0.5871(4) 1.0052(4)
+O9 O 0.5304(2) 0.3192(4) 0.9054(4)
+O10 O 0.72094(18) 0.1147(3) 0.4938(3)
+C1 C 0.17619(16) 0.2389(3) 0.4504(2)
+C2 C 0.12840(19) 0.1651(4) 0.3799(3)
+H7 H 0.12180 0.19080 0.30460
+C3 C 0.0916(2) 0.0558(4) 0.4210(4)
+H8 H 0.06070 0.00790 0.37250
+C4 C 0.0989(2) 0.0147(4) 0.5321(4)
+H9 H 0.07350 -0.06010 0.55830
+C5 C 0.14420(19) 0.0857(4) 0.6034(3)
+H10 H 0.14900 0.05900 0.67870
+C6 C 0.18377(16) 0.1983(3) 0.5650(3)
+C7 C 0.23030(16) 0.2667(3) 0.6453(2)
+H11 H 0.23550 0.22900 0.71730
+C8 C 0.3090(2) 0.4412(4) 0.7123(3)
+H12 H 0.28110 0.46110 0.77740
+H13 H 0.34670 0.37910 0.73590
+C9 C 0.33931(18) 0.5735(3) 0.6672(3)
+C10 C 0.13836(17) 0.6149(3) 0.4474(3)
+C11 C 0.06710(19) 0.6294(4) 0.4739(3)
+H14 H 0.05220 0.59720 0.54300
+C12 C 0.01897(19) 0.6902(4) 0.4000(4)
+H15 H -0.02780 0.69780 0.41960
+C13 C 0.0394(2) 0.7403(5) 0.2966(4)
+H16 H 0.00670 0.78200 0.24730
+C14 C 0.1078(2) 0.7279(4) 0.2676(3)
+H17 H 0.12150 0.76260 0.19850
+C15 C 0.15819(17) 0.6636(3) 0.3401(3)
+C16 C 0.22765(18) 0.6441(3) 0.2992(3)
+H18 H 0.23920 0.68860 0.23280
+C17 C 0.34320(19) 0.5479(4) 0.3006(3)
+H19 H 0.33750 0.53000 0.22020
+H20 H 0.37170 0.63020 0.31100
+C18 C 0.37917(18) 0.4266(4) 0.3584(3)
+H21 H 0.541(3) 0.249(5) 0.983(4)
+H3B H 0.512(4) 0.714(9) 1.127(6)
+K1B K 0.51110(5) 0.40989(11) 0.12981(7)
+K1B* K 0.51110(5) 0.40989(11) 1.12981(7)
+O6B O 0.56484(19) 0.6163(4) 0.6772(3)
+O9B O 0.4696(2) 0.6808(4) 1.0946(4)
+H21B H 0.459(3) 0.751(5) 1.017(4)
+#END

@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HEQKAP
+_audit_creation_date 1999-05-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HEQKAP
+_chemical_formula_sum 'C8 H7 Au2 Cs1 Na2 O8 S2'
+_chemical_formula_moiety
+;
+(C8 H7 Au2 O8 S2 3-)n,n(Cs1 1+),2n(Na1 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 120
+_journal_year 1998
+_journal_page_first 9380
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"R.Bau"
+_chemical_name_systematic
+;
+catena-(Cesium disodium (\m~2~-thiomalate)-(\m~2~-hydrogen 
+thiomalate)-di-gold(i))
+;
+_cell_volume   1689.857
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 3.402
+_exptl_special_details
+;
+a therapeutic agent against rheumatoid arthritis; related to Myochrysine
+
+;
+_exptl_crystal_description 'stubby needles'
+_diffrn_ambient_temperature 163
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0708
+_refine_ls_wR_factor_gt 0.0708
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P -4 b 2'
+_symmetry_Int_Tables_number 117
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 y,-x,-z
+3 1/2-x,1/2+y,z
+4 -x,-y,z
+5 1/2+y,1/2+x,-z
+6 -y,x,-z
+7 1/2+x,1/2-y,z
+8 1/2-y,1/2-x,-z
+_cell_length_a 18.767(2)
+_cell_length_b 18.767(2)
+_cell_length_c 4.798(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Au 1.41
+Cs 0.72
+Na 0.97
+O 0.68
+S 1.13
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Au1 Au -0.4392(1) 0.0608(1) 1.50000
+Au2 Au -0.5732(1) 0.0732(1) 1.00000
+Cs1 Cs -0.3008(1) 0.1993(1) -1.50000
+Na1 Na -0.0815(1) 0.0800(1) -1.4315(3)
+S1 S -0.6411(1) 0.0212(1) 0.6612(3)
+O1 O -0.7505(3) 0.0889(3) 1.0414(16)
+O2 O -0.8226(3) -0.0044(3) 1.0979(10)
+O3 O -0.8234(4) -0.1306(4) 0.8742(15)
+O4 O -0.7762(5) -0.1591(5) 1.287(2)
+C1 C -0.7626(3) 0.0216(3) 1.0151(25)
+C2 C -0.7153(3) -0.0222(3) 0.8331(12)
+C3 C -0.7030(5) -0.0934(5) 0.9622(31)
+C4 C -0.7726(5) -0.1251(6) 1.0521(29)
+S1G S -0.5212(1) 0.1411(1) 1.3388(3)
+Au1C Au -0.5608(1) -0.0608(1) 0.50000
+S1C S -0.3589(1) -0.0212(1) 1.6612(3)
+C2G C -0.4778(3) 0.2153(3) 1.1669(12)
+C1G C -0.5216(3) 0.2626(3) 0.9849(25)
+O1G O -0.5889(3) 0.2505(3) 0.9586(16)
+O2G O -0.4956(3) 0.3226(3) 0.9021(10)
+C3G C -0.4066(5) 0.2030(5) 1.0378(31)
+C4G C -0.3749(5) 0.2726(6) 0.9479(29)
+O3G O -0.3694(4) 0.3234(4) 1.1258(15)
+O4G O -0.3409(5) 0.2762(5) 0.713(2)
+#END

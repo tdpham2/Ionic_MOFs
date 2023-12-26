@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEFKUG01
+_audit_creation_date 2017-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEFKUG01
+_database_code_depnum_ccdc_archive 'CCDC 1537288'
+_chemical_formula_sum 'C10 H20 Al1 N2 Na1 O12'
+_chemical_formula_moiety
+;
+C4 H14 N2 2+,n(C6 H6 Al1 Na1 O12 2-)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 23
+_journal_year 2017
+_journal_page_first 9857
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Yao Yu"
+"Ran Shang"
+"Sa Chen"
+"Bin-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[(N,N'-dimethylethane-1,2-diaminium) 
+hexakis(\m-formato)-aluminium(iii)-sodium(i)]
+;
+_cell_volume   1744.067
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.562
+_exptl_special_details
+;
+low-temperature polymorph
+phase transition around 328 K.
+
+;
+_exptl_crystal_description 'column'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0346
+_refine_ls_wR_factor_gt 0.0346
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.1086(2)
+_cell_length_b 14.5465(3)
+_cell_length_c 14.7895(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.1963(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.21
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1 Al 0.72648(6) 0.42265(3) 0.25680(3)
+Na1 Na 0.22137(7) 0.25593(4) 0.00637(4)
+O1 O 0.53515(13) 0.43339(7) 0.18033(8)
+O2 O 0.32345(14) 0.38273(8) 0.09773(8)
+O3 O 0.62953(13) 0.52009(8) 0.32203(8)
+O4 O 0.62179(14) 0.65308(8) 0.39437(8)
+O5 O 0.91491(13) 0.42458(7) 0.33203(7)
+O6 O 1.10475(15) 0.36578(8) 0.42502(9)
+O7 O 0.80454(13) 0.32301(7) 0.18610(7)
+O8 O 0.98096(15) 0.24531(8) 0.10355(8)
+O9 O 0.63030(14) 0.33288(8) 0.33024(8)
+O10 O 0.45156(15) 0.25488(8) 0.41136(9)
+O11 O 0.84362(13) 0.50638(8) 0.18209(8)
+O12 O 0.89403(14) 0.62426(8) 0.09243(8)
+C1 C 0.4562(2) 0.37104(12) 0.13863(12)
+H1 H 0.50220 0.31100 0.13870
+C2 C 0.6978(2) 0.58758(12) 0.36268(12)
+H2 H 0.81470 0.58750 0.36900
+C3 C 0.9892(2) 0.35858(12) 0.37285(12)
+H3 H 0.94970 0.29820 0.36100
+C4 C 0.9442(2) 0.31250(12) 0.14955(12)
+H4 H 1.02470 0.35930 0.15830
+C5 C 0.4893(2) 0.31785(12) 0.36237(12)
+H5 H 0.40460 0.36030 0.34640
+C6 C 0.8003(2) 0.57782(12) 0.13836(12)
+H6 H 0.68840 0.59670 0.14130
+C7 C 0.2810(3) 0.60224(14) 0.03777(13)
+H7 H 0.25270 0.66760 0.03380
+H8 H 0.22990 0.56940 -0.01340
+H9 H 0.40100 0.59500 0.03620
+C8 C 0.2855(2) 0.61140(12) 0.20470(11)
+H10 H 0.24430 0.67550 0.20550
+H11 H 0.40740 0.61340 0.20260
+C9 C 0.2341(2) 0.56258(12) 0.28997(12)
+H12 H 0.11290 0.55390 0.28870
+H13 H 0.28640 0.50110 0.29290
+C10 C 0.2588(3) 0.56683(14) 0.45687(13)
+H14 H 0.14310 0.54800 0.46090
+H15 H 0.28730 0.60750 0.50770
+H16 H 0.32970 0.51230 0.45910
+N1 N 0.21967(17) 0.56410(9) 0.12318(9)
+H17 H 0.24760 0.50290 0.12650
+H18 H 0.10640 0.56800 0.12260
+N2 N 0.28323(18) 0.6162(1) 0.37078(9)
+H19 H 0.22320 0.66980 0.37140
+H20 H 0.39280 0.63180 0.36670
+Na1* Na 1.22137(7) 0.25593(4) 0.00637(4)
+Na1A Na 0.77863(7) 0.75593(4) 0.49363(4)
+Na1B Na 0.77863(7) 0.74407(4) -0.00637(4)
+Na1C Na 0.22137(7) 0.24407(4) 0.50637(4)
+Na1C* Na 1.22137(7) 0.24407(4) 0.50637(4)
+O4A O 0.37821(14) 0.15308(8) 0.10563(8)
+O6C O 0.10475(15) 0.13422(8) -0.07498(9)
+O8* O -0.01904(15) 0.24531(8) 0.10355(8)
+O10C O 0.45156(15) 0.24512(8) -0.08864(9)
+O12B O 0.10597(14) 0.37574(8) -0.09243(8)
+#END

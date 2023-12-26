@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAGNEQ03
+_audit_creation_date 2016-03-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAGNEQ03
+_database_code_depnum_ccdc_archive 'CCDC 1432729'
+_chemical_formula_sum 'C5 H11 Cu1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cu1 O6 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 179
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 2097
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Ran Shang"
+"Sa Chen"
+"Bing-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[ethylammonium bis(\m~2~-formato)-(formato)-copper(ii)]
+;
+_cell_volume    942.832
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.724
+_exptl_crystal_description 'column'
+_diffrn_ambient_temperature 320
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.029
+_refine_ls_wR_factor_gt 0.029
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 10.1650(6)
+_cell_length_b 8.2955(3)
+_cell_length_c 11.1811(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.20486(4) 0.00078(6) 0.26590(3)
+O1 O 0.4618(3) 0.0544(4) 0.3277(3)
+O2 O 0.3125(3) 0.1873(3) 0.2223(3)
+O3 O 0.0148(3) 0.1015(3) 0.1860(3)
+O4 O -0.1289(3) 0.3004(3) 0.1734(2)
+O5 O 0.1838(3) 0.1044(3) 0.4267(2)
+O6 O 0.2435(3) 0.1120(3) 0.6159(2)
+C1 C 0.4241(5) 0.1721(5) 0.2676(4)
+H1 H 0.48390 0.25540 0.25550
+C2 C -0.0312(4) 0.2325(5) 0.2172(4)
+H2 H 0.01130 0.28550 0.27950
+C3 C 0.2309(4) 0.0405(5) 0.5186(3)
+H3 H 0.25810 -0.06640 0.51390
+C4 C 0.7721(5) -0.0164(8) 0.4572(5)
+H4 H 0.75290 -0.12030 0.42140
+H5 H 0.80720 0.05280 0.39500
+C5 C 0.8715(6) -0.0378(10) 0.5491(6)
+H6 H 0.90510 0.06560 0.57270
+H7 H 0.94200 -0.10260 0.51830
+H8 H 0.83300 -0.09040 0.61720
+N1 N 0.6490(4) 0.0540(5) 0.5022(3)
+H9 H 0.61850 -0.00580 0.56220
+H10 H 0.58980 0.05680 0.44360
+H11 H 0.66420 0.15370 0.52810
+Cu1A Cu 0.29514(4) -0.00078(6) 0.76590(3)
+Cu1B Cu -0.20486(4) 0.50078(6) 0.23410(3)
+O4B O 0.1289(3) -0.1996(3) 0.3266(2)
+O6A O 0.2565(3) -0.1120(3) 0.1159(2)
+#END

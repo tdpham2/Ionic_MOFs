@@ -1,0 +1,154 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OHUWEW
+_audit_creation_date 2020-04-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OHUWEW
+_database_code_depnum_ccdc_archive 'CCDC 1996045'
+_chemical_formula_sum 'C8 H32 Ge9 K1 Li2 N8'
+_chemical_formula_moiety
+;
+(C8 H32 Li2 N8 2+)n,K1 1+,0.5(Ge18 6-)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2020
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Peter Y.Zavalij"
+"Ai-Min Li"
+"B.W.Eichhorn"
+_chemical_name_systematic
+;
+catena-[tetrakis(\m-ethane-1,2-diamine)-di-lithium bis(potassium) 
+hemikis(conjuncto-4,4'-bis(closo-nonagermate))]
+;
+_cell_volume   2699.449
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.329
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0357
+_refine_ls_wR_factor_gt 0.0357
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.328(2)
+_cell_length_b 15.205(3)
+_cell_length_c 19.089(4)
+_cell_angle_alpha 90
+_cell_angle_beta 94.402(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ge 1.17
+K 2.03
+Li 1.28
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Li1 Li -0.2268(9) 0.6137(6) 0.2603(5)
+Li2 Li 0.2561(10) 0.4300(6) 0.3727(5)
+N1 N 0.2219(5) 0.3830(3) 0.6300(2)
+H1 H 0.303(3) 0.367(4) 0.616(3)
+H2 H 0.168(5) 0.341(3) 0.614(3)
+C1 C 0.1813(6) 0.4632(4) 0.5907(3)
+H3 H 0.254(4) 0.506(3) 0.604(3)
+H4 H 0.090(3) 0.481(3) 0.605(3)
+C2 C 0.1683(6) 0.4555(4) 0.5110(3)
+H5 H 0.099(4) 0.410(2) 0.499(3)
+H6 H 0.126(5) 0.504(2) 0.486(2)
+N2 N 0.3010(5) 0.4388(3) 0.4779(3)
+H7 H 0.336(6) 0.393(3) 0.498(3)
+H8 H 0.366(5) 0.477(3) 0.488(3)
+N3 N 0.1784(5) 0.5447(3) 0.3224(3)
+H9 H 0.118(5) 0.576(3) 0.343(3)
+H10 H 0.256(4) 0.571(4) 0.314(3)
+C3 C 0.0986(6) 0.5225(4) 0.2548(3)
+H11 H 0.011(3) 0.494(3) 0.264(3)
+H12 H 0.156(5) 0.479(3) 0.234(2)
+C4 C 0.0688(6) 0.5977(4) 0.2040(3)
+H13 H 0.159(3) 0.625(4) 0.197(3)
+H14 H 0.020(6) 0.578(4) 0.1609(17)
+N4 N -0.0302(5) 0.6626(3) 0.2308(2)
+H15 H -0.049(6) 0.698(3) 0.196(2)
+H16 H 0.014(5) 0.694(3) 0.263(2)
+N5 N -0.1293(5) 0.2062(3) 0.2861(2)
+H17 H -0.123(6) 0.250(3) 0.259(3)
+H18 H -0.186(5) 0.223(4) 0.317(2)
+C5 C 0.0157(6) 0.1838(4) 0.3124(3)
+H19 H 0.076(4) 0.183(3) 0.2741(18)
+H20 H 0.017(5) 0.1279(18) 0.335(2)
+C6 C 0.0900(6) 0.2490(4) 0.3640(3)
+H21 H 0.043(6) 0.246(4) 0.4068(18)
+H22 H 0.187(3) 0.230(4) 0.376(3)
+N6 N 0.0913(5) 0.3399(3) 0.3392(3)
+H23 H 0.005(3) 0.360(5) 0.339(4)
+H24 H 0.117(8) 0.336(5) 0.2973(16)
+N7 N 0.4306(5) 0.3931(3) 0.3192(2)
+H25 H 0.490(5) 0.369(4) 0.350(2)
+H26 H 0.396(6) 0.350(3) 0.295(3)
+C7 C 0.5106(6) 0.4586(3) 0.2809(3)
+H27 H 0.534(5) 0.506(2) 0.313(2)
+H28 H 0.445(4) 0.484(3) 0.245(2)
+C8 C 0.6401(6) 0.4222(3) 0.2472(3)
+H29 H 0.709(4) 0.397(3) 0.2809(19)
+H30 H 0.611(5) 0.373(2) 0.219(2)
+N8 N 0.7144(5) 0.4922(3) 0.2111(2)
+H31 H 0.656(5) 0.513(4) 0.179(2)
+H32 H 0.795(3) 0.472(4) 0.199(3)
+K1 K 0.15841(12) 1.10505(8) 0.51508(7)
+Ge1 Ge 0.29462(6) 0.70777(4) 0.54495(3)
+Ge2 Ge 0.25193(6) 0.87605(4) 0.54287(3)
+Ge3 Ge 0.52125(6) 0.79835(4) 0.52500(3)
+Ge4 Ge 0.39978(6) 0.68803(3) 0.42448(3)
+Ge5 Ge 0.12610(6) 0.76401(4) 0.44181(3)
+Ge6 Ge 0.17637(6) 0.92649(3) 0.41029(3)
+Ge7 Ge 0.43548(6) 0.94288(3) 0.46093(3)
+Ge8 Ge 0.53830(6) 0.82415(4) 0.38650(3)
+Ge9 Ge 0.27304(6) 0.79986(4) 0.33602(3)
+Li1* Li 0.7732(9) 0.6137(6) 0.2603(5)
+Li1A Li -0.2732(9) 0.1137(6) 0.2397(5)
+Li1B Li 0.2268(9) 0.3863(6) 0.7397(5)
+N1B N -0.2219(5) 0.6170(3) 0.3700(2)
+N5A N -0.3707(5) 0.7062(3) 0.2139(2)
+N8* N -0.2856(5) 0.4922(3) 0.2111(2)
+Ge1B Ge 0.70538(6) 1.29223(4) 0.45505(3)
+Ge2B Ge 0.74807(6) 1.12395(4) 0.45713(3)
+Ge3B Ge 0.47875(6) 1.20165(4) 0.47500(3)
+Ge4B Ge 0.60022(6) 1.31197(3) 0.57552(3)
+Ge5B Ge 0.87390(6) 1.23599(4) 0.55819(3)
+Ge6B Ge 0.82363(6) 1.07351(3) 0.58971(3)
+Ge7B Ge 0.56452(6) 1.05712(3) 0.53907(3)
+Ge8B Ge 0.46170(6) 1.17585(4) 0.61350(3)
+Ge9B Ge 0.72696(6) 1.20014(4) 0.66398(3)
+#END

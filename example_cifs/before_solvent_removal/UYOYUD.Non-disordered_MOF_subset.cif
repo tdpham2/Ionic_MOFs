@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UYOYUD
+_audit_creation_date 2011-11-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UYOYUD
+_database_code_depnum_ccdc_archive 'CCDC 797118'
+_chemical_formula_sum 'C4 H6 Fe1 O9'
+_chemical_formula_moiety
+;
+(C1 H3 O3 1+)n,n(C3 H3 Fe1 O6 1-)
+;
+_journal_coden_Cambridge 603
+_journal_volume 30
+_journal_year 2011
+_journal_page_first 965
+_journal_name_full 'Jiegou Huaxue(Chin.)(Chin.J.Struct.Chem.) '
+loop_
+_publ_author_name
+"Shi-Heng Guo"
+"Jiao-Min Lin"
+"Wen-Bin Chen"
+"Xing-Quan Wei"
+"Jing Wang"
+"Wen Dong"
+_chemical_name_systematic
+;
+catena-(Trihydroxycarbenium tris(\m~2~-formato)-iron)
+;
+_cell_volume    890.482
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.894
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+H3 disordered by symmetry over two sites with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0339
+_refine_ls_wR_factor_gt 0.0339
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n n a'
+_symmetry_Int_Tables_number 52
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,z
+3 1/2-x,1/2+y,1/2-z
+4 x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-z
+7 -1/2+x,-1/2-y,-1/2+z
+8 -x,-1/2+y,-1/2+z
+_cell_length_a 8.4130(4)
+_cell_length_b 11.8306(6)
+_cell_length_c 8.9468(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.24750(4) 0.25000 0.25000
+O1 O 0.43878(19) 0.19286(13) 0.11207(17)
+O2 O 0.5935(2) 0.18212(14) -0.08658(19)
+O3 O 0.24412(18) 0.40639(14) 0.13090(18)
+C1 C 0.25000 0.50000 0.1929(4)
+H1 H 0.25000 0.50000 0.29690
+C2 C 0.4771(3) 0.2207(2) -0.0171(2)
+H2 H 0.41430 0.27410 -0.06540
+C3 C 0.25000 0.50000 0.7394(4)
+O4 O 0.3396(3) 0.5740(2) 0.8130(2)
+H3 H 0.31960 0.57040 0.90260
+O5 O 0.25000 0.50000 0.5922(4)
+H4? H 0.199(5) 0.452(3) 0.545(4)
+Fe1E Fe 0.74750(4) 0.25000 -0.25000
+Fe1A Fe 0.25250(4) 0.75000 0.25000
+Fe1E* Fe 0.74750(4) 0.25000 0.75000
+O1C O 0.43878(19) 0.30714(13) 0.38793(17)
+O2C O 0.5935(2) 0.31788(14) 0.58658(19)
+O2E O 0.0935(2) 0.18212(14) 0.08658(19)
+O2F O 0.0935(2) 0.31788(14) 0.41342(19)
+O3A O 0.25588(18) 0.59361(14) 0.13090(18)
+O3C O 0.24412(18) 0.09361(14) 0.36910(18)
+C2C C 0.4771(3) 0.2793(2) 0.5171(2)
+H2C H 0.41430 0.22590 0.56540
+O4A O 0.1604(3) 0.4260(2) 0.8130(2)
+H3A H 0.18040 0.42960 0.90260
+#END

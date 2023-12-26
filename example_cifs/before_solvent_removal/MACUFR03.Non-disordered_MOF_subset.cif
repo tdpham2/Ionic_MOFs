@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MACUFR03
+_audit_creation_date 2015-02-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MACUFR03
+_database_code_depnum_ccdc_archive 'CCDC 1049876'
+_chemical_formula_sum 'C5 H11 Cu1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cu1 O6 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2015
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"F.R.Fronczek"
+_chemical_name_systematic
+;
+catena-[dimethylammonium tris(\m-formato)-copper]
+;
+_cell_volume    857.542
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.895
+_exptl_special_details
+;
+Department of Chemistry, Louisiana State University, Baton Rouge, LA 70803, 
+USA
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'N,N-dimethylformamide'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0145
+_refine_ls_wR_factor_gt 0.0145
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.6954(4)
+_cell_length_b 8.6320(4)
+_cell_length_c 8.7693(4)
+_cell_angle_alpha 90
+_cell_angle_beta 124.189(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.25000 0.25000 0.50000
+O1 O 0.18913(3) 0.33612(4) 0.63880(5)
+O2 O 0.17722(3) 0.51767(4) 0.80673(5)
+O3 O 0.40238(3) 0.35668(4) 0.66038(5)
+C1 C 0.22086(4) 0.46303(5) 0.72545(6)
+H1 H 0.28140 0.52040 0.72910
+C2 C 0.50000 0.28790(8) 0.75000
+H2 H 0.50000 0.17780 0.75000
+N1 N 0.00000 0.31428(7) 0.75000
+H3 H 0.0541(9) 0.3740(11) 0.7601(13)
+C3 C 0.05577(5) 0.21875(7) 0.91925(7)
+H4 H -0.00420 0.15320 0.91490
+H5 H 0.09140 0.28660 1.02740
+H6 H 0.11700 0.15320 0.92750
+O3A O 0.59762(3) 0.35668(4) 0.83962(5)
+O1F O 0.31087(3) 0.16388(4) 0.36120(5)
+O2F O 0.32278(3) -0.01767(4) 0.19327(5)
+C1F C 0.27914(4) 0.03697(5) 0.27455(6)
+H1F H 0.21860 -0.02040 0.27090
+Cu1A Cu 0.75000 0.25000 1.00000
+Cu1C Cu 0.25000 -0.25000 0.00000
+Cu1C* Cu 0.25000 0.75000 1.00000
+O2C O 0.32278(3) 0.01767(4) 0.69327(5)
+O2E O 0.17722(3) 0.48233(4) 0.30673(5)
+O3F O 0.09762(3) 0.14332(4) 0.33962(5)
+H3A H -0.0541(9) 0.3740(11) 0.7399(13)
+C3A C -0.05577(5) 0.21875(7) 0.58075(7)
+H4A H 0.00420 0.15320 0.58510
+H5A H -0.09140 0.28660 0.47260
+H6A H -0.11700 0.15320 0.57250
+#END

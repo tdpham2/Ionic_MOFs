@@ -1,0 +1,150 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAPBOZ
+_audit_creation_date 2001-11-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAPBOZ
+_chemical_formula_sum 'C12 H32 Al4 N4 O27 P4'
+_chemical_formula_moiety
+;
+(C4 H6 Al4 O26 P4 4-)n,2n(C4 H12 N2 2+),n(H2 O1)
+;
+_journal_coden_Cambridge 208
+_journal_volume 150
+_journal_year 2000
+_journal_page_first 324
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"K.Kedarnath"
+"A.Choudhury"
+"S.Natarajan"
+_chemical_name_systematic
+;
+catena-(bis(Piperazinedi-ium) bis(\m~4~-phosphato)-bis(\m~3~-hydrogen 
+phosphato)-bis(\m~2~-oxalato)-tetra-aluminium monohydrate)
+;
+_cell_volume   1423.038
+_exptl_special_details
+;
+No mention is made in the paper of the identity of atom O3, which is assumed 
+to be a coordinated water molecule. The number of uncoordinated water 
+molecules is not clear
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.07
+_refine_ls_wR_factor_gt 0.07
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c c m'
+_symmetry_Int_Tables_number 49
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 x,-y,1/2-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 x,y,-z
+7 -x,y,-1/2+z
+8 x,-y,-1/2+z
+_cell_length_a 9.992(1)
+_cell_length_b 11.644(1)
+_cell_length_c 12.231(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.81
+Al 1.35
+N 0.68
+O 0.52
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1 Al 0.0453(3) 0.2751(2) 0.00000
+Al2 Al -0.2309(3) 0.00000 0.25000
+P1 P 0.2742(2) 0.0881(2) 0.00000
+P2 P 0.00000 0.1977(2) 0.25000
+O1 O 0.2125(7) 0.2068(5) 0.00000
+O2 O 0.0308(4) 0.2751(3) 0.1521(4)
+O3 O -0.0704(7) 0.1470(6) 0.00000
+O4 O 0.1466(7) 0.4216(5) 0.00000
+O5 O -0.1124(7) 0.3863(5) 0.00000
+O6 O -0.1200(4) 0.1220(4) 0.2223(4)
+O7 O 0.2385(5) 0.0195(4) 0.1003(4)
+O8 O -0.3880(4) 0.1123(4) 0.2416(4)
+O9 O 0.4313(7) 0.1093(6) 0.00000
+C1 C 0.0749(9) 0.5102(8) 0.00000
+C2 C -0.50000 0.0659(7) 0.25000
+O10 O 0.0738(24) 0.50000 0.25000
+N1 N -0.3473(32) 0.3551(16) 0.2970(34)
+C3 C -0.4815(61) 0.3778(39) 0.3546(45)
+C4 C -0.3271(38) 0.3572(33) 0.1723(39)
+O2E O 0.0308(4) 0.2751(3) -0.1521(4)
+O6B O -0.1200(4) -0.1220(4) 0.2777(4)
+O7A O -0.2385(5) -0.0195(4) 0.1003(4)
+O7C O -0.2385(5) 0.0195(4) 0.3997(4)
+O8B O -0.3880(4) -0.1123(4) 0.2584(4)
+O7E O 0.2385(5) 0.0195(4) -0.1003(4)
+O2C O -0.0308(4) 0.2751(3) 0.3479(4)
+O6C O 0.1200(4) 0.1220(4) 0.2777(4)
+C1A C -0.0749(9) 0.4898(8) 0.00000
+Al2A Al 0.2309(3) 0.00000 0.25000
+O5A O 0.1124(7) 0.6137(5) 0.00000
+C2A C -0.50000 -0.0659(7) 0.25000
+O8C O -0.6120(4) 0.1123(4) 0.2584(4)
+C4C C -0.6729(38) 0.3572(33) 0.3277(39)
+C3C C -0.5185(61) 0.3778(39) 0.1454(45)
+P2A P 0.00000 -0.1977(2) 0.25000
+P1A P -0.2742(2) -0.0881(2) 0.00000
+Al2D Al 0.2309(3) 0.00000 -0.25000
+Al1C Al -0.0453(3) 0.2751(2) 0.50000
+O4A O -0.1466(7) 0.5784(5) 0.00000
+O6A O 0.1200(4) -0.1220(4) 0.2223(4)
+O7B O 0.2385(5) -0.0195(4) 0.3997(4)
+O8A O 0.3880(4) -0.1123(4) 0.2416(4)
+O8C* O 0.3880(4) 0.1123(4) 0.2584(4)
+Al1A Al -0.0453(3) 0.7249(2) 0.00000
+O8A* O -0.6120(4) -0.1123(4) 0.2416(4)
+Al2A* Al -0.7691(3) 0.00000 0.25000
+N1C N -0.6527(32) 0.3551(16) 0.2030(34)
+O2A O -0.0308(4) -0.2751(3) 0.1521(4)
+O2B O 0.0308(4) -0.2751(3) 0.3479(4)
+O1A O -0.2125(7) -0.2068(5) 0.00000
+O7D O -0.2385(5) -0.0195(4) -0.1003(4)
+O9A O -0.4313(7) -0.1093(6) 0.00000
+O1A* O -0.2125(7) 0.7932(5) 0.00000
+O2A* O -0.0308(4) 0.7249(3) 0.1521(4)
+O2D O -0.0308(4) 0.7249(3) -0.1521(4)
+O3A O 0.0704(7) 0.8530(6) 0.00000
+Al2E Al -0.2309(3) 0.00000 -0.25000
+Al1A* Al -0.0453(3) -0.2751(2) 0.00000
+Al1B Al 0.0453(3) -0.2751(2) 0.50000
+#END

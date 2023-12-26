@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LEQRUU
+_audit_creation_date 2000-04-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LEQRUU
+_database_code_depnum_ccdc_archive 'CCDC 1205741'
+_chemical_formula_sum 'C10 H26 Cl1 Eu1 N2 Na3 O15'
+_chemical_formula_moiety
+;
+(Na1 1+)3n,n(C10 H12 Eu1 N2 O8 2-),n(Cl1 1-),7n(H2 O1)
+;
+_journal_coden_Cambridge 1183
+_journal_volume 269
+_journal_year 1998
+_journal_page_first 67
+_journal_name_full 'J.Alloys Compd. '
+loop_
+_publ_author_name
+"P.Starynowicz"
+_chemical_name_systematic
+;
+catena(Tri-sodium 
+(\m~3~-N,N,N',N'-ethylenediamine-tetra-acetato)-europium(ii) chloride 
+heptahydrate)
+;
+_cell_volume   1107.911
+_exptl_crystal_density_diffrn 2.0
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Water molecule O6 is disordered over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0348
+_refine_ls_wR_factor_gt 0.0348
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.033(4)
+_cell_length_b 11.323(4)
+_cell_length_c 11.534(4)
+_cell_angle_alpha 102.29(2)
+_cell_angle_beta 97.20(2)
+_cell_angle_gamma 102.33(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.66
+Cl 0.99
+Eu 2.01
+N 0.68
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2664(5) 0.1866(4) 0.0014(4)
+O2 O 0.3739(5) 0.0524(4) 0.0737(4)
+O3 O -0.0283(5) 0.2303(4) 0.0951(4)
+O4 O -0.2432(5) 0.2049(5) 0.1695(5)
+O5 O 0.6808(5) 0.5966(5) 0.1504(4)
+O6 O 0.4248(5) 0.5668(4) 0.1139(4)
+O7 O 0.0849(5) 0.5974(4) 0.0878(4)
+O8 O 0.0346(6) 0.7514(4) 0.2130(5)
+C1 C 0.3336(7) 0.1532(6) 0.0869(6)
+C2 C 0.3607(8) 0.2347(6) 0.2125(6)
+C3 C 0.3550(7) 0.4361(6) 0.3329(6)
+C4 C 0.1868(7) 0.4153(6) 0.3441(6)
+C5 C -0.0679(7) 0.4016(6) 0.2385(6)
+C6 C -0.1146(7) 0.2677(6) 0.1633(6)
+C7 C 0.5308(7) 0.4193(6) 0.1932(7)
+C8 C 0.5460(8) 0.5374(6) 0.1499(6)
+C9 C 0.1239(8) 0.5982(6) 0.2945(6)
+C10 C 0.0779(7) 0.6528(6) 0.1908(7)
+N1 N 0.3771(6) 0.3668(5) 0.2160(5)
+N2 N 0.0972(6) 0.4614(5) 0.2557(5)
+Eu1 Eu 0.17588(3) 0.39171(3) 0.03112(3)
+O9 O -0.0003(6) -0.0049(5) 0.1424(5)
+O10 O 0.2681(7) 0.1251(6) -0.2663(6)
+O11 O 0.2912(7) 0.9733(6) 0.3495(6)
+O12 O 0.0086(9) 0.8732(6) 0.5323(7)
+O13 O 0.7856(8) 0.6672(7) 0.4065(7)
+O14 O 0.3991(14) 0.8001(12) 0.0756(10)
+O15 O -0.2833(11) 0.1653(12) 0.3824(9)
+Cl1 Cl 0.5130(3) 0.7945(2) 0.4470(2)
+Na1 Na 0.3923(3) 0.0097(3) -0.1395(3)
+Na2 Na 0.1961(3) 0.8857(3) 0.1141(3)
+Na3 Na 0.0089(3) 0.9382(3) 0.3397(3)
+O16? O 0.418(2) 0.8073(14) 0.152(2)
+Eu1A Eu 0.82412(3) 0.60829(3) -0.03112(3)
+Eu1A* Eu -0.17588(3) 0.60829(3) -0.03112(3)
+O5A O 0.3192(5) 0.4034(5) -0.1504(4)
+O7A O -0.0849(5) 0.4026(4) -0.0878(4)
+#END

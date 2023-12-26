@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KAPHOZ
+_audit_creation_date 2005-11-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KAPHOZ
+_database_code_depnum_ccdc_archive 'CCDC 230161'
+_chemical_formula_sum 'C10 H18 K2 O16 Zn1'
+_chemical_formula_moiety
+;
+(C10 H2 O8 Zn1 2-)n,2n(K1 1+),8n(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 5
+_journal_year 2005
+_journal_page_first 403
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Kuang-Lieh Lu"
+"Yen-Fu Chen"
+"Yi-Wei Cheng"
+"Rong-Tang Liao"
+"Yen-Hsiang Liu"
+"Yuh-Sheng Wen"
+_chemical_name_systematic
+;
+catena-(Di-potassium (\m~4~-benzene-1,2,4,5-tetracarboxylato)-zinc(ii) 
+octahydrate)
+;
+_cell_volume   1936.632
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+A water molecule is disordered over two sites with occupancies 0.68:0.32.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.3366(10)
+_cell_length_b 15.3829(10)
+_cell_length_c 11.1085(10)
+_cell_angle_alpha 90
+_cell_angle_beta 91.398(10)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+K 1.33
+O 0.68
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.50000 0.00325(4) 0.25000
+K1 K 0.71600(11) 0.07381(8) 0.49244(10)
+O1 O 0.3821(2) -0.06211(17) 0.1521(2)
+O2 O 0.5288(3) -0.1487(2) 0.0990(3)
+O3 O 0.4088(3) -0.06342(17) -0.1251(2)
+O4 O 0.3524(3) -0.1479(2) -0.2763(3)
+C1 C 0.4236(4) -0.1291(3) 0.0994(3)
+C2 C 0.3583(4) -0.1310(3) -0.1675(3)
+C3 C 0.3329(3) -0.1898(2) 0.0439(3)
+C4 C 0.3036(3) -0.1922(2) -0.0788(3)
+C5 C 0.2787(4) -0.2475(3) 0.1210(4)
+H1 H 0.29790 -0.24570 0.20280
+O5 O 0.8293(5) 0.0561(5) 0.7178(5)
+O6 O 1.00000 -0.0780(9) 0.75000
+O7 O 0.5788(9) 0.3250(7) 0.5515(16)
+O8? O 0.626(3) 0.2852(15) 0.462(2)
+O9 O 0.4108(12) 0.4534(10) 0.501(3)
+O10 O 0.50000 0.3217(6) 0.25000
+Zn1F Zn 0.50000 -0.00325(4) -0.25000
+Zn1G Zn 0.00000 -0.50325(4) -0.25000
+Zn1A Zn 0.00000 -0.49675(4) 0.25000
+O1E O 0.1179(2) -0.43789(17) -0.1521(2)
+O1B O 0.6179(2) -0.06211(17) 0.3479(2)
+O2E O -0.0288(3) -0.3513(2) -0.0990(3)
+O3E O 0.0912(3) -0.43658(17) 0.1251(2)
+O3F O 0.4088(3) 0.06342(17) 0.3749(2)
+O3D O 0.5912(3) 0.06342(17) 0.1251(2)
+O4E O 0.1476(3) -0.3521(2) 0.2763(3)
+C1E C 0.0764(4) -0.3709(3) -0.0994(3)
+C2E C 0.1417(4) -0.3690(3) 0.1675(3)
+C3E C 0.1671(3) -0.3102(2) -0.0439(3)
+C4E C 0.1964(3) -0.3078(2) 0.0788(3)
+C5E C 0.2213(4) -0.2525(3) -0.1210(4)
+H1E H 0.20210 -0.25430 -0.20280
+#END

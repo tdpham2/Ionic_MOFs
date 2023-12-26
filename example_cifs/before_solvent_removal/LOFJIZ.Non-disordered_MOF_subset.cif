@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LOFJIZ
+_audit_creation_date 2000-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LOFJIZ
+_database_code_depnum_ccdc_archive 'CCDC 143483'
+_chemical_formula_sum 'C12 H15 Bi1 K2 N2 O13'
+_chemical_formula_moiety
+;
+(C12 H13 Bi1 N2 O12 2-)n,2n(K1 1+),n(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 44
+_journal_year 1999
+_journal_page_first 1931
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"A.B.Ilyukhin"
+"R.L.Davidovich"
+"V.B.Logvinova"
+_chemical_name_systematic
+;
+catena-(Di-potassium 
+(\m~3~-nitrilotriacetato-O,O',O'')-(nitrilotriacetato-O,O',O'',N)-bismuth(iii)
+ monohydrate)
+;
+_cell_volume   1874.972
+_exptl_crystal_density_diffrn 2.418
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0285
+_refine_ls_wR_factor_gt 0.0285
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 z,x,y
+5 -x,1/2+y,1/2-z
+6 1/2-z,-x,1/2+y
+7 1/2+z,1/2-x,-y
+8 -z,1/2+x,1/2-y
+9 y,z,x
+10 1/2+y,1/2-z,-x
+11 -y,1/2+z,1/2-x
+12 1/2-y,-z,1/2+x
+_cell_length_a 12.331(1)
+_cell_length_b 12.331(1)
+_cell_length_c 12.331(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.54
+K 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.39411(2) 0.39411(2) 0.39411(2)
+O1 O 0.41944(38) 0.47569(35) 0.20228(33)
+O2 O 0.41173(41) 0.29669(37) 0.19147(39)
+O3 O 0.58656(32) 0.39103(39) 0.34539(38)
+O4 O 0.72971(38) 0.49916(42) 0.31840(47)
+N1 N 0.4931(3) 0.50690 0.00690
+H1 H 0.45099(33) 0.54901(33) 0.04901(33)
+N2 N 0.5110(4) 0.51100 0.51100
+C1 C 0.42772(43) 0.38829(51) 0.15220(41)
+C2 C 0.45957(42) 0.39385(50) 0.03255(41)
+H2 H 0.39555(42) 0.37292(50) -0.01262(41)
+H3 H 0.52052(42) 0.3429(5) 0.01624(41)
+C3 C 0.64139(45) 0.47786(50) 0.36328(45)
+C4 C 0.59497(50) 0.56005(45) 0.44138(50)
+H4 H 0.56492(50) 0.62309(45) 0.40015(50)
+H5 H 0.6547(5) 0.58698(45) 0.48916(50)
+K1 K 0.20846(10) 0.20846 0.20846
+K2 K 0.81309(12) 0.81309 0.81309
+O5 O 0.6820(5) 0.68200 0.68200
+C2E C 0.46745(42) 0.54043(50) -0.10615(41)
+C1E C 0.34780(43) 0.57228(51) -0.11171(41)
+O1E O 0.29772(38) 0.58056(35) -0.02431(33)
+Bi1E Bi 0.10589(2) 0.60589(2) -0.10589(2)
+O2E O 0.30853(41) 0.58827(37) -0.20331(39)
+H2E H 0.51262(42) 0.60445(50) -0.12708(41)
+H3E H 0.48376(42) 0.47948(50) -0.15710(41)
+C2J C 0.60615(42) 0.53255(50) 0.04043(41)
+O1C O 0.20228(38) 0.41944(35) 0.47569(33)
+O1H O 0.47569(38) 0.20228(35) 0.41944(33)
+O3C O 0.34539(32) 0.58656(39) 0.39103(38)
+O3H O 0.39103(32) 0.34539(39) 0.58656(38)
+C4C C 0.44138(50) 0.59497(45) 0.56005(50)
+C4H C 0.56005(50) 0.44138(45) 0.59497(50)
+C1J C 0.61171(43) 0.65220(51) 0.07228(41)
+H2J H 0.62708(42) 0.48738(50) 0.10445(41)
+H3J H 0.65710(42) 0.51624(50) -0.02052(41)
+C3C C 0.36328(45) 0.64139(50) 0.47786(45)
+C3H C 0.47786(45) 0.36328(50) 0.64139(45)
+H4C H 0.40015(50) 0.56492(45) 0.62309(50)
+H5C H 0.48916(50) 0.65470(45) 0.58698(50)
+H4H H 0.62309(50) 0.40015(45) 0.56492(50)
+H5H H 0.58698(50) 0.48916(45) 0.6547(5)
+O1J O 0.52431(38) 0.70228(35) 0.08056(33)
+O2J O 0.70331(41) 0.69147(37) 0.08827(39)
+O4C O 0.31840(38) 0.72971(42) 0.49916(47)
+O4H O 0.49916(38) 0.31840(42) 0.72971(47)
+Bi1D Bi 0.60589(2) 0.89411(2) 0.10589(2)
+#END

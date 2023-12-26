@@ -1,0 +1,222 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUFFEP
+_audit_creation_date 2010-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUFFEP
+_database_code_depnum_ccdc_archive 'CCDC 671551'
+_chemical_formula_sum 'C54 H60 In3 N3 O33'
+_chemical_formula_moiety
+;
+(C36 H12 In3 O24 3-)n,3n(C6 H16 N1 O3 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 131
+_journal_year 2009
+_journal_page_first 16027
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Shumei Chen"
+"Jian Zhang"
+"Tao Wu"
+"Pingyun Feng"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-(tetrakis(\m~3~-Benzene-1,3,5-tricarboxylato)-tri-indium 
+tris(tris(2-hydroxyethyl)ammonium))
+;
+_cell_volume   8569.692
+_exptl_crystal_density_diffrn 1.258
+_exptl_special_details
+;
+The tris(2-hydroxyethyl)ammonium ions have been described in the paper and 
+match the formula for this structure
+;
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+C4 and C5 are disordered with occupancy 0.75.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.059
+_refine_ls_wR_factor_gt 0.059
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'I -4 3 d'
+_symmetry_Int_Tables_number 220
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 z,x,y
+6 1/2+z,1/2-x,-y
+7 1/2-z,-x,1/2+y
+8 -z,1/2+x,1/2-y
+9 y,z,x
+10 -y,1/2+z,1/2-x
+11 1/2+y,1/2-z,-x
+12 1/2-y,-z,1/2+x
+13 1/4+y,1/4+x,1/4+z
+14 1/4-y,3/4-x,3/4+z
+15 3/4+y,1/4-x,3/4-z
+16 3/4-y,3/4+x,1/4-z
+17 1/4+x,1/4+z,1/4+y
+18 3/4-x,3/4+z,1/4-y
+19 1/4-x,3/4-z,3/4+y
+20 3/4+x,1/4-z,3/4-y
+21 1/4+z,1/4+y,1/4+x
+22 3/4+z,1/4-y,3/4-x
+23 3/4-z,3/4+y,1/4-x
+24 1/4-z,3/4-y,3/4+x
+25 1/2+x,1/2+y,1/2+z
+26 -x,1/2-y,z
+27 1/2-x,y,-z
+28 x,-y,1/2-z
+29 1/2+z,1/2+x,1/2+y
+30 z,-x,1/2-y
+31 -z,1/2-x,y
+32 1/2-z,x,-y
+33 1/2+y,1/2+z,1/2+x
+34 1/2-y,z,-x
+35 y,-z,1/2-x
+36 -y,1/2-z,x
+37 3/4+y,3/4+x,3/4+z
+38 3/4-y,1/4-x,1/4+z
+39 1/4+y,3/4-x,1/4-z
+40 1/4-y,1/4+x,3/4-z
+41 3/4+x,3/4+z,3/4+y
+42 1/4-x,1/4+z,3/4-y
+43 3/4-x,1/4-z,1/4+y
+44 1/4+x,3/4-z,1/4-y
+45 3/4+z,3/4+y,3/4+x
+46 1/4+z,3/4-y,1/4-x
+47 1/4-z,1/4+y,3/4-x
+48 3/4-z,1/4-y,1/4+x
+_cell_length_a 20.4639(1)
+_cell_length_b 20.4639(1)
+_cell_length_c 20.4639(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+In 1.42
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.00000 0.25000 0.37500
+O1 O -0.0829(3) 0.3039(3) 0.3360(3)
+O2 O -0.0628(3) 0.2133(3) 0.2807(3)
+C1 C -0.1540(4) 0.2802(5) 0.2476(4)
+C2 C -0.1920(4) 0.3326(4) 0.2604(4)
+C3 C -0.0961(4) 0.2638(5) 0.2902(4)
+N1 N 0.00000 0.25000 0.87500
+O3 O 0.00000 0.25000 0.731(7)
+C4 C 0.016(3) 0.321(2) 0.832(3)
+C5 C -0.0408(17) 0.2980(18) 0.7682(19)
+In1J In -0.25000 0.12500 0.00000
+In1G In -0.37500 0.50000 0.25000
+In1E In -0.12500 0.50000 0.75000
+In1K In 0.25000 0.62500 0.50000
+In1H In 0.25000 0.37500 0.00000
+In1D In 0.37500 0.00000 0.25000
+In1F In 0.12500 0.00000 0.75000
+In1I In -0.25000 -0.12500 0.50000
+O1J O -0.1961(3) 0.1640(3) 0.0829(3)
+O1G O -0.3360(3) 0.4171(3) 0.1961(3)
+O1N O 0.0539(3) 0.3329(3) 0.4140(3)
+O1W O -0.0860(3) 0.4461(3) 0.6671(3)
+O1P O 0.1671(3) 0.5860(3) 0.5539(3)
+O1Y O 0.0829(3) 0.1961(3) 0.3360(3)
+O1GA O 0.1961(3) 0.3360(3) 0.0829(3)
+O1CA O 0.3360(3) 0.0829(3) 0.1961(3)
+O1MA O -0.0539(3) 0.1671(3) 0.4140(3)
+O1RA O 0.0860(3) 0.0539(3) 0.6671(3)
+O1PA O -0.1671(3) -0.0860(3) 0.5539(3)
+O1Q O -0.1671(3) 0.0860(3) -0.0539(3)
+O1IA O -0.3039(3) 0.1640(3) -0.0829(3)
+O1NA O -0.3329(3) 0.0860(3) 0.0539(3)
+O1T O -0.4140(3) 0.5539(3) 0.1671(3)
+O1DA O -0.3360(3) 0.5829(3) 0.3039(3)
+O1SA O -0.4140(3) 0.4461(3) 0.3329(3)
+O2J O -0.2867(3) 0.2193(3) 0.0628(3)
+O2G O -0.2807(3) 0.4372(3) 0.2867(3)
+O2N O -0.0367(3) 0.3128(3) 0.4693(3)
+O2W O -0.0307(3) 0.5367(3) 0.6872(3)
+O2P O 0.1872(3) 0.5307(3) 0.4633(3)
+O2Y O 0.0628(3) 0.2867(3) 0.2807(3)
+O2GA O 0.2867(3) 0.2807(3) 0.0628(3)
+O2CA O 0.2807(3) 0.0628(3) 0.2867(3)
+O2MA O 0.0367(3) 0.1872(3) 0.4693(3)
+O2RA O 0.0307(3) -0.0367(3) 0.6872(3)
+O2PA O -0.1872(3) -0.0307(3) 0.4633(3)
+O2Q O -0.1872(3) 0.0307(3) 0.0367(3)
+O2IA O -0.2133(3) 0.2193(3) -0.0628(3)
+O2NA O -0.3128(3) 0.0307(3) -0.0367(3)
+O2T O -0.4693(3) 0.4633(3) 0.1872(3)
+O2DA O -0.2807(3) 0.5628(3) 0.2133(3)
+O2SA O -0.4693(3) 0.5367(3) 0.3128(3)
+C1G C -0.2476(4) 0.3460(5) 0.2198(4)
+C1J C -0.2198(4) 0.2524(5) 0.1540(4)
+C1N C 0.0302(4) 0.4040(5) 0.5024(4)
+C1P C 0.0960(4) 0.4976(5) 0.5302(4)
+C1W C 0.0024(4) 0.4698(5) 0.5960(4)
+C1Y C 0.1540(4) 0.2198(5) 0.2476(4)
+C1CA C 0.2476(4) 0.1540(5) 0.2198(4)
+C1GA C 0.2198(4) 0.2476(5) 0.1540(4)
+C1MA C -0.0302(4) 0.0960(5) 0.5024(4)
+C1PA C -0.0960(4) 0.0024(5) 0.5302(4)
+C1RA C -0.0024(4) 0.0302(5) 0.5960(4)
+C2G C -0.2604(4) 0.3080(4) 0.1674(4)
+C2J C -0.1674(4) 0.2396(4) 0.1920(4)
+C2N C 0.0826(4) 0.4420(4) 0.4896(4)
+C2P C 0.0580(4) 0.5104(4) 0.5826(4)
+C2W C -0.0104(4) 0.4174(4) 0.5580(4)
+C2Y C 0.1920(4) 0.1674(4) 0.2604(4)
+C2CA C 0.2604(4) 0.1920(4) 0.1674(4)
+C2GA C 0.1674(4) 0.2604(4) 0.1920(4)
+C2MA C -0.0826(4) 0.0580(4) 0.4896(4)
+C2PA C -0.0580(4) -0.0104(4) 0.5826(4)
+C2RA C 0.0104(4) 0.0826(4) 0.5580(4)
+C3J C -0.2362(4) 0.2098(5) 0.0961(4)
+C3G C -0.2902(4) 0.4039(5) 0.2362(4)
+C3N C 0.0138(4) 0.3461(5) 0.4598(4)
+C3W C -0.0402(4) 0.4862(5) 0.6539(4)
+C3P C 0.1539(4) 0.5402(5) 0.5138(4)
+C3Y C 0.0961(4) 0.2362(5) 0.2902(4)
+C3GA C 0.2362(4) 0.2902(5) 0.0961(4)
+C3CA C 0.2902(4) 0.0961(5) 0.2362(4)
+C3MA C -0.0138(4) 0.1539(5) 0.4598(4)
+C3RA C 0.0402(4) 0.0138(5) 0.6539(4)
+C3PA C -0.1539(4) -0.0402(5) 0.5138(4)
+C4N C 0.071(3) 0.234(2) 0.918(3)
+C4Y C -0.016(3) 0.179(2) 0.832(3)
+C4MA C -0.071(3) 0.266(2) 0.918(3)
+C5Y C 0.0408(17) 0.2020(18) 0.7682(19)
+#END

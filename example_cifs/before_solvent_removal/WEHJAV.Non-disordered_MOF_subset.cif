@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEHJAV
+_audit_creation_date 2006-07-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEHJAV
+_database_code_depnum_ccdc_archive 'CCDC 607882'
+_chemical_formula_sum 'C22 H16 Cl1 Cu1 N3 S16'
+_chemical_formula_moiety
+;
+(C10 H8 S8 1+)n,n(C10 H8 S8),n(C2 Cl1 Cu1 N3 1-)
+;
+_journal_coden_Cambridge 118
+_journal_volume 82
+_journal_year 2005
+_journal_page_first 99
+_journal_name_full 'Zh.Eksp.Teor.Fiz.(Russ.)(J.Exp.Theor.Phys.) '
+loop_
+_publ_author_name
+"E.B.Yagubskii"
+"N.D.Kushch"
+"A.V.Kazakova"
+"L.I.Buravov"
+"V.N.Zverev"
+"A.I.Manakov"
+"S.S.Khasanov"
+"R.P.Shibaeva"
+_chemical_name_systematic
+;
+catena-(bis(bis(Ethylenedithio)tetrathiafulvalenium) 
+(\m~2~-dicyanoamido)-chloro-copper(i) radical)
+;
+_cell_volume   3266.986
+_exptl_crystal_colour 'dark brown'
+_exptl_crystal_density_diffrn 1.9
+_exptl_special_details
+;
+kappa' polymorph
+phase transition to superconductor at 11.5 K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+One of the ethylene groups is disordered over 2 sites with occupancies 
+0.84:0.16.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 12.929(1)
+_cell_length_b 29.879(2)
+_cell_length_c 8.457(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cu 1.52
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.02694(8) 0.47707(3) -0.23127(12)
+S2 S -0.10068(8) 0.43498(3) -0.47637(12)
+S3 S -0.11435(8) 0.56284(3) -0.23181(12)
+S4 S -0.24487(8) 0.52575(3) -0.48272(12)
+S5 S 0.15020(9) 0.39785(4) -0.16179(13)
+S6 S -0.00292(11) 0.34680(3) -0.45429(14)
+S7 S -0.22947(9) 0.64691(3) -0.19813(13)
+S8 S -0.38377(9) 0.60279(4) -0.50222(15)
+C1 C -0.0791(3) 0.48114(12) -0.3572(4)
+C2 C -0.1392(3) 0.51866(12) -0.3593(4)
+C3 C 0.0521(3) 0.42121(11) -0.2750(4)
+C4 C -0.0065(3) 0.40181(12) -0.3868(4)
+C5 C -0.2178(3) 0.59564(12) -0.2952(4)
+C6 C -0.2771(3) 0.57861(12) -0.4103(5)
+C7 C 0.1726(5) 0.34523(15) -0.2565(8)
+H1 H 0.21420 0.35020 -0.35040
+H2 H 0.21200 0.32620 -0.18560
+C8 C 0.0755(4) 0.32136(16) -0.3027(7)
+H3 H 0.03320 0.31800 -0.20870
+H4 H 0.09420 0.29150 -0.33790
+C9 C -0.3134(3) 0.67639(13) -0.3311(5)
+H5 H -0.33520 0.70410 -0.28110
+H6 H -0.27470 0.68420 -0.42540
+C10 C -0.4074(3) 0.65048(14) -0.3787(5)
+H7 H -0.45410 0.67050 -0.43390
+H8 H -0.44240 0.64040 -0.28360
+Cu1 Cu 0.86150(7) 0.25000 -0.43509(9)
+Cl1 Cl 0.85089(17) 0.25000 -0.1760(2)
+C11 C 0.6450(5) 0.25000 -0.6022(7)
+N1 N 0.7256(4) 0.25000 -0.5425(6)
+C12 C 0.5168(5) 0.25000 -0.7937(9)
+N2 N 0.4740(4) 0.25000 -0.9089(6)
+N3 N 0.5509(4) 0.25000 -0.6455(7)
+C13? C 0.125(3) 0.3408(4) -0.215(3)
+H9? H 0.17710 0.32240 -0.16510
+H10? H 0.05890 0.33260 -0.16810
+C14? C 0.1201(12) 0.3271(10) -0.386(3)
+H11? H 0.12490 0.29480 -0.39600
+H12? H 0.17590 0.34070 -0.44510
+Cu1C Cu 0.36150(7) 0.25000 -1.06491(9)
+N2C N 0.9740(4) 0.25000 -0.5911(6)
+#END

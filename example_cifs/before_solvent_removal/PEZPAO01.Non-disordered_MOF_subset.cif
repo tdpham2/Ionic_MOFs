@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PEZPAO01
+_audit_creation_date 2018-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEZPAO01
+_database_code_depnum_ccdc_archive 'CCDC 1573086'
+_chemical_formula_sum 'C8 H14 Ga1 N1 Ni1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Ga1 Ni1 O12 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 57
+_journal_year 2018
+_journal_page_first 3941
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Kai Wang"
+"Jian-Bo Xiong"
+"Bin Xia"
+"Qing-Lun Wang"
+"Yu-Zhang Tong"
+"Yue Ma"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[dimethylammonium hexakis(\m-formato)-gallium(iii)-nickel(ii)]
+;
+_cell_volume    773.007
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.876
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 113
+_refine_special_details
+;
+N1 disordered by symmetry over three configurations with occupancy 0.3333.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0201
+_refine_ls_wR_factor_gt 0.0201
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 x,x-y,1/2-z
+6 -x+y,y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 -x,-x+y,-1/2+z
+12 x-y,-y,-1/2+z
+_cell_length_a 8.1561(15)
+_cell_length_b 8.1561(15)
+_cell_length_c 13.418(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ga 1.22
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga1 Ga 0.00000 0.00000 0.00000
+Ni1 Ni 0.66670 0.33330 0.25000
+O1 O 0.19435(18) 0.20748(18) 0.08336(9)
+O2 O 0.46239(19) 0.34311(19) 0.16789(9)
+C1 C 0.3367(2) 0.2078(3) 0.11975(12)
+H1 H 0.34880 0.10140 0.11020
+C2 C 0.33330 0.66670 0.1523(11)
+N1 N 0.2782(8) 0.5564(15) 0.25000
+O1A O -0.20748(18) -0.01313(18) 0.08336(9)
+O2A O -0.34311(19) 0.11928(19) 0.16789(9)
+C1A C -0.2078(2) 0.1289(3) 0.11975(12)
+H1A H -0.10140 0.24740 0.11020
+O1B O 0.01313(18) -0.19435(18) 0.08336(9)
+O2B O -0.11928(19) -0.46239(19) 0.16789(9)
+C1B C -0.1289(2) -0.3367(3) 0.11975(12)
+H1B H -0.24740 -0.34880 0.11020
+O1D O 0.19435(18) -0.01313(18) 0.41664(9)
+O2D O 0.46239(19) 0.11928(19) 0.33211(9)
+C1D C 0.3367(2) 0.1289(3) 0.38025(12)
+H1D H 0.34880 0.24740 0.38980
+O1F O -0.19435(18) -0.20748(18) -0.08336(9)
+O2F O -0.46239(19) -0.34311(19) -0.16789(9)
+C1F C -0.3367(2) -0.2078(3) -0.11975(12)
+H1F H -0.34880 -0.10140 -0.11020
+O1G O 0.20748(18) 0.01313(18) -0.08336(9)
+O2G O 0.34311(19) -0.11928(19) -0.16789(9)
+C1G C 0.2078(2) -0.1289(3) -0.11975(12)
+H1G H 0.10140 -0.24740 -0.11020
+Ga1C Ga 0.00000 0.00000 0.50000
+Ni1* Ni -0.33330 -0.66670 0.25000
+Ni1** Ni -0.33330 0.33330 0.25000
+Ni1F Ni -0.66670 -0.33330 -0.25000
+Ni1F* Ni 0.33330 -0.33330 -0.25000
+O1H O -0.01313(18) 0.19435(18) -0.08336(9)
+O2A* O 0.65689(19) 0.11928(19) 0.16789(9)
+O2B* O 0.88072(19) 0.53761(19) 0.16789(9)
+O2C O 0.65689(19) 0.53761(19) 0.33211(9)
+O2E O 0.88072(19) 0.34311(19) 0.33211(9)
+N1A N 0.4436(8) 0.7218(15) 0.25000
+N1B N 0.2782(8) 0.7218(15) 0.25000
+C2C C 0.33330 0.66670 0.3477(11)
+#END

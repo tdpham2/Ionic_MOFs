@@ -1,0 +1,196 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UNAGUN
+_audit_creation_date 2016-06-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UNAGUN
+_database_code_depnum_ccdc_archive 'CCDC 1455330'
+_chemical_formula_sum 'C36 H38 N2 O16 Zn2'
+_chemical_formula_moiety
+;
+(C18 H6 O12 Zn2 2-)n,2(C9 H14 N1 O1 1+),2(H2 O1)
+;
+_journal_coden_Cambridge 155
+_journal_volume 450
+_journal_year 2016
+_journal_page_first 190
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"Anas Tahli"
+"A.-C.Chamayou"
+"Umit Koc"
+"R.Bruckner"
+"R.F.M.Elshaarawy"
+"Christian Heering"
+"C.Janiak"
+_chemical_name_systematic
+;
+catena-[bis((S)-1-(4-methoxyphenyl)ethylammonium) 
+bis(\m-benzene-1,3,5-tricarboxylato)-di-zinc(ii) dihydrate]
+;
+_cell_volume   1846.200
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.593
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'isometric'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0227
+_refine_ls_wR_factor_gt 0.0227
+loop_
+_citation_database_id_CSD
+_citation_special_details
+UNAGOH "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 9.1699(5)
+_cell_length_b 15.6055(9)
+_cell_length_c 13.5026(8)
+_cell_angle_alpha 90
+_cell_angle_beta 107.162(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.61984(3) 0.449001(13) 0.75077(2)
+Zn2 Zn 0.87283(3) 0.253817(13) 0.74873(2)
+O1 O 0.9695(2) 0.35912(16) 0.81819(19)
+O2 O 0.80844(18) 0.4474(2) 0.86333(16)
+C1 C 1.0692(3) 0.4854(2) 0.9074(2)
+C2 C 1.0595(3) 0.5453(2) 0.9809(2)
+H1 H 0.97170 0.54940 1.00170
+C3 C 1.1833(3) 0.5996(2) 1.0235(3)
+C4 C 1.3134(3) 0.5936(2) 0.9907(3)
+H2 H 1.39460 0.63070 1.01820
+C5 C 1.3241(3) 0.5334(2) 0.9178(2)
+C6 C 1.2013(3) 0.4786(2) 0.8768(3)
+H3 H 1.20750 0.43710 0.82870
+C7 C 0.9388(3) 0.42587(19) 0.8587(2)
+O3 O 1.0583(3) 0.66637(17) 1.1351(2)
+C8 C 1.1772(4) 0.6635(2) 1.1051(3)
+O4 O 1.2884(3) 0.71132(19) 1.1436(2)
+O5 O 1.5681(3) 0.57940(19) 0.9103(2)
+C9 C 1.4645(3) 0.5264(2) 0.8821(3)
+O6 O 1.4632(2) 0.46345(17) 0.82116(18)
+O7 O 0.5228(2) 0.34390(15) 0.68143(19)
+O8 O 0.68321(18) 0.2545(2) 0.63565(16)
+C10 C 0.4206(3) 0.2209(2) 0.5880(2)
+C11 C 0.4301(3) 0.1592(2) 0.5158(2)
+H4 H 0.51820 0.15480 0.49540
+C12 C 0.3077(3) 0.1042(2) 0.4740(3)
+C13 C 0.1769(3) 0.1097(2) 0.5063(2)
+H5 H 0.09670 0.07160 0.48020
+C14 C 0.1660(3) 0.1719(2) 0.5775(3)
+C15 C 0.2884(3) 0.2273(2) 0.6175(2)
+H6 H 0.28130 0.26930 0.66480
+C16 C 0.5533(3) 0.27725(19) 0.6388(2)
+O9 O 0.4344(2) 0.03677(16) 0.36263(18)
+C17 C 0.3143(3) 0.0381(2) 0.3947(2)
+O10 O 0.2065(3) -0.01092(18) 0.3583(2)
+O11 O -0.0759(3) 0.12458(19) 0.5891(2)
+C18 C 0.0270(3) 0.1776(2) 0.6152(3)
+O12 O 0.0275(2) 0.24032(17) 0.67582(18)
+O13 O 0.0569(3) 0.4161(2) 0.6079(3)
+H7 H -0.017(6) 0.436(5) 0.614(4)
+H8 H 0.062(6) 0.362(3) 0.629(4)
+O14 O 1.4530(4) 0.2884(3) 0.8970(3)
+H9 H 1.508(7) 0.267(5) 0.884(5)
+H10 H 1.436(7) 0.331(4) 0.862(5)
+N1 N 0.7441(4) 0.7190(3) 0.9998(3)
+H11 H 0.815(5) 0.750(3) 1.044(3)
+H12 H 0.676(5) 0.743(3) 1.036(4)
+H13 H 0.732(5) 0.659(3) 0.978(4)
+C19 C 0.6609(4) 0.8471(3) 0.8882(3)
+H14 H 0.56820 0.84650 0.90750
+H15 H 0.64000 0.86780 0.81850
+H16 H 0.73380 0.88410 0.93430
+C20 C 0.7238(3) 0.7592(2) 0.8950(2)
+H17 H 0.64670 0.72460 0.84530
+C21 C 0.8706(4) 0.7497(3) 0.8647(3)
+C22 C 0.9984(4) 0.8008(3) 0.9066(3)
+H18 H 0.99610 0.84110 0.95680
+C23 C 1.1279(4) 0.7931(3) 0.8757(3)
+H19 H 1.21210 0.82770 0.90540
+C24 C 1.1328(4) 0.7335(3) 0.8000(3)
+C25 C 1.0075(4) 0.6827(3) 0.7588(3)
+H20 H 1.00950 0.64240 0.70850
+C26 C 0.8786(5) 0.6906(3) 0.7907(3)
+H21 H 0.79530 0.65520 0.76180
+O15 O 1.2664(3) 0.7313(2) 0.7736(3)
+C27 C 1.2716(6) 0.6774(4) 0.6904(4)
+H22 H 1.37040 0.68150 0.67970
+H23 H 1.19470 0.69480 0.62860
+H24 H 1.25340 0.61920 0.70650
+N2 N 0.7436(3) -0.0112(2) 0.4909(2)
+H25 H 0.655(4) 0.002(2) 0.452(3)
+H26 H 0.798(4) 0.040(2) 0.516(3)
+H27 H 0.790(4) -0.031(3) 0.454(3)
+C28 C 0.8875(4) -0.0910(3) 0.6451(3)
+H28 H 0.96000 -0.10630 0.60920
+H29 H 0.88280 -0.13570 0.69290
+H30 H 0.91870 -0.03850 0.68230
+C29 C 0.7308(3) -0.07916(18) 0.5670(2)
+H31 H 0.70180 -0.13310 0.52910
+C30 C 0.6063(3) -0.0555(3) 0.6162(3)
+C31 C 0.4724(4) -0.1039(3) 0.5923(3)
+H32 H 0.46000 -0.14910 0.54580
+C32 C 0.3590(4) -0.0859(3) 0.6362(3)
+H33 H 0.27040 -0.11880 0.61880
+C33 C 0.3749(4) -0.0198(3) 0.7057(3)
+C34 C 0.5069(4) 0.0302(3) 0.7295(3)
+H34 H 0.51850 0.07600 0.77520
+C35 C 0.6199(3) 0.0110(2) 0.6847(3)
+H35 H 0.70810 0.04420 0.70140
+O16 O 0.2543(3) -0.0075(2) 0.7443(2)
+C36 C 0.2680(5) 0.0531(4) 0.8238(4)
+H36 H 0.17420 0.05550 0.84170
+H37 H 0.28930 0.10850 0.80030
+H38 H 0.34960 0.03670 0.88360
+Zn1* Zn 1.61984(3) 0.449001(13) 0.75077(2)
+Zn1A Zn 0.38016(3) -0.050999(13) 0.24923(2)
+Zn2* Zn -0.12717(3) 0.253817(13) 0.74873(2)
+Zn2A Zn 1.12717(3) 0.753817(13) 1.25127(2)
+O3A O 0.9417(3) 0.16637(17) 0.8649(2)
+O4A O 0.7116(3) 0.21132(19) 0.8564(2)
+O6* O 0.4632(2) 0.46345(17) 0.82116(18)
+O9A O 0.5656(2) 0.53677(16) 0.63737(18)
+O10A O 0.7935(3) 0.48908(18) 0.6417(2)
+O12* O 1.0275(2) 0.24032(17) 0.67582(18)
+#END

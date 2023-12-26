@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LAPMEU
+_audit_creation_date 1994-02-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LAPMEU
+_chemical_formula_sum 'C6 H11 Ag2 N1 O8'
+_chemical_formula_moiety
+;
+(C6 H7 Ag2 O8 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 580
+_journal_volume 12
+_journal_year 1993
+_journal_page_first 709
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"D.S.Sagatys"
+"G.Smith"
+"R.C.Bott"
+"D.E.Lynch"
+"C.H.L.Kennard"
+_chemical_name_systematic
+;
+catena-(Ammonium (\m~5~-citrato)-aqua-di-silver)
+;
+_cell_volume    524.325
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.79
+_exptl_special_details
+;
+Isomorphous with the 3-hydroxy-2,2,3- trimethylcyclohexanecarboxylate
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.435(1)
+_cell_length_b 7.610(1)
+_cell_length_c 11.744(2)
+_cell_angle_alpha 71.75(1)
+_cell_angle_beta 79.74(1)
+_cell_angle_gamma 74.87(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.66
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.41392(6) 0.65683(6) 0.54851(4)
+Ag2 Ag 0.46952(16) 0.51890(8) 0.11896(6)
+C1 C 0.1596(8) 0.6328(7) 0.3576(5)
+O1 O 0.1325(6) 0.7029(6) 0.4441(4)
+O2 O 0.3293(6) 0.5197(6) 0.3302(4)
+C2 C -0.0246(9) 0.6787(8) 0.2808(5)
+C3 C -0.1242(7) 0.8896(7) 0.2338(4)
+O3 O 0.0373(6) 0.9958(6) 0.1785(4)
+C4 C -0.2542(8) 0.9682(8) 0.3375(5)
+O4 O -0.3958(7) 0.8848(7) 0.3991(4)
+O5 O -0.2101(6) 1.1106(6) 0.3521(4)
+C5 C -0.2819(9) 0.9111(8) 0.1420(5)
+C6 C -0.3794(8) 1.1155(8) 0.0827(5)
+O6 O -0.3230(7) 1.1843(6) -0.0287(4)
+O7 O -0.5092(7) 1.2097(6) 0.1468(4)
+N1 N 0.2023(9) 1.1391(9) 0.3693(6)
+O8 O 0.9085(14) 0.4060(9) 0.1196(7)
+H1 H 0.01200 0.63800 0.21800
+H2 H -0.14700 0.62200 0.32500
+H3 H 0.12700 0.93700 0.13300
+H4 H -0.19700 0.85900 0.07900
+H5 H -0.40200 0.83500 0.18400
+H6 H 1.01900 0.37800 0.10000
+H7 H 0.98000 0.26600 0.12300
+H8 H 0.09500 1.10600 0.35700
+H9 H 0.27600 1.12200 0.27500
+H10 H 0.16000 1.11300 0.44100
+H11 H 0.24700 1.19300 0.35400
+Ag1A Ag 0.58608(6) 0.34317(6) 0.45149(4)
+O2A O 0.6707(6) 0.4803(6) 0.6698(4)
+O4* O 0.6042(7) 0.8848(7) 0.3991(4)
+O5A O 0.2101(6) 0.8894(6) 0.6479(4)
+O6A O 0.3230(7) 0.8157(6) 0.0287(4)
+O7* O 0.4908(7) 0.2097(6) 0.1468(4)
+Ag1* Ag -0.58608(6) 0.65683(6) 0.54851(4)
+Ag1A* Ag -0.41392(6) 1.34317(6) 0.45149(4)
+Ag2A Ag -0.46952(16) 1.48110(8) -0.11896(6)
+Ag2* Ag -0.53048(16) 1.51890(8) 0.11896(6)
+#END

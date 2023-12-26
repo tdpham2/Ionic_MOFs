@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAJPIF
+_audit_creation_date 2011-03-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAJPIF
+_database_code_depnum_ccdc_archive 'CCDC 778869'
+_chemical_formula_sum 'C10 H18 N2 O10 P2 V2'
+_chemical_formula_moiety
+;
+(C6 H4 O10 P2 V2 2-)n,n(C4 H14 N2 2+)
+;
+_journal_coden_Cambridge 155
+_journal_volume 363
+_journal_year 2010
+_journal_page_first 4065
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"P.DeBurgomaster"
+"Hongxue Liu"
+"W.Ouellette"
+"C.J.O'Connor"
+"J.Zubieta"
+_chemical_name_systematic
+;
+catena-((Butane-1,4-diaminium) 
+(\m~2~-1,4-phenylenebis(phosphonato))-dioxo-di-vanadium)
+;
+_cell_volume    869.501
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.872
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0587
+_refine_ls_wR_factor_gt 0.0587
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.0671(9)
+_cell_length_b 6.1691(6)
+_cell_length_c 14.0546(13)
+_cell_angle_alpha 90
+_cell_angle_beta 95.028(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+P 1.05
+V 1.30
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+V1 V 0.74516(6) 0.08126(10) 0.28308(4)
+P1 P 0.48800(9) 0.39458(15) 0.27660(6)
+O1 O 0.5616(2) 0.1775(4) 0.26534(18)
+O2 O 0.5623(2) 0.5828(4) 0.22995(18)
+O3 O 0.3456(3) 0.3782(5) 0.23627(19)
+O4 O 0.7796(3) 0.3904(4) 0.30511(18)
+O5 O 0.7461(3) -0.0458(5) 0.38173(19)
+N1 N 0.3694(3) -0.0970(5) 0.1556(2)
+H1 H 0.43650 -0.18180 0.18260
+H2 H 0.29310 -0.12530 0.18360
+H3 H 0.39160 0.04510 0.16430
+C1 C 0.4974(3) 0.4535(6) 0.4024(2)
+C2 C 0.4732(4) 0.6634(7) 0.4333(3)
+H4 H 0.45470 0.77580 0.38790
+C3 C 0.5240(4) 0.2911(6) 0.4694(3)
+H5 H 0.54050 0.14760 0.44890
+C4 C 0.3483(4) -0.1446(8) 0.0515(3)
+H6 H 0.27890 -0.04620 0.02180
+H7 H 0.31550 -0.29520 0.04250
+C5 C 0.4758(4) -0.1174(7) 0.0010(3)
+H8 H 0.54700 -0.20780 0.03390
+H9 H 0.45960 -0.17090 -0.06540
+V1B V 0.25484(6) 0.91874(10) 0.71692(4)
+V1A V 0.75484(6) 0.58126(10) 0.21692(4)
+V1C V 0.24516(6) 0.41874(10) 0.78308(4)
+P1B P 0.51200(9) 0.60542(15) 0.72340(6)
+O1B O 0.4384(2) 0.8225(4) 0.73466(18)
+O2B O 0.4377(2) 0.4172(4) 0.77005(18)
+O2A O 0.9377(2) 0.0828(4) 0.27005(18)
+O2C O 0.0623(2) 0.9172(4) 0.72995(18)
+O3B O 0.6544(3) 0.6218(5) 0.76373(19)
+O4A O 0.7204(3) -0.1096(4) 0.19489(18)
+O4C O 0.2796(3) 1.1096(4) 0.80511(18)
+O4B O 0.2204(3) 0.6096(4) 0.69489(18)
+O5B O 0.2539(3) 1.0458(5) 0.61827(19)
+N1B N 0.6306(3) 0.0970(5) -0.1556(2)
+H1B H 0.56350 0.18180 -0.18260
+H2B H 0.70690 0.12530 -0.18360
+H3B H 0.60840 -0.04510 -0.16430
+C1B C 0.5026(3) 0.5465(6) 0.5976(2)
+C2B C 0.5268(4) 0.3366(7) 0.5667(3)
+H4B H 0.54530 0.22420 0.61210
+C3B C 0.4760(4) 0.7089(6) 0.5306(3)
+H5B H 0.45950 0.85240 0.55110
+C4B C 0.6517(4) 0.1446(8) -0.0515(3)
+H6B H 0.72110 0.04620 -0.02180
+H7B H 0.68450 0.29520 -0.04250
+C5B C 0.5242(4) 0.1174(7) -0.0010(3)
+H8B H 0.45300 0.20780 -0.03390
+H9B H 0.54040 0.17090 0.06540
+#END

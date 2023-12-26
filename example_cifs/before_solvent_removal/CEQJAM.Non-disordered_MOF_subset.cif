@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CEQJAM
+_audit_creation_date 2018-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CEQJAM
+_database_code_depnum_ccdc_archive 'CCDC 1578129'
+_chemical_formula_sum 'C48 H32 Ag2 Br6 Cu2 N8'
+_chemical_formula_moiety
+;
+(C24 H16 Br1 Cu1 N4 1+)2n,n(Ag2 Br4 2-)
+;
+_journal_coden_Cambridge 1290
+_journal_year 2018
+_journal_page_first 826
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"Yali Shen"
+"Limei Zhang"
+"Shufen Li"
+"Peipei Sun"
+"Wenqing Jiang"
+"Dingxian Jia"
+_chemical_name_systematic
+;
+catena-(bis(bromo-bis(1,10-phenanthroline)-copper) 
+tetrakis(\m-bromo)-di-silver)
+;
+_cell_volume   4621.308
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 2.218
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0334
+_refine_ls_wR_factor_gt 0.0334
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 36.457(7)
+_cell_length_b 6.7545(14)
+_cell_length_c 24.094(5)
+_cell_angle_alpha 90
+_cell_angle_beta 128.84(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.45
+Br 1.21
+Cu 1.32
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.00000 0.92713(12) 0.25000
+Ag2 Ag 0.00000 0.42344(13) 0.25000
+Br1 Br 0.07353(2) 0.67348(10) 0.30422(4)
+Br2 Br 0.00363(3) 1.17327(10) 0.34277(4)
+Br3 Br 0.21858(3) 0.53035(12) 0.64603(4)
+Cu1 Cu 0.16735(3) 0.24031(12) 0.56604(4)
+N1 N 0.22543(18) 0.0796(8) 0.6165(3)
+N2 N 0.16192(17) 0.1569(7) 0.4790(3)
+N3 N 0.11349(18) 0.4266(9) 0.5202(3)
+N4 N 0.13775(19) 0.1331(8) 0.6113(3)
+C1 C 0.2562(2) 0.0431(10) 0.6861(3)
+H1 H 0.24760 0.06870 0.71450
+C2 C 0.3013(2) -0.0333(11) 0.7178(3)
+H2 H 0.32190 -0.05950 0.76640
+C3 C 0.3149(2) -0.0691(10) 0.6771(3)
+H3 H 0.34500 -0.11640 0.69790
+C4 C 0.2825(2) -0.0330(8) 0.6028(3)
+C5 C 0.2931(2) -0.0597(9) 0.5553(4)
+H4 H 0.32310 -0.10050 0.57330
+C6 C 0.2600(2) -0.0265(9) 0.4844(4)
+H5 H 0.26740 -0.04910 0.45440
+C7 C 0.2141(2) 0.0424(8) 0.4549(3)
+C8 C 0.1774(2) 0.0767(9) 0.3818(3)
+H6 H 0.18220 0.05220 0.34870
+C9 C 0.1352(3) 0.1456(10) 0.3599(3)
+H7 H 0.11080 0.16520 0.31160
+C10 C 0.1283(2) 0.1868(9) 0.4090(3)
+H8 H 0.09940 0.23690 0.39290
+C11 C 0.2035(2) 0.0791(8) 0.5012(3)
+C12 C 0.2378(2) 0.0397(8) 0.5748(3)
+C13 C 0.1031(3) 0.5725(11) 0.4761(4)
+H9 H 0.11600 0.57180 0.45280
+C14 C 0.0732(3) 0.7287(12) 0.4631(4)
+H10 H 0.06570 0.82790 0.43080
+C15 C 0.0553(3) 0.7335(12) 0.4981(4)
+H11 H 0.03650 0.83970 0.49100
+C16 C 0.0646(2) 0.5805(11) 0.5449(3)
+C17 C 0.0476(3) 0.5699(12) 0.5839(4)
+H12 H 0.02900 0.67260 0.57960
+C18 C 0.0572(3) 0.4214(13) 0.6258(4)
+H13 H 0.04490 0.42050 0.64990
+C19 C 0.0868(2) 0.2560(11) 0.6358(3)
+C20 C 0.0983(3) 0.0892(12) 0.6796(4)
+H14 H 0.08580 0.07380 0.70310
+C21 C 0.1283(3) -0.0477(12) 0.6864(4)
+H15 H 0.13600 -0.15940 0.71440
+C22 C 0.1474(2) -0.0227(11) 0.6524(4)
+H16 H 0.16800 -0.11870 0.65840
+C23 C 0.1065(2) 0.2679(10) 0.6014(3)
+C24 C 0.0944(2) 0.429(1) 0.5545(3)
+Br1A Br -0.07353(2) 0.67348(10) 0.19578(4)
+Br2A Br -0.00363(3) 1.17327(10) 0.15723(4)
+Ag2* Ag 0.00000 1.42344(13) 0.25000
+Br2* Br 0.00363(3) 0.17327(10) 0.34277(4)
+Br2A* Br -0.00363(3) 0.17327(10) 0.15723(4)
+#END

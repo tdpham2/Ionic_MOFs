@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOFRAB
+_audit_creation_date 1998-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOFRAB
+_database_code_depnum_ccdc_archive 'CCDC 130005'
+_chemical_formula_sum 'C10 H20 Cu2 I3 O5 Rb1'
+_chemical_formula_moiety
+;
+(C10 H20 O5 Rb1 1+)n,n(Cu2 I3 1-)
+;
+_journal_coeditor_code "IUCr SX1047"
+_journal_coden_Cambridge 591
+_journal_volume 54
+_journal_year 1998
+_journal_page_first 594
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"A.K.Nurtaeva"
+"E.M.Holt"
+_chemical_name_systematic
+;
+catena(15-Crown-5-rubidium (\m~2~-iodo)-bis(\m~3~-iodo)-di-copper(i))
+;
+_cell_volume   4101.958
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.635
+_exptl_crystal_description 'rods'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0584
+_refine_ls_wR_factor_gt 0.0584
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 24.613(3)
+_cell_length_b 11.170(1)
+_cell_length_c 17.211(3)
+_cell_angle_alpha 90
+_cell_angle_beta 119.90(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.52
+I 1.40
+O 0.78
+Rb 1.83
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.4595(1) -0.2525(1) 0.0984(1)
+I2 I 0.5955(1) 0.0082(1) 0.2556(1)
+I3 I 0.4274(1) 0.1110(1) 0.0136(1)
+Cu1 Cu 0.4627(2) -0.0337(3) 0.1602(2)
+Cu2 Cu 0.5149(2) -0.0690(3) 0.0707(3)
+Rb1 Rb 0.3789(1) -0.3294(2) 0.2200(1)
+O1 O 0.2467(6) -0.330(2) 0.0991(11)
+C1 C 0.2095(12) -0.341(3) 0.138(2)
+H1 H 0.20540 -0.42340 0.14910
+H2 H 0.16850 -0.30980 0.09760
+C2 C 0.236(2) -0.273(3) 0.219(2)
+H3 H 0.23800 -0.19080 0.20570
+H4 H 0.20770 -0.27860 0.24240
+O2 O 0.2921(11) -0.307(2) 0.2849(15)
+C3 C 0.294(2) -0.383(3) 0.343(2)
+H5 H 0.26280 -0.44330 0.31180
+H6 H 0.28290 -0.34190 0.38220
+C4 C 0.354(2) -0.440(3) 0.397(2)
+H7 H 0.38610 -0.38140 0.42810
+H8 H 0.35260 -0.49100 0.44140
+O3 O 0.3678(8) -0.510(2) 0.3411(10)
+C5 C 0.4286(11) -0.554(3) 0.3832(15)
+H9 H 0.43710 -0.59900 0.43550
+H10 H 0.45830 -0.48930 0.40100
+C6 C 0.4322(9) -0.630(3) 0.317(2)
+H11 H 0.47060 -0.67480 0.34640
+H12 H 0.39810 -0.68610 0.29430
+O4 O 0.4298(6) -0.5650(15) 0.2468(12)
+C7 C 0.4095(13) -0.629(2) 0.164(2)
+H13 H 0.42710 -0.70760 0.17730
+H14 H 0.42460 -0.58810 0.12960
+C8 C 0.3437(13) -0.637(2) 0.113(2)
+H15 H 0.33220 -0.68640 0.06160
+H16 H 0.32850 -0.67540 0.14880
+O5 O 0.3154(7) -0.527(2) 0.0859(11)
+C9 C 0.2483(11) -0.530(3) 0.042(2)
+H17 H 0.23470 -0.56710 0.07970
+H18 H 0.23150 -0.57360 -0.01300
+C10 C 0.2269(14) -0.402(3) 0.024(2)
+H19 H 0.24110 -0.36730 -0.01400
+H20 H 0.18190 -0.40190 -0.00940
+Cu1B Cu 0.5373(2) -0.0337(3) 0.3398(2)
+Cu2D Cu 0.4851(2) 0.0690(3) -0.0707(3)
+I2B I 0.4045(1) 0.0082(1) 0.2444(1)
+I3D I 0.5726(1) -0.1110(1) -0.0136(1)
+#END

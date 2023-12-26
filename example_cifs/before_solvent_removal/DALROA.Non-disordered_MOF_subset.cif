@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DALROA
+_audit_creation_date 2016-12-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DALROA
+_database_code_depnum_ccdc_archive 'CCDC 1495414'
+_chemical_formula_sum 'C12 H34 Cl8 Fe4 N4 O21'
+_chemical_formula_moiety
+;
+(C8 Cl8 Fe4 O16 4-)n,4(C1 H6 N1 1+),5(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 11160
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"T.F.Mastropietro"
+"N.Marino"
+"G.De Munno"
+"F.Lloret"
+"M.Julve"
+"E.Pardo"
+"D.Armentano"
+_chemical_name_systematic
+;
+catena-(tetrakis(methylammonium) 
+tetrakis(\m-oxalato)-octachloro-tetra-iron(iii) pentahydrate)
+;
+_cell_volume   1900.398
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.883
+_exptl_crystal_description 'parallelepiped'
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0337
+_refine_ls_wR_factor_gt 0.0337
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.7832(7)
+_cell_length_b 13.9135(10)
+_cell_length_c 13.0578(9)
+_cell_angle_alpha 90
+_cell_angle_beta 104.060(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.73572(3) 0.56883(2) 0.99587(2)
+Fe2 Fe 0.72505(3) 0.42121(2) 0.61188(2)
+Cl1 Cl 0.92608(5) 0.43572(3) 0.58984(4)
+Cl2 Cl 0.93044(5) 0.54827(4) 1.10702(4)
+Cl3 Cl 0.67747(5) 0.27113(4) 0.54989(4)
+Cl4 Cl 0.69844(5) 0.72515(4) 1.03125(4)
+O1 O 0.64345(14) 0.50699(12) 1.09669(12)
+O2 O 0.46860(14) 0.55774(11) 0.37852(12)
+O3 O 0.77384(14) 0.61142(10) 0.85715(11)
+O4 O 0.65141(14) 0.49557(11) 0.47542(12)
+O5 O 0.75293(15) 0.55488(10) 0.69273(12)
+O6 O 0.45370(14) 0.44459(11) 1.10349(12)
+O7 O 0.75340(14) 0.37627(10) 0.76460(11)
+O8 O 0.75250(15) 0.43435(10) 0.92514(12)
+C1 C 0.76170(19) 0.54525(14) 0.78915(17)
+C2 C 0.75512(19) 0.44260(14) 0.83042(17)
+C3 C 0.5343(2) 0.51552(15) 0.45772(16)
+C4 C 0.5278(2) 0.48577(16) 1.05782(16)
+O9 O 0.96011(15) 0.20615(11) 0.53593(13)
+H1 H 0.969(3) 0.1434(16) 0.521(3)
+H2 H 0.880(2) 0.213(2) 0.532(3)
+N1 N 1.0110(2) 0.33141(16) 0.37524(18)
+C5 C 0.8814(3) 0.3545(2) 0.3111(2)
+H3 H 1.002(3) 0.292(2) 0.428(2)
+H4 H 0.890(3) 0.389(2) 0.258(3)
+H5 H 1.053(3) 0.300(2) 0.337(2)
+H6 H 0.834(3) 0.296(2) 0.289(3)
+H7 H 0.822(3) 0.388(2) 0.352(3)
+H8 H 1.052(3) 0.386(2) 0.401(2)
+C6 C 0.5144(3) 0.7536(3) 0.2226(3)
+N2 N 0.6276(2) 0.7030(2) 0.2843(2)
+H9 H 0.69680 0.72370 0.26520
+H10 H 0.61850 0.64010 0.27240
+H11 H 0.63620 0.71450 0.35270
+H12 H 0.439(4) 0.733(3) 0.245(3)
+H13 H 0.490(3) 0.728(3) 0.152(3)
+H14 H 0.527(4) 0.816(4) 0.220(4)
+O10 O 0.88957(17) 0.72396(12) 0.27255(13)
+H15 H 0.930(3) 0.751(2) 0.335(2)
+H16 H 0.918(3) 0.6635(16) 0.270(2)
+O11 O 0.7292(12) 0.5527(9) 0.3009(10)
+O1B O 0.35655(14) 0.49301(12) 0.90331(12)
+C4B C 0.4722(2) 0.51423(16) 0.94218(16)
+O6B O 0.54630(14) 0.55541(11) 0.89651(12)
+O4B O 0.34859(14) 0.50443(11) 0.52458(12)
+C3B C 0.4657(2) 0.48448(15) 0.54228(16)
+O2B O 0.53140(14) 0.44226(11) 0.62148(12)
+Fe1B Fe 0.26428(3) 0.43117(2) 0.00413(2)
+Fe2B Fe 0.27495(3) 0.57879(2) 0.38812(2)
+Cl1B Cl 0.07392(5) 0.56428(3) 0.41016(4)
+Cl2B Cl 0.06956(5) 0.45173(4) -0.10702(4)
+Cl3B Cl 0.32253(5) 0.72887(4) 0.45011(4)
+Cl4B Cl 0.30156(5) 0.27485(4) -0.03125(4)
+O3B O 0.22616(14) 0.38858(10) 0.14285(11)
+O5B O 0.24707(15) 0.44512(10) 0.30727(12)
+O7B O 0.24660(14) 0.62373(10) 0.23540(11)
+O8B O 0.24750(15) 0.56565(10) 0.07486(12)
+C1B C 0.23830(19) 0.45475(14) 0.21085(17)
+C2B C 0.24488(19) 0.55740(14) 0.16958(17)
+Fe1B* Fe 0.26428(3) 0.43117(2) 1.00413(2)
+O1B* O 0.35655(14) 0.49301(12) -0.09669(12)
+O6* O 0.45370(14) 0.44459(11) 0.10349(12)
+#END

@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAQNII
+_audit_creation_date 2017-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAQNII
+_database_code_depnum_ccdc_archive 'CCDC 1520973'
+_chemical_formula_sum 'C14 H22 Cu1 N2 O7'
+_chemical_formula_moiety
+;
+(C10 H6 Cu1 N1 O5 1-)n,C4 H12 N1 1+,2(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 56
+_journal_year 2017
+_journal_page_first 6551
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"T.Grancha"
+"Xiaoni Qu"
+"M.Julve"
+"J.Ferrando-Soria"
+"D.Armentano"
+"E.Pardo"
+_chemical_name_systematic
+;
+catena-[tetramethylammonium 
+(\m-([carboxylato(oxidanidyl)methylidene]amino)(phenyl)acetato)-copper(ii) 
+dihydrate]
+;
+_cell_volume   1285.518
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.526
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0653
+_refine_ls_wR_factor_gt 0.0653
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31'
+_symmetry_Int_Tables_number 144
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+_cell_length_a 10.1431(14)
+_cell_length_b 10.1431(14)
+_cell_length_c 14.428(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.71509(12) 1.23332(12) 0.31715(8)
+O1 O 0.7208(11) 1.0454(10) 0.3475(5)
+O2 O 0.6445(14) 0.8105(11) 0.2939(7)
+O3 O 0.5084(11) 1.1338(7) 0.0709(4)
+O4 O 0.7101(9) 1.4027(8) 0.2469(5)
+O5 O 0.6425(13) 1.4387(8) 0.1053(5)
+N1 N 0.6031(10) 1.1152(9) 0.2142(5)
+C1 C 0.6478(16) 0.9317(14) 0.2897(8)
+C2 C 0.5694(14) 0.9595(11) 0.2075(6)
+H1 H 0.61560 0.94810 0.14900
+C3 C 0.5773(15) 1.1879(10) 0.1474(7)
+C4 C 0.6506(12) 1.3574(11) 0.1674(7)
+C5 C 0.3982(19) 0.8435(13) 0.2061(9)
+C6 C 0.3049(19) 0.8475(18) 0.2702(8)
+H2 H 0.34410 0.92360 0.31700
+C7 C 0.152(2) 0.741(2) 0.2683(12)
+H3 H 0.08540 0.74550 0.31320
+C8 C 0.091(3) 0.624(2) 0.1995(15)
+H4 H -0.01450 0.55150 0.19730
+C9 C 0.190(3) 0.619(2) 0.137(2)
+H5 H 0.15480 0.53800 0.09410
+C10 C 0.334(2) 0.7286(17) 0.1373(16)
+H6 H 0.39830 0.72990 0.08880
+N2 N 0.783(4) 0.9430(15) 0.6019(7)
+C11 C 0.674(5) 0.972(6) 0.599(4)
+H7 H 0.57770 0.87850 0.61310
+H8 H 0.66830 1.00830 0.53740
+H9 H 0.69150 1.04970 0.64540
+C12 C 0.755(5) 0.832(3) 0.5358(13)
+H10 H 0.65030 0.74780 0.54230
+H11 H 0.82590 0.79350 0.54500
+H12 H 0.76950 0.87600 0.47370
+C13 C 0.784(4) 0.889(2) 0.6986(10)
+H13 H 0.88660 0.94750 0.72490
+H14 H 0.75400 0.78050 0.69700
+H15 H 0.71210 0.90210 0.73700
+C14 C 0.90(1) 1.085(3) 0.5914(18)
+H16 H 0.89750 1.12120 0.52900
+H17 H 0.99620 1.08470 0.60010
+H18 H 0.89280 1.15150 0.63750
+O6 O 0.7701(10) 0.7544(8) 0.1362(5)
+H19 H 0.718(14) 0.646(4) 0.148(8)
+H20 H 0.746(14) 0.789(11) 0.192(5)
+O7 O 0.7625(14) 0.6367(13) 0.3845(7)
+H21 H 0.664(6) 0.612(15) 0.363(7)
+H22 H 0.824(10) 0.686(14) 0.329(5)
+Cu1B Cu 0.51823(12) 1.28491(12) -0.016183(80)
+O3A O 0.8662(11) 1.3746(7) 0.404233(400)
+O5A O 0.5613(13) 1.2038(8) 0.438633(500)
+#END

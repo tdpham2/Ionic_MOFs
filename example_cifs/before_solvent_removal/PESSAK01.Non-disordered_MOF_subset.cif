@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PESSAK01
+_audit_creation_date 2018-03-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PESSAK01
+_database_code_depnum_ccdc_archive 'CCDC 1538518'
+_chemical_formula_sum 'C8 H14 Fe2 N1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Fe2 O12 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1089
+_journal_volume 29
+_journal_year 2017
+_journal_page_first 1702512
+_journal_name_full 'Adv.Mater. '
+loop_
+_publ_author_name
+"Li-Hong Chen"
+"Jiang-Bin Guo"
+"Xuan Wang"
+"Xin-Wei Dong"
+"Hai-Xia Zhao"
+"La-Sheng Long"
+"Lan-Sun Zheng"
+_chemical_name_systematic
+;
+catena-(dimethylammonium hexakis(\m-formato)-iron(ii)-iron(iii))
+;
+_cell_volume    808.678
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.765
+_exptl_crystal_description 'hexagonal'
+_diffrn_ambient_temperature 400
+_refine_special_details
+;
+The sites represented as Fe01,Fe02 are each mixed Fe/Ni sites with 
+occupancies 0.68:0.32. The sum formula is reported as C8 H14 Fe1.36 N Ni0.64 
+O12. The cation is disordered by symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0618
+_refine_ls_wR_factor_gt 0.0618
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 -x+y,y,1/2-z
+6 x,x-y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 x-y,-y,-1/2+z
+12 -x,-x+y,-1/2+z
+_cell_length_a 8.2315(10)
+_cell_length_b 8.2315(10)
+_cell_length_c 13.7812(18)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 1.00000 0.50000
+Fe2 Fe 0.33330 0.66670 0.75000
+O1 O 0.3388(5) 0.8812(6) 0.6680(3)
+O2 O 0.2053(5) 1.0085(5) 0.5826(3)
+C1 C 0.2108(8) 0.8737(8) 0.6204(4)
+H1 H 0.10640 0.75550 0.61140
+C2 C 0.66670 1.33330 0.653(3)
+N1 N 0.574(8) 1.287(4) 0.75000
+Ni1? Ni 0.00000 1.00000 0.50000
+Ni2? Ni 0.33330 0.66670 0.75000
+O1A O 0.1188(5) 0.4576(6) 0.6680(3)
+O2A O -0.0085(5) 0.1968(5) 0.5826(3)
+C1A C 0.1263(8) 0.3371(8) 0.6204(4)
+H1A H 0.24450 0.35090 0.61140
+O1A* O 0.1188(5) 1.4576(6) 0.6680(3)
+O2A* O -0.0085(5) 1.1968(5) 0.5826(3)
+C1A* C 0.1263(8) 1.3371(8) 0.6204(4)
+H1A* H 0.24450 1.35090 0.61140
+O1B O -0.4576(5) 0.6612(6) 0.6680(3)
+O2B O -0.1968(5) 0.7947(5) 0.5826(3)
+C1B C -0.3371(8) 0.7892(8) 0.6204(4)
+H1B H -0.35090 0.89360 0.61140
+O1B* O 0.5424(5) 0.6612(6) 0.6680(3)
+O2B* O 0.8032(5) 0.7947(5) 0.5826(3)
+C1B* C 0.6629(8) 0.7892(8) 0.6204(4)
+H1B* H 0.64910 0.89360 0.61140
+O1C O 0.1188(5) 0.6612(6) 0.8320(3)
+O2C O -0.0085(5) 0.7947(5) 0.9174(3)
+C1C C 0.1263(8) 0.7892(8) 0.8796(4)
+H1C H 0.24450 0.89360 0.88860
+Fe1* Fe 0.00000 0.00000 0.50000
+Fe1** Fe 1.00000 1.00000 0.50000
+Fe1C Fe 0.00000 1.00000 1.00000
+Fe2* Fe -0.66670 0.66670 0.75000
+Fe2** Fe 0.33330 1.66670 0.75000
+O1D O 0.5424(5) 0.8812(6) 0.8320(3)
+O1E O 0.3388(5) 0.4576(6) 0.8320(3)
+O2F O -0.2053(5) 0.9915(5) 0.4174(3)
+O2G O 0.0085(5) 0.8032(5) 0.4174(3)
+O2H O 0.1968(5) 1.2053(5) 0.4174(3)
+N1A N 0.713(8) 1.287(4) 0.75000
+N1B N 0.713(8) 1.426(4) 0.75000
+C2C C 0.66670 1.33330 0.847(3)
+#END

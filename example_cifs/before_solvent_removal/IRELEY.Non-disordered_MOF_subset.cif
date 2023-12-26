@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IRELEY
+_audit_creation_date 2016-07-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IRELEY
+_database_code_depnum_ccdc_archive 'CCDC 1449092'
+_chemical_formula_sum 'C22 H18 Cd1 O11'
+_chemical_formula_moiety
+;
+(C22 H10 Cd1 O8 2-)n,H2 O1,2(H3 O1 1+)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 18
+_journal_year 2016
+_journal_page_first 5901
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"Yunlong Wu"
+"Guo-Ping Yang"
+"Jiao Liu"
+"Yangtian Yan"
+"Xinjun Luan"
+"Wen-Yan Zhang"
+"Yao-Yu Wang"
+_chemical_name_systematic
+;
+catena-[bis(oxonium) 
+(\m-1,1':4',1''-terphenyl-2',3,3'',5'-tetracarboxylato)-cadmium(ii) 
+monohydrate]
+;
+_cell_volume   1127.524
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.657
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0354
+_refine_ls_wR_factor_gt 0.0354
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 2/c'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,-1/2+z
+_cell_length_a 7.935(1)
+_cell_length_b 6.8376(9)
+_cell_length_c 21.605(3)
+_cell_angle_alpha 90
+_cell_angle_beta 105.871(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.00000 0.73829(7) 0.25000
+O1 O 0.0249(5) 0.5131(5) 0.17131(16)
+O2 O 0.0417(6) 0.8158(6) 0.14116(17)
+O3 O 0.7002(6) 0.7013(7) 0.1984(2)
+O4 O 0.7877(5) 1.0045(7) 0.19930(19)
+C1 C 0.0342(6) 0.6373(8) 0.1299(2)
+C2 C 0.0273(6) 0.5652(7) 0.0635(2)
+C3 C -0.0872(6) 0.4098(7) 0.0394(2)
+H1 H -0.14480 0.34920 0.06630
+C4 C 0.1174(6) 0.6568(7) 0.0240(2)
+C5 C 0.2515(6) 0.8135(8) 0.0477(2)
+C6 C 0.3945(7) 0.7788(7) 0.1005(3)
+H2 H 0.40540 0.65790 0.12090
+C7 C 0.5215(6) 0.9215(7) 0.1234(2)
+C8 C 0.5026(7) 1.1017(8) 0.0927(3)
+H3 H 0.58530 1.19900 0.10810
+C9 C 0.3634(7) 1.1394(8) 0.0397(2)
+H4 H 0.35210 1.26120 0.01980
+C10 C 0.2402(6) 0.9938(7) 0.0163(2)
+H5 H 0.14930 1.01660 -0.02060
+C11 C 0.6781(7) 0.8721(10) 0.1778(3)
+O5 O 0.2022(7) 0.1718(8) 0.1850(2)
+O6 O 0.50000 0.4322(10) 0.25000
+O1B O -0.0249(5) 0.4869(5) -0.17131(16)
+O2B O -0.0417(6) 0.1842(6) -0.14116(17)
+O3B O -0.7002(6) 0.2987(7) -0.1984(2)
+O4B O -0.7877(5) -0.0045(7) -0.19930(19)
+C1B C -0.0342(6) 0.3627(8) -0.1299(2)
+C2B C -0.0273(6) 0.4348(7) -0.0635(2)
+C3B C 0.0872(6) 0.5902(7) -0.0394(2)
+H1B H 0.14480 0.65080 -0.06630
+C4B C -0.1174(6) 0.3432(7) -0.0240(2)
+C5B C -0.2515(6) 0.1865(8) -0.0477(2)
+C6B C -0.3945(7) 0.2212(7) -0.1005(3)
+H2B H -0.40540 0.34210 -0.12090
+C7B C -0.5215(6) 0.0785(7) -0.1234(2)
+C8B C -0.5026(7) -0.1017(8) -0.0927(3)
+H3B H -0.58530 -0.19900 -0.10810
+C9B C -0.3634(7) -0.1394(8) -0.0397(2)
+H4B H -0.35210 -0.26120 -0.01980
+C10B C -0.2402(6) 0.0062(7) -0.0163(2)
+H5B H -0.14930 -0.01660 0.02060
+C11B C -0.6781(7) 0.1279(10) -0.1778(3)
+Cd1* Cd 1.00000 0.73829(7) 0.25000
+Cd1B Cd -1.00000 0.26171(7) -0.25000
+Cd1B* Cd 0.00000 0.26171(7) -0.25000
+O1A O -0.0249(5) 0.5131(5) 0.32869(16)
+O2A O -0.0417(6) 0.8158(6) 0.35884(17)
+O3* O -0.2998(6) 0.7013(7) 0.1984(2)
+O3A O 0.2998(6) 0.7013(7) 0.3016(2)
+O4* O -0.2123(5) 1.0045(7) 0.19930(19)
+O4A O 0.2123(5) 1.0045(7) 0.30070(19)
+#END

@@ -1,0 +1,152 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOLPES
+_audit_creation_date 2009-05-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOLPES
+_database_code_depnum_ccdc_archive 'CCDC 706920'
+_chemical_formula_sum 'C9 H25 N2 O23 P3 U3'
+_chemical_formula_moiety
+;
+(H4 N1 1+)2n,n(C9 H13 O21 P3 U3 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 47
+_journal_year 2008
+_journal_page_first 7660
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"K.E.Knope"
+"C.L.Cahill"
+_chemical_name_systematic
+;
+catena-(diammonium 
+bis(\m~4~-2-phosphonopropionato-O,O,O',O'',O''',O'''')-(\m~3~-2-phosphonopropi
+onic acid-O,O',O'')-hexaoxo-tri-uranium(vi) dihydrate)
+;
+_cell_volume   1372.744
+_exptl_crystal_density_diffrn 3.233
+_exptl_special_details
+;
+fluorescent
+
+;
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The 2-phosphonopropinoato and 2-phosphonopropanoic acid groups are disordered 
+by symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0281
+_refine_ls_wR_factor_gt 0.0281
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 8.7542(6)
+_cell_length_b 17.8712(12)
+_cell_length_c 9.0548(6)
+_cell_angle_alpha 90
+_cell_angle_beta 104.295(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.64
+P 1.05
+U 1.56
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U 0.93737(3) 0.75000 0.22511(4)
+U2 U 1.28842(2) 0.564772(11) 0.17213(2)
+O1 O 1.0458(4) 0.61900(19) 0.2632(4)
+O2 O 0.7147(4) 0.54709(18) -0.0463(4)
+O3 O 1.1838(6) 0.75000 0.4034(6)
+O4 O 1.0259(6) 0.75000 0.0689(6)
+O5 O 1.1882(4) 0.60764(19) 0.0005(4)
+O6 O 1.0529(4) 0.49928(19) 0.2119(5)
+O7 O 0.5172(4) 0.58387(18) 0.0998(4)
+O8 O 0.8551(6) 0.75000 0.3843(6)
+O9 O 1.3855(4) 0.52212(19) 0.3466(4)
+O10 O 1.3637(4) 0.68077(19) 0.2722(4)
+O11 O 0.7415(4) 0.66970(18) 0.0912(4)
+P1 P 1.3416(2) 0.75000 0.3610(2)
+P2 P 0.68715(16) 0.58856(7) 0.09100(18)
+C1 C 0.9781(6) 0.5546(3) 0.2463(6)
+C2 C 0.8129(6) 0.5465(3) 0.2621(7)
+C3? C 0.7692(11) 0.4728(5) 0.3122(12)
+H1? H 0.66160 0.47400 0.31930
+H2? H 0.83670 0.46100 0.41020
+H3? H 0.78100 0.43530 0.23980
+C4 C 0.7819(16) 0.5661(8) 0.3934(17)
+H4 H 0.67210 0.55800 0.38750
+H5 H 0.80670 0.61800 0.41310
+H6 H 0.84440 0.53640 0.47440
+C5 C 1.5014(10) 0.75000 0.5338(9)
+H7 H 1.59870 0.75000 0.50290
+O12 O 1.5985(12) 0.6287(5) 0.5680(12)
+O13 O 1.4425(18) 0.6705(6) 0.7139(15)
+C6 C 1.4978(10) 0.6792(4) 0.6240(9)
+H8? H 1.58280 0.67970 0.71410
+H9? H 1.50900 0.63730 0.56140
+H10? H 1.39930 0.67670 0.65080
+N1 N 0.9006(7) 0.6618(3) -0.2218(7)
+O14 O 0.1347(9) 0.75000 0.7120(9)
+O15 O 0.4175(8) 0.75000 0.9865(8)
+U2C U 1.28842(2) 0.935228(11) 0.17213(2)
+U2B U 0.71158(2) 0.435228(11) -0.17213(2)
+U2* U 0.28842(2) 0.564772(11) 0.17213(2)
+U2A U 0.71158(2) 1.064772(11) -0.17213(2)
+U2C* U 0.28842(2) 0.935228(11) 0.17213(2)
+O1C O 1.0458(4) 0.88100(19) 0.2632(4)
+O2C O 0.7147(4) 0.95291(18) -0.0463(4)
+O2B O 1.2853(4) 0.45291(18) 0.0463(4)
+O2A O 1.2853(4) 1.04709(18) 0.0463(4)
+O5C O 1.1882(4) 0.89236(19) 0.0005(4)
+O6C O 1.0529(4) 1.00072(19) 0.2119(5)
+O7C O 0.5172(4) 0.91613(18) 0.0998(4)
+O7* O 1.5172(4) 0.58387(18) 0.0998(4)
+O7C* O 1.5172(4) 0.91613(18) 0.0998(4)
+O9C O 1.3855(4) 0.97788(19) 0.3466(4)
+O10C O 1.3637(4) 0.81923(19) 0.2722(4)
+O11C O 0.7415(4) 0.83030(18) 0.0912(4)
+P2C P 0.68715(16) 0.91144(7) 0.09100(18)
+C1C C 0.9781(6) 0.9454(3) 0.2463(6)
+C2C C 0.8129(6) 0.9535(3) 0.2621(7)
+C4C C 0.7819(16) 0.9339(8) 0.3934(17)
+H4C H 0.67210 0.94200 0.38750
+H5C H 0.80670 0.88200 0.41310
+H6C H 0.84440 0.96360 0.47440
+O12C O 1.5985(12) 0.8713(5) 0.5680(12)
+O13C O 1.4425(18) 0.8295(6) 0.7139(15)
+C6C C 1.4978(10) 0.8208(4) 0.6240(9)
+#END

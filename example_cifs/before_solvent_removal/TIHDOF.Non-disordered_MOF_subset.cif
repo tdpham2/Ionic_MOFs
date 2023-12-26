@@ -1,0 +1,175 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TIHDOF
+_audit_creation_date 2013-10-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TIHDOF
+_database_code_depnum_ccdc_archive 'CCDC 758026'
+_chemical_formula_sum 'C26 H43 Gd1 N3 Na1 O15'
+_chemical_formula_moiety
+;
+(C24 H31 Gd1 N3 O11 1-)n,n(C2 H6 O1),n(Na1 1+),3n(H2 O1)
+;
+_journal_coden_Cambridge 155
+_journal_volume 407
+_journal_year 2013
+_journal_page_first 306
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"R.Artali"
+"G.Bombieri"
+"G.B.Giovenzana"
+"M.Galli"
+"L.Lattuada"
+"F.Meneghetti"
+_chemical_name_systematic
+;
+catena-[sodium 
+(\m~2~-5-(benzyloxy)-2-(6-(bis(carboxymethyl)amino)-4-(carboxymethyl)-6-methyl
+-1,4-diazepan-1-yl)-5-oxopentanoato)-aqua-gadolinium ethanol solvate 
+trihydrate]
+;
+_cell_volume   3080.535
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.744
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'water/ethanol'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0612
+_refine_ls_wR_factor_gt 0.0612
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 8.994(2)
+_cell_length_b 9.838(5)
+_cell_length_c 34.815(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Gd 1.96
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Gd1 Gd 0.5469(2) 0.80697(19) 0.19442(5)
+O1 O 0.297(2) 0.811(3) 0.2229(6)
+O2 O 0.440(3) 0.593(2) 0.1832(6)
+O3 O 0.734(3) 0.660(3) 0.1716(7)
+O4 O 0.790(3) 0.893(3) 0.2173(7)
+O5 O 0.530(3) 1.019(2) 0.2292(6)
+O6 O 0.968(4) 1.042(3) 0.2134(7)
+O7 O 0.955(4) 0.634(3) 0.1424(7)
+O8 O 0.414(3) 1.213(3) 0.2432(7)
+O9 O 0.364(3) 0.416(3) 0.1461(8)
+O10 O 0.325(4) 0.437(4) 0.0066(11)
+O11 O 0.462(3) 0.263(2) 0.0187(6)
+N1 N 0.713(3) 0.928(3) 0.1422(9)
+N2 N 0.401(3) 0.993(3) 0.1595(8)
+N3 N 0.446(4) 0.762(3) 0.1219(7)
+C1 C 0.605(4) 0.978(4) 0.1099(11)
+C2 C 0.491(3) 1.059(3) 0.1319(9)
+H1 H 0.54320 1.13200 0.14500
+H2 H 0.42540 1.10120 0.11330
+C3 C 0.418(4) 0.535(4) 0.1485(10)
+C4 C 0.264(4) 0.932(4) 0.1391(10)
+H3 H 0.18030 0.93230 0.15670
+H4 H 0.23840 0.98870 0.11730
+C5 C 0.289(3) 0.795(4) 0.1259(9)
+H5 H 0.24090 0.78250 0.10120
+H6 H 0.24430 0.73160 0.14390
+C6 C 0.524(4) 0.857(3) 0.0956(9)
+H7 H 0.59400 0.80340 0.08090
+H8 H 0.44960 0.88970 0.07760
+C7 C 0.684(5) 1.050(4) 0.0813(12)
+H9 H 0.78900 1.03990 0.08550
+H10 H 0.65820 1.14480 0.08260
+H11 H 0.65850 1.01510 0.05640
+C8 C 0.788(4) 1.026(4) 0.1627(10)
+H12 H 0.71850 1.09890 0.16810
+H13 H 0.86420 1.06310 0.14600
+C9 C 0.858(4) 0.990(4) 0.1980(12)
+C10 C 0.824(5) 0.825(5) 0.1297(11)
+H14 H 0.80580 0.80760 0.10270
+H15 H 0.92100 0.86780 0.13140
+C11 C 0.836(4) 0.694(5) 0.1482(9)
+C12 C 0.336(4) 1.096(3) 0.1861(9)
+H16 H 0.23840 1.06610 0.19430
+H17 H 0.32500 1.18130 0.17260
+C13 C 0.437(4) 1.118(4) 0.2227(8)
+C14 C 0.474(5) 0.615(3) 0.1165(8)
+H18 H 0.58110 0.60040 0.11450
+C15 C 0.399(4) 0.561(4) 0.0789(10)
+H19 H 0.29530 0.53980 0.08430
+H20 H 0.40040 0.63240 0.05970
+C16 C 0.475(4) 0.435(3) 0.0627(8)
+H21 H 0.57770 0.45620 0.05690
+H22 H 0.47450 0.36360 0.08210
+C17 C 0.402(5) 0.384(5) 0.0279(12)
+C18 C 0.424(5) 0.186(5) -0.0184(10)
+H23 H 0.36230 0.24240 -0.03470
+H24 H 0.51530 0.16610 -0.03230
+C19 C 0.348(4) 0.060(4) -0.0101(10)
+C20 C 0.393(5) -0.059(4) -0.0276(12)
+H25 H 0.47390 -0.05410 -0.04430
+C21 C 0.329(5) -0.180(7) -0.0222(13)
+H26 H 0.35370 -0.25730 -0.03630
+C22 C 0.233(5) -0.180(7) 0.0036(13)
+H27 H 0.19760 -0.26650 0.00910
+C23 C 0.175(6) -0.094(5) 0.0230(14)
+H28 H 0.09550 -0.11280 0.03940
+C24 C 0.239(5) 0.045(6) 0.0187(14)
+H29 H 0.20990 0.11690 0.03420
+Na1 Na 0.7022(18) 0.9294(17) 0.2831(5)
+O12 O 0.953(4) 0.802(3) 0.2870(6)
+O13 O 0.896(3) 1.108(3) 0.2878(7)
+O14 O 0.254(4) 0.895(4) 0.2976(11)
+O15 O 0.656(4) 0.244(3) -0.1041(8)
+H30 H 0.74070 0.21330 -0.10450
+C25 C 0.392(4) 0.135(6) -0.1189(17)
+H31 H 0.36680 0.04410 -0.12630
+H32 H 0.36000 0.19730 -0.13850
+H33 H 0.34340 0.15710 -0.09520
+C26 C 0.560(5) 0.147(4) -0.1138(12)
+H34 H 0.58250 0.07470 -0.09560
+H35 H 0.59880 0.11440 -0.13820
+Gd1C Gd 0.4531(2) 1.30697(19) 0.30558(5)
+O8C O 0.586(3) 0.713(3) 0.2568(7)
+#END

@@ -1,0 +1,215 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IZETUF
+_audit_creation_date 2021-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IZETUF
+_database_code_depnum_ccdc_archive 'CCDC 2068151'
+_chemical_formula_sum 'C35 H33 Co2 Li4 N3 O21'
+_chemical_formula_moiety
+;
+(C30 H18 Co2 Li4 N1 O20 1-)n,C3 H7 N1 O1,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 60
+_journal_year 2021
+_journal_page_first 12067
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Dan Tian"
+"Tian-Tian Wu"
+"Yan-Qing Liu"
+"Na Li"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+tris(\m-benzene-1,3,5-tricarboxylato)-(N,N-dimethylformamide)-aqua-di-cobalt-t
+etra-lithium N,N-dimethylformamide unknown solvate]
+;
+_cell_volume  22499.947
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.125
+_exptl_special_details
+;
+The formula in the publication is [Co2Li4(BTC)3(DMF)(H2O)(CH3)2N]n
+
+;
+_exptl_crystal_description 'bulk'
+_diffrn_ambient_temperature 386
+_refine_special_details
+;
+Li3 and Co3 disordered over two sites with occupancies 0.5:0.5.  Some solvent 
+molecules filled in the channel are highly disordered and could not be 
+modeled properly, so the diffused electron densities resulting from them were 
+removed by the SQUEEZE routine in PLATON.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1048
+_refine_ls_wR_factor_gt 0.1048
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41/a'
+_symmetry_Int_Tables_number 88
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 3/4-y,1/4+x,1/4+z
+4 3/4+y,3/4-x,3/4+z
+5 1/2+x,1/2+y,1/2+z
+6 -x,1/2-y,z
+7 1/4-y,3/4+x,3/4+z
+8 1/4+y,1/4-x,1/4+z
+9 -x,-y,-z
+10 -1/2+x,y,-1/2-z
+11 -3/4+y,-1/4-x,-1/4-z
+12 -3/4-y,-3/4+x,-3/4-z
+13 -1/2-x,-1/2-y,-1/2-z
+14 x,-1/2+y,-z
+15 -1/4+y,-3/4-x,-3/4-z
+16 -1/4-y,-1/4+x,-1/4-z
+_cell_length_a 43.6487(6)
+_cell_length_b 43.6487(6)
+_cell_length_c 11.8097(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+Li 1.28
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.69676(2) 0.15958(2) 1.01886(5)
+Co2 Co 0.82376(2) 0.15558(2) 0.43614(5)
+O1 O 0.76035(8) 0.12043(8) 1.1175(3)
+O2 O 0.79471(8) 0.18995(7) 0.6664(3)
+O3 O 0.83409(8) 0.16318(8) 0.6009(3)
+O4 O 0.75551(7) 0.11783(8) 0.3513(3)
+C1 C 0.75977(10) 0.13171(11) 1.0209(4)
+O5 O 0.78266(8) 0.13726(9) 0.4937(3)
+C2 C 0.78879(11) 0.15020(11) 0.8527(4)
+H1 H 0.77377 0.16511 0.84344
+C3 C 0.7299(1) 0.1300(1) 0.5245(4)
+O6 O 0.68423(8) 0.16818(10) 0.8619(3)
+C4 C 0.81258(10) 0.14793(10) 0.7756(4)
+C5 C 0.78739(11) 0.12992(11) 0.9449(4)
+O7 O 0.65433(10) 0.07031(10) 0.4947(3)
+C6 C 0.81009(11) 0.10788(11) 0.9601(4)
+H2 H 0.80962 0.09492 1.02259
+C7 C 0.70502(11) 0.15240(12) 0.6862(4)
+C8 C 0.68014(11) 0.11167(12) 0.5816(4)
+C9 C 0.75798(11) 0.12827(10) 0.4500(4)
+C10 C 0.68044(11) 0.13245(11) 0.6720(4)
+H3 H 0.66415 0.13292 0.72269
+C11 C 0.72975(11) 0.15099(11) 0.6139(4)
+H4 H 0.74636 0.16402 0.62456
+O8 O 0.73706(9) 0.14471(10) 0.9771(3)
+O9 O 0.72331(9) 0.19494(9) 0.7915(3)
+C12 C 0.70526(11) 0.11083(11) 0.5071(4)
+H5 H 0.70525 0.09735 0.44605
+C13 C 0.65388(12) 0.08956(12) 0.5712(5)
+C14 C 0.81382(10) 0.16872(10) 0.6736(3)
+C15 C 0.70477(11) 0.17403(12) 0.7862(4)
+C16 C 0.83487(11) 0.12554(11) 0.7892(4)
+H6 H 0.85073 0.12404 0.73694
+O10 O 0.85299(8) 0.05886(8) 0.9554(3)
+O11 O 0.63265(10) 0.09381(10) 0.6419(4)
+C17 C 0.85701(11) 0.08004(12) 0.8870(4)
+C18 C 0.83376(11) 0.10545(11) 0.8797(4)
+O12 O 0.87916(8) 0.08269(8) 0.8175(3)
+O13 O 0.80229(9) 0.16793(8) 0.2464(3)
+O14 O 0.80169(9) 0.19586(9) 0.4011(3)
+C19 C 0.79149(11) 0.22127(10) 0.2282(4)
+C20 C 0.79833(12) 0.19305(11) 0.2945(4)
+Li1 Li 0.62441(17) 0.03901(18) 0.4900(7)
+Li2 Li 0.7605(2) 0.2131(2) 0.7382(7)
+C21 C 0.78289(11) 0.22053(10) 0.1142(4)
+H7 H 0.78186 0.20200 0.07553
+C22 C 0.79391(11) 0.24955(11) 0.2835(4)
+H8 H 0.79995 0.25008 0.35896
+C23 C 0.78752(11) 0.27655(10) 0.2282(4)
+C24 C 0.77591(12) 0.24779(11) 0.0595(4)
+C25 C 0.77747(12) 0.27558(11) 0.1162(4)
+H9 H 0.77180 0.29356 0.07958
+Li3 Li 0.7287(8) 0.1286(8) 0.224(3)
+C26 C 0.76648(13) 0.24773(11) -0.0636(4)
+C27 C 0.79013(13) 0.30610(11) 0.2909(4)
+O15 O 0.77875(9) 0.22839(8) -0.1269(3)
+O16 O 0.78124(10) 0.32995(8) 0.2487(3)
+O17 O 0.74664(11) 0.26674(9) -0.0940(3)
+O18 O 0.8026(1) 0.30395(8) 0.3889(3)
+O19 O 0.86475(12) 0.17893(13) 0.3858(4)
+O20 O 0.6810(3) 0.2469(2) -0.0711(6)
+Li4 Li 0.7086(2) 0.2816(2) -0.0388(7)
+C28 C 0.8702(3) 0.2050(3) 0.4312(10)
+N1 N 0.8954(4) 0.2209(4) 0.3926(16)
+C29 C 0.8945(12) 0.2511(7) 0.443(4)
+H10 H 0.90901 0.26422 0.40623
+H11 H 0.89953 0.24965 0.52239
+H12 H 0.87428 0.25959 0.43544
+C30 C 0.9142(8) 0.2074(9) 0.303(3)
+H13 H 0.90676 0.18720 0.28584
+H14 H 0.93507 0.20605 0.32842
+H15 H 0.91314 0.21994 0.23667
+N2 N 0.70836(19) 0.06021(19) 0.7932(8)
+C31 C 0.7338(4) 0.0788(3) 0.8068(16)
+H16 H 0.73910 0.07981 0.88561
+H17 H 0.72916 0.09905 0.77971
+H18 H 0.75064 0.07055 0.76465
+O21 O 0.7294(4) 0.0333(4) 0.6424(15)
+C32 C 0.7055(4) 0.0398(3) 0.7080(16)
+C33 C 0.6835(3) 0.0672(4) 0.8599(11)
+H19 H 0.68489 0.05615 0.93008
+H20 H 0.66500 0.06141 0.82125
+H21 H 0.68318 0.08878 0.87490
+Co3? Co 0.7287(8) 0.1286(8) 0.224(3)
+Co1C Co 0.90958(2) 0.05324(2) 0.76886(5)
+Co1L Co 0.80324(2) 0.34042(2) 0.48114(5)
+Co2B Co 0.59442(2) 0.07376(2) 0.68614(5)
+O1* O 0.76035(8) 0.12043(8) 0.1175(3)
+O1B O 0.62957(8) 0.01035(8) 0.3675(3)
+O2L O 0.70529(8) 0.31005(7) -0.1664(3)
+O4B O 0.63217(7) 0.00551(8) 0.6013(3)
+O10B O 0.69114(8) 0.10299(8) 0.2054(3)
+O11C O 0.84381(10) 0.11735(10) 0.3919(4)
+O12B O 0.66731(8) 0.12916(8) 1.0675(3)
+O13B O 0.58207(9) 0.05229(8) 0.4964(3)
+O14L O 0.69831(9) 0.30414(9) 0.0989(3)
+Li1C Li 0.78901(17) 0.12559(18) 0.2400(7)
+Li1C* Li 0.78901(17) 0.12559(18) 1.2400(7)
+Li2* Li 0.7605(2) 0.2131(2) -0.2618(7)
+Li2L Li 0.7395(2) 0.2869(2) -0.2382(7)
+Li3* Li 0.7287(8) 0.1286(8) 1.224(3)
+Li3C Li 0.8786(8) 0.0213(8) 0.974(3)
+Li3L Li 0.7713(8) 0.3714(8) 0.276(3)
+O15* O 0.77875(9) 0.22839(8) 0.8731(3)
+O16L O 0.71876(10) 0.17005(8) 0.2513(3)
+O17L O 0.75336(11) 0.23326(9) 0.5940(3)
+O18L O 0.6974(1) 0.19605(8) 1.1111(3)
+Li4L Li 0.7914(2) 0.2184(2) 0.5388(7)
+#END

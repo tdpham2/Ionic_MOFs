@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RABWEW
+_audit_creation_date 1997-07-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RABWEW
+_chemical_formula_sum 'C6 H6 Ag1 N3 O4'
+_chemical_formula_moiety
+;
+(C6 H2 Ag1 N2 O4 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 186
+_journal_year 1995
+_journal_page_first 3565
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"G.Smith"
+"A.N.Reddy"
+"K.A.Byriel"
+"C.H.L.Kennard"
+_chemical_name_systematic
+;
+catena-(Ammonium (\m~3~-pyrazine-2,3-dicarboxylato)-silver(i))
+;
+_cell_volume    401.723
+_exptl_crystal_density_diffrn 2.411
+_exptl_special_details
+;
+Supplementary data not received from Dalton Editors
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.838(4)
+_cell_length_b 7.885(2)
+_cell_length_c 8.072(7)
+_cell_angle_alpha 84.54(4)
+_cell_angle_beta 69.56(6)
+_cell_angle_gamma 80.34(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Ag 1.59
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.1332(1) 0.7917(1) -1.3268(1)
+N1 N -0.2864(9) 1.6123(7) -1.1779(8)
+C1 C -0.2282(10) 1.4431(9) -1.1560(9)
+C2 C -0.1901(10) 1.3285(8) -1.2888(9)
+N2 N 0.2203(8) 0.6178(7) -1.5576(7)
+C3 C -0.2821(11) 1.5484(9) -1.4611(10)
+C4 C -0.3117(11) 1.6648(9) -1.3309(10)
+C5 C -0.2077(10) 1.3871(9) -0.9772(9)
+O1 O -0.2451(9) 1.4984(7) -0.8649(7)
+O2 O 0.1573(9) 0.7735(6) -1.0445(7)
+C6 C -0.1077(11) 1.1369(9) -1.2798(9)
+O3 O -0.2394(8) 1.0345(6) -1.2390(8)
+O4 O 0.0886(8) 1.0972(6) -1.3315(7)
+N3 N 0.3163(10) 0.1395(9) 0.8957(9)
+Ag1A Ag -0.1332(1) 1.2083(1) -1.6732(1)
+N2A N -0.2203(8) 1.3822(7) -1.4424(7)
+O2A O -0.1573(9) 1.2265(6) -0.9555(7)
+Ag1A* Ag -0.1332(1) 1.2083(1) -0.6732(1)
+#END

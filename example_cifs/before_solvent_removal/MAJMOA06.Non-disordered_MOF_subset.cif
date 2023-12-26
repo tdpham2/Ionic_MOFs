@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAJMOA06
+_audit_creation_date 2018-03-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAJMOA06
+_database_code_depnum_ccdc_archive 'CCDC 1571856'
+_chemical_formula_sum 'C4 H9 Co1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Co1 O6 1-)n,n(C1 H6 N1 1+)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 24
+_journal_year 2018
+_journal_page_first 388
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"L.Mazzuca"
+"L.Canadillas-Delgado"
+"O.Fabelo"
+"J.Alberto Rodriguez-Velamazan"
+"J.Luzon"
+"O.Vallcorba"
+"V.Simonet"
+"C.V.Colin"
+"J.Rodriguez-Carvajal"
+_chemical_name_systematic
+;
+catena-(methylammonium tris(\m~2~-formato)-cobalt(ii))
+;
+_cell_volume    784.494
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.914
+_exptl_special_details
+;
+P21/n polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 45
+_diffrn_radiation_probe 'neutron'
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0848
+_refine_ls_wR_factor_gt 0.0848
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.1621(3)
+_cell_length_b 8.2487(3)
+_cell_length_c 11.6584(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.891(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.50000 0.00000
+O1 O 0.2143(4) 0.4016(3) 0.0742(2)
+O2 O -0.0836(4) 0.2735(4) -0.0586(2)
+O3 O 0.1271(4) 0.5218(4) -0.1526(2)
+C1 C 0.2811(4) 0.2810(3) 0.0311(2)
+C2 C -0.2217(4) 0.2206(3) -0.0288(2)
+C3 C 0.0573(3) 0.5104(3) -0.2489(2)
+O4 O 0.4203(4) 0.2282(4) 0.0608(2)
+H1 H 0.2156(9) 0.2122(8) -0.0355(5)
+O5 O -0.2862(4) 0.0930(3) -0.0673(2)
+H2 H -0.2891(10) 0.2913(9) 0.0329(6)
+O6 O 0.1297(4) 0.5282(4) -0.3425(2)
+H3 H -0.0753(6) 0.4840(8) -0.2535(5)
+Co2 Co 0.50000 0.00000 0.00000
+N1 N 0.5304(2) 0.4160(2) 0.25642(17)
+C4 C 0.4744(3) 0.5875(3) 0.2515(3)
+H4 H 0.6574(7) 0.4129(7) 0.2653(6)
+H5 H 0.4933(8) 0.3522(8) 0.1820(5)
+H6 H 0.5094(11) 0.6441(8) 0.3309(6)
+H7 H 0.3443(7) 0.5889(7) 0.2413(6)
+H8 H 0.4837(9) 0.3567(8) 0.3245(5)
+H9 H 0.5286(13) 0.6489(9) 0.1813(6)
+O1B O -0.2143(4) 0.5984(3) -0.0742(2)
+O2B O 0.0836(4) 0.7265(4) 0.0586(2)
+O3B O -0.1271(4) 0.4782(4) 0.1526(2)
+Co2* Co -0.50000 0.00000 0.00000
+Co2A Co 0.00000 0.50000 -0.50000
+#END

@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TEQJOP
+_audit_creation_date 2007-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TEQJOP
+_database_code_depnum_ccdc_archive 'CCDC 269144'
+_chemical_formula_sum 'C17 H28 N2 O6 Sn1'
+_chemical_formula_moiety
+;
+(C6 H16 N1 1+)n,n(C11 H12 N1 O6 Sn1 1-)
+;
+_journal_coden_Cambridge 211
+_journal_volume 59
+_journal_year 2006
+_journal_page_first 1891
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"Chunlin Ma"
+"Jikun Li"
+"Rufen Zhang"
+_chemical_name_systematic
+;
+catena-(triethylammonium (\m~2~-5-nitroisophthalato)-trimethyl-tin(iv))
+;
+_chemical_melting_point 431.15
+_cell_volume   2067.651
+_exptl_crystal_density_diffrn 1.526
+_exptl_special_details
+;
+Melting point range 431.15-433.15K
+
+;
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+The ethyl groups of the counter ion are partially disordered with occupancies 
+0.7:0.3.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0369
+_refine_ls_wR_factor_gt 0.0369
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.437(3)
+_cell_length_b 20.691(3)
+_cell_length_c 13.607(3)
+_cell_angle_alpha 90
+_cell_angle_beta 99.070(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Sn 1.46
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn1 Sn 0.63886(4) 0.167647(14) 0.24667(2)
+N1 N 0.6610(6) 0.4714(2) 0.6148(3)
+N2 N 0.1009(6) 0.3848(2) 0.1477(3)
+O1 O 0.6775(5) 0.27097(15) 0.2940(3)
+O2 O 0.6448(6) 0.25007(17) 0.4512(3)
+O3 O 0.8926(5) 0.56687(15) 0.3220(3)
+O4 O 0.9088(5) 0.48740(16) 0.2127(3)
+O5 O 0.7086(6) 0.52651(19) 0.6382(3)
+O6 O 0.5785(6) 0.4371(2) 0.6658(3)
+C1 C 0.7000(6) 0.3579(2) 0.4082(3)
+C2 C 0.7625(6) 0.4000(2) 0.3412(3)
+H1 H 0.77910 0.38450 0.27910
+C3 C 0.8004(6) 0.4639(2) 0.3643(3)
+C4 C 0.7702(6) 0.4875(2) 0.4573(3)
+H2 H 0.79620 0.53020 0.47550
+C5 C 0.7012(6) 0.4458(2) 0.5205(3)
+C6 C 0.6688(6) 0.3811(2) 0.4991(3)
+H3 H 0.62680 0.35380 0.54490
+C7 C 0.6706(7) 0.2870(2) 0.3844(4)
+C8 C 0.8743(6) 0.5091(2) 0.2927(4)
+C9 C 0.658(1) 0.1969(3) 0.0994(4)
+H4 H 0.53980 0.20930 0.06590
+H5 H 0.70320 0.16160 0.06440
+H6 H 0.73980 0.23290 0.10130
+C10 C 0.3749(7) 0.1614(3) 0.2836(5)
+H7 H 0.28830 0.17790 0.22960
+H8 H 0.36890 0.18640 0.34240
+H9 H 0.34710 0.11710 0.29570
+C11 C 0.8725(7) 0.1367(3) 0.3443(4)
+H10 H 0.97860 0.14340 0.31350
+H11 H 0.86130 0.09150 0.35860
+H12 H 0.88370 0.16100 0.40500
+C12 C 0.0861(14) 0.3222(3) 0.1989(6)
+C13 C 0.1732(9) 0.3245(3) 0.3101(5)
+C14 C 0.3006(11) 0.4022(4) 0.1446(7)
+C15 C 0.3231(11) 0.4693(3) 0.1039(6)
+C16 C -0.0067(11) 0.3848(5) 0.0423(6)
+C17 C -0.2145(9) 0.3768(4) 0.0472(5)
+C18? C 0.243(3) 0.3492(11) 0.2197(12)
+C19? C 0.188(3) 0.4141(9) 0.0681(15)
+C20? C -0.053(2) 0.3386(8) 0.1087(17)
+Sn1A Sn 0.86114(4) 0.667647(14) 0.25333(2)
+O3A O 0.6074(5) 0.06687(15) 0.1780(3)
+#END

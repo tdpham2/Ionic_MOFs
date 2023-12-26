@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OCOWEL
+_audit_creation_date 2017-01-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OCOWEL
+_database_code_depnum_ccdc_archive 'CCDC 934647'
+_chemical_formula_sum 'C10 H17 Ge2 N3 O14'
+_chemical_formula_moiety
+;
+(C8 H4 Ge2 O13 2-)n,n(C2 H3 N1),2n(H4 N1 1+),n(H2 O1)
+;
+_journal_coden_Cambridge 890
+_journal_volume 39
+_journal_year 2013
+_journal_page_first 751
+_journal_name_full 'Russ.J.Coord.Chem. '
+loop_
+_publ_author_name
+"L.Kh.Minacheva"
+"I.I.Seifullina"
+"A.B.Ilyukhin"
+"E.E.Martsinko"
+"V.S.Sergienko"
+"E.A.Chebanenko"
+"A.V.Churakov"
+_chemical_name_systematic
+;
+catena-[bis(ammonium) bis(\m-2,3-dioxidobutanedioato)-(\m-oxo)-di-germanium 
+acetonitrile solvate monohydrate]
+;
+_cell_volume   1924.134
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.883
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+C102,C92,N12 and C101,C91,N11 disordered over two sites with occupancies 
+0.55:0.45.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0396
+_refine_ls_wR_factor_gt 0.0396
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 8.7612(12)
+_cell_length_b 14.2158(19)
+_cell_length_c 15.449(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ge 1.17
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ge1 Ge -0.00440(5) 0.52289(2) 0.19748(3)
+Ge2 Ge 0.00955(5) 0.74649(3) 0.21291(3)
+O1 O 0.0910(4) 0.5521(2) 0.3057(2)
+O2 O 0.3068(4) 0.5231(3) 0.3760(3)
+O3 O 0.1439(3) 0.2154(2) 0.2033(2)
+O4 O 0.3726(4) 0.2653(2) 0.1611(3)
+O5 O 0.1545(4) 0.4489(2) 0.1752(2)
+O6 O 0.1197(4) 0.3302(2) 0.3307(2)
+O7 O -0.0941(4) 0.4797(2) 0.0921(2)
+O8 O -0.2949(5) 0.4005(3) 0.0449(3)
+O9 O -0.1660(3) 0.2861(2) 0.3628(2)
+O10 O -0.3925(4) 0.3576(2) 0.3605(3)
+O11 O -0.1701(3) 0.4786(2) 0.25137(19)
+O12 O -0.1325(3) 0.2770(2) 0.2006(2)
+O13 O 0.0014(4) 0.63761(17) 0.1599(2)
+C1 C 0.2218(5) 0.5100(3) 0.3146(3)
+C2 C 0.2596(5) 0.4407(3) 0.2440(4)
+H1 H 0.36260 0.45370 0.22230
+C3 C 0.2556(5) 0.3415(3) 0.2822(4)
+H2 H 0.34370 0.33300 0.32050
+C4 C 0.2633(5) 0.2701(3) 0.2093(3)
+C5 C -0.2215(5) 0.4347(3) 0.1039(3)
+C6 C -0.2691(5) 0.4256(3) 0.1974(3)
+H3 H -0.37280 0.45060 0.20350
+C7 C -0.2697(4) 0.3232(3) 0.2261(3)
+H4 H -0.35780 0.29070 0.20090
+C8 C -0.2823(5) 0.3226(3) 0.3240(3)
+N1? N -0.045(2) 0.3781(12) 0.6854(13)
+C9? C -0.014(2) 0.3689(13) 0.6220(13)
+C10? C -0.015(4) 0.334(2) 0.526(2)
+N2 N 0.0185(12) 0.3819(7) 0.6921(6)
+C11 C 0.050(2) 0.3782(12) 0.6220(11)
+C12 C 0.096(2) 0.3715(14) 0.5312(15)
+N3 N -0.3636(6) 0.5656(3) 0.3834(3)
+H5 H -0.32000 0.56270 0.42800
+H6 H -0.30200 0.54400 0.33170
+H7 H -0.38210 0.61710 0.37900
+H8 H -0.45570 0.53110 0.36480
+N4 N 0.5433(10) 0.7936(7) 0.5305(4)
+H9 H 0.52480 0.80610 0.58670
+H10 H 0.46570 0.82480 0.49910
+H11 H 0.52440 0.72230 0.51620
+H12 H 0.64880 0.80050 0.51710
+O14 O 0.3306(11) 0.6511(4) 0.5060(5)
+H13 H 0.33980 0.62230 0.56270
+H14 H 0.32550 0.60450 0.46860
+Ge2B Ge -0.00955(5) 0.24649(3) 0.28709(3)
+O3B O -0.1439(3) 0.7154(2) 0.2967(2)
+O6B O -0.1197(4) 0.8302(2) 0.1693(2)
+O9B O 0.1660(3) 0.7861(2) 0.1372(2)
+O12B O 0.1325(3) 0.7770(2) 0.2994(2)
+#END

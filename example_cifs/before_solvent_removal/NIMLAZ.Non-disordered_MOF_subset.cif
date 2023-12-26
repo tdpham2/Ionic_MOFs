@@ -1,0 +1,155 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIMLAZ
+_audit_creation_date 2018-09-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIMLAZ
+_database_code_depnum_ccdc_archive 'CCDC 1841713'
+_chemical_formula_sum 'C18 H14.66 Ce1 N1 Na1 O9.33'
+_chemical_formula_moiety
+;
+(C18 H12 Ce1 N1 O8 1-)n,Na1 1+,1.33(H2 O1)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 6088
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"R.Maity"
+"D.Chakraborty"
+"S.Nandi"
+"K.Rinku"
+"R.Vaidhyanathan"
+_chemical_name_systematic
+;
+catena-[sodium 
+(\m-[1,1'-biphenyl]-4,4'-dicarboxylato)-(\m-2,2'-azanediyldiacetato)-cerium(ii
+i) hydrate]
+;
+_cell_volume   6545.435
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+This is the solvated form of an earlier structure we submitted to you, which 
+was assigned the CCDC code: 1841713
+;
+_exptl_crystal_description 'Prismatic'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0357
+_refine_ls_wR_factor_gt 0.0357
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R 3 2'
+_symmetry_Int_Tables_number 155
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,-z
+5 y,x,-z
+6 -x,-x+y,-z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3+x-y,1/3-y,1/3-z
+11 2/3+y,1/3+x,1/3-z
+12 2/3-x,1/3-x+y,1/3-z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3+x-y,2/3-y,2/3-z
+17 1/3+y,2/3+x,2/3-z
+18 1/3-x,2/3-x+y,2/3-z
+_cell_length_a 12.8523(4)
+_cell_length_b 12.8523(4)
+_cell_length_c 45.7558(17)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 9
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ce 2.04
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.1251(9) 0.2586(7) 0.89409(16)
+C2 C 1.0884(8) 0.2444(8) 0.92559(18)
+C3 C 0.9715(9) 0.1578(9) 0.9337(2)
+H1 H 0.91620 0.10960 0.91960
+C4 C 0.9385(10) 0.1443(10) 0.9631(2)
+H2 H 0.86130 0.08560 0.96840
+C5 C 1.0176(10) 0.2159(10) 0.98440(19)
+C6 C 1.1349(10) 0.3047(11) 0.9760(2)
+H3 H 1.18930 0.35470 0.99010
+C7 C 1.1686(8) 0.3172(9) 0.94698(18)
+H4 H 1.24610 0.37530 0.94170
+C8 C 0.8783(8) 0.1334(8) 0.82149(18)
+C9 C 0.7732(13) 0.1505(11) 0.8264(7)
+H5 H 0.79330 0.20850 0.84200
+H6 H 0.76100 0.18520 0.80880
+Ce1 Ce 1.17776(5) 0.33330 0.83330
+N1 N 0.66670 0.0499(9) 0.83330
+O1 O 1.0489(6) 0.1903(5) 0.87511(12)
+O2 O 1.2299(6) 0.3376(6) 0.88711(12)
+O3 O 0.9756(5) 0.2234(7) 0.81276(14)
+O4 O 0.8635(6) 0.0312(6) 0.82651(15)
+Na1 Na 1.00000 0.00000 0.85505(11)
+Na2 Na 1.00000 0.00000 0.7647(5)
+O5 O 0.66670 0.33330 0.8011(17)
+O6 O 1.00000 0.00000 0.6920(17)
+C1E C 0.8749(9) 0.1335(7) 1.10591(16)
+C2E C 0.9116(8) 0.1560(8) 1.07441(18)
+C3E C 1.0285(9) 0.1863(9) 1.0663(2)
+H1E H 1.08380 0.19340 1.08040
+C4E C 1.0615(10) 0.2058(10) 1.0369(2)
+H2E H 1.13870 0.22430 1.03160
+C5E C 0.9824(10) 0.1983(10) 1.01560(19)
+C6E C 0.8651(10) 0.1698(11) 1.0240(2)
+H3E H 0.81070 0.16540 1.00990
+C7E C 0.8314(8) 0.1486(9) 1.05302(18)
+H4E H 0.75390 0.12920 1.05830
+O1E O 0.9511(6) 0.1414(5) 1.12489(12)
+O2E O 0.7701(6) 0.1077(6) 1.11289(12)
+C8Q C 0.455033(800) -0.078233(800) 0.845177(180)
+C9Q C 0.560133(1300) 0.043967(1100) 0.840267(700)
+H5Q H 0.54003 0.08187 0.82467
+H6Q H 0.57233 0.09087 0.85787
+O3Q O 0.357733(500) -0.085533(700) 0.853907(140)
+O4Q O 0.469833(600) -0.165633(600) 0.840157(150)
+Ce1A Ce 0.66670(5) -0.15554 0.83330
+Ce1B Ce 0.15554(5) -0.17776 0.83330
+Ce1E Ce 0.82224(5) 0.15554 1.16670
+N1B N 1.38320 0.3333(9) 0.83330
+O1O O 1.191933(600) 0.476367(500) 0.791557(120)
+O2O O 1.225633(600) 0.329067(600) 0.779557(120)
+O3O O 1.085533(500) 0.443267(700) 0.853907(140)
+O4B O 1.1677(6) 0.1365(6) 0.82651(15)
+O4P O 1.364533(600) 0.530167(600) 0.840157(150)
+#END

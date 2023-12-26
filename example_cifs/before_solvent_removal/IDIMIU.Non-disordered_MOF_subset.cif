@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IDIMIU
+_audit_creation_date 2018-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IDIMIU
+_database_code_depnum_ccdc_archive 'CCDC 1842969'
+_chemical_formula_sum 'C48 H88 In10 N12 S17'
+_chemical_formula_moiety
+;
+(C3 H3 In10 N2 S17 5-)n,5(C9 H17 N2 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 57
+_journal_year 2018
+_journal_page_first 9790
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Jiaxu Zhang"
+"Wei Wang"
+"Chaozhuang Xue"
+"Mufan Zhao"
+"Dandan Hu"
+"Jing Lv"
+"Xiang Wang"
+"Dongsheng Li"
+"Tao Wu"
+_chemical_name_systematic
+;
+catena-[pentakis(2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepin-1-ium) 
+heptadecakis(\m-sulfido)-(\m-imidazolato)-deca-indium unknown solvate]
+;
+_chemical_name_common
+;
+SCIF-11
+;
+_cell_volume  15758.854
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.484
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+Disordered cation and solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0344
+_refine_ls_wR_factor_gt 0.0344
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 21.037(4)
+_cell_length_b 23.016(5)
+_cell_length_c 32.547(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.30988(4) 0.26768(4) 0.14801(3)
+S1 S 0.20392(16) 0.24511(16) 0.12619(11)
+S2 S 0.37516(16) 0.31284(16) 0.09256(11)
+S3 S 0.35808(17) 0.17456(16) 0.17219(11)
+S4 S 0.30405(18) 0.33608(18) 0.20431(13)
+In2 In 0.21614(4) 0.18293(4) 0.06464(3)
+In3 In 0.48609(4) 0.33121(4) 0.11640(3)
+In4 In 0.38055(4) 0.24332(4) 0.03221(3)
+In5 In 0.46787(5) 0.19584(4) 0.19802(3)
+In6 In 0.36275(4) 0.10706(4) 0.11201(3)
+In7 In 0.41454(5) 0.34607(5) 0.22196(3)
+S5 S 0.10758(16) 0.15227(17) 0.04840(12)
+S6 S 0.27373(17) 0.2287(2) 0.00855(12)
+S7 S 0.26016(17) 0.08722(17) 0.08451(13)
+S8 S 0.53383(17) 0.23868(16) 0.14202(11)
+S9 S 0.54768(18) 0.37492(17) 0.06355(12)
+S10 S 0.48339(18) 0.39731(16) 0.17469(12)
+S11 S 0.44707(16) 0.28187(16) -0.02120(11)
+S12 S 0.42961(16) 0.15057(16) 0.05684(10)
+S13 S 0.4610(2) 0.26188(17) 0.25509(12)
+S14 S 0.51729(18) 0.10673(17) 0.22072(11)
+S15 S 0.41325(17) 0.01755(16) 0.13446(12)
+N1 N 0.4069(5) 0.4093(5) 0.2720(3)
+In8 In 0.53927(4) 0.17156(4) 0.08150(3)
+In9 In 0.55241(4) 0.30136(4) 0.00863(3)
+In10 In 0.51673(5) 0.05208(4) 0.15710(3)
+C1 C 0.3544(9) 0.4242(10) 0.2932(6)
+C2 C 0.4521(7) 0.4408(7) 0.2886(5)
+S16 S 0.60612(17) 0.21243(16) 0.02981(12)
+S17 S 0.58893(17) 0.08148(17) 0.10336(12)
+N2 N 0.5663(5) -0.0248(5) 0.1824(3)
+H1 H 0.31370 0.40700 0.28960
+C3 C 0.3676(8) 0.4668(8) 0.3201(6)
+H2 H 0.49520 0.43840 0.28000
+H3 H 0.33840 0.48700 0.33720
+S5C S 0.60758(16) 0.34773(17) -0.04840(12)
+N2B N 0.4337(5) 0.4752(5) 0.3176(3)
+In2C In 0.71614(4) 0.31707(4) -0.06464(3)
+In10B In 0.48327(5) 0.55208(4) 0.34290(3)
+#END

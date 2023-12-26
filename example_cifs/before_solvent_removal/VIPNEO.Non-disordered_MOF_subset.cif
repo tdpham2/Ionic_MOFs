@@ -1,0 +1,176 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIPNEO
+_audit_creation_date 2008-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIPNEO
+_database_code_depnum_ccdc_archive 'CCDC 636549'
+_chemical_formula_sum 'C36 H25 Fe1 I8 N6 O0.5 Pb3'
+_chemical_formula_moiety
+;
+(I8 Pb3 2-)n,n(C36 H24 Fe1 N6 2+),0.5n(H2 O1)
+;
+_journal_coden_Cambridge 971
+_journal_volume 9
+_journal_year 2007
+_journal_page_first 895
+_journal_name_full 'Solid State Sciences '
+loop_
+_publ_author_name
+"M.A.Tershansy"
+"A.M.Goforth"
+"L.Peterson Junior"
+"M.C.Burns"
+"M.D.Smith"
+"H.-C.zur Loye"
+_chemical_name_systematic
+;
+catena-(tris(1,10-Phenanthroline)-iron(ii) 
+(\m~4~-iodo)-(\m~3~-iodo)-pentakis(\m~2~-iodo)-iodo-tri-lead(ii) hemihydrate)
+;
+_cell_volume   2493.398
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 2.987
+_exptl_special_details
+;
+isostructural with the Co(ii) analogue
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 11.7889(5)
+_cell_length_b 15.3224(6)
+_cell_length_c 16.2584(6)
+_cell_angle_alpha 64.192(1)
+_cell_angle_beta 73.560(1)
+_cell_angle_gamma 73.712(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+I 1.40
+N 0.68
+O 0.68
+Pb 1.80
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1 Pb 0.16150(3) 0.05358(3) 0.37147(3)
+Pb2 Pb 0.47882(3) 0.12201(3) 0.34268(3)
+Pb3 Pb -0.21625(4) 0.21863(3) 0.31370(3)
+I1 I -0.07937(6) 0.16050(5) 0.48783(4)
+I2 I 0.03498(7) 0.10172(6) 0.21384(5)
+I3 I 0.24719(6) 0.25886(5) 0.26815(5)
+I4 I 0.30595(6) 0.01502(5) 0.53840(4)
+I5 I 0.41402(6) -0.03362(5) 0.27569(5)
+I6 I 0.50991(7) 0.28089(6) 0.40381(5)
+I7 I 0.68042(6) 0.19564(5) 0.16376(4)
+I8 I -0.17507(9) 0.42654(6) 0.21972(6)
+Fe1 Fe 0.19696(12) 0.67052(9) 0.21555(8)
+C1 C 0.3781(10) 0.4971(7) 0.1920(7)
+H1 H 0.32730 0.45610 0.23830
+C2 C 0.4853(11) 0.4540(9) 0.1498(8)
+H2 H 0.50390 0.38600 0.16650
+C3 C 0.5632(10) 0.5133(10) 0.0830(7)
+H3 H 0.63540 0.48560 0.05450
+C4 C 0.5338(8) 0.6141(8) 0.0583(6)
+C5 C 0.6061(10) 0.6805(10) -0.0098(7)
+H4 H 0.67980 0.65620 -0.03940
+C6 C 0.5718(10) 0.7791(11) -0.0337(7)
+H5 H 0.62180 0.82110 -0.07970
+C7 C 0.4589(10) 0.8198(8) 0.0112(7)
+C8 C 0.4149(13) 0.9211(8) -0.0069(8)
+H6 H 0.46020 0.96820 -0.05070
+C9 C 0.3067(13) 0.9485(8) 0.0401(8)
+H7 H 0.27810 1.01480 0.02980
+C10 C 0.2379(10) 0.8795(7) 0.1032(7)
+H8 H 0.16220 0.90150 0.13220
+C11 C 0.3845(9) 0.7534(7) 0.0798(6)
+C12 C 0.4243(8) 0.6513(7) 0.1028(6)
+C13 C 0.1473(10) 0.6343(7) 0.0630(7)
+H9 H 0.22770 0.60550 0.05170
+C14 C 0.0677(12) 0.6344(8) 0.0130(7)
+H10 H 0.09620 0.60450 -0.02970
+C15 C -0.0492(11) 0.6768(8) 0.0256(7)
+H11 H -0.10080 0.67720 -0.00860
+C16 C -0.0914(10) 0.7203(8) 0.0917(7)
+C17 C -0.2113(11) 0.7694(9) 0.1107(8)
+H12 H -0.26830 0.77120 0.08010
+C18 C -0.2440(11) 0.8127(8) 0.1712(9)
+H13 H -0.32390 0.84250 0.18290
+C19 C -0.1596(9) 0.8150(8) 0.2193(7)
+C20 C -0.1826(10) 0.8646(8) 0.2794(8)
+H14 H -0.25850 0.90070 0.29180
+C21 C -0.0932(11) 0.8589(8) 0.3185(7)
+H15 H -0.10730 0.89270 0.35710
+C22 C 0.0204(9) 0.8031(7) 0.3025(6)
+H16 H 0.07960 0.79950 0.33190
+C23 C -0.0415(8) 0.7641(6) 0.2037(6)
+C24 C -0.0077(9) 0.7178(7) 0.1382(6)
+C25 C 0.0626(9) 0.4997(7) 0.3087(7)
+H17 H 0.03370 0.52120 0.25410
+C26 C 0.0292(9) 0.4164(7) 0.3820(7)
+H18 H -0.02430 0.38500 0.37730
+C27 C 0.0746(10) 0.3797(7) 0.4619(7)
+H19 H 0.05640 0.32150 0.51060
+C28 C 0.1496(9) 0.4326(7) 0.4683(7)
+C29 C 0.1996(11) 0.4031(8) 0.5489(7)
+H20 H 0.18360 0.34580 0.59990
+C30 C 0.2697(10) 0.4574(8) 0.5518(7)
+H21 H 0.30180 0.43640 0.60480
+C31 C 0.2958(9) 0.5462(7) 0.4755(7)
+C32 C 0.3689(10) 0.6057(7) 0.4750(8)
+H22 H 0.40370 0.58900 0.52580
+C33 C 0.3861(11) 0.6889(8) 0.3967(8)
+H23 H 0.43060 0.73110 0.39520
+C34 C 0.3384(10) 0.7114(7) 0.3195(7)
+H24 H 0.35530 0.76700 0.26660
+C35 C 0.2485(8) 0.5742(6) 0.3959(6)
+C36 C 0.1751(8) 0.5177(6) 0.3924(6)
+N1 N 0.3449(7) 0.5931(5) 0.1696(5)
+N2 N 0.2743(7) 0.7824(5) 0.1250(5)
+N3 N 0.1109(7) 0.6743(5) 0.1257(5)
+N4 N 0.0465(7) 0.7552(5) 0.2466(5)
+N5 N 0.1347(7) 0.5511(5) 0.3122(5)
+N6 N 0.2700(7) 0.6571(5) 0.3179(5)
+O1 O 0.9550(19) 0.0443(15) 0.0447(14)
+Pb1A Pb -0.16150(3) -0.05358(3) 0.62853(3)
+Pb2A Pb 0.52118(3) -0.12201(3) 0.65732(3)
+Pb3A Pb 0.21625(4) -0.21863(3) 0.68630(3)
+Pb3* Pb 0.78375(4) 0.21863(3) 0.31370(3)
+I1A I 0.07937(6) -0.16050(5) 0.51217(4)
+I4A I 0.69405(6) -0.01502(5) 0.46160(4)
+I4A* I -0.30595(6) -0.01502(5) 0.46160(4)
+I6* I -0.49009(7) 0.28089(6) 0.40381(5)
+I7* I -0.31958(6) 0.19564(5) 0.16376(4)
+#END

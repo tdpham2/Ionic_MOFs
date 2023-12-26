@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUKVOQ
+_audit_creation_date 2010-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUKVOQ
+_database_code_depnum_ccdc_archive 'CCDC 709784'
+_chemical_formula_sum 'C4 H9 Cu1 N3 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cu1 O6 1-)n,n(C1 H6 N3 1+)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 15
+_journal_year 2009
+_journal_page_first 12050
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Ke-Li Hu"
+"M.Kurmoo"
+"Zheming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-(Guanidinium tris(\m~2~-formato)-copper(ii))
+;
+_cell_volume    873.522
+_exptl_crystal_colour 'light green'
+_exptl_crystal_density_diffrn 1.967
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.028
+_refine_ls_wR_factor_gt 0.028
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 8.5212(3)
+_cell_length_b 9.0321(3)
+_cell_length_c 11.3497(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu -0.00375(4) 0.00076(9) 0.4985(3)
+O1 O -0.1365(3) -0.1511(3) 0.5695(3)
+O2 O -0.2912(3) -0.3471(3) 0.5589(3)
+O3 O -0.0002(2) 0.1100(5) 0.6514(4)
+O4 O 0.0120(3) 0.1085(5) 0.8450(4)
+O5 O 0.1681(3) 0.1232(3) 0.4358(3)
+O6 O 0.3219(3) 0.3189(3) 0.4242(3)
+C1 C -0.2517(4) -0.2225(4) 0.5275(5)
+H1 H -0.31050 -0.17720 0.46870
+C2 C 0.0073(4) 0.0446(3) 0.7485(13)
+H2 H 0.00950 -0.05830 0.74820
+C3 C 0.2068(4) 0.2539(4) 0.4613(5)
+H3 H 0.14190 0.30530 0.51290
+C4 C 0.0060(4) -0.4993(3) 0.747(3)
+N1 N 0.0147(3) -0.3546(3) 0.7440(9)
+H4 H 0.07940 -0.30900 0.78950
+H5 H -0.04440 -0.30520 0.69680
+N2 N 0.0959(4) -0.5755(4) 0.8188(4)
+H6 H 0.16080 -0.53040 0.86430
+H7 H 0.08980 -0.67050 0.82030
+N3 N -0.0914(4) -0.5703(3) 0.6753(4)
+H8 H -0.14920 -0.52130 0.62690
+H9 H -0.09680 -0.66530 0.67730
+Cu1B Cu -0.50375(4) -0.50076(9) 0.4985(3)
+Cu1A Cu 0.00375(4) -0.00076(9) 0.9985(3)
+Cu1B* Cu 0.49625(4) 0.49924(9) 0.4985(3)
+O2B O 0.2088(3) -0.1529(3) 0.5589(3)
+O4A O -0.0120(3) -0.1085(5) 0.3450(4)
+O6B O -0.1781(3) 0.1811(3) 0.4242(3)
+#END

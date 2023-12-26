@@ -1,0 +1,159 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OTOLEQ
+_audit_creation_date 2016-08-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OTOLEQ
+_database_code_depnum_ccdc_archive 'CCDC 1473003'
+_chemical_formula_sum 'C20 H24 N2 O17 Ti2'
+_chemical_formula_moiety
+;
+(C16 H8 O15 Ti2 2-)n,n(C4 H12 N2 2+),2n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 7192
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"H.Assi"
+"L.C.P.Perez"
+"G.Mouchaham"
+"F.Ragon"
+"M.Nasalevich"
+"N.Guillou"
+"C.Martineau"
+"H.Chevreau"
+"F.Kapteijn"
+"J.Gascon"
+"P.Fertey"
+"E.Elkaim"
+"C.Serre"
+"T.Devic"
+_chemical_name_systematic
+;
+catena-[piperazinediium 
+bis(\m-2,5-dioxyterephthalato)-(\m-oxo)-diaqua-di-titanium dihydrate]
+;
+_chemical_name_common
+;
+MIL-169
+;
+_cell_volume    615.706
+_exptl_crystal_colour 'red'
+_exptl_special_details
+;
+powder data
+
+;
+_diffrn_ambient_temperature 293
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.072
+_refine_ls_wR_factor_gt 0.072
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.10511(5)
+_cell_length_b 8.15098(5)
+_cell_length_c 9.90029(6)
+_cell_angle_alpha 75.8518(4)
+_cell_angle_beta 82.3596(4)
+_cell_angle_gamma 76.9343(6)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Ti 1.60
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1 Ti -0.2110(2) 0.4802(2) 0.08437(17)
+O1 O 0.00000 0.50000 0.00000
+O2 O -0.1235(7) 0.2995(5) 0.2387(4)
+O3 O 0.0719(6) 0.0837(5) 0.3353(4)
+O4 O -0.2290(5) 0.3041(5) 0.0111(3)
+C1 C -0.01028(17) 0.07623(17) 0.11420(17)
+C2 C -0.1165(3) 0.1547(2) 0.00564(14)
+C3 C -0.10621(19) 0.0785(2) -0.10856(16)
+H1 H -0.1804(3) 0.1333(3) -0.1844(2)
+C4 C -0.0212(4) 0.1571(3) 0.2353(3)
+O5 O -0.2145(9) 0.6359(7) 0.2097(4)
+O6 O -0.3107(7) 0.8281(7) 0.3382(4)
+O7 O -0.3336(6) 0.6709(5) -0.0196(3)
+C5 C -0.4056(3) 0.8933(2) 0.10902(17)
+C6 C -0.4153(3) 0.8326(2) -0.00999(14)
+C7 C -0.50973(16) 0.93931(19) -0.11901(18)
+H2 H -0.5165(3) 0.8969(3) -0.2022(2)
+C8 C -0.3055(6) 0.7802(5) 0.2246(3)
+O8 O -0.4572(5) 0.4389(6) 0.1994(4)
+N1 N -0.0470(8) 0.6728(7) 0.5088(6)
+C9 C -0.135(5) 0.545(4) 0.604(2)
+C10 C -0.132(9) 0.396(5) 0.534(3)
+H3 H -0.049(2) 0.7602(10) 0.550(1)
+H4 H -0.110(2) 0.728(2) 0.4367(12)
+H5 H -0.256(5) 0.601(7) 0.626(4)
+H6 H -0.077(8) 0.499(3) 0.6922(14)
+H7 H -0.192(12) 0.309(7) 0.598(5)
+H8 H -0.191(7) 0.442(6) 0.445(4)
+O9 O 0.4252(6) -0.1843(6) -0.4425(5)
+O2A O 0.1235(7) -0.2995(5) -0.2387(4)
+O3A O -0.0719(6) -0.0837(5) -0.3353(4)
+O4A O 0.2290(5) -0.3041(5) -0.0111(3)
+C1A C 0.01028(17) -0.07623(17) -0.11420(17)
+C2A C 0.1165(3) -0.1547(2) -0.00564(14)
+C3A C 0.10621(19) -0.0785(2) 0.10856(16)
+H1A H 0.1804(3) -0.1333(3) 0.1844(2)
+C4A C 0.0212(4) -0.1571(3) -0.2353(3)
+O5A O -0.7855(9) 1.3641(7) -0.2097(4)
+O6A O -0.6893(7) 1.1719(7) -0.3382(4)
+O7A O -0.6664(6) 1.3291(5) 0.0196(3)
+C5A C -0.5944(3) 1.1067(2) -0.10902(17)
+C6A C -0.5847(3) 1.1674(2) 0.00999(14)
+C7A C -0.49027(16) 1.06069(19) 0.11901(18)
+H2A H -0.4835(3) 1.1031(3) 0.2022(2)
+C8A C -0.6945(6) 1.2198(5) -0.2246(3)
+Ti1A Ti -0.7890(2) 1.5198(2) -0.08437(17)
+O8A O -0.5428(5) 1.5611(6) -0.1994(4)
+Ti1A* Ti 0.2110(2) -0.4802(2) -0.08437(17)
+Ti1A** Ti 0.2110(2) 0.5198(2) -0.08437(17)
+O1* O -1.00000 1.50000 0.00000
+O2A* O -0.8765(7) 1.7005(5) -0.2387(4)
+O4A* O -0.7710(5) 1.6959(5) -0.0111(3)
+N1A N 0.0470(8) 0.3272(7) 0.4912(6)
+C9A C 0.135(5) 0.455(4) 0.396(2)
+C10A C 0.132(9) 0.604(5) 0.466(3)
+H3A H 0.049(2) 0.2398(10) 0.450(1)
+H4A H 0.110(2) 0.272(2) 0.5633(12)
+H5A H 0.256(5) 0.399(7) 0.374(4)
+H6A H 0.077(8) 0.501(3) 0.3078(14)
+H7A H 0.192(12) 0.691(7) 0.402(5)
+H8A H 0.191(7) 0.558(6) 0.555(4)
+#END

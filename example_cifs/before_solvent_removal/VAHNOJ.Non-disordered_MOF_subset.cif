@@ -1,0 +1,162 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VAHNOJ
+_audit_creation_date 2010-12-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VAHNOJ
+_database_code_depnum_ccdc_archive 'CCDC 780907'
+_chemical_formula_sum 'C20 H26 Ag5 N10 O18 S4'
+_chemical_formula_moiety
+;
+(C12 H12 Ag3 N6 O8 S2 2-)n,2n(C4 H5 Ag1 N2 O4 S1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 182
+_journal_volume 46
+_journal_year 2010
+_journal_page_first 8168
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Di Sun"
+"Cheng-Feng Yang"
+"Hao-Ran Xu"
+"Hai-Xia Zhao"
+"Zhan-Hua Wei"
+"Na Zhang"
+"La-Jia Yu"
+"Rongbin Huang"
+"Lansun Zheng"
+_chemical_name_systematic
+;
+catena-(bis((\m~2~-Pyrazine)-(hydrogen sulfato)-silver(i)) 
+tris(\m~2~-pyrazine)-bis(\m~2~-sulfato)-di-silver(i)-silver(ii) dihydrate)
+;
+_cell_volume   3575.577
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 2.527
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0493
+_refine_ls_wR_factor_gt 0.0493
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c m'
+_symmetry_Int_Tables_number 57
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,y,-1/2-z
+7 -x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 7.1428(19)
+_cell_length_b 14.203(4)
+_cell_length_c 35.245(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.46
+N 0.68
+O 0.85
+S 0.97
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.52713(9) 0.42161(6) 0.25000
+Ag2 Ag 0.48864(6) 0.38122(5) 0.343490(19)
+S1 S 0.5241(2) 0.63938(10) 0.30962(4)
+C1 C 0.9305(12) 0.4914(6) 0.25000
+H1 H 0.86730 0.54860 0.25000
+C2 C 1.1235(12) 0.4906(6) 0.25000
+H2 H 1.18780 0.54750 0.25000
+C3 C 1.1216(12) 0.3312(6) 0.25000
+H3 H 1.18490 0.27400 0.25000
+C4 C 0.9288(12) 0.3312(6) 0.25000
+H4 H 0.86500 0.27410 0.25000
+C5 C 0.8927(8) 0.4596(4) 0.34589(18)
+H5 H 0.83000 0.51690 0.34490
+C6 C 1.0863(8) 0.4591(4) 0.34557(18)
+H6 H 1.15030 0.51600 0.34430
+C7 C 1.0848(8) 0.2997(4) 0.34949(17)
+H7 H 1.14780 0.24260 0.35120
+C8 C 0.8912(8) 0.3003(4) 0.34951(18)
+H8 H 0.82730 0.24340 0.35090
+N1 N 0.8324(9) 0.4109(5) 0.25000
+N2 N 1.2201(9) 0.4108(5) 0.25000
+N3 N 0.7933(6) 0.3802(3) 0.34760(14)
+N4 N 1.1829(7) 0.3795(3) 0.34709(14)
+O1 O 0.4978(7) 0.6716(3) 0.34811(13)
+O2 O 0.4693(9) 0.5439(4) 0.30392(16)
+O3 O 0.4239(11) 0.7051(5) 0.28432(16)
+O4 O 0.7247(8) 0.6474(4) 0.29966(17)
+Ag3 Ag 0.99487(6) 0.18130(4) -0.043449(17)
+S2 S 1.0132(2) 0.07980(11) 0.06158(4)
+O5 O 0.9934(7) 0.1410(3) 0.09372(14)
+O6 O 0.9777(9) 0.1280(4) 0.02685(17)
+O7 O 1.1887(7) 0.0292(4) 0.06028(16)
+O8 O 0.8645(8) 0.0010(4) 0.06547(18)
+H9 H 0.75780 0.02740 0.06590
+O9 O 0.5354(7) 0.0327(4) 0.09709(15)
+H10 H 0.54420 0.08760 0.10660
+H11 H 0.43910 0.02940 0.08300
+N5 N 0.6890(6) 0.1825(3) -0.04512(14)
+N6 N 0.3022(7) 0.1863(3) -0.04453(14)
+C9 C 0.5910(8) 0.1324(4) -0.02031(17)
+H12 H 0.65390 0.09560 -0.00260
+C10 C 0.3992(8) 0.1338(4) -0.02013(18)
+H13 H 0.33510 0.09720 -0.00250
+C11 C 0.4002(8) 0.2364(4) -0.06908(17)
+H14 H 0.33740 0.27340 -0.08670
+C12 C 0.5922(8) 0.2352(4) -0.06926(17)
+H15 H 0.65610 0.27220 -0.08670
+Ag1* Ag 1.52713(9) 0.42161(6) 0.25000
+Ag2E Ag 0.48864(6) 0.38122(5) 0.156510(19)
+Ag2* Ag 1.48864(6) 0.38122(5) 0.343490(19)
+Ag2E* Ag 1.48864(6) 0.38122(5) 0.156510(19)
+S1E S 0.5241(2) 0.63938(10) 0.19038(4)
+C5E C 0.8927(8) 0.4596(4) 0.15411(18)
+H5E H 0.83000 0.51690 0.15510
+C6E C 1.0863(8) 0.4591(4) 0.15443(18)
+H6E H 1.15030 0.51600 0.15570
+C7E C 1.0848(8) 0.2997(4) 0.15051(17)
+H7E H 1.14780 0.24260 0.14880
+C8E C 0.8912(8) 0.3003(4) 0.15049(18)
+H8E H 0.82730 0.24340 0.14910
+N2* N 0.2201(9) 0.4108(5) 0.25000
+N3E N 0.7933(6) 0.3802(3) 0.15240(14)
+N4* N 0.1829(7) 0.3795(3) 0.34709(14)
+N4E N 0.1829(7) 0.3795(3) 0.15291(14)
+N4E* N 1.1829(7) 0.3795(3) 0.15291(14)
+O1E O 0.4978(7) 0.6716(3) 0.15189(13)
+O2E O 0.4693(9) 0.5439(4) 0.19608(16)
+O3E O 0.4239(11) 0.7051(5) 0.21568(16)
+O4E O 0.7247(8) 0.6474(4) 0.20034(17)
+Ag3* Ag -0.00513(6) 0.18130(4) -0.043449(17)
+N6* N 1.3022(7) 0.1863(3) -0.04453(14)
+#END

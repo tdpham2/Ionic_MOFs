@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AFULAP
+_audit_creation_date 2009-01-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AFULAP
+_database_code_depnum_ccdc_archive 'CCDC 685531'
+_chemical_formula_sum 'C17 H26 Cr1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+(C11 H26 N1 1+)n,n(C6 Cr1 Mn1 O12 1-)
+;
+_journal_coden_Cambridge 771
+_journal_volume 7
+_journal_year 2008
+_journal_page_first 729
+_journal_name_full 'Nat.Mater '
+loop_
+_publ_author_name
+"C.Train"
+"R.Gheorghe"
+"V.Krstic"
+"L.-M.Chamoreau"
+"N.S.Ovanesyan"
+"G.L.J.A.Rikken"
+"M.Gruselle"
+"M.Verdaguer"
+_chemical_name_systematic
+;
+catena-((S)-s-Butyl(di-n-propyl)methylammonium 
+tris(\m~2~-oxalato)-(\d)-chromium(iii)-(\D)-manganese(ii))
+;
+_cell_volume   1293.526
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.395
+_exptl_special_details
+;
+magnetic properties
+
+;
+_exptl_crystal_description 'hexagonal plate-like'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 250
+_refine_special_details
+;
+A propyl group, in the cation, is disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0792
+_refine_ls_wR_factor_gt 0.0792
+loop_
+_citation_database_id_CSD
+_citation_special_details
+YODTAN "is a stereoisomer of this entry"
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -y,x-y,z
+4 -x+y,-x,z
+5 x-y,x,1/2+z
+6 y,-x+y,1/2+z
+_cell_length_a 9.417(2)
+_cell_length_b 9.417(2)
+_cell_length_c 16.843(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cr 1.35
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.33330 0.66670 0.96788(17)
+Mn1 Mn 1.00000 1.00000 0.96607(14)
+O1 O 0.5197(6) 0.6807(6) 0.9017(3)
+O2 O 0.5202(6) 0.8371(7) 1.0324(3)
+O3 O 0.7936(7) 0.9767(6) 1.0335(4)
+O4 O 0.7943(7) 0.8176(6) 0.8994(3)
+C1 C 0.6600(8) 0.7842(8) 0.9288(5)
+C2 C 0.6627(8) 0.8759(8) 1.0049(4)
+N1 N 0.66670 1.33330 1.1461(8)
+C3 C 0.745(4) 1.336(6) 1.0693(14)
+C4 C 0.66670 1.33330 0.991(2)
+C5 C 0.764(4) 1.401(4) 0.9144(18)
+C6 C 0.494(4) 1.218(4) 1.1851(15)
+C7 C 0.436(4) 1.064(4) 1.195(2)
+C8 C 0.253(5) 0.990(5) 1.201(4)
+C9 C 0.430(5) 1.303(8) 1.208(3)
+Mn1* Mn 0.00000 1.00000 0.96607(14)
+Mn1** Mn 0.00000 0.00000 0.96607(14)
+O1B O 0.3193(6) 0.8390(6) 0.9017(3)
+O1C O 0.1610(6) 0.4803(6) 0.9017(3)
+O2B O 0.1629(6) 0.6831(7) 1.0324(3)
+O2C O 0.3169(6) 0.4798(7) 1.0324(3)
+O3B O 0.0233(7) 0.8169(6) 1.0335(4)
+O3C O 0.1831(7) 0.2064(6) 1.0335(4)
+O3B* O 1.0233(7) 0.8169(6) 1.0335(4)
+O3C* O 1.1831(7) 1.2064(6) 1.0335(4)
+O4B O 0.1824(7) 0.9767(6) 0.8994(3)
+O4C O 0.0233(7) 0.2057(6) 0.8994(3)
+O4B* O 1.1824(7) 0.9767(6) 0.8994(3)
+O4C* O 1.0233(7) 1.2057(6) 0.8994(3)
+C1B C 0.2158(8) 0.8758(8) 0.9288(5)
+C1C C 0.1242(8) 0.3400(8) 0.9288(5)
+C2B C 0.1241(8) 0.7868(8) 1.0049(4)
+C2C C 0.2132(8) 0.3373(8) 1.0049(4)
+C3B C 0.664(4) 1.409(6) 1.0693(14)
+C3C C 0.591(4) 1.255(6) 1.0693(14)
+C5B C 0.599(4) 1.363(4) 0.9144(18)
+C5C C 0.637(4) 1.236(4) 0.9144(18)
+C6B C 0.782(4) 1.276(4) 1.1851(15)
+C6C C 0.724(4) 1.506(4) 1.1851(15)
+C7B C 0.936(4) 1.372(4) 1.195(2)
+C7C C 0.628(4) 1.564(4) 1.195(2)
+C8B C 1.010(5) 1.263(5) 1.201(4)
+C8C C 0.737(5) 1.747(5) 1.201(4)
+C9B C 0.697(5) 1.127(8) 1.208(3)
+C9C C 0.873(5) 1.570(8) 1.208(3)
+#END

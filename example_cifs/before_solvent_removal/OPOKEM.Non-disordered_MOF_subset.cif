@@ -1,0 +1,165 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OPOKEM
+_audit_creation_date 2021-03-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OPOKEM
+_database_code_depnum_ccdc_archive 'CCDC 1974179'
+_chemical_formula_sum 'C30 H26 Eu1 N5 O10'
+_chemical_formula_moiety
+;
+(C28 H14 Eu1 N4 O8 1-)n,C2 H8 N1 1+,2(H2 O1)
+;
+_journal_coden_Cambridge 603
+_journal_volume 40
+_journal_year 2021
+_journal_page_first 369
+_journal_name_full 'Jiegou Huaxue(Chin.)(Chin.J.Struct.Chem.) '
+loop_
+_publ_author_name
+"Xue-Ting Wang"
+"Wei Wei"
+"Kai Zhang"
+"Shao-Wu Du"
+_chemical_name_systematic
+;
+catena-[dimethylammonium 
+(\m-5,5'-diazenediylbis(benzene-1,3-dicarboxylato))-(1,10-phenanthroline)-euro
+pium(iii) dihydrate]
+;
+_cell_volume   6306.845
+_exptl_crystal_colour 'orange'
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Disordered solvent molecules (water) were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0315
+_refine_ls_wR_factor_gt 0.0315
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 16.278(3)
+_cell_length_b 14.261(3)
+_cell_length_c 27.936(5)
+_cell_angle_alpha 90
+_cell_angle_beta 103.464(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.98
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.47417(2) 0.11507(2) 0.08106(2)
+O1 O 0.34335(16) 0.02173(19) 0.07018(9)
+O2 O 0.43321(17) -0.00014(19) 0.14173(9)
+O3 O 0.0671(2) -0.1325(3) 0.03272(11)
+O4 O 0.03044(17) -0.22744(19) 0.08736(10)
+O5 O 0.10174(16) -0.29880(19) 0.36506(9)
+O6 O 0.15359(16) -0.27474(18) 0.44460(9)
+O7 O 0.44353(17) -0.13230(19) 0.49492(9)
+O8 O 0.48560(17) -0.03650(19) 0.44243(9)
+N1 N 0.2347(2) -0.1450(3) 0.24640(12)
+N2 N 0.3001(2) -0.1244(3) 0.27739(12)
+N3 N 0.6312(2) 0.1187(3) 0.07226(14)
+N4 N 0.5932(2) 0.1101(2) 0.16095(13)
+C1 C 0.3617(2) -0.0116(3) 0.11315(13)
+C2 C 0.2939(2) -0.0640(3) 0.13113(13)
+C3 C 0.3030(2) -0.0839(3) 0.18076(14)
+H1 H 0.35279 -0.06861 0.20340
+C4 C 0.2364(3) -0.1273(3) 0.19638(13)
+C5 C 0.1646(3) -0.1553(3) 0.16223(14)
+H2 H 0.12167 -0.18663 0.17262
+C6 C 0.1564(2) -0.1369(3) 0.11248(13)
+C7 C 0.2198(2) -0.0897(3) 0.09780(13)
+H3 H 0.21306 -0.07461 0.06473
+C8 C 0.0787(2) -0.1690(3) 0.07454(14)
+C9 C 0.1559(2) -0.2627(3) 0.40023(13)
+C10 C 0.4353(2) -0.0948(2) 0.45326(13)
+C11 C 0.3604(2) -0.1250(3) 0.41348(13)
+C12 C 0.2922(2) -0.1717(3) 0.42510(13)
+H4 H 0.29056 -0.18007 0.45788
+C13 C 0.2272(2) -0.2055(3) 0.38826(13)
+C14 C 0.2278(2) -0.1908(3) 0.33907(14)
+H5 H 0.18381 -0.21332 0.31423
+C15 C 0.2946(3) -0.1423(3) 0.32735(13)
+C16 C 0.3611(3) -0.1104(3) 0.36409(13)
+H6 H 0.40620 -0.07932 0.35594
+C17 C 0.6497(3) 0.1245(4) 0.02823(19)
+H7 H 0.60637 0.11688 0.00020
+C18 C 0.7310(4) 0.1416(5) 0.0225(2)
+H8 H 0.74140 0.14548 -0.00877
+C19 C 0.7947(4) 0.1525(5) 0.0627(3)
+H9 H 0.84908 0.16465 0.05909
+C20 C 0.7792(3) 0.1457(4) 0.1104(2)
+C21 C 0.6953(3) 0.1283(3) 0.11315(18)
+C22 C 0.6748(3) 0.1222(3) 0.16043(17)
+C23 C 0.7398(3) 0.1301(4) 0.20292(19)
+C24 C 0.8244(4) 0.1488(5) 0.1987(3)
+H10 H 0.86716 0.15583 0.22700
+C25 C 0.8427(4) 0.1562(6) 0.1546(3)
+H11 H 0.89805 0.16841 0.15280
+C26 C 0.7189(4) 0.1255(4) 0.2488(2)
+H12 H 0.76045 0.13066 0.27781
+C27 C 0.6351(4) 0.1133(4) 0.24984(18)
+H13 H 0.61921 0.10932 0.27967
+C28 C 0.5758(3) 0.1072(3) 0.20621(16)
+H14 H 0.51961 0.10052 0.20766
+N5 N -0.0960(3) -0.1440(3) -0.01072(17)
+H15 H -0.04142 -0.14711 0.00409
+H16 H -0.11924 -0.19916 -0.00686
+C29 C -0.1366(5) -0.0701(5) 0.0133(3)
+H17 H -0.12929 -0.08455 0.04761
+H18 H -0.11100 -0.01056 0.00990
+H19 H -0.19583 -0.06729 -0.00203
+C30 C -0.1047(5) -0.1266(5) -0.0636(2)
+H20 H -0.07750 -0.17611 -0.07737
+H21 H -0.16346 -0.12453 -0.07989
+H22 H -0.07864 -0.06780 -0.06796
+Eu1A Eu 0.52583(2) 0.11507(2) 0.41894(2)
+Eu1B Eu -0.02583(2) -0.38493(2) 0.08106(2)
+Eu1C Eu 0.02583(2) -0.38493(2) 0.41894(2)
+Eu1E Eu 0.47417(2) -0.11507(2) 0.58106(2)
+O4B O 0.53044(17) 0.27256(19) 0.08736(10)
+O5C O 0.39826(16) 0.20120(19) 0.13494(9)
+O6C O 0.34641(16) 0.22526(18) 0.05540(9)
+O7E O 0.44353(17) 0.13230(19) -0.00508(9)
+O8A O 0.51440(17) -0.03650(19) 0.05757(9)
+#END

@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QITDED
+_audit_creation_date 2008-05-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QITDED
+_database_code_depnum_ccdc_archive 'CCDC 676006'
+_chemical_formula_sum 'C12 H22 N8 Na2 O8 Os1'
+_chemical_formula_moiety
+;
+(H12 Na2 O6 2+)n,n(C12 H6 N8 Os1 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 46
+_journal_year 2007
+_journal_page_first 9779
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"S.G.Baca"
+"H.Adams"
+"C.S.Grange"
+"A.P.Smith"
+"I.Sazanovich"
+"M.D.Ward"
+_chemical_name_systematic
+;
+catena-(hexakis(\m~2~-Aqua)-di-sodium 
+(2,2'-bipyrimidine)-tetracyano-osmium(ii) dihydrate)
+;
+_cell_volume   2260.977
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.888
+_exptl_special_details
+;
+weakly luminescent
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0101
+_refine_ls_wR_factor_gt 0.0101
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.4420(13)
+_cell_length_b 29.172(6)
+_cell_length_c 12.046(2)
+_cell_angle_alpha 90
+_cell_angle_beta 92.84(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 1.37
+O 0.68
+Os 1.37
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Os1 Os 0.00000 0.348687(2) 0.25000
+Na1 Na 0.00000 0.06465(3) 0.25000
+Na2 Na -0.50000 0.06985(3) 0.25000
+N1 N 0.17516(19) 0.29210(4) 0.31043(10)
+N2 N 0.1888(2) 0.20998(4) 0.31194(11)
+N3 N 0.2958(2) 0.42282(5) 0.36574(11)
+N4 N 0.2376(2) 0.34450(5) 0.02238(12)
+C1 C 0.3569(2) 0.29367(5) 0.37186(12)
+H1 H 0.41570 0.32250 0.39220
+C2 C 0.4579(2) 0.25379(6) 0.40535(13)
+H2 H 0.58480 0.25480 0.44900
+C3 C 0.3686(3) 0.21212(5) 0.37328(13)
+H3 H 0.43640 0.18440 0.39530
+C4 C 0.0996(2) 0.24987(5) 0.28366(11)
+C5 C 0.1868(2) 0.39626(5) 0.31969(12)
+C6 C 0.1560(2) 0.34733(5) 0.10608(13)
+O1 O -0.24860(17) 0.02144(4) 0.34575(9)
+H4 H -0.23510 0.02850 0.41440
+H5 H -0.24050 -0.00720 0.34200
+O2 O -0.22798(17) 0.12346(4) 0.30596(9)
+H6 H -0.23460 0.13170 0.36800
+H7 H -0.19760 0.15010 0.27030
+O3 O -0.26393(17) 0.05372(4) 0.10340(9)
+H8 H -0.26050 0.02490 0.09800
+H9 H -0.25050 0.06420 0.03630
+O4 O 0.28752(19) 0.45766(4) 0.07694(10)
+H10 H 0.41580 0.44570 0.09920
+H11 H 0.19120 0.43810 0.09750
+Na2* Na 0.50000 0.06985(3) 0.25000
+N1B N -0.17516(19) 0.29210(4) 0.18957(10)
+N2B N -0.1888(2) 0.20998(4) 0.18806(11)
+N3B N -0.2958(2) 0.42282(5) 0.13426(11)
+N4B N -0.2376(2) 0.34450(5) 0.47762(12)
+C1B C -0.3569(2) 0.29367(5) 0.12814(12)
+H1B H -0.41570 0.32250 0.10780
+C2B C -0.4579(2) 0.25379(6) 0.09465(13)
+H2B H -0.58480 0.25480 0.05100
+C3B C -0.3686(3) 0.21212(5) 0.12672(13)
+H3B H -0.43640 0.18440 0.10470
+C4B C -0.0996(2) 0.24987(5) 0.21634(11)
+C5B C -0.1868(2) 0.39626(5) 0.18031(12)
+C6B C -0.1560(2) 0.34733(5) 0.39392(13)
+O1B O 0.24860(17) 0.02144(4) 0.15425(9)
+O1B* O -0.75140(17) 0.02144(4) 0.15425(9)
+H4B H 0.23510 0.02850 0.08560
+H4B* H -0.76490 0.02850 0.08560
+H5B H 0.24050 -0.00720 0.15800
+H5B* H -0.75950 -0.00720 0.15800
+O2B O 0.22798(17) 0.12346(4) 0.19404(9)
+O2B* O -0.77202(17) 0.12346(4) 0.19404(9)
+H6B H 0.23460 0.13170 0.13200
+H6B* H -0.76540 0.13170 0.13200
+H7B H 0.19760 0.15010 0.22970
+H7B* H -0.80240 0.15010 0.22970
+O3B O 0.26393(17) 0.05372(4) 0.39660(9)
+O3B* O -0.73607(17) 0.05372(4) 0.39660(9)
+H8B H 0.26050 0.02490 0.40200
+H8B* H -0.73950 0.02490 0.40200
+H9B H 0.25050 0.06420 0.46370
+H9B* H -0.74950 0.06420 0.46370
+#END

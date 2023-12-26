@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       U2Se2C2O14
+_chemical_formula_sum              "U2 Se2 C2 O14"
+_cell_length_a       7.1169
+_cell_length_b       7.4874
+_cell_length_c       8.9748
+_cell_angle_alpha    88.243
+_cell_angle_beta     74.546
+_cell_angle_gamma    81.445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.15152  0.74149  0.19411  1.0000
+  U   U2        1.0  0.84848  0.25851  0.80589  1.0000
+  Se  Se1       1.0  0.28386  0.32521  0.95991  1.0000
+  Se  Se2       1.0  0.71614  0.67479  0.04009  1.0000
+  C   C1        1.0  0.89500  0.97410  0.51530  1.0000
+  C   C2        1.0  0.10500  0.02590  0.48470  1.0000
+  O   O1        1.0  0.15120  0.56250  0.32660  1.0000
+  O   O2        1.0  0.84880  0.43750  0.67340  1.0000
+  O   O3        1.0  0.16020  0.92230  0.06150  1.0000
+  O   O4        1.0  0.83980  0.07770  0.93850  1.0000
+  O   O5        1.0  0.86910  0.87730  0.41400  1.0000
+  O   O6        1.0  0.13090  0.12270  0.58600  1.0000
+  O   O7        1.0  0.77310  0.03300  0.63810  1.0000
+  O   O8        1.0  0.22690  0.96700  0.36190  1.0000
+  O   O9        1.0  0.25120  0.55340  0.98310  1.0000
+  O   O10       1.0  0.74880  0.44660  0.01690  1.0000
+  O   O11       1.0  0.51070  0.28740  0.83980  1.0000
+  O   O12       1.0  0.48930  0.71260  0.16020  1.0000
+  O   O13       1.0  0.14800  0.31060  0.83530  1.0000
+  O   O14       1.0  0.85200  0.68940  0.16470  1.0000

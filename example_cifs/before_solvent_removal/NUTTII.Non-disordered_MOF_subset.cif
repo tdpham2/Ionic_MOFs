@@ -1,0 +1,155 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NUTTII
+_audit_creation_date 2020-07-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NUTTII
+_database_code_depnum_ccdc_archive 'CCDC 1953456'
+_chemical_formula_sum 'C12 H32 Ba2 Cr2 Ni1 O40'
+_chemical_formula_moiety
+;
+2(C6 H6 Ba1 Cr1 O15 1-)n,H12 Ni1 O6 2+,4(H2 O1)
+;
+_journal_coeditor_code "wm5572"
+_journal_coden_Cambridge 1828
+_journal_volume 76
+_journal_year 2020
+_journal_page_first 1316
+_journal_name_full 'Acta Crystallogr.,Sect.E:Cryst.Commun. '
+loop_
+_publ_author_name
+"Y.A.Mbiangue"
+"M.L.Ndinga"
+"J.P.Nduga"
+"E.Wenger"
+"C.Lecomte"
+_chemical_name_systematic
+;
+catena-[hexaaqua-nickel bis(tris(\m-oxalato)-triaqua-chromium-barium) 
+tetrahydrate]
+;
+_cell_volume   1866.133
+_exptl_crystal_colour 'metallic dark red'
+_exptl_crystal_density_diffrn 2.231
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+O20A and O20B disordered over two sites with occupancies 0.51:0.49.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0263
+_refine_ls_wR_factor_gt 0.0263
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.5556(11)
+_cell_length_b 11.0774(13)
+_cell_length_c 14.6105(17)
+_cell_angle_alpha 90
+_cell_angle_beta 93.794(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ba 2.15
+Cr 1.39
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ba1 Ba 0.08524(2) 0.86116(2) 1.12114(2)
+Cr1 Cr 0.11343(4) 0.64371(4) 0.80510(3)
+O1 O 0.2825(2) 1.0283(2) 1.13529(18)
+H1 H 0.295(3) 1.065(4) 1.1884(15)
+H2 H 0.3528(16) 1.008(4) 1.120(3)
+O2 O 0.2458(2) 0.8272(2) 1.2695(2)
+H3 H 0.311(2) 0.867(4) 1.273(3)
+H4 H 0.242(3) 0.798(4) 1.3252(14)
+O3 O 0.2799(2) 0.7817(2) 1.02345(18)
+H5 H 0.268(3) 0.809(4) 0.9661(11)
+H6 H 0.340(2) 0.829(3) 1.041(2)
+O4 O 0.27008(18) 0.71183(19) 0.82518(14)
+O5 O 0.17713(18) 0.57697(19) 0.69450(15)
+O6 O 0.15646(18) 0.49939(19) 0.87894(15)
+O7 O -0.03403(18) 0.55595(19) 0.78547(15)
+O8 O 0.04723(18) 0.78461(19) 0.73672(14)
+O9 O 0.06071(18) 0.73167(19) 0.91145(15)
+O10 O 0.44555(18) 0.7013(2) 0.76971(15)
+O11 O 0.34645(19) 0.5579(2) 0.62938(16)
+O12 O 0.08516(19) 0.32087(19) 0.92016(15)
+O13 O -0.12046(19) 0.3838(2) 0.82179(17)
+O14 O -0.06735(19) 0.94310(19) 0.75914(15)
+O15 O -0.03303(18) 0.89973(19) 0.94573(15)
+C1 C 0.3415(3) 0.6770(3) 0.7665(2)
+C2 C 0.2869(3) 0.5965(3) 0.6882(2)
+C3 C 0.0763(3) 0.4184(3) 0.8807(2)
+C4 C -0.0373(3) 0.4528(3) 0.8258(2)
+C5 C -0.0088(3) 0.8571(3) 0.7871(2)
+C6 C 0.0054(3) 0.8296(3) 0.8905(2)
+Ni1 Ni 0.50000 0.50000 1.00000
+O16 O 0.36196(19) 0.5495(2) 1.07281(16)
+H7 H 0.327(3) 0.6188(19) 1.064(2)
+H8 H 0.384(3) 0.551(3) 1.1313(9)
+O17 O 0.61283(18) 0.5438(2) 1.10821(15)
+H9 H 0.597(3) 0.606(2) 1.141(2)
+H10 H 0.6886(9) 0.541(3) 1.109(3)
+O18 O 0.4836(2) 0.3258(2) 1.04722(16)
+H11 H 0.508(3) 0.304(3) 1.1027(12)
+H12 H 0.4116(13) 0.301(3) 1.041(2)
+O19 O 0.2628(2) 0.2480(2) 1.04657(19)
+H13 H 0.256(4) 0.1727(15) 1.062(3)
+H14 H 0.206(3) 0.263(3) 1.007(2)
+O20 O 0.4749(9) 0.938(2) 1.0718(8)
+H15 H 0.543(3) 0.923(8) 1.099(5)
+H16 H 0.493(6) 0.970(8) 1.020(3)
+O21? O 0.4877(12) 0.895(2) 1.0565(11)
+H17? H 0.536(6) 0.875(7) 1.103(4)
+H18? H 0.477(7) 0.825(4) 1.028(5)
+Ba1B Ba -0.08524(2) 0.13884(2) 0.87886(2)
+Ba1B* Ba -0.08524(2) 1.13884(2) 0.87886(2)
+Ba1C Ba 0.58524(2) 0.63884(2) 0.62114(2)
+O10C O -0.05445(18) 0.7987(2) 1.26971(15)
+O11C O -0.15355(19) 0.9421(2) 1.12938(16)
+O12B O -0.08516(19) 0.67913(19) 1.07984(15)
+O13B O 0.12046(19) 0.6162(2) 1.17821(17)
+O14B O 0.06735(19) 1.05690(19) 1.24086(15)
+O15B O 0.03303(18) 1.10027(19) 1.05427(15)
+O16B O 0.63804(19) 0.4505(2) 0.92719(16)
+H7B H 0.673(3) 0.3812(19) 0.936(2)
+H8B H 0.616(3) 0.449(3) 0.8687(9)
+O17B O 0.38717(18) 0.4562(2) 0.89179(15)
+H9B H 0.403(3) 0.394(2) 0.859(2)
+H10B H 0.3114(9) 0.459(3) 0.891(3)
+O18B O 0.5164(2) 0.6742(2) 0.95278(16)
+H11B H 0.492(3) 0.696(3) 0.8973(12)
+H12B H 0.5884(13) 0.699(3) 0.959(2)
+#END

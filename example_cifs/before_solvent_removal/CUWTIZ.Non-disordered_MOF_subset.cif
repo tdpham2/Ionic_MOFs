@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUWTIZ
+_audit_creation_date 2015-11-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUWTIZ
+_database_code_depnum_ccdc_archive 'CCDC 1422202'
+_chemical_formula_sum 'C10 H26 Mg2 N2 O18'
+_chemical_formula_moiety
+;
+(C6 Mg2 O12 2-)n,C4 H14 N2 2+,6(H2 O1)
+;
+_journal_coden_Cambridge 1475
+_journal_volume 7
+_journal_year 2016
+_journal_page_first 1349
+_journal_name_full 'Chemical Science '
+loop_
+_publ_author_name
+"M.Sadakiyo"
+"T.Yamada"
+"K.Kato"
+"M.Takata"
+"H.Kitagawa"
+_chemical_name_systematic
+;
+catena-[butane-1,4-diaminium tris(\m-oxalato)-di-magnesium hexahydrate]
+;
+_cell_volume   1107.667
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.532
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 113
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0613
+_refine_ls_wR_factor_gt 0.0613
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.292(2)
+_cell_length_b 15.688(4)
+_cell_length_c 9.380(3)
+_cell_angle_alpha 90
+_cell_angle_beta 114.800(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Mg 1.41
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg -0.02912(14) 0.16927(7) 0.03405(13)
+O1 O 0.1984(3) 0.31361(14) 0.4261(3)
+O2 O 0.0100(3) -0.08343(14) 0.1259(3)
+O3 O -0.0368(3) 0.05616(14) 0.1446(3)
+O4 O -0.0073(3) 0.24851(14) 0.2168(3)
+O5 O 0.4538(3) 0.23627(14) 0.3710(3)
+O6 O 0.2460(3) 0.17884(14) 0.1518(3)
+C1 C 0.1481(4) 0.26533(19) 0.3094(4)
+C2 C 0.2971(4) 0.22265(19) 0.2743(4)
+C3 C -0.0077(4) -0.0078(2) 0.0787(4)
+O7 O -1.0398(5) -0.1216(2) -0.6013(4)
+O8 O -0.4388(3) -0.10012(15) 0.0023(3)
+O9 O -0.7544(3) -0.18357(15) -0.3327(3)
+N1 N -0.6960(4) -0.00086(18) -0.2759(3)
+C4 C -0.5452(5) 0.0199(2) -0.3179(4)
+C5 C -0.5793(5) -0.0110(2) -0.4819(4)
+O2B O -0.0100(3) 0.08343(14) -0.1259(3)
+O3B O 0.0368(3) -0.05616(14) -0.1446(3)
+C3B C 0.0077(4) 0.0078(2) -0.0787(4)
+Mg1B Mg 0.02912(14) -0.16927(7) -0.03405(13)
+O1B O -0.1984(3) -0.31361(14) -0.4261(3)
+O4B O 0.0073(3) -0.24851(14) -0.2168(3)
+O5B O -0.4538(3) -0.23627(14) -0.3710(3)
+O6B O -0.2460(3) -0.17884(14) -0.1518(3)
+C1B C -0.1481(4) -0.26533(19) -0.3094(4)
+C2B C -0.2971(4) -0.22265(19) -0.2743(4)
+Mg1A Mg -0.47088(14) -0.33073(7) -0.53405(13)
+Mg1C Mg 0.47088(14) 0.33073(7) 0.53405(13)
+O1A O 0.3016(3) -0.18639(14) 0.0739(3)
+O1C O -0.3016(3) 0.18639(14) -0.0739(3)
+O5A O 0.0462(3) -0.26373(14) 0.1290(3)
+O5C O -0.0462(3) 0.26373(14) -0.1290(3)
+N1B N -0.3040(4) 0.00086(18) -0.7241(3)
+C4B C -0.4548(5) -0.0199(2) -0.6821(4)
+C5B C -0.4207(5) 0.0110(2) -0.5181(4)
+#END

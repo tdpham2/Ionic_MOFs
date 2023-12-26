@@ -1,0 +1,189 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MIXGEI
+_audit_creation_date 2019-02-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MIXGEI
+_database_code_depnum_ccdc_archive 'CCDC 1869639'
+_chemical_formula_sum 'C40 H64 Fe8 N4 S16'
+_chemical_formula_moiety
+;
+(C4 H12 N1 1+)4n,n(C24 H16 Fe8 S16 4-)
+;
+_journal_coden_Cambridge 4
+_journal_volume 141
+_journal_year 2019
+_journal_page_first 3940
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"N.E.Horwitz"
+"Jiaze Xie"
+"A.S.Filatov"
+"R.J.Papoular"
+"W.E.Shepard"
+"D.Z.Zee"
+"M.P.Grahn"
+"C.Gilder"
+"J.S.Anderson"
+_chemical_name_systematic
+;
+catena-(tetrakis(tetramethylammonium) 
+tetrakis(\m-benzene-1,4-dithiolato)-octakis(\m-sulfido)-octa-iron)
+;
+_cell_volume   6049.012
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.714
+_exptl_special_details
+;
+powder data
+
+;
+_diffrn_ambient_temperature 298
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0587
+_refine_ls_wR_factor_gt 0.0587
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41/a'
+_symmetry_Int_Tables_number 88
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 3/4-y,1/4+x,1/4+z
+3 1/2-x,-y,1/2+z
+4 3/4+y,3/4-x,3/4+z
+5 1/2+x,1/2+y,1/2+z
+6 1/4-y,3/4+x,3/4+z
+7 -x,1/2-y,z
+8 1/4+y,1/4-x,1/4+z
+9 -x,-y,-z
+10 -3/4+y,-1/4-x,-1/4-z
+11 -1/2+x,y,-1/2-z
+12 -3/4-y,-3/4+x,-3/4-z
+13 -1/2-x,-1/2-y,-1/2-z
+14 -1/4+y,-3/4-x,-3/4-z
+15 x,-1/2+y,-z
+16 -1/4-y,-1/4+x,-1/4-z
+_cell_length_a 17.18530(23)
+_cell_length_b 17.1853
+_cell_length_c 20.4819(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.05023 0.18820 0.57705
+S1 S -0.08175 0.18439 0.56297
+S2 S 0.12109 0.09558 0.52454
+C1 C -0.16405 0.15390 0.80990
+C2 C -0.10246 0.14269 0.85230
+C3 C -0.23365 0.18454 0.83191
+C4 C -0.11111 0.16228 0.91705
+H1 H -0.05077 0.11981 0.83542
+C5 C -0.24224 0.20409 0.89654
+H2 H -0.27898 0.19254 0.79949
+C6 C -0.18081 0.19285 0.93896
+H3 H -0.06580 0.15425 0.94943
+H4 H -0.29396 0.22697 0.91351
+S3 S -0.19212 0.21829 1.02305
+Fe2 Fe -0.07835 0.23523 1.07721
+S4 S 0.02013 0.14769 1.06265
+N1 N 0.82884 0.96378 0.09353
+C7 C 0.85350 0.91145 0.14986
+C8 C 0.77250 1.02537 0.11850
+C9 C 0.90030 1.00337 0.06472
+C10 C 0.78907 0.91505 0.04116
+H5 H 0.80149 0.88360 0.17000
+H6 H 0.88203 0.94739 0.18694
+H7 H 0.89392 0.86762 0.13106
+H8 H 0.80220 1.06020 0.15566
+H9 H 0.72188 0.99595 0.13955
+H10 H 0.75485 1.06193 0.07732
+H11 H 0.92854 1.03736 0.10321
+H12 H 0.88141 1.04140 0.02489
+H13 H 0.93968 0.95837 0.04631
+H14 H 0.73605 0.88990 0.06194
+H15 H 0.82913 0.86900 0.02587
+H16 H 0.77486 0.95295 -0.00011
+S1F S 0.08175 0.31561 0.56297
+S1K S 0.06561 0.16825 0.68703
+Fe1F Fe -0.05023 0.31180 0.57705
+Fe1M Fe -0.06180 0.19977 0.67295
+Fe1K Fe 0.06180 0.30023 0.67295
+S2F S -0.12109 0.40442 0.52454
+S1M S -0.06561 0.33175 0.68703
+S2M S -0.15442 0.12891 0.72546
+S2K S 0.15442 0.37109 0.72546
+C1F C 0.16405 0.34610 0.80990
+C2F C 0.10246 0.35731 0.85230
+C3F C 0.23365 0.31546 0.83191
+C4F C 0.11111 0.33772 0.91705
+H1F H 0.05077 0.38019 0.83542
+C5F C 0.24224 0.29591 0.89654
+H2F H 0.27898 0.30746 0.79949
+C6F C 0.18081 0.30715 0.93896
+H3F H 0.06580 0.34575 0.94943
+H4F H 0.29396 0.27303 0.91351
+S3F S 0.19212 0.28171 1.02305
+Fe2F Fe 0.07835 0.26477 1.07721
+S4M S -0.10231 0.22987 1.18735
+S4F S -0.02013 0.35231 1.06265
+S4K S 0.10231 0.27013 1.18735
+Fe2K Fe 0.01477 0.17165 1.17279
+Fe2M Fe -0.01477 0.32835 1.17279
+S3K S 0.03171 0.05788 1.22695
+S3M S -0.03171 0.44212 1.22695
+C6K C 0.05715 0.06919 1.31104
+C6M C -0.05715 0.43081 1.31104
+C4K C 0.08772 0.13889 1.33295
+C5K C 0.04591 0.00776 1.35346
+C4M C -0.08772 0.36111 1.33295
+C5M C -0.04591 0.49224 1.35346
+C2K C 0.10731 0.14754 1.39770
+H3K H 0.09575 0.18420 1.30057
+C3K C 0.06546 0.01635 1.41809
+H4K H 0.02303 -0.04396 1.33649
+C2M C -0.10731 0.35246 1.39770
+H3M H -0.09575 0.31580 1.30057
+C3M C -0.06546 0.48365 1.41809
+H4M H -0.02303 0.54396 1.33649
+C1K C 0.09610 0.08595 1.44010
+H1K H 0.13019 0.19923 1.41458
+H2K H 0.05746 -0.02898 1.45051
+C1M C -0.09610 0.41405 1.44010
+H1M H -0.13019 0.30077 1.41458
+H2M H -0.05746 0.52898 1.45051
+S2* S 0.12109 0.09558 1.52454
+S2F* S -0.12109 0.40442 1.52454
+Fe1* Fe 0.05023 0.18820 1.57705
+Fe1F* Fe -0.05023 0.31180 1.57705
+#END

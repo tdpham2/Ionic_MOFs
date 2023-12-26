@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JETJOI
+_audit_creation_date 2007-04-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JETJOI
+_database_code_depnum_ccdc_archive 'CCDC 258464'
+_chemical_formula_sum 'C18 H16 N1 Na1 O8 Zn1'
+_chemical_formula_moiety
+;
+(C16 H8 Na1 O8 Zn1 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 44
+_journal_year 2005
+_journal_page_first 9279
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Jainghua He"
+"Jihong Yu"
+"Yuetao Zhang"
+"Qinhe Pan"
+"Ruren Xu"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium 
+bis(\m~5~-benzene-1,3-dicarboxylato)-sodium(i)-zinc(ii))
+;
+_chemical_name_common
+;
+MOF-CJ2
+;
+_cell_volume   2001.125
+_exptl_crystal_density_diffrn 1.536
+_exptl_special_details
+;
+photoluminescent
+
+;
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The dimethylammonium cation is is disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0427
+_refine_ls_wR_factor_gt 0.0427
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.277(6)
+_cell_length_b 14.323(7)
+_cell_length_c 11.328(6)
+_cell_angle_alpha 90
+_cell_angle_beta 111.73(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 1.37
+O 0.68
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.00000 0.11497(3) 0.75000
+Na1 Na 0.00000 0.00000 1.00000
+O1 O 0.10944(16) 0.03402(15) 0.8745(2)
+C1 C 0.1577(2) -0.0209(2) 0.8233(3)
+C2 C 0.2442(2) -0.0820(2) 0.9135(3)
+C3 C 0.2943(3) -0.1490(2) 0.8657(3)
+H1 H 0.27570 -0.15420 0.77830
+O2 O 0.1376(2) -0.0250(2) 0.7084(2)
+C4 C 0.2740(3) -0.0734(2) 1.0438(3)
+H2 H 0.24140 -0.02840 1.07700
+C5 C 0.3716(3) -0.2081(2) 0.9466(4)
+C6 C 0.3523(3) -0.1320(3) 1.1243(3)
+H3 H 0.37280 -0.12580 1.21180
+O3 O 0.3999(3) -0.2863(2) 0.7765(5)
+C7 C 0.4000(3) -0.1993(3) 1.0755(4)
+H4 H 0.45170 -0.23910 1.13020
+C8 C 0.4238(4) -0.2819(3) 0.8947(7)
+O4 O 0.4909(3) -0.3354(2) 0.9685(6)
+N1 N 0.2717(7) 0.2709(8) 0.9766(7)
+C9 C 0.1883(5) 0.3150(5) 1.0066(11)
+Zn1A Zn 0.50000 -0.38503(3) 0.75000
+Zn1A* Zn -0.50000 -0.38503(3) 0.75000
+Na1F Na 0.00000 0.00000 0.50000
+Na1A Na 0.50000 -0.50000 1.00000
+Na1G Na -0.50000 -0.50000 0.50000
+O1B O -0.10944(16) 0.03402(15) 0.6255(2)
+O1D O -0.10944(16) -0.03402(15) 1.1255(2)
+C1B C -0.1577(2) -0.0209(2) 0.6767(3)
+C2B C -0.2442(2) -0.0820(2) 0.5865(3)
+C3B C -0.2943(3) -0.1490(2) 0.6343(3)
+H1B H -0.27570 -0.15420 0.72170
+O2B O -0.1376(2) -0.0250(2) 0.7916(2)
+O2F O 0.1376(2) 0.0250(2) 1.2084(2)
+C4B C -0.2740(3) -0.0734(2) 0.4562(3)
+H2B H -0.24140 -0.02840 0.42300
+C5B C -0.3716(3) -0.2081(2) 0.5534(4)
+C6B C -0.3523(3) -0.1320(3) 0.3757(3)
+H3B H -0.37280 -0.12580 0.28820
+O3B O -0.3999(3) -0.2863(2) 0.7235(5)
+O3A O -0.1001(3) 0.2137(2) 0.7765(5)
+O3C O 0.1001(3) 0.2137(2) 0.7235(5)
+C7B C -0.4000(3) -0.1993(3) 0.4245(4)
+H4B H -0.45170 -0.23910 0.36980
+C8B C -0.4238(4) -0.2819(3) 0.6053(7)
+O4B O -0.4909(3) -0.3354(2) 0.5315(6)
+O4A O -0.0091(3) 0.1646(2) 0.9685(6)
+O4E O 0.0091(3) -0.1646(2) 1.0315(6)
+N1E N 0.2283(7) 0.2291(8) 1.0234(7)
+C9E C 0.3117(5) 0.1850(5) 0.9934(11)
+#END

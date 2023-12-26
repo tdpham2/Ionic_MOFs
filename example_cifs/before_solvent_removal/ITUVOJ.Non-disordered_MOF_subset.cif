@@ -1,0 +1,177 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ITUVOJ
+_audit_creation_date 2011-09-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ITUVOJ
+_database_code_depnum_ccdc_archive 'CCDC 799921'
+_chemical_formula_sum 'C30 H36 F4 In1 N3 O14'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(C22 H6 F4 In1 O8 1-),2n(C3 H7 N1 O1),4n(H2 O1)
+;
+_journal_coden_Cambridge 169
+_journal_volume 151
+_journal_year 2011
+_journal_page_first 19
+_journal_name_full 'Faraday Discuss. '
+loop_
+_publ_author_name
+"Sihai Yang"
+"S.K.Callear"
+"A.J.Ramirez-Cuesta"
+"W.I.F.David"
+"Junliang Sun"
+"A.J.Blake"
+"N.R.Champness"
+"M.Schroder"
+_chemical_name_systematic
+;
+catena-[Dimethylammonium 
+(\m~4~-2',3',5',6'-tetrafluoro-1,1':4',1''-terphenyl-3,3'',5,5''-tetracarboxyl
+ato)-indium(iii) dimethylformamide solvate tetrahydrate]
+;
+_chemical_name_common
+;
+NOTT-212 dimethylformamide solvate tetrahydrate
+;
+_cell_volume  20970.926
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.081
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 120
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+Disordered cations and solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure. The unit 
+cell was found to contain a void of 14633 A$3! holding 1559 electrons. The 
+formula was calculated from TGA combined with elemental analysis data.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0548
+_refine_ls_wR_factor_gt 0.0548
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41/a c d'
+_symmetry_Int_Tables_number 142
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/4-y,3/4+x,1/4+z
+4 1/4+y,1/4-x,3/4+z
+5 1/2-x,y,-z
+6 x,-y,1/2-z
+7 1/4+y,3/4+x,3/4-z
+8 1/4-y,1/4-x,1/4-z
+9 1/2+x,1/2+y,1/2+z
+10 -x,1/2-y,z
+11 3/4-y,1/4+x,3/4+z
+12 3/4+y,3/4-x,1/4+z
+13 -x,1/2+y,1/2-z
+14 1/2+x,1/2-y,-z
+15 3/4+y,1/4+x,1/4-z
+16 3/4-y,3/4-x,3/4-z
+17 -x,-y,-z
+18 -1/2+x,y,-1/2-z
+19 -1/4+y,-3/4-x,-1/4-z
+20 -1/4-y,-1/4+x,-3/4-z
+21 -1/2+x,-y,z
+22 -x,y,-1/2+z
+23 -1/4-y,-3/4-x,-3/4+z
+24 -1/4+y,-1/4+x,-1/4+z
+25 -1/2-x,-1/2-y,-1/2-z
+26 x,-1/2+y,-z
+27 -3/4+y,-1/4-x,-3/4-z
+28 -3/4-y,-3/4+x,-1/4-z
+29 x,-1/2-y,-1/2+z
+30 -1/2-x,-1/2+y,z
+31 -3/4-y,-1/4-x,-1/4+z
+32 -3/4+y,-3/4+x,-3/4+z
+_cell_length_a 19.807(5)
+_cell_length_b 19.807(5)
+_cell_length_c 53.454(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+In 1.46
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.756915(17) 0.006915(17) 0.12500
+O1 O 0.7468(2) 0.1327(2) 0.11858(8)
+O2 O 0.76273(16) 0.08033(18) 0.15421(7)
+O3 O 0.74478(18) 0.39166(16) 0.12138(6)
+O4 O 0.74086(15) 0.43837(15) 0.15830(5)
+F1 F 0.65510(17) 0.3255(2) 0.22624(5)
+F2 F 0.84490(16) 0.1805(2) 0.22430(5)
+C1 C 0.7543(3) 0.1338(3) 0.14176(12)
+C2 C 0.7439(3) 0.3866(2) 0.14486(9)
+C3 C 0.7455(2) 0.3191(3) 0.15713(9)
+C4 C 0.7468(2) 0.2595(2) 0.14343(10)
+H1 H 0.74450 0.26080 0.12570
+C5 C 0.7516(3) 0.1978(3) 0.15575(9)
+C6 C 0.7543(3) 0.1964(3) 0.18147(10)
+H2 H 0.75790 0.15410 0.18980
+C7 C 0.7517(2) 0.2554(3) 0.19564(11)
+C8 C 0.7479(2) 0.3172(3) 0.18317(9)
+H3 H 0.74700 0.35800 0.19250
+C9 C 0.7513(2) 0.2523(3) 0.22321(10)
+C10 C 0.7028(3) 0.2877(4) 0.23747(10)
+C11 C 0.7961(3) 0.2144(4) 0.23648(10)
+In1S In 0.743085(17) 0.506915(17) 0.12500
+In1V In 0.743085(17) 0.493085(17) 0.37500
+In1E In 0.756915(17) -0.006915(17) 0.37500
+O1X O 0.7532(2) 0.3673(2) 0.38142(8)
+O1N O 0.8827(2) -0.0032(2) 0.13142(8)
+O2X O 0.73727(16) 0.41967(18) 0.34579(7)
+O2N O 0.83033(16) 0.01273(18) 0.09579(7)
+O3X O 0.75522(18) 0.10834(16) 0.37862(6)
+O3Z O 0.64166(18) 0.00522(16) 0.12862(6)
+O3CA O 0.75522(18) -0.10834(16) 0.12138(6)
+O4X O 0.75914(15) 0.06163(15) 0.34170(5)
+O4Z O 0.68837(15) 0.00914(15) 0.09170(5)
+O4CA O 0.75914(15) -0.06163(15) 0.15830(5)
+F1X F 0.84490(17) 0.1745(2) 0.27376(5)
+F2X F 0.65510(16) 0.3195(2) 0.27570(5)
+C1X C 0.7457(3) 0.3662(3) 0.35824(12)
+C2X C 0.7561(3) 0.1134(2) 0.35514(9)
+C3X C 0.7545(2) 0.1809(3) 0.34287(9)
+C4X C 0.7532(2) 0.2405(2) 0.35657(10)
+H1X H 0.75550 0.23920 0.37430
+C5X C 0.7484(3) 0.3022(3) 0.34425(9)
+C6X C 0.7457(3) 0.3036(3) 0.31853(10)
+H2X H 0.74210 0.34590 0.31020
+C7X C 0.7483(2) 0.2446(3) 0.30436(11)
+C8X C 0.7521(2) 0.1828(3) 0.31683(9)
+H3X H 0.75300 0.14200 0.30750
+C9X C 0.7487(2) 0.2477(3) 0.27679(10)
+C10X C 0.7972(3) 0.2123(4) 0.26253(10)
+C11X C 0.7039(3) 0.2856(4) 0.26352(10)
+#END

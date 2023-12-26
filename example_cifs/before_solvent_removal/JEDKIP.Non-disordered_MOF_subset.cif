@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEDKIP
+_audit_creation_date 2017-06-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEDKIP
+_database_code_depnum_ccdc_archive 'CCDC 1530423'
+_chemical_formula_sum 'C5 H10 Mn1 N2 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Mn1 O6 1-)n,C2 H7 N2 1+
+;
+_journal_coden_Cambridge 222
+_journal_volume 46
+_journal_year 2017
+_journal_page_first 8476
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"M.Maczka"
+"Jan Janczak"
+"M.Trzebiatowska"
+"A.Sieradzki"
+"S.Pawlus"
+"A.Pikul"
+_chemical_name_systematic
+;
+catena-[1-aminoethan-1-iminium tris(\m-formato)-manganese(ii)]
+;
+_cell_volume    934.046
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.771
+_exptl_special_details
+;
+304 K
+
+;
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0487
+_refine_ls_wR_factor_gt 0.0487
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.6727(11)
+_cell_length_b 11.9317(13)
+_cell_length_c 9.0332(12)
+_cell_angle_alpha 90
+_cell_angle_beta 92.233(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.25494(4) 0.25299(3) 0.75184(5)
+O1 O 0.4156(2) 0.18900(18) 0.5876(2)
+O2 O 0.5652(2) 0.19629(18) 0.3946(2)
+C1 C 0.5252(3) 0.2265(3) 0.5187(4)
+H1 H 0.58460 0.28420 0.56580
+O3 O 0.4116(2) 0.33290(18) 0.9123(2)
+O4 O 0.5772(2) 0.31741(17) 1.1033(2)
+C2 C 0.5223(3) 0.2863(3) 0.9828(3)
+H2 H 0.56680 0.22210 0.93930
+O5 O 0.2194(2) 0.40974(17) 0.6369(2)
+O6 O 0.2162(2) 0.59705(17) 0.6256(2)
+C3 C 0.2331(4) 0.5043(3) 0.6911(4)
+H3 H 0.25950 0.50760 0.79410
+N1 N 0.2410(3) 0.5073(2) 0.0897(3)
+H4 H 0.186(4) 0.554(3) 0.034(3)
+H5 H 0.299(4) 0.468(3) 0.054(4)
+N2 N 0.1557(3) 0.5822(2) 0.3038(3)
+H6 H 0.093(4) 0.624(3) 0.256(4)
+H7 H 0.169(4) 0.584(3) 0.402(4)
+C4 C 0.2448(3) 0.5125(2) 0.2332(4)
+C5 C 0.3555(4) 0.4404(3) 0.3194(4)
+H8 H 0.39930 0.38450 0.25360
+H9 H 0.30170 0.40240 0.39850
+H10 H 0.43870 0.48690 0.36300
+Mn1A Mn 0.24506(4) 0.75299(3) 0.74816(5)
+Mn1C Mn 0.75494(4) 0.24701(3) 0.25184(5)
+Mn1C* Mn 0.75494(4) 0.24701(3) 1.25184(5)
+O2C O 0.0652(2) 0.30371(18) 0.8946(2)
+O4C O 0.0772(2) 0.18259(17) 0.6033(2)
+O6A O 0.2838(2) 0.09705(17) 0.8744(2)
+#END

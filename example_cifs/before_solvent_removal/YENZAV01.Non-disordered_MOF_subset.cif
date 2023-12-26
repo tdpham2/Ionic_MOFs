@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YENZAV01
+_audit_creation_date 2020-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YENZAV01
+_database_code_depnum_ccdc_archive 'CCDC 1942126'
+_chemical_formula_sum 'C16 H13 Gd1 O12'
+_chemical_formula_moiety
+;
+(C16 H8 Gd1 O10 1-)n,H3 O1 1+,H2 O1
+;
+_journal_coden_Cambridge 1500
+_journal_volume 10
+_journal_year 2020
+_journal_page_first 6129
+_journal_name_full 'RSC Advances '
+loop_
+_publ_author_name
+"Xue-Ting Wang"
+"Wei Wei"
+"Kai Zhang"
+"Shao-Wu Du"
+_chemical_name_systematic
+;
+catena-[oxonium (\m-3,5,3',5'-oxytetrabenzoato)-aqua-gadolinium(iii) 
+monohydrate]
+;
+_cell_volume   1753.359
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.101
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+O8 disordered by symmetry over two configurations with occupancy 0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0233
+_refine_ls_wR_factor_gt 0.0233
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n n a'
+_symmetry_Int_Tables_number 52
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,z
+3 1/2-x,1/2+y,1/2-z
+4 x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-z
+7 -1/2+x,-1/2-y,-1/2+z
+8 -x,-1/2+y,-1/2+z
+_cell_length_a 9.1964(18)
+_cell_length_b 13.197(3)
+_cell_length_c 14.447(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Gd 1.96
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Gd1 Gd 0.25000 0.00000 0.59592(2)
+O1 O 0.69941(16) 0.39091(11) 0.2311(1)
+O2 O 0.5298(2) 0.50627(12) 0.20757(13)
+O3 O 0.39492(18) 0.14174(10) 0.55953(11)
+O4 O 0.5692(2) 0.11190(12) 0.45720(13)
+O5 O 0.25000 0.50000 0.51370(15)
+O6 O 0.25000 0.00000 0.4166(2)
+C1 C 0.5821(2) 0.43469(14) 0.25455(14)
+C2 C 0.5054(2) 0.40025(13) 0.34047(13)
+C3 C 0.5305(2) 0.30393(13) 0.37660(13)
+H1 H 0.59571 0.26030 0.34771
+C4 C 0.4573(2) 0.27340(12) 0.45635(12)
+C5 C 0.3614(2) 0.33951(13) 0.50006(13)
+H2 H 0.31220 0.31924 0.55318
+C6 C 0.3394(2) 0.43584(13) 0.46400(13)
+C7 C 0.4097(2) 0.46646(13) 0.38393(14)
+H3 H 0.39299 0.53062 0.35951
+C8 C 0.4767(2) 0.16743(13) 0.49368(12)
+H4 H 0.3252(10) -0.005(6) 0.3828(13)
+O7 O -0.0748(4) 0.25000 0.25000
+H5 H -0.12919 0.30154 0.24309
+O8 O 0.2015(8) 0.2008(7) 0.3060(7)
+H6 H 0.10910 0.20225 0.30438
+H7 H 0.22975 0.14068 0.29483
+H8? H 0.23266 0.23961 0.26347
+O1A O -0.19941(16) 0.60909(11) 0.2311(1)
+O2A O -0.0298(2) 0.49373(12) 0.20757(13)
+O3A O 0.10508(18) 0.85826(10) 0.55953(11)
+O4A O -0.0692(2) 0.88810(12) 0.45720(13)
+C1A C -0.0821(2) 0.56531(14) 0.25455(14)
+C2A C -0.0054(2) 0.59975(13) 0.34047(13)
+C3A C -0.0305(2) 0.69607(13) 0.37660(13)
+H1A H -0.09571 0.73970 0.34771
+C4A C 0.0427(2) 0.72660(12) 0.45635(12)
+C5A C 0.1386(2) 0.66049(13) 0.50006(13)
+H2A H 0.18780 0.68076 0.55318
+C6A C 0.1606(2) 0.56416(13) 0.46400(13)
+C7A C 0.0903(2) 0.53354(13) 0.38393(14)
+H3A H 0.10701 0.46938 0.35951
+C8A C 0.0233(2) 0.83257(13) 0.49368(12)
+H4A H 0.1748(10) 0.005(6) 0.3828(13)
+Gd1* Gd 0.25000 1.00000 0.59592(2)
+Gd1D Gd -0.25000 1.00000 0.40408(2)
+Gd1D* Gd 0.75000 0.00000 0.40408(2)
+Gd1F Gd -0.25000 0.50000 0.09592(2)
+Gd1F* Gd 0.75000 0.50000 0.09592(2)
+O1F O 0.19941(16) 0.10909(11) 0.7311(1)
+O1G O 0.30059(16) -0.10909(11) 0.7311(1)
+O2F O 0.0298(2) -0.00627(12) 0.70757(13)
+O2G O 0.4702(2) 0.00627(12) 0.70757(13)
+O3A* O 0.10508(18) -0.14174(10) 0.55953(11)
+O4D O 0.4308(2) -0.11190(12) 0.54280(13)
+O4E O 0.0692(2) 0.11190(12) 0.54280(13)
+H5C H -0.12919 0.19846 0.25691
+#END

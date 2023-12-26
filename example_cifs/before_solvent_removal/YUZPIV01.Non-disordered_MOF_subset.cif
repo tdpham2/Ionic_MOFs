@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUZPIV01
+_audit_creation_date 2020-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUZPIV01
+_database_code_depnum_ccdc_archive 'CCDC 2022302'
+_chemical_formula_sum 'C22 H26 Bi2 Cl8 N6'
+_chemical_formula_moiety
+;
+(C8 H6 Bi2 Cl8 N4 2-)n,2(C7 H10 N1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 59
+_journal_year 2020
+_journal_page_first 13465
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Jian-Ce Jin"
+"Nan-Nan Shen"
+"Yang-Peng Lin"
+"Liao-Kuo Gong"
+"Hui-Ying Tong"
+"Ke-Zhao Du"
+"Xiao-Ying Huang"
+_chemical_name_systematic
+;
+catena-[bis(1-ethylpyridin-1-ium) 
+bis(\m-chloro)-(\m-2,2'-bipyrimidine)-hexachloro-di-bismuth(iii)]
+;
+_cell_volume   1574.152
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 2.27
+_exptl_crystal_description 'rod-like'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0334
+_refine_ls_wR_factor_gt 0.0334
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.7935(7)
+_cell_length_b 8.1270(5)
+_cell_length_c 16.8155(9)
+_cell_angle_alpha 90
+_cell_angle_beta 102.391(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.48
+Cl 0.99
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.33829(2) 0.12145(2) 0.45331(2)
+Cl1 Cl 0.23771(10) 0.15447(16) 0.29994(7)
+Cl2 Cl 0.14858(11) 0.22392(16) 0.48954(8)
+Cl3 Cl 0.25612(12) -0.17299(16) 0.45403(8)
+Cl4 Cl 0.52379(11) -0.03022(16) 0.39117(7)
+N1 N 0.4630(3) 0.3848(5) 0.4062(2)
+N2 N 0.6014(3) 0.5974(5) 0.4494(2)
+C1 C 0.4959(4) 0.3794(6) 0.3353(3)
+H1 H 0.45839 0.30409 0.29497
+C2 C 0.5827(4) 0.4794(6) 0.3182(3)
+H2 H 0.60603 0.47370 0.26755
+C3 C 0.6333(4) 0.5876(6) 0.3784(3)
+H3 H 0.69335 0.65784 0.36883
+C4 C 0.5182(4) 0.4946(6) 0.4602(3)
+N3 N 0.0801(4) 0.5093(5) 0.2573(3)
+C5 C 0.1856(5) 0.5654(7) 0.2956(4)
+H4 H 0.20901 0.55961 0.35320
+C6 C 0.2585(5) 0.6307(7) 0.2503(3)
+H5 H 0.33196 0.67310 0.27672
+C7 C 0.2254(5) 0.6352(7) 0.1663(3)
+H6 H 0.27646 0.67813 0.13475
+C8 C 0.1173(5) 0.5763(6) 0.1288(3)
+H7 H 0.09267 0.57833 0.07122
+C9 C 0.0455(5) 0.5144(6) 0.1766(3)
+H8 H -0.02947 0.47500 0.15159
+C10 C 0.0036(5) 0.4331(6) 0.3082(3)
+H9 H 0.04218 0.33370 0.33536
+H10 H -0.07025 0.39815 0.27208
+C11 C -0.0232(5) 0.5501(7) 0.3726(3)
+H11 H -0.06879 0.49211 0.40623
+H12 H -0.06772 0.64417 0.34592
+H13 H 0.04956 0.58908 0.40709
+N1B N 0.5370(3) 0.6152(5) 0.5938(2)
+N2B N 0.3986(3) 0.4026(5) 0.5506(2)
+C1B C 0.5041(4) 0.6206(6) 0.6647(3)
+H1B H 0.54161 0.69591 0.70503
+C2B C 0.4173(4) 0.5206(6) 0.6818(3)
+H2B H 0.39397 0.52630 0.73245
+C3B C 0.3667(4) 0.4124(6) 0.6216(3)
+H3B H 0.30665 0.34216 0.63117
+C4B C 0.4818(4) 0.5054(6) 0.5398(3)
+Bi1B Bi 0.66171(2) -0.12145(2) 0.54669(2)
+Cl1B Cl 0.76229(10) -0.15447(16) 0.70006(7)
+Cl2B Cl 0.85142(11) -0.22392(16) 0.51046(8)
+Cl3B Cl 0.74388(12) 0.17299(16) 0.54597(8)
+Cl4B Cl 0.47621(11) 0.03022(16) 0.60883(7)
+Bi1B* Bi 0.66171(2) 0.87855(2) 0.54669(2)
+N1B* N 0.5370(3) -0.3848(5) 0.5938(2)
+N2* N 0.6014(3) -0.4026(5) 0.4494(2)
+#END

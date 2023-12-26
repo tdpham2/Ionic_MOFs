@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEKYOC
+_audit_creation_date 2013-04-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEKYOC
+_database_code_depnum_ccdc_archive 'CCDC 809473'
+_chemical_formula_sum 'C12 H26 Li2 N2 O10'
+_chemical_formula_moiety
+;
+(C8 H10 Li2 O10 2-)n,2n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 42
+_journal_year 2013
+_journal_page_first 2765
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Pei-Chi Cheng"
+"Wei-Cheng Lin"
+"Feng-Shuen Tseng"
+"Ching-Che Kao"
+"Ting-Guang Chang"
+"D.S.Raja"
+"Wei-Ren Liu"
+"Chia-Her Lin"
+_chemical_name_systematic
+;
+catena-[bis(Dimethylammonium) 
+(\m~4~-1,2,3,4-butanetetracarboxylato)-diaqua-di-lithium]
+;
+_cell_volume    877.388
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.409
+_exptl_crystal_description 'columnar'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0405
+_refine_ls_wR_factor_gt 0.0405
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.4998(2)
+_cell_length_b 10.6053(4)
+_cell_length_c 15.2719(6)
+_cell_angle_alpha 90
+_cell_angle_beta 99.942(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Li 1.27
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.00605(17) 0.69185(10) 0.40065(7)
+O2 O -0.28086(19) 0.93004(10) 0.32473(7)
+O3 O 0.39460(18) 0.70151(11) 0.39881(8)
+C1 C -0.0189(2) 0.94353(12) 0.46775(8)
+H1 H -0.14490 0.88760 0.48470
+N1 N 0.0996(2) 0.45128(12) 0.34075(8)
+H2 H 0.06540 0.53190 0.35240
+H3 H 0.17410 0.45080 0.29270
+C2 C 0.2010(2) 0.74583(13) 0.41869(9)
+C3 C -0.1046(2) 0.98847(13) 0.37198(9)
+O4 O -0.4021(2) 0.66386(12) 0.22779(8)
+H4 H -0.49180 0.59930 0.23080
+H5 H -0.26660 0.64190 0.21270
+O5 O 0.0041(2) 1.07828(11) 0.34376(8)
+C4 C 0.2216(2) 0.86872(14) 0.47059(9)
+H6 H 0.33980 0.92240 0.44810
+H7 H 0.28850 0.85010 0.53220
+C5 C 0.2709(4) 0.39917(19) 0.41739(11)
+H8 H 0.41870 0.44900 0.42800
+H9 H 0.31160 0.31380 0.40480
+H10 H 0.19370 0.40080 0.46920
+C6 C -0.1333(3) 0.38007(19) 0.32025(14)
+H11 H -0.23720 0.41760 0.27000
+H12 H -0.21590 0.38200 0.37070
+H13 H -0.09840 0.29430 0.30660
+Li1 Li -0.3342(4) 0.7487(2) 0.34509(17)
+O1B O 0.00605(17) 1.30815(10) 0.59935(7)
+O1B* O -0.99395(17) 1.30815(10) 0.59935(7)
+O2B O 0.28086(19) 1.06996(10) 0.67527(7)
+O2B* O -0.71914(19) 1.06996(10) 0.67527(7)
+O3B O -0.39460(18) 1.29849(11) 0.60119(8)
+O3* O -0.60540(18) 0.70151(11) 0.39881(8)
+C1B C 0.0189(2) 1.05647(12) 0.53225(8)
+H1B H 0.14490 1.11240 0.51530
+C2B C -0.2010(2) 1.25417(13) 0.58131(9)
+C3B C 0.1046(2) 1.01153(13) 0.62802(9)
+O4B O -0.5979(2) 1.33614(12) 0.77221(8)
+H4B H -0.50820 1.40070 0.76920
+H5B H -0.73340 1.35810 0.78730
+O5B O -0.0041(2) 0.92172(11) 0.65624(8)
+C4B C -0.2216(2) 1.13128(14) 0.52941(9)
+H6B H -0.33980 1.07760 0.55190
+H7B H -0.28850 1.14990 0.46780
+Li1B Li 0.3342(4) 1.2513(2) 0.65491(17)
+Li1* Li 0.6658(4) 0.7487(2) 0.34509(17)
+Li1B* Li -0.6658(4) 1.2513(2) 0.65491(17)
+#END

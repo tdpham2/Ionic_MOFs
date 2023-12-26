@@ -1,0 +1,197 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OKUTUL05
+_audit_creation_date 2019-04-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OKUTUL05
+_database_code_depnum_ccdc_archive 'CCDC 1868683'
+_chemical_formula_sum 'C6 H18 Fe1 Mg1 Na1 O21'
+_chemical_formula_moiety
+;
+(C6 Fe1 Na1 O12 2-)n,H12 Mg1 O6 2+,3(H2 O1)
+;
+_journal_coden_Cambridge 1475
+_journal_volume 10
+_journal_year 2019
+_journal_page_first 4923
+_journal_name_full 'Chemical Science '
+loop_
+_publ_author_name
+"I.Huskic"
+"N.Novendra"
+"Dae-Woon Lim"
+"F.Topic"
+"H.M.Titi"
+"I.V.Pekov"
+"S.V.Krivovichev"
+"A.Navrotsky"
+"H.Kitagawa"
+"T.Friscic"
+_chemical_name_systematic
+;
+catena-[hexaaqua-magnesium tris(\m-oxalato)-iron(iii)-sodium trihydrate]
+;
+_chemical_name_common
+;
+Stepanovite
+;
+_cell_volume   3097.757
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.703
+_exptl_special_details
+;
+hexagonal polymorph
+photo-sensitive, 
+moisture-sensitive,Heat-sensitive,Light-sensitive,Photo-sensitive
+;
+_exptl_crystal_description 'hexagonal prism'
+_exptl_crystal_preparation 'Water'
+_diffrn_ambient_temperature 297
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0295
+_refine_ls_wR_factor_gt 0.0295
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 3 c 1'
+_symmetry_Int_Tables_number 158
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2+z
+5 -x+y,y,1/2+z
+6 x,x-y,1/2+z
+_cell_length_a 16.9954(12)
+_cell_length_b 16.9954(12)
+_cell_length_c 12.3838(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+Mg 1.41
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.67205(6) 0.67644(3) 0.49287(9)
+Na1 Na 0.34305(8) 0.3385(2) 0.4933(4)
+O1 O 0.7366(2) 0.6296(2) 0.3997(3)
+C1 C 0.8102(3) 0.6370(3) 0.4419(3)
+O2 O 0.7871(2) 0.7229(2) 0.5786(3)
+C2 C 0.8403(3) 0.6936(3) 0.5476(3)
+O3 O 0.8534(2) 0.6034(2) 0.4064(3)
+C3 C 0.5295(3) 0.5026(3) 0.5470(4)
+O4 O 0.9103(2) 0.7072(2) 0.5912(3)
+C4 C 0.4999(3) 0.5299(3) 0.4418(4)
+O5 O 0.6098(2) 0.5606(2) 0.5797(3)
+C5 C 0.6385(3) 0.8179(4) 0.5468(4)
+O6 O 0.5555(3) 0.6102(2) 0.4082(3)
+C6 C 0.6988(3) 0.8500(3) 0.4445(3)
+O7 O 0.4774(2) 0.4295(2) 0.5896(3)
+O8 O 0.4283(2) 0.4748(2) 0.3982(3)
+O9 O 0.6266(2) 0.7429(2) 0.5849(3)
+O10 O 0.7162(2) 0.7902(2) 0.4050(3)
+O11 O 0.7257(2) 0.9260(2) 0.4077(3)
+O12 O 0.6070(2) 0.8640(2) 0.5830(3)
+Mg1 Mg 0.33333 0.66667 0.4897(3)
+O13 O 0.2529(2) 0.5554(2) 0.3928(3)
+H1 H 0.268(3) 0.529(3) 0.344(3)
+H2 H 0.2004(18) 0.539(3) 0.381(4)
+O14 O 0.3635(2) 0.5847(2) 0.5831(3)
+H3 H 0.382(4) 0.605(4) 0.642(3)
+H4 H 0.336(3) 0.5286(17) 0.587(4)
+Mg2 Mg 0.66667 0.33333 0.5042(2)
+O15 O 0.7778(2) 0.4129(2) 0.4086(2)
+H5 H 0.794(3) 0.4656(19) 0.401(4)
+H6 H 0.800(3) 0.397(3) 0.358(3)
+O16 O 0.5552(2) 0.2503(2) 0.5994(2)
+H7 H 0.518(2) 0.1938(18) 0.598(4)
+H8 H 0.555(5) 0.277(4) 0.655(3)
+Mg3 Mg 0.00000 0.00000 0.4957(3)
+O17 O 0.11135(19) 0.0811(2) 0.3998(2)
+H9 H 0.134(3) 0.063(3) 0.350(3)
+H10 H 0.126(3) 0.1330(18) 0.394(4)
+O18 O -0.11146(19) -0.08199(19) 0.5896(2)
+H11 H -0.108(4) -0.048(4) 0.644(5)
+H12 H -0.145(3) -0.139(3) 0.593(3)
+O19 O 0.16024(18) 0.15759(17) 0.7422(3)
+H13 H 0.196(2) 0.172(3) 0.697(3)
+H14 H 0.172(3) 0.200(3) 0.779(4)
+O20 O 0.6615(2) 0.49076(19) 0.2484(3)
+H15 H 0.690(4) 0.538(4) 0.279(5)
+H16 H 0.638(3) 0.503(3) 0.198(4)
+O21 O 0.3367(3) 0.5078(2) 0.2409(3)
+H17 H 0.314(3) 0.468(3) 0.200(4)
+H18 H 0.374(3) 0.499(3) 0.269(4)
+Na1A Na 0.66150(8) 1.00455(20) 0.4933(4)
+Na1B Na 0.99545(8) 0.65695(20) 0.4933(4)
+O3A O 0.3966(2) 0.2500(2) 0.4064(3)
+O4A O 0.2928(2) 0.2031(2) 0.5912(3)
+O11B O 0.2003(2) 0.2743(2) 0.4077(3)
+O12B O 0.2570(2) 0.3930(2) 0.5830(3)
+O13A O 0.4446(2) 0.6975(2) 0.3928(3)
+H1A H 0.471(3) 0.739(3) 0.344(3)
+H2A H 0.4610(18) 0.6614(30) 0.381(4)
+O14A O 0.4153(2) 0.7788(2) 0.5831(3)
+H3A H 0.395(4) 0.777(4) 0.642(3)
+H4A H 0.4714(30) 0.8074(17) 0.587(4)
+O13B O 0.3025(2) 0.7471(2) 0.3928(3)
+H1B H 0.261(3) 0.732(3) 0.344(3)
+H2B H 0.3386(18) 0.7996(30) 0.381(4)
+O14B O 0.2212(2) 0.6365(2) 0.5831(3)
+H3B H 0.223(4) 0.618(4) 0.642(3)
+H4B H 0.1926(30) 0.6640(17) 0.587(4)
+O15A O 0.5871(2) 0.3649(2) 0.4086(2)
+H5A H 0.5344(30) 0.3284(19) 0.401(4)
+H6A H 0.603(3) 0.403(3) 0.358(3)
+O16A O 0.7497(2) 0.3049(2) 0.5994(2)
+H7A H 0.8062(20) 0.3242(18) 0.598(4)
+H8A H 0.723(5) 0.278(4) 0.655(3)
+O15B O 0.6351(2) 0.2222(2) 0.4086(2)
+H5B H 0.6716(30) 0.2060(19) 0.401(4)
+H6B H 0.597(3) 0.200(3) 0.358(3)
+O16B O 0.6951(2) 0.4448(2) 0.5994(2)
+H7B H 0.6758(20) 0.4820(18) 0.598(4)
+H8B H 0.722(5) 0.445(4) 0.655(3)
+O17A O -0.08110(19) 0.03025(20) 0.3998(2)
+H9A H -0.063(3) 0.071(3) 0.350(3)
+H10A H -0.133(3) -0.0070(18) 0.394(4)
+O18A O 0.08199(19) -0.02947(19) 0.5896(2)
+H11A H 0.048(4) -0.060(4) 0.644(5)
+H12A H 0.139(3) -0.006(3) 0.593(3)
+O17B O -0.03025(19) -0.11135(20) 0.3998(2)
+H9B H -0.071(3) -0.134(3) 0.350(3)
+H10B H 0.007(3) -0.1260(18) 0.394(4)
+O18B O 0.02947(19) 0.11146(19) 0.5896(2)
+H11B H 0.060(4) 0.108(4) 0.644(5)
+H12B H 0.006(3) 0.145(3) 0.593(3)
+#END

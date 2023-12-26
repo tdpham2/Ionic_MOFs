@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAHMON03
+_audit_creation_date 2015-03-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAHMON03
+_database_code_depnum_ccdc_archive 'CCDC 1055053'
+_chemical_formula_sum 'C3 H7 Cd1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cd1 O6 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 54
+_journal_year 2015
+_journal_page_first 2109
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"L.C.Gomez-Aguirre"
+"B.Pato-Doldan"
+"A.Stroppa"
+"S.Yanez-Vilar"
+"L.Bayarjargal"
+"B.Winkler"
+"S.Castro-Garcia"
+"J.Mira"
+"M.Sanchez-Andujar"
+"M.A.Senaris-Rodriguez"
+_chemical_name_systematic
+;
+catena-(Ammonium tris(\m~2~-formato)-cadmium)
+;
+_cell_volume    720.934
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.446
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0162
+_refine_ls_wR_factor_gt 0.0162
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+_cell_length_a 6.9949(1)
+_cell_length_b 9.5029(2)
+_cell_length_c 10.8457(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.9291(2) -0.71133(14) 0.9722(2)
+O2 O 1.2670(2) -0.29589(15) 0.94882(18)
+O3 O 1.2641(2) -0.5422(2) 1.14766(16)
+O4 O 0.8536(2) -0.90193(17) 0.86247(17)
+O5 O 1.0152(3) -0.5366(2) 1.27331(18)
+C1 C 1.1878(4) -0.5307(3) 1.2520(2)
+O6 O 1.3322(2) -0.09556(17) 1.04691(18)
+C2 C 1.2406(3) -0.2058(3) 1.0303(2)
+C3 C 0.9468(3) -0.7924(2) 0.8826(2)
+H1 H 1.035(4) -0.759(3) 0.816(2)
+H2 H 1.136(4) -0.226(3) 1.085(3)
+H3 H 1.276(5) -0.516(3) 1.324(3)
+Cd1 Cd 1.102442(18) -0.504101(12) 0.96853(8)
+N1 N 0.8482(3) -1.1299(2) 0.6781(2)
+H4 H 0.780(5) -1.046(4) 0.668(3)
+H5 H 0.809(5) -1.195(4) 0.616(3)
+H6 H 0.972(3) -1.087(4) 0.666(4)
+H7 H 0.842(5) -1.168(4) 0.762(4)
+O4C O 1.3536(2) -0.59807(17) 0.86247(17)
+O5A O 0.9848(3) -0.4634(2) 0.77331(18)
+O6C O 0.8322(2) -0.40444(17) 1.04691(18)
+Cd1A Cd 0.897558(18) -0.495899(12) 1.46853(8)
+Cd1C Cd 0.602442(18) -0.995899(12) 0.96853(8)
+Cd1C* Cd 1.602442(18) 0.004101(12) 0.96853(8)
+#END

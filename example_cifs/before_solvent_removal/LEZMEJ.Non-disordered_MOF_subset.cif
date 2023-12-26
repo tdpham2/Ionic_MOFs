@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LEZMEJ
+_audit_creation_date 2007-05-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LEZMEJ
+_database_code_depnum_ccdc_archive 'CCDC 634538'
+_chemical_formula_sum 'C8 H8 K2 Mg1 O10'
+_chemical_formula_moiety
+;
+(C8 H8 Mg1 O10 2-)n,2n(K1 1+)
+;
+_journal_coden_Cambridge 971
+_journal_volume 9
+_journal_year 2007
+_journal_page_first 137
+_journal_name_full 'Solid State Sciences '
+loop_
+_publ_author_name
+"Z.Hulvey"
+"A.K.Cheetham"
+_chemical_name_systematic
+;
+catena-(Potassium 
+(\m~2~-cyclobutane-1,2,3,4-tetracarboxylato)-diaqua-magnesium)
+;
+_cell_volume   1179.679
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.064
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0465
+_refine_ls_wR_factor_gt 0.0465
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c c n'
+_symmetry_Int_Tables_number 56
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,z
+3 -x,1/2+y,1/2-z
+4 1/2+x,-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,y,-1/2+z
+_cell_length_a 9.3823(12)
+_cell_length_b 14.4105(18)
+_cell_length_c 8.7252(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+K 1.33
+Mg 1.10
+O 0.90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg 0.50000 0.50000 0.50000
+K1 K 0.80294(7) 0.62542(5) 0.63386(10)
+C1 C -0.0011(3) 0.78947(17) 0.3881(3)
+O1 O 0.2859(2) 0.52779(13) 0.5230(3)
+C2 C 0.1926(3) 0.59080(18) 0.5189(3)
+O2 O -0.05371(19) 0.86834(12) 0.4146(2)
+O3 O 0.0746(2) 0.58556(15) 0.5831(3)
+O4 O 0.4640(3) 0.45135(14) 0.2809(3)
+O5 O -0.0607(2) 0.73016(13) 0.3041(3)
+C3 C 0.2238(3) 0.67747(17) 0.4277(3)
+C4 C 0.1387(3) 0.76632(17) 0.4640(3)
+H1 H 0.116(3) 0.769(2) 0.571(3)
+H2 H 0.219(3) 0.658(2) 0.325(3)
+H3 H 0.459(4) 0.490(3) 0.216(4)
+H4 H 0.469(4) 0.398(2) 0.251(5)
+Mg1E Mg 0.00000 1.00000 0.50000
+C1A C 0.5011(3) 0.71053(17) 0.3881(3)
+O1A O 0.2141(2) 0.97221(13) 0.5230(3)
+O1D O 0.7141(2) 0.47221(13) 0.4770(3)
+C2A C 0.3074(3) 0.90920(18) 0.5189(3)
+O2A O 0.55371(19) 0.63166(12) 0.4146(2)
+O2E O 0.44629(19) 0.36834(12) 0.5854(2)
+O3A O 0.4254(2) 0.91444(15) 0.5831(3)
+O4D O 0.5360(3) 0.54865(14) 0.7191(3)
+O5A O 0.5607(2) 0.76984(13) 0.3041(3)
+C3A C 0.2762(3) 0.82253(17) 0.4277(3)
+C4A C 0.3613(3) 0.73368(17) 0.4640(3)
+H1A H 0.384(3) 0.731(2) 0.571(3)
+H2A H 0.281(3) 0.842(2) 0.325(3)
+H3D H 0.541(4) 0.510(3) 0.784(4)
+H4D H 0.531(4) 0.602(2) 0.749(5)
+#END

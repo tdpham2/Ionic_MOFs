@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIKVIN
+_audit_creation_date 2018-10-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIKVIN
+_database_code_depnum_ccdc_archive 'CCDC 1861547'
+_chemical_formula_sum 'C24 H26 Cd1 N2 O10'
+_chemical_formula_moiety
+;
+(C20 H6 Cd1 O8 2-)n,2(C2 H8 N1 1+),2(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 18
+_journal_year 2018
+_journal_page_first 7088
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Lei Hu"
+"Xu-Jia Hong"
+"Xiao-Ming Lin"
+"Jia Lin"
+"Qiu-Xia Cheng"
+"B.Lokesh"
+"Yue-Peng Cai"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) 
+(\m-pyrene-1,3,6,8-tetracarboxylato)-cadmium(ii) dihydrate]
+;
+_cell_volume   2953.332
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+Disordered dimethylammonium cations and water solvent molecules were not 
+modelled and the disordered density was taken into account using the 
+SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0311
+_refine_ls_wR_factor_gt 0.0311
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.6602(14)
+_cell_length_b 16.035(3)
+_cell_length_c 21.649(4)
+_cell_angle_alpha 90
+_cell_angle_beta 100.773(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.50000 0.95244(2) 0.25000
+C1 C 0.3725(4) 0.84410(15) 0.32416(12)
+C2 C 0.3040(3) 0.78464(16) 0.36610(11)
+C3 C 0.2325(3) 0.71219(16) 0.33965(12)
+H1 H 0.22650 0.70270 0.29690
+C4 C 0.1701(3) 0.65379(15) 0.37494(12)
+C5 C 0.1754(3) 0.66731(15) 0.43958(11)
+C6 C 0.1144(4) 0.60972(16) 0.47941(13)
+H2 H 0.06870 0.56050 0.46210
+C7 C 0.3793(3) 0.87582(16) 0.45934(12)
+H3 H 0.41930 0.91550 0.43520
+C8 C 0.3123(3) 0.80064(15) 0.43002(11)
+C9 C 0.2473(3) 0.74205(14) 0.46754(11)
+C10 C 0.0948(4) 0.57765(18) 0.34048(13)
+O1 O 0.2852(3) 0.87867(15) 0.28142(11)
+O2 O 0.5152(3) 0.85565(16) 0.33407(12)
+O3 O 0.1702(3) 0.54357(12) 0.30427(12)
+O4 O -0.0346(4) 0.55406(16) 0.34824(15)
+C1F C 0.1275(4) 0.65590(15) 0.67584(12)
+C2F C 0.1960(3) 0.71536(16) 0.63390(11)
+C3F C 0.2675(3) 0.78781(16) 0.66035(12)
+H1F H 0.27350 0.79730 0.70310
+C4F C 0.3299(3) 0.84621(15) 0.62506(12)
+C5F C 0.3246(3) 0.83269(15) 0.56042(11)
+C6F C 0.3856(4) 0.89028(16) 0.52059(13)
+H2F H 0.43130 0.93950 0.53790
+C7F C 0.1207(3) 0.62418(16) 0.54066(12)
+H3F H 0.08070 0.58450 0.56480
+C8F C 0.1877(3) 0.69936(15) 0.56998(11)
+C9F C 0.2527(3) 0.75795(14) 0.53246(11)
+C10F C 0.4052(4) 0.92235(18) 0.65952(13)
+O1F O 0.2148(3) 0.62133(15) 0.71858(11)
+O2F O -0.0152(3) 0.64435(16) 0.66593(12)
+O3F O 0.3298(3) 0.95643(12) 0.69573(12)
+O4F O 0.5346(4) 0.94594(16) 0.65176(15)
+Cd1B Cd 0.00000 0.45244(2) 0.25000
+Cd1D Cd 0.50000 1.04756(2) 0.75000
+Cd1F Cd 0.00000 0.54756(2) 0.75000
+O1A O 0.7148(3) 0.87867(15) 0.21858(11)
+O2A O 0.4848(3) 0.85565(16) 0.16593(12)
+O3B O 0.6702(3) 1.04357(12) 0.30427(12)
+O3C O 0.3298(3) 1.04357(12) 0.19573(12)
+O4B O 0.4654(4) 1.05406(16) 0.34824(15)
+O4C O 0.5346(4) 1.05406(16) 0.15176(15)
+#END

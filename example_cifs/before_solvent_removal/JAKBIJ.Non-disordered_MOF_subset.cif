@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAKBIJ
+_audit_creation_date 2017-01-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAKBIJ
+_database_code_depnum_ccdc_archive 'CCDC 1515779'
+_chemical_formula_sum 'C15 H22 Mn1 N9 P1'
+_chemical_formula_moiety
+;
+C9 H22 P1 1+,n(C6 Mn1 N9 1-)
+;
+_journal_coden_Cambridge 1695
+_journal_volume 5
+_journal_year 2017
+_journal_page_first 1529
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"Fu-Juan Geng"
+"Lin Zhou"
+"Ping-Ping Shi"
+"Xiao-Li Wang"
+"Xuan Zheng"
+"Yi Zhang"
+"Da-Wei Fu"
+"Qiong Ye"
+_chemical_name_systematic
+;
+catena-[triethyl(propyl)phosphonium tris(\m-dicyanamide)-manganese]
+;
+_cell_volume   2114.782
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.301
+_exptl_special_details
+;
+reversible phase transition at 363 K with large thermal hysteresis
+
+;
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature 293
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0552
+_refine_ls_wR_factor_gt 0.0552
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 10.496(2)
+_cell_length_b 12.396(3)
+_cell_length_c 16.254(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7628(12) 0.8866(6) 0.0292(5)
+H1 H 0.77000 0.85630 0.08400
+H2 H 0.67320 0.88610 0.01450
+C2 C 0.8307(11) 0.8161(7) -0.0278(6)
+H3 H 0.92100 0.81960 -0.01530
+H4 H 0.81930 0.84370 -0.08320
+C3 C 0.7900(13) 0.6999(7) -0.0264(6)
+H5 H 0.80410 0.67060 0.02750
+H6 H 0.83870 0.65990 -0.06600
+H7 H 0.70110 0.69510 -0.03980
+C4 C 0.8103(9) 1.0856(7) -0.0664(5)
+H8 H 0.83930 1.15960 -0.06120
+H9 H 0.87010 1.04840 -0.10200
+C5 C 0.6825(11) 1.0863(10) -0.1077(7)
+H10 H 0.65580 1.01340 -0.11800
+H11 H 0.68830 1.12460 -0.15890
+H12 H 0.62150 1.12130 -0.07270
+C6 C 0.7141(8) 1.0972(7) 0.1031(5)
+H13 H 0.74140 1.17200 0.10450
+H14 H 0.62760 1.09580 0.08210
+C7 C 0.7137(10) 1.0542(7) 0.1890(5)
+H15 H 0.68230 0.98150 0.18880
+H16 H 0.65970 1.09820 0.22280
+H17 H 0.79890 1.05520 0.21050
+C8 C 0.9779(8) 1.0306(7) 0.0681(6)
+H18 H 0.98450 0.99230 0.11990
+H19 H 1.03210 0.99410 0.02860
+C9 C 1.0263(8) 1.1450(8) 0.0799(6)
+H20 H 1.04640 1.17590 0.02730
+H21 H 1.10140 1.14380 0.11360
+H22 H 0.96170 1.18750 0.10630
+P1 P 0.81561(18) 1.02408(14) 0.03278(12)
+C10 C 0.3289(6) 1.1054(5) 0.9844(3)
+C11 C 0.3525(6) 1.0629(6) 1.1187(3)
+C12 C 0.0862(6) 0.8380(6) 0.8342(4)
+C13 C 0.0042(7) 0.6998(5) 0.7599(5)
+C14 C 0.4439(9) 0.8581(9) 0.8188(5)
+C15 C 0.5821(9) 0.7186(7) 0.7940(5)
+Mn1 Mn 0.22651(8) 1.04889(6) 0.79988(4)
+N1 N 0.2812(6) 1.1098(4) 0.9224(3)
+N2 N 0.3909(6) 1.1126(7) 1.0524(3)
+N3 N 0.3285(6) 1.0229(5) 1.1785(3)
+N4 N 0.0975(6) 0.9239(5) 0.8571(3)
+N5 N 0.0865(7) 0.7361(4) 0.8127(5)
+N6 N -0.0625(6) 0.6601(4) 0.7131(4)
+N7 N 0.3832(6) 0.9290(5) 0.8087(4)
+N8 N 0.5165(11) 0.7787(8) 0.8442(6)
+N9 N 0.6464(7) 0.6653(5) 0.7602(4)
+Mn1A Mn 0.27349(8) 0.95111(6) 1.29988(4)
+Mn1B Mn -0.22651(8) 0.54889(6) 0.70012(4)
+Mn1B* Mn 0.77349(8) 0.54889(6) 0.70012(4)
+N3A N 0.1715(6) 0.9771(5) 0.6785(3)
+N6B N 0.0625(6) 1.1601(4) 0.7869(4)
+N9B N 0.3536(7) 1.1653(5) 0.7398(4)
+#END

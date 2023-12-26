@@ -1,0 +1,157 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IHIROJ
+_audit_creation_date 2020-03-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IHIROJ
+_database_code_depnum_ccdc_archive 'CCDC 1988706'
+_chemical_formula_sum 'C26.64 H25.28 Cl7.28 N2 O12 Zn2'
+_chemical_formula_moiety
+;
+(C18 Cl6 O12 Zn2 2-)n,2n(C4 H12 N1 1+),0.64n(C1 H2 Cl2)
+;
+_journal_coden_Cambridge 4
+_journal_volume 142
+_journal_year 2020
+_journal_page_first 4705
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Lujia Liu"
+"Liang Li"
+"M.E.Ziebel"
+"T.David Harris"
+_chemical_name_systematic
+;
+catena-(bis(diethylammonium) 
+tris(\m-2,5-dichloro-3,6-dioxy-1,4-benzoquinone)-di-zinc(ii) dichloromethane 
+solvate)
+;
+_cell_volume   1708.580
+_exptl_crystal_colour 'red'
+_exptl_crystal_description 'hexagonal'
+_diffrn_ambient_temperature 100.0
+_refine_special_details
+;
+C3,C4,C5,C6 disordered over one sites with occupancies 0.3333. The site 
+represented as O1 is a mixed oxo/imino group with occupancies 0.6833:0.3167. 
+The MASK/OLEX2 program was used to model the disordered solvent.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1125
+_refine_ls_wR_factor_gt 0.1125
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_symmetry_Int_Tables_number 162
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,-z
+5 -x+y,y,-z
+6 x,x-y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,z
+11 x-y,-y,z
+12 -x,-x+y,z
+_cell_length_a 13.9533(10)
+_cell_length_b 13.9533(10)
+_cell_length_c 10.1333(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.33333 0.66667 0.50000
+Cl1 Cl 0.3862(6) 0.3862(6) 0.7688(6)
+O1 O 0.3546(6) 0.5519(7) 0.6121(7)
+C1 C 0.4226(9) 0.5244(9) 0.5662(10)
+C2 C 0.4493(12) 0.4493(12) 0.6245(16)
+N1? N 0.3546(6) 0.5519(7) 0.6121(7)
+H1? H 0.31859 0.52431 0.68650
+N2 N 0.66667 0.33333 0.00000
+C3 C 0.846(3) 0.489(2) 0.109(4)
+H2 H 0.87244 0.53254 0.18989
+H3 H 0.88512 0.44754 0.09560
+H4 H 0.86097 0.53880 0.03343
+C4 C 0.720(3) 0.407(2) 0.119(2)
+H5 H 0.70686 0.35951 0.19696
+H6 H 0.68278 0.45050 0.13498
+C5 C 0.5447(15) 0.259(3) 0.027(3)
+H7 H 0.51238 0.30708 0.04587
+H8 H 0.53646 0.21605 0.10769
+C6 C 0.476(3) 0.178(2) -0.085(4)
+H9 H 0.39836 0.13407 -0.05718
+H10 H 0.48086 0.21935 -0.16481
+H11 H 0.50502 0.12805 -0.10281
+Cl1C Cl 0.6138(6) 0.6138(6) 0.2312(6)
+O1C O 0.4481(6) 0.6454(7) 0.3879(7)
+C1C C 0.4756(9) 0.5774(9) 0.4338(10)
+C2C C 0.5507(12) 0.5507(12) 0.3755(16)
+O1F O 0.6454(6) 0.4481(7) 0.3879(7)
+C1F C 0.5774(9) 0.4756(9) 0.4338(10)
+O1I O 0.5519(6) 0.3546(7) 0.6121(7)
+C1I C 0.5244(9) 0.4226(9) 0.5662(10)
+Cl1A Cl 0.6138(6) 1.0000(6) 0.7688(6)
+O1A O 0.4481(6) 0.8027(7) 0.6121(7)
+C1A C 0.4756(9) 0.8982(9) 0.5662(10)
+C2A C 0.5507(12) 1.0000(12) 0.6245(16)
+Cl1E Cl 0.3862(6) 1.0000(6) 0.2312(6)
+O1E O 0.3546(6) 0.8027(7) 0.3879(7)
+C1E C 0.4226(9) 0.8982(9) 0.4338(10)
+C2E C 0.4493(12) 1.0000(12) 0.3755(16)
+O1G O 0.5519(6) 1.1973(7) 0.3879(7)
+C1G C 0.5244(9) 1.1018(9) 0.4338(10)
+O1K O 0.6454(6) 1.1973(7) 0.6121(7)
+C1K C 0.5774(9) 1.1018(9) 0.5662(10)
+Cl1B Cl 0.0000(6) 0.6138(6) 0.7688(6)
+O1B O 0.1973(6) 0.6454(7) 0.6121(7)
+C1B C 0.1018(9) 0.5774(9) 0.5662(10)
+C2B C 0.0000(12) 0.5507(12) 0.6245(16)
+Cl1D Cl 0.0000(6) 0.3862(6) 0.2312(6)
+O1D O 0.1973(6) 0.5519(7) 0.3879(7)
+C1D C 0.1018(9) 0.5244(9) 0.4338(10)
+C2D C 0.0000(12) 0.4493(12) 0.3755(16)
+O1H O -0.1973(6) 0.3546(7) 0.3879(7)
+C1H C -0.1018(9) 0.4226(9) 0.4338(10)
+O1J O -0.1973(6) 0.4481(7) 0.6121(7)
+C1J C -0.1018(9) 0.4756(9) 0.5662(10)
+Zn1F Zn 0.66667 0.33333 0.50000
+Zn1F* Zn -0.33333 0.33333 0.50000
+Zn1F** Zn 0.66667 1.33333 0.50000
+O1G* O 0.5519(6) 0.1973(7) 0.3879(7)
+O1H* O 0.8027(6) 0.3546(7) 0.3879(7)
+O1J* O 0.8027(6) 0.4481(7) 0.6121(7)
+O1K* O 0.6454(6) 0.1973(7) 0.6121(7)
+#END

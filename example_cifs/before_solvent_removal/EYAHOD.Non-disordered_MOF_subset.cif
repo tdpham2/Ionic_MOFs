@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EYAHOD
+_audit_creation_date 2016-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EYAHOD
+_database_code_depnum_ccdc_archive 'CCDC 881947'
+_chemical_formula_sum 'C20 H50 Cu2 N4 O21'
+_chemical_formula_moiety
+;
+(C8 Cu2 O16 4-)n,4(C3 H10 N1 1+),5(H2 O1)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2016
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Zhang Bin"
+_chemical_name_systematic
+;
+catena-[tetrakis(trimethylammonium) 
+bis(\m-oxalato)-bis(oxalato)-di-copper(ii) pentahydrate]
+;
+_cell_volume    912.011
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.474
+_exptl_special_details
+;
+Organic Solid Laboratory, BNLMS, CMS & Institute of Chemistry, Chinese 
+Academy of Sciences, Beijing, 100190, P. R. China
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0377
+_refine_ls_wR_factor_gt 0.0377
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.1043(3)
+_cell_length_b 9.4286(3)
+_cell_length_c 11.6225(4)
+_cell_angle_alpha 94.154(1)
+_cell_angle_beta 112.273(1)
+_cell_angle_gamma 95.734(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.50037(3) 0.73938(3) -0.12741(2)
+O1 O 0.33961(19) 0.77733(17) -0.28904(15)
+O2 O 0.61267(19) 0.67513(18) -0.23108(16)
+O3 O 0.2989(2) 0.7541(2) -0.49058(16)
+O4 O 0.5987(2) 0.6773(2) -0.42612(18)
+O5 O 0.3823(2) 0.83066(16) -0.03521(15)
+O6 O 0.3578(2) 1.03487(17) 0.06068(17)
+O7 O 0.63775(19) 0.65287(17) 0.01942(15)
+O8 O 0.65852(19) 0.47346(16) 0.13509(14)
+C1 C 0.3790(3) 0.7459(2) -0.3804(2)
+C2 C 0.5453(3) 0.6947(2) -0.3446(2)
+C3 C 0.4245(3) 0.9623(3) 0.0075(2)
+C4 C 0.5854(3) 0.5353(2) 0.0451(2)
+O9 O 0.0217(3) 0.8850(3) -0.5743(3)
+H1 H 0.085(4) 0.807(3) -0.542(3)
+H2 H 0.105(4) 0.961(3) -0.573(4)
+O10 O 0.9550(3) 0.7946(3) 0.1691(2)
+H3 H 0.858(3) 0.755(4) 0.102(2)
+H4 H 0.934(4) 0.812(4) 0.245(2)
+O11 O 0.00000 1.00000 0.00000
+H5 H 0.063(9) 0.960(8) 0.072(4)
+N1 N 0.4720(3) 0.7677(3) 0.3371(2)
+H6 H 0.47310 0.73420 0.40880
+C5 C 0.4365(9) 0.9145(4) 0.3400(4)
+H7 H 0.33410 0.91590 0.34550
+H8 H 0.43420 0.95230 0.26500
+H9 H 0.51770 0.97220 0.41150
+C6 C 0.3441(4) 0.6782(3) 0.2317(3)
+H10 H 0.36650 0.58090 0.23080
+H11 H 0.33810 0.71330 0.15480
+H12 H 0.24380 0.68180 0.24040
+C7 C 0.6267(5) 0.7519(8) 0.3293(4)
+H13 H 0.64150 0.65250 0.32820
+H14 H 0.71140 0.80670 0.40060
+H15 H 0.62860 0.78630 0.25400
+N2 N 0.9493(3) 0.3288(2) 0.2294(2)
+H16 H 0.84100 0.32150 0.20430
+C8 C 0.9963(4) 0.1861(3) 0.2629(3)
+H17 H 0.96910 0.16240 0.33200
+H18 H 1.10970 0.18910 0.28620
+H19 H 0.94040 0.11470 0.19230
+C9 C 0.9891(4) 0.3691(3) 0.1231(3)
+H20 H 0.95720 0.46120 0.10300
+H21 H 0.93350 0.29850 0.05170
+H22 H 1.10250 0.37370 0.14550
+C10 C 1.0217(4) 0.4406(4) 0.3400(3)
+H23 H 0.99260 0.41110 0.40670
+H24 H 0.98290 0.52980 0.31740
+H25 H 1.13630 0.45310 0.36710
+O5A O 0.6177(2) 1.16934(16) 0.03521(15)
+O6A O 0.6422(2) 0.96513(17) -0.06068(17)
+C3A C 0.5755(3) 1.0377(3) -0.0075(2)
+O7A O 0.36225(19) 0.34713(17) -0.01942(15)
+O8A O 0.34148(19) 0.52654(16) -0.13509(14)
+C4A C 0.4146(3) 0.4647(2) -0.0451(2)
+Cu1A Cu 0.49963(3) 0.26062(3) 0.12741(2)
+O1A O 0.66039(19) 0.22267(17) 0.28904(15)
+O2A O 0.38733(19) 0.32487(18) 0.23108(16)
+O3A O 0.7011(2) 0.2459(2) 0.49058(16)
+O4A O 0.4013(2) 0.3227(2) 0.42612(18)
+C1A C 0.6210(3) 0.2541(2) 0.3804(2)
+C2A C 0.4547(3) 0.3053(2) 0.3446(2)
+Cu1A* Cu 0.49963(3) 1.26062(3) 0.12741(2)
+O5A* O 0.6177(2) 0.16934(16) 0.03521(15)
+O6* O 0.3578(2) 0.03487(17) 0.06068(17)
+H5A H -0.063(9) 1.040(8) -0.072(4)
+#END

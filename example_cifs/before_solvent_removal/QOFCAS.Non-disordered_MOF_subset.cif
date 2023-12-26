@@ -1,0 +1,228 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOFCAS
+_audit_creation_date 2019-03-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOFCAS
+_database_code_depnum_ccdc_archive 'CCDC 1824755'
+_chemical_formula_sum 'C20 H20 Br1.818 Cl4 N1 O8 Y1'
+_chemical_formula_moiety
+;
+(C12 Cl4 O8 Y1 1-)n,C8 H20 N1 1+,0.909(Br2)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 25
+_journal_year 2019
+_journal_page_first 5222
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"B.F.Abrahams"
+"C.J.Kingsbury"
+"J.E.Auckett"
+"H.Chevreau"
+"A.David Dharma"
+"S.Duyker"
+"Qilin He"
+"Carol Hua"
+"T.A.Hudson"
+"K.S.Murray"
+"W.Phonsri"
+"V.K.Peterson"
+"R.Robson"
+"K.F.White"
+_chemical_name_systematic
+;
+catena-[tetraethylammonium 
+bis(\m-2,5-dichloro-3,6-dioxocyclohexa-1,4-diene-1,4-diolato)-yttrium(iii) 
+bromine]
+;
+_chemical_name_common
+;
+catena-[tetraethylammonium bis(mu-chloranilato)-yttrium(iii) bromine]
+;
+_cell_volume   2991.453
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 1.728
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+The structure is disordered by symmetry.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0688
+_refine_ls_wR_factor_gt 0.0688
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 4/m c m'
+_symmetry_Int_Tables_number 140
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 -x,y,1/2-z
+6 x,-y,1/2-z
+7 y,x,1/2-z
+8 -y,-x,1/2-z
+9 1/2+x,1/2+y,1/2+z
+10 1/2-x,1/2-y,1/2+z
+11 1/2-y,1/2+x,1/2+z
+12 1/2+y,1/2-x,1/2+z
+13 1/2-x,1/2+y,-z
+14 1/2+x,1/2-y,-z
+15 1/2+y,1/2+x,-z
+16 1/2-y,1/2-x,-z
+17 -x,-y,-z
+18 x,y,-z
+19 y,-x,-z
+20 -y,x,-z
+21 x,-y,-1/2+z
+22 -x,y,-1/2+z
+23 -y,-x,-1/2+z
+24 y,x,-1/2+z
+25 -1/2-x,-1/2-y,-1/2-z
+26 -1/2+x,-1/2+y,-1/2-z
+27 -1/2+y,-1/2-x,-1/2-z
+28 -1/2-y,-1/2+x,-1/2-z
+29 -1/2+x,-1/2-y,z
+30 -1/2-x,-1/2+y,z
+31 -1/2-y,-1/2-x,z
+32 -1/2+y,-1/2+x,z
+_cell_length_a 12.1351(13)
+_cell_length_b 12.1351(13)
+_cell_length_c 20.314(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cl 0.99
+N 0.68
+O 0.68
+Y 1.90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Y1 Y 0.50000 0.50000 0.75000
+O1 O 0.6454(4) 0.5811(4) 0.6914(2)
+C1 C 0.7827(6) 0.7173(6) 0.6841(5)
+C2 C 0.6977(6) 0.6610(6) 0.7151(3)
+Cl1 Cl 0.82455(17) 0.67545(17) 0.60552(10)
+C3 C 0.7009(12) 0.4428(12) 0.5126(7)
+H1 H 0.68550 0.38770 0.48000
+H2 H 0.75180 0.41360 0.54440
+H3 H 0.73270 0.50630 0.49180
+C4 C 0.5995(12) 0.4740(14) 0.5454(6)
+H4 H 0.61420 0.53850 0.57220
+H5 H 0.57850 0.41480 0.57490
+N1 N 0.50000 0.50000 0.50000
+Br1 Br 1.065(3) 0.452(3) 0.7679(5)
+Br2? Br 0.922(2) 0.563(2) 0.8088(5)
+O1F O 0.5811(4) 0.6454(4) 0.8086(2)
+C1F C 0.7173(6) 0.7827(6) 0.8159(5)
+C2F C 0.6610(6) 0.6977(6) 0.7849(3)
+Cl1F Cl 0.67545(17) 0.82455(17) 0.89448(10)
+O1X O 0.8546(4) 0.9189(4) 0.8086(2)
+C2X C 0.8023(6) 0.8390(6) 0.7849(3)
+O1DA O 0.9189(4) 0.8546(4) 0.6914(2)
+C2DA C 0.8390(6) 0.8023(6) 0.7151(3)
+O1A O 0.3546(4) 0.4189(4) 0.6914(2)
+C1A C 0.2173(6) 0.2827(6) 0.6841(5)
+C2A C 0.3023(6) 0.3390(6) 0.7151(3)
+Cl1A Cl 0.17545(17) 0.32455(17) 0.60552(10)
+O1G O 0.4189(4) 0.3546(4) 0.8086(2)
+C1G C 0.2827(6) 0.2173(6) 0.8159(5)
+C2G C 0.3390(6) 0.3023(6) 0.7849(3)
+Cl1G Cl 0.32455(17) 0.17545(17) 0.89448(10)
+O1Y O 0.1454(4) 0.0811(4) 0.8086(2)
+C2Y C 0.1977(6) 0.1610(6) 0.7849(3)
+O1EA O 0.0811(4) 0.1454(4) 0.6914(2)
+C2EA C 0.1610(6) 0.1977(6) 0.7151(3)
+Y1X Y 0.00000 0.00000 0.75000
+Y1X* Y 1.00000 1.00000 0.75000
+O1B O 0.4189(4) 0.6454(4) 0.6914(2)
+O1C O 0.5811(4) 0.3546(4) 0.6914(2)
+O1D O 0.3546(4) 0.5811(4) 0.8086(2)
+O1E O 0.6454(4) 0.4189(4) 0.8086(2)
+C3A C 0.2991(12) 0.5572(12) 0.5126(7)
+H1A H 0.31450 0.61230 0.48000
+H2A H 0.24820 0.58640 0.54440
+H3A H 0.26730 0.49370 0.49180
+C4A C 0.4005(12) 0.5260(14) 0.5454(6)
+H4A H 0.38580 0.46150 0.57220
+H5A H 0.42150 0.58520 0.57490
+C3B C 0.5572(12) 0.7009(12) 0.5126(7)
+H1B H 0.61230 0.68550 0.48000
+H2B H 0.58640 0.75180 0.54440
+H3B H 0.49370 0.73270 0.49180
+C4B C 0.5260(12) 0.5995(14) 0.5454(6)
+H4B H 0.46150 0.61420 0.57220
+H5B H 0.58520 0.57850 0.57490
+C3C C 0.4428(12) 0.2991(12) 0.5126(7)
+H1C H 0.38770 0.31450 0.48000
+H2C H 0.41360 0.24820 0.54440
+H3C H 0.50630 0.26730 0.49180
+C4C C 0.4740(12) 0.4005(14) 0.5454(6)
+H4C H 0.53850 0.38580 0.57220
+H5C H 0.41480 0.42150 0.57490
+C3P C 0.2991(12) 0.5572(12) 0.4874(7)
+H1P H 0.31450 0.61230 0.52000
+H2P H 0.24820 0.58640 0.45560
+H3P H 0.26730 0.49370 0.50820
+C4P C 0.4005(12) 0.5260(14) 0.4546(6)
+H4P H 0.38580 0.46150 0.42780
+H5P H 0.42150 0.58520 0.42510
+C3Q C 0.7009(12) 0.4428(12) 0.4874(7)
+H1Q H 0.68550 0.38770 0.52000
+H2Q H 0.75180 0.41360 0.45560
+H3Q H 0.73270 0.50630 0.50820
+C4Q C 0.5995(12) 0.4740(14) 0.4546(6)
+H4Q H 0.61420 0.53850 0.42780
+H5Q H 0.57850 0.41480 0.42510
+C3R C 0.4428(12) 0.2991(12) 0.4874(7)
+H1R H 0.38770 0.31450 0.52000
+H2R H 0.41360 0.24820 0.45560
+H3R H 0.50630 0.26730 0.50820
+C4R C 0.4740(12) 0.4005(14) 0.4546(6)
+H4R H 0.53850 0.38580 0.42780
+H5R H 0.41480 0.42150 0.42510
+C3S C 0.5572(12) 0.7009(12) 0.4874(7)
+H1S H 0.61230 0.68550 0.52000
+H2S H 0.58640 0.75180 0.45560
+H3S H 0.49370 0.73270 0.50820
+C4S C 0.5260(12) 0.5995(14) 0.4546(6)
+H4S H 0.46150 0.61420 0.42780
+H5S H 0.58520 0.57850 0.42510
+Br1A Br 0.935(3) 0.548(3) 0.7679(5)
+Br1D Br 0.935(3) 0.452(3) 0.7321(5)
+Br1E Br 1.065(3) 0.548(3) 0.7321(5)
+Br1Z Br 0.952(3) 0.435(3) 0.7321(5)
+Br1AA Br 1.048(3) 0.565(3) 0.7321(5)
+Br1DA Br 1.048(3) 0.435(3) 0.7679(5)
+Br1EA Br 0.952(3) 0.565(3) 0.7679(5)
+#END

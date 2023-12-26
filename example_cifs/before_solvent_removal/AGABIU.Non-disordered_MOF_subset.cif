@@ -1,0 +1,194 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AGABIU
+_audit_creation_date 2009-01-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AGABIU
+_database_code_depnum_ccdc_archive 'CCDC 674871'
+_chemical_formula_sum 'C30 H86 Li8 N6 Ni2 O55'
+_chemical_formula_moiety
+;
+(Li1 1+)5n,n(C30 H24 Li3 N6 Ni2 O24 5-),31n(H2 O1)
+;
+_journal_coden_Cambridge 155
+_journal_volume 361
+_journal_year 2008
+_journal_page_first 3394
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"D.Cangussu"
+"E.Pardo"
+"M.-C.Dul"
+"R.Lescouezec"
+"P.Herson"
+"Y.Journaux"
+"E.F.Pedroso"
+"C.L.M.Pereira"
+"H.O.Stumpf"
+"M.C.Munoz"
+"R.Ruiz-Garcia"
+"J.Cano"
+"M.Julve"
+"F.Lloret"
+_chemical_name_systematic
+;
+catena-(Penta-lithium 
+tris(\m~4~-N,N'-(1,3-phenylene)-bis(oxamato))-hexaaqua-tri-lithium(i)-di-nicke
+l(ii) hydrate)
+;
+_cell_volume   4467.791
+_exptl_special_details
+;
+magnetic properties
+air-sensitive
+isostructural with the Co(ii) analogue
+Due to the lithium disorder and the fact that some of the Li atoms have been 
+described as only weakly coordinating we have depicted the structure as a 
+polymer with five uncoordinated Li atoms
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+A Li atom is disordered by symmetry. A number of disordered uncoordinated 
+water molecules could not be located.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1144
+_refine_ls_wR_factor_gt 0.1144
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x-y,x,1/2+z
+3 -y,x-y,z
+4 -x+y,-x,z
+5 y,-x+y,1/2+z
+6 -x,-y,1/2+z
+7 -x,-y,-z
+8 -x+y,-x,-1/2-z
+9 y,-x+y,-z
+10 x-y,x,-z
+11 -y,x-y,-1/2-z
+12 x,y,-1/2-z
+_cell_length_a 18.605(2)
+_cell_length_b 18.605(2)
+_cell_length_c 14.9040(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Li 1.56
+N 0.68
+Ni 1.50
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.33330 0.66670 0.02000
+O1 O 0.49370 0.91280 0.08290
+O2 O 0.40930 0.90190 -0.06780
+O3 O 0.34390 0.76330 -0.06220
+N1 N 0.42580 0.76900 0.08660
+C1 C 0.46500 0.76750 0.16850
+C2 C 0.43420 0.77780 0.25000
+C3 C 0.52990 0.75010 0.16770
+C4 C 0.56120 0.74120 0.25000
+C5 C 0.44270 0.84050 0.05370
+C6 C 0.39440 0.83430 -0.03260
+Li1 Li 0.50000 1.00000 0.00000
+Li2 Li 0.51880 0.65880 -0.25000
+Li3 Li 0.00000 0.00000 0.25000
+Li4? Li 0.00000 0.00000 0.04260
+O4 O 0.50190 0.98170 0.25000
+O5 O 0.65150 0.96090 0.14220
+O6 O 0.60730 0.98280 -0.09820
+O7 O 0.55720 0.80920 -0.11900
+O8 O 0.09600 -0.00200 -0.11400
+O9 O 0.33330 0.66670 -0.25000
+Ni1K Ni 0.33330 0.66670 0.48000
+O1K O 0.49370 0.91280 0.41710
+O1B O 0.08720 0.58090 0.08290
+O1J O 0.08720 0.58090 0.41710
+O1C O 0.41910 0.50630 0.08290
+O1G O 0.41910 0.50630 0.41710
+O1F O 0.50630 1.08720 -0.08290
+O1E O 0.50630 1.08720 0.58290
+O1H O -0.08720 0.41910 -0.08290
+O2K O 0.40930 0.90190 0.56780
+O2B O 0.09810 0.50740 -0.06780
+O2J O 0.09810 0.50740 0.56780
+O2C O 0.49260 0.59070 -0.06780
+O2G O 0.49260 0.59070 0.56780
+O2F O 0.59070 1.09810 0.06780
+O2E O 0.59070 1.09810 0.43220
+O2H O -0.09810 0.49260 0.06780
+O3K O 0.34390 0.76330 0.56220
+O3B O 0.23670 0.58060 -0.06220
+O3J O 0.23670 0.58060 0.56220
+O3C O 0.41940 0.65610 -0.06220
+O3G O 0.41940 0.65610 0.56220
+N1K N 0.42580 0.76900 0.41340
+N1B N 0.23100 0.65680 0.08660
+N1J N 0.23100 0.65680 0.41340
+N1C N 0.34320 0.57420 0.08660
+N1G N 0.34320 0.57420 0.41340
+C1K C 0.46500 0.76750 0.33150
+C1B C 0.23250 0.69750 0.16850
+C1J C 0.23250 0.69750 0.33150
+C1C C 0.30250 0.53500 0.16850
+C1G C 0.30250 0.53500 0.33150
+C2B C 0.22220 0.65640 0.25000
+C2C C 0.34360 0.56580 0.25000
+C3K C 0.52990 0.75010 0.33230
+C3B C 0.24990 0.77980 0.16770
+C3J C 0.24990 0.77980 0.33230
+C3C C 0.22020 0.47010 0.16770
+C3G C 0.22020 0.47010 0.33230
+C4B C 0.25880 0.82000 0.25000
+C4C C 0.18000 0.43880 0.25000
+C5K C 0.44270 0.84050 0.44630
+C5B C 0.15950 0.60220 0.05370
+C5J C 0.15950 0.60220 0.44630
+C5C C 0.39780 0.55730 0.05370
+C5G C 0.39780 0.55730 0.44630
+C6K C 0.39440 0.83430 0.53260
+C6B C 0.16570 0.56010 -0.03260
+C6J C 0.16570 0.56010 0.53260
+C6C C 0.43990 0.60560 -0.03260
+C6G C 0.43990 0.60560 0.53260
+Li1K Li 0.50000 1.00000 0.50000
+Li1B Li 0.00000 0.50000 0.00000
+Li1D Li 0.00000 0.50000 0.50000
+Li1C Li 0.50000 0.50000 0.00000
+Li1A Li 0.50000 0.50000 0.50000
+O6F O 0.39270 1.01720 0.09820
+O6K O 0.60730 0.98280 0.59820
+O6E O 0.39270 1.01720 0.40180
+O6B O 0.01720 0.62450 -0.09820
+O6H O -0.01720 0.37550 0.09820
+#END

@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GAGRUE
+_audit_creation_date 2016-01-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GAGRUE
+_database_code_depnum_ccdc_archive 'CCDC 1439151'
+_chemical_formula_sum 'C10 H18 Cl3 In1 N2 O4 S1'
+_chemical_formula_moiety
+;
+(C6 H2 Cl3 In1 O4 S1 2-)n,2n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 16
+_journal_year 2016
+_journal_page_first 1550
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"J.J.Mihaly"
+"M.Zeller"
+"D.T.Genna"
+_chemical_name_systematic
+;
+catena-[dimethylammonium (\m-thiophene-2,5-dicarboxylato)-trichloro-indium]
+;
+_chemical_name_common
+;
+YCM-22
+;
+_cell_volume   1661.689
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.933
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0156
+_refine_ls_wR_factor_gt 0.0156
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -x,y,1/2-z
+4 x,-y,-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2-x,1/2+y,1/2-z
+8 1/2+x,1/2-y,-z
+9 -x,-y,-z
+10 x,y,-1/2-z
+11 x,-y,-1/2+z
+12 -x,y,z
+13 -1/2-x,-1/2-y,-z
+14 -1/2+x,-1/2+y,-1/2-z
+15 -1/2+x,-1/2-y,-1/2+z
+16 -1/2-x,-1/2+y,z
+_cell_length_a 12.2419(7)
+_cell_length_b 13.2271(7)
+_cell_length_c 10.2621(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+In 1.42
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.00000 0.21860(9) 0.49402(11)
+C2 C 0.00000 0.18348(9) 0.63049(11)
+C3 C 0.00000 0.08662(9) 0.68086(12)
+H1 H 0.00000 0.02710 0.62910
+Cl1 Cl 0.19987(3) 0.29561(3) 0.25000
+Cl2 Cl 0.00000 0.47997(3) 0.25000
+In1 In 0.00000 0.28513(2) 0.25000
+O1 O 0.00000 0.15649(7) 0.40027(9)
+O2 O 0.00000 0.31352(7) 0.47256(9)
+S1 S 0.00000 0.27356(3) 0.75000
+C4 C 0.23575(10) 0.42247(9) 0.56755(11)
+H2 H 0.27620 0.38260 0.50310
+H3 H 0.18760 0.37780 0.61760
+H4 H 0.28740 0.45560 0.62670
+N1 N 0.16947(10) 0.50000 0.50000
+H5 H 0.12560 0.46890 0.44070
+H6? H 0.12560 0.46890 0.44070
+C1B C 0.00000 0.21860(9) 1.00598(11)
+C2B C 0.00000 0.18348(9) 0.86951(11)
+C3B C 0.00000 0.08662(9) 0.81914(12)
+H1B H 0.00000 0.02710 0.87090
+O1B O 0.00000 0.15649(7) 1.09973(9)
+O2B O 0.00000 0.31352(7) 1.02744(9)
+Cl1B Cl -0.19987(3) 0.29561(3) 0.25000
+In1* In 0.00000 0.28513(2) 1.25000
+O1B* O 0.00000 0.15649(7) 0.09973(9)
+O2B* O 0.00000 0.31352(7) 0.02744(9)
+H5C H 0.12560 0.53110 0.55930
+C4C C 0.23575(10) 0.57753(9) 0.43245(11)
+H2C H 0.27620 0.61740 0.49690
+H3C H 0.18760 0.62220 0.38240
+H4C H 0.28740 0.54440 0.37330
+#END

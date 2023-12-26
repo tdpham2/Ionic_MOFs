@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VILWUJ
+_audit_creation_date 2008-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VILWUJ
+_database_code_depnum_ccdc_archive 'CCDC 643342'
+_chemical_formula_sum 'C16 H11 Ba1 F9 N2 O6'
+_chemical_formula_moiety
+;
+(C11 H5 Ba1 F9 N1 O6 1-)n,n(C5 H6 N1 1+)
+;
+_journal_coden_Cambridge 580
+_journal_volume 26
+_journal_year 2007
+_journal_page_first 5095
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"T.J.Boyle"
+"H.D.Pratt III"
+"T.M.Alam"
+"M.A.Rodriguez"
+"P.G.Clem"
+_chemical_name_systematic
+;
+catena-(Pyridinium tris(\m~2~-trifluoroacetato-O,O,O')-pyridine-barium)
+;
+_cell_volume   2120.910
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.991
+_exptl_special_details
+;
+Study temperature given as 203 K in the cif
+
+;
+_exptl_crystal_description 'irregular'
+_diffrn_ambient_temperature 168
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0395
+_refine_ls_wR_factor_gt 0.0395
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.177(3)
+_cell_length_b 19.169(4)
+_cell_length_c 8.5978(17)
+_cell_angle_alpha 90
+_cell_angle_beta 102.418(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ba 1.94
+F 0.64
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ba1 Ba 0.22149(2) 0.226072(15) 0.40731(3)
+O1 O 0.3628(3) 0.24461(19) 0.7239(4)
+O2 O 0.4025(3) 0.1539(2) 0.5862(4)
+O3 O 0.1654(3) 0.09483(18) 0.5379(4)
+O4 O 0.1202(3) 0.18664(18) 0.6657(4)
+O5 O 0.1891(3) 0.15995(17) 0.1111(4)
+O6 O 0.2839(3) 0.12354(19) -0.0600(4)
+F1 F 0.5346(3) 0.11136(19) 0.8534(5)
+F2 F 0.5948(2) 0.2100(2) 0.8038(4)
+F3 F 0.5035(3) 0.2016(2) 0.9776(4)
+F4 F 0.0862(3) 0.0162(2) 0.7427(5)
+F5 F -0.0412(3) 0.0648(2) 0.5928(4)
+F6 F 0.0182(3) 0.1031(2) 0.8254(5)
+F7 F 0.1663(3) 0.01741(18) 0.1552(4)
+F8 F 0.3107(3) 0.05550(19) 0.2911(4)
+F9 F 0.3066(3) -0.00108(17) 0.0754(4)
+N1 N 0.0001(3) 0.1920(2) 0.3065(5)
+N2 N 0.7150(4) 0.0198(3) 0.4120(6)
+C1 C 0.4158(4) 0.1932(3) 0.7022(6)
+C2 C 0.5109(4) 0.1786(3) 0.8361(6)
+C3 C 0.1177(4) 0.1241(3) 0.6292(6)
+C4 C 0.0441(4) 0.0769(3) 0.6981(7)
+C5 C 0.2411(4) 0.1164(3) 0.0535(6)
+C6 C 0.2556(4) 0.0463(3) 0.1403(6)
+C7 C -0.0659(4) 0.2357(3) 0.3546(7)
+H1 H -0.03830 0.26980 0.43060
+C8 C -0.1714(5) 0.2337(4) 0.2995(8)
+H2 H -0.21460 0.26590 0.33620
+C9 C -0.2127(4) 0.1840(4) 0.1905(8)
+H3 H -0.28480 0.18140 0.15040
+C10 C -0.1474(5) 0.1384(3) 0.1413(7)
+H4 H -0.17360 0.10350 0.06670
+C11 C -0.0421(4) 0.1439(3) 0.2022(7)
+H5 H 0.00220 0.11180 0.16770
+C12 C 0.7105(5) 0.0756(3) 0.5038(7)
+H6 H 0.76300 0.08340 0.59510
+C13 C 0.6298(5) 0.1206(3) 0.4646(7)
+H7 H 0.62630 0.15990 0.52870
+C14 C 0.5537(5) 0.1091(3) 0.3323(8)
+H8 H 0.49700 0.13990 0.30580
+C15 C 0.5607(5) 0.0520(3) 0.2377(7)
+H9 H 0.50960 0.04400 0.14470
+C16 C 0.6430(5) 0.0067(3) 0.2807(8)
+H10 H 0.64840 -0.03290 0.21850
+H11 H 0.761(4) -0.017(3) 0.439(6)
+Ba1C Ba 0.22149(2) 0.273928(15) 0.90731(3)
+Ba1C* Ba 0.22149(2) 0.273928(15) -0.09269(3)
+O1C O 0.3628(3) 0.25539(19) 0.2239(4)
+O4C O 0.1202(3) 0.31336(18) 0.1657(4)
+O5C O 0.1891(3) 0.34005(17) 0.6111(4)
+O6C O 0.2839(3) 0.37646(19) 0.4400(4)
+#END

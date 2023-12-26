@@ -1,0 +1,184 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_COYQEN
+_audit_creation_date 2009-11-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD COYQEN
+_database_code_depnum_ccdc_archive 'CCDC 197688'
+_chemical_formula_sum 'C18 H28 Fe2 N1 O6 S6'
+_chemical_formula_moiety
+;
+(C12 H28 N1 1+)n,n(C6 Fe2 O6 S6 1-)
+;
+_journal_coden_Cambridge 335
+_journal_volume 130
+_journal_year 2004
+_journal_page_first 415
+_journal_name_full 'Solid State Commun. '
+loop_
+_publ_author_name
+"M.Itoi"
+"A.Taira"
+"M.Enomoto"
+"N.Matsushita"
+"N.Kojima"
+"Y.Kobayashi"
+"K.Asai"
+"K.Koyama"
+"T.Nakano"
+"Y.Uwatoko"
+"J.Yamaura"
+_chemical_name_systematic
+;
+catena-[Tetra-n-propylammonium 
+tris(\m~2~-dithiooxalato-O,O',S,S')-iron(ii)-iron(iii)]
+;
+_cell_volume   1406.538
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.555
+_exptl_special_details
+;
+An order-disorder phase transition of the propyl groups in the cation occurs 
+at 253 K. A first order charge-transfer phase transition takes place around 
+120 K, with a reversible charge transfer between the two independent iron 
+atoms. A further ferromagnetic phase transition occurs below 7 K
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The tetra-n-propylammonium cation is partially disordered by three-fold 
+symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0908
+_refine_ls_wR_factor_gt 0.0908
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+_cell_length_a 10.0618(5)
+_cell_length_b 10.0618(5)
+_cell_length_c 16.0424(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.73
+H 0.04
+Fe 1.52
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.66670 0.33330 0.1814(14)
+C1 C 0.84250 0.39590 0.2243(14)
+H1 H 0.89700 0.49980 0.20250
+H2 H 0.82110 0.40840 0.28180
+C2 C 0.94820 0.37320 0.2341(14)
+H3 H 0.95870 0.34320 0.17810
+H4 H 0.89780 0.27750 0.26490
+C3 C 1.07880 0.42650 0.2592(14)
+H5 H 1.11180 0.35270 0.25160
+H6 H 1.08280 0.45080 0.31730
+H7 H 1.14510 0.51800 0.22850
+C4 C 0.66670 0.33330 0.0820(14)
+C5 C 0.77690 0.33820 0.0587(14)
+H8 H 0.79220 0.25880 0.08340
+H9 H 0.86710 0.43790 0.06770
+C6 C 0.72420 0.30170 -0.0513(14)
+H10 H 0.80600 0.30150 -0.08200
+H11 H 0.70640 0.38060 -0.07260
+H12 H 0.79620 0.42870 -0.05710
+Fe1 Fe 0.00000 0.00000 0.0014(6)
+Fe2 Fe -0.66670 -0.33330 0.0035(5)
+S1 S -0.1867(7) -0.1764(10) -0.0847(3)
+S2 S -0.1854(6) -0.0070(8) 0.0816(4)
+O1 O -0.4768(22) -0.1672(16) 0.0713(8)
+O2 O -0.4802(22) -0.3114(15) -0.0688(7)
+C7 C -0.349(4) -0.202(3) -0.0349(15)
+C8 C -0.351(3) -0.127(2) 0.0454(14)
+H13? H 0.57760 0.24110 0.06150
+H14? H 0.66170 0.42140 0.06150
+C1A C 0.60410 0.44660 0.2243(14)
+C1B C 0.55340 0.15750 0.2243(14)
+H1A H 0.50020 0.39720 0.20250
+H1B H 0.60280 0.10300 0.20250
+H2A H 0.59160 0.41270 0.28180
+H2B H 0.58730 0.17890 0.28180
+C2A C 0.62680 0.57500 0.2341(14)
+C2B C 0.42500 0.05180 0.2341(14)
+H3A H 0.65680 0.61550 0.17810
+H3B H 0.38450 0.04130 0.17810
+H4A H 0.72250 0.62030 0.26490
+H4B H 0.37970 0.10220 0.26490
+C3A C 0.57350 0.65230 0.2592(14)
+C3B C 0.34770 -0.07880 0.2592(14)
+H5A H 0.64730 0.75910 0.25160
+H5B H 0.24090 -0.11180 0.25160
+H6A H 0.54920 0.63200 0.31730
+H6B H 0.36800 -0.08280 0.31730
+H7A H 0.48200 0.62710 0.22850
+H7B H 0.37290 -0.14510 0.22850
+C5B C 0.56130 0.22310 0.0587(14)
+C5A C 0.66180 0.43870 0.0587(14)
+H8A H 0.74120 0.53340 0.08340
+H8B H 0.46660 0.20780 0.08340
+H9A H 0.56210 0.42920 0.06770
+H9B H 0.57080 0.13290 0.06770
+C6B C 0.57750 0.27580 -0.0513(14)
+C6A C 0.69830 0.42250 -0.0513(14)
+H10B H 0.49550 0.19400 -0.08200
+H10A H 0.69850 0.50450 -0.08200
+H11B H 0.67420 0.29360 -0.07260
+H11A H 0.61940 0.32580 -0.07260
+H12B H 0.63250 0.20380 -0.05710
+H12A H 0.57130 0.36750 -0.05710
+Fe1* Fe -1.00000 0.00000 0.0014(6)
+Fe2A Fe 0.33330 -0.33340 0.0035(5)
+S1A S 0.1764(7) -0.0103(10) -0.0847(3)
+S1B S 0.0103(7) 0.1867(10) -0.0847(3)
+S1A* S -0.8236(7) -0.0103(10) -0.0847(3)
+S2A S 0.0070(6) -0.1784(8) 0.0816(4)
+S2B S 0.1784(6) 0.1854(8) 0.0816(4)
+S2A* S -0.9930(6) -0.1784(8) 0.0816(4)
+O1A O 0.1672(22) -0.3096(16) 0.0713(8)
+O1A* O -0.8328(22) -0.3096(16) 0.0713(8)
+O1B O -0.6904(22) -0.5232(16) 0.0713(8)
+O2A O 0.3114(22) -0.1688(15) -0.0688(7)
+O2A* O -0.6886(22) -0.1688(15) -0.0688(7)
+O2B O -0.8312(22) -0.5198(15) -0.0688(7)
+C7A C 0.202(4) -0.147(3) -0.0349(15)
+C7A* C -0.798(4) -0.147(3) -0.0349(15)
+C8A C 0.127(3) -0.224(2) 0.0454(14)
+C8A* C -0.873(3) -0.224(2) 0.0454(14)
+#END

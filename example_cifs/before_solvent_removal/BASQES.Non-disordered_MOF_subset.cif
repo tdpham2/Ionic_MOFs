@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BASQES
+_audit_creation_date 2003-09-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BASQES
+_database_code_depnum_ccdc_archive 'CCDC 210906'
+_chemical_formula_sum 'C20 H38 Ag2 N2 O5 S13 W2 Zn1'
+_chemical_formula_moiety
+;
+(C18 H32 N2 O4 S4 Zn1 2+)n,n(Ag2 S8 W2 2-),n(C2 H6 O1 S1)
+;
+_journal_coden_Cambridge 208
+_journal_volume 151
+_journal_year 2000
+_journal_page_first 286
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"Chen Ling"
+"Yu Heng"
+"Wu Liming"
+"Du Wenxin"
+"Gao Xiancheng"
+"Lin Ping"
+"Zhang Wenjian"
+"Cui Chuanpeng"
+"Wu Xintao"
+_chemical_name_systematic
+;
+catena-((\m~2~-4,4'-Bipyridyl)-tetrakis(dimethylsulfoxide)-zinc 
+octakis(\m~2~-sulfido)-di-silver-di-tungsten dimethylsulfoxide solvate)
+;
+_cell_volume   4699.824
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.166
+_exptl_special_details
+;
+No coordinates are available for the cation, which the authors describe as a 
+zig-zag polymer having octahedrally-coordinated Zn atoms, two bridging 
+4,4'-bipyridyl units and four dimethylsulfoxide ligands. The 2D diagram 
+illustrates such a polymer, but with one bridging 4,4'-bipyridyl unit, not 
+two as indicated by the authors
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0438
+_refine_ls_wR_factor_gt 0.0438
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 28.8896(2)
+_cell_length_b 11.93950(1)
+_cell_length_c 16.2341(2)
+_cell_angle_alpha 90
+_cell_angle_beta 122.932(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+Ag 1.59
+S 1.02
+W 1.37
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+W1 W 0.2612(1) 1.3290(1) 0.2618(1)
+Ag1 Ag 0.2529(1) 1.5803(1) 0.2539(1)
+S1 S 0.3279(1) 1.2125(2) 0.3596(2)
+S2 S 0.1858(1) 1.2427(2) 0.1474(2)
+S3 S 0.2395(2) 1.4292(2) 0.3500(2)
+S4 S 0.2907(1) 1.4344(2) 0.1883(2)
+Ag1C Ag 0.2471(1) 1.0803(1) 0.2461(1)
+S1C S 0.1721(1) 1.7125(2) 0.1404(2)
+S2C S 0.3142(1) 1.7427(2) 0.3526(2)
+W1C W 0.2388(1) 1.8290(1) 0.2382(1)
+W1C* W 0.2388(1) 0.8290(1) 0.2382(1)
+S3C S 0.2605(2) 0.9292(2) 0.1500(2)
+S4C S 0.2093(1) 0.9344(2) 0.3117(2)
+Ag1C* Ag 0.2471(1) 2.0803(1) 0.2461(1)
+S3C* S 0.2605(2) 1.9292(2) 0.1500(2)
+S4C* S 0.2093(1) 1.9344(2) 0.3117(2)
+#END

@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OWIFOS
+_audit_creation_date 2021-06-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OWIFOS
+_database_code_depnum_ccdc_archive 'CCDC 2078855'
+_chemical_formula_sum 'C11 H13 N7 Ni1 O3'
+_chemical_formula_moiety
+;
+(C4 H4 N6 Ni1 O2 1-)n,C7 H9 N1 O1 1+
+;
+_journal_coden_Cambridge 580
+_journal_volume 204
+_journal_year 2021
+_journal_page_first 115263
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"F.A.Mautner"
+"P.V.Jantscher"
+"R.C.Fischer"
+"K.Reichmann"
+"S.S.Massoud"
+"S.Speed"
+"R.Vicente"
+_chemical_name_systematic
+;
+catena-[bis(\m-dicyanamidato)-diaqua-nickel(ii) 2,6-dimethylpyridine N-oxide]
+;
+_cell_volume   1446.669
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.607
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0182
+_refine_ls_wR_factor_gt 0.0182
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 7.1530(3)
+_cell_length_b 12.8872(5)
+_cell_length_c 15.7812(6)
+_cell_angle_alpha 90
+_cell_angle_beta 96.040(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.49819(6) 0.75058(2) 0.39465(3)
+N1 N 0.2457(2) 0.69362(15) 0.43118(11)
+C1 C 0.1213(3) 0.63803(16) 0.43813(12)
+O1 O 0.64535(19) 0.68120(11) 0.49933(9)
+H1 H 0.69338 0.72886 0.53432
+H2 H 0.74268 0.64855 0.48346
+N2 N -0.0300(2) 0.58299(15) 0.44672(12)
+C2 C -0.0184(3) 0.48087(17) 0.45165(12)
+O2 O 0.35419(19) 0.81774(11) 0.28898(9)
+H3 H 0.33202 0.77117 0.24924
+H4 H 0.24318 0.83684 0.30093
+N3 N -0.0247(2) 0.39177(14) 0.45688(10)
+C3 C 0.5100(3) 0.51955(16) 0.32961(12)
+C4 C 0.3669(3) 0.36389(16) 0.34221(12)
+N4 N 0.5197(2) 0.60911(15) 0.33130(11)
+N5 N 0.5148(2) 0.41827(14) 0.32507(11)
+N6 N 0.2471(2) 0.30903(15) 0.35611(11)
+O3 O 0.78606(17) 0.78022(11) 0.64003(9)
+C5 C 0.8702(3) 0.94863(17) 0.60783(12)
+C6 C 0.8347(3) 1.05361(17) 0.61048(12)
+H5 H 0.91749 1.10116 0.58751
+N7 N 0.7504(3) 0.88184(10) 0.64219(13)
+C7 C 0.6791(3) 1.09011(16) 0.64647(13)
+H6 H 0.65410 1.16245 0.64797
+C8 C 0.5609(3) 1.02044(15) 0.68005(12)
+H7 H 0.45377 1.04505 0.70474
+C9 C 0.5964(3) 0.91545(15) 0.67823(12)
+C10 C 1.0319(3) 0.90205(19) 0.56906(13)
+H8 H 1.10699 0.86001 0.61178
+H9 H 1.11023 0.95745 0.54909
+H10 H 0.98474 0.85806 0.52083
+C11 C 0.4761(3) 0.83537(16) 0.71368(13)
+H11 H 0.36358 0.86844 0.73190
+H12 H 0.54678 0.80159 0.76265
+H13 H 0.43873 0.78340 0.66980
+Ni1B Ni -0.00181(6) 0.25058(2) 0.39465(3)
+N3B N 0.4753(2) 0.89177(14) 0.45688(10)
+N6B N 0.7471(2) 0.80903(15) 0.35611(11)
+#END

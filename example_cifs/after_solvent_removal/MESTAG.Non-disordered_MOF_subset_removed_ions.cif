@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn2O12C6
+_chemical_formula_sum              "Zn2 O12 C6"
+_cell_length_a       5.8208
+_cell_length_b       7.6266
+_cell_length_c       8.5782
+_cell_angle_alpha    88.272
+_cell_angle_beta     73.81
+_cell_angle_gamma    86.599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.08497  0.82468  0.09538  1.0000
+  Zn  Zn2       1.0  0.91503  0.17532  0.90462  1.0000
+  O   O1        1.0  0.97150  0.88850  0.33310  1.0000
+  O   O2        1.0  0.02850  0.11150  0.66690  1.0000
+  O   O3        1.0  0.22300  0.04780  0.96460  1.0000
+  O   O4        1.0  0.77700  0.95220  0.03540  1.0000
+  O   O5        1.0  0.94900  0.58400  0.19310  1.0000
+  O   O6        1.0  0.05100  0.41600  0.80690  1.0000
+  O   O7        1.0  0.85520  0.32700  0.11600  1.0000
+  O   O8        1.0  0.14480  0.67300  0.88400  1.0000
+  O   O9        1.0  0.54790  0.20760  0.90740  1.0000
+  O   O10       1.0  0.45210  0.79240  0.09260  1.0000
+  O   O11       1.0  0.20630  0.10570  0.34170  1.0000
+  O   O12       1.0  0.79370  0.89430  0.65830  1.0000
+  C   C1        1.0  0.43570  0.07570  0.96210  1.0000
+  C   C2        1.0  0.56430  0.92430  0.03790  1.0000
+  C   C3        1.0  0.94280  0.47190  0.08910  1.0000
+  C   C4        1.0  0.05720  0.52810  0.91090  1.0000
+  C   C5        1.0  0.05290  0.00040  0.40610  1.0000
+  C   C6        1.0  0.94710  0.99960  0.59390  1.0000

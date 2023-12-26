@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOYMIB
+_audit_creation_date 2009-11-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOYMIB
+_database_code_depnum_ccdc_archive 'CCDC 704691'
+_chemical_formula_sum 'C10 H14 Cs2 Ni1 O14'
+_chemical_formula_moiety
+;
+(Cs1 1+)2n,n(C10 H10 Ni1 O12 2-),2n(H2 O1)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 15
+_journal_year 2009
+_journal_page_first 3604
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Jing-Yun Wu"
+"Miao-Tzu Ding"
+"Yuh-Sheng Wen"
+"Yen-Hsiang Liu"
+"Kuang-Lieh Lu"
+_chemical_name_systematic
+;
+catena-(Di-cesium 
+(\m~2~-benzene-1,2,4,5-tetracarboxylato)-tetraaqua-nickel(ii) dihydrate)
+;
+_cell_volume   1816.340
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.497
+_exptl_special_details
+;
+isostructural and isomorphous with the Co analogue
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0195
+_refine_ls_wR_factor_gt 0.0195
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.169(3)
+_cell_length_b 6.6827(13)
+_cell_length_c 18.579(4)
+_cell_angle_alpha 90
+_cell_angle_beta 105.33(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cs 1.84
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.50000 0.02321(6) 0.75000
+C1 C 0.52794(14) 0.4012(3) 0.56853(11)
+C2 C 0.58456(14) 0.5448(3) 0.54906(12)
+C3 C 0.44347(14) 0.3584(3) 0.51922(12)
+H1 H 0.40540 0.26390 0.53230
+C4 C 0.55800(14) 0.2812(3) 0.63959(11)
+C5 C 0.67306(14) 0.6110(3) 0.60315(12)
+Cs1 Cs 0.829845(11) 1.02396(3) 0.679781(10)
+O1 O 0.49636(11) 0.2392(3) 0.67112(9)
+O2 O 0.63961(12) 0.2307(3) 0.66101(11)
+O3 O 0.66742(11) 0.6940(3) 0.66180(9)
+O4 O 0.74628(11) 0.5882(3) 0.58545(10)
+O5 O 0.36086(11) 0.0015(3) 0.72043(10)
+O6 O 0.50125(12) -0.1965(3) 0.67122(10)
+O7 O 0.8585(2) 1.3330(5) 0.54204(18)
+H2 H 0.347(2) 0.059(6) 0.753(2)
+H3 H 0.329(2) 0.034(5) 0.676(2)
+H4 H 0.469(2) -0.174(6) 0.629(2)
+H5 H 0.556(2) -0.228(5) 0.6649(17)
+H6 H 0.818(3) 1.408(8) 0.543(3)
+H7 H 0.855(4) 1.299(9) 0.505(3)
+Ni1D Ni 0.50000 0.97679(6) 0.25000
+C1D C 0.47206(14) 0.5988(3) 0.43147(11)
+C2D C 0.41544(14) 0.4552(3) 0.45094(12)
+C3D C 0.55653(14) 0.6416(3) 0.48078(12)
+H1D H 0.59460 0.73610 0.46770
+C4D C 0.44200(14) 0.7188(3) 0.36041(11)
+C5D C 0.32694(14) 0.3890(3) 0.39685(12)
+O1D O 0.50364(11) 0.7608(3) 0.32888(9)
+O1A O 0.50364(11) 0.2392(3) 0.82888(9)
+O2D O 0.36039(12) 0.7693(3) 0.33899(11)
+O3D O 0.33258(11) 0.3060(3) 0.33820(9)
+O4D O 0.25372(11) 0.4118(3) 0.41455(10)
+O5A O 0.63914(11) 0.0015(3) 0.77957(10)
+O6A O 0.49875(12) -0.1965(3) 0.82878(10)
+H2A H 0.653(2) 0.059(6) 0.747(2)
+H3A H 0.671(2) 0.034(5) 0.824(2)
+H4A H 0.531(2) -0.174(6) 0.871(2)
+H5A H 0.444(2) -0.228(5) 0.8351(17)
+#END

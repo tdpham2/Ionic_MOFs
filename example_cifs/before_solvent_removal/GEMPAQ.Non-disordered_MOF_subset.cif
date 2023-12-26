@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEMPAQ
+_audit_creation_date 2006-11-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEMPAQ
+_database_code_depnum_ccdc_archive 'CCDC 1165910'
+_chemical_formula_sum 'C12 H22 Bi2 K2 O21'
+_chemical_formula_moiety
+;
+(C12 H12 Bi2 O16 2-)n,2n(K1 1+),5n(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 51
+_journal_year 2006
+_journal_page_first 423
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"A.S.Antsyshkina"
+"G.G.Sadikov"
+"T.B.Kuvshinova"
+"V.M.Skorikov"
+"V.S.Sergienko"
+_chemical_name_systematic
+;
+catena-(Di-potassium (\m~4~-citrato)-(\m~3~-citrato)-diaqua-di-bismuth 
+pentahydrate)
+;
+_cell_volume   1221.184
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.715
+_exptl_special_details
+;
+air-sensitive
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0599
+_refine_ls_wR_factor_gt 0.0599
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.462(6)
+_cell_length_b 10.064(6)
+_cell_length_c 17.582(10)
+_cell_angle_alpha 100.27(5)
+_cell_angle_beta 99.31(6)
+_cell_angle_gamma 105.48(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.73
+K 1.33
+O 0.73
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.2498(2) 0.7065(1) 0.6459(1)
+O1 O 0.262(3) 0.470(2) 0.6227(9)
+O2 O 0.100(3) 0.258(2) 0.6320(9)
+O3 O -0.404(3) 0.353(2) 0.481(1)
+O4 O -0.130(3) 0.317(1) 0.4851(8)
+O5 O 0.023(3) 0.648(1) 0.8526(8)
+O6 O 0.252(3) 0.638(2) 0.7852(9)
+O7 O -0.030(3) 0.579(1) 0.6411(7)
+C1 C -0.057(4) 0.442(2) 0.656(1)
+C2 C 0.106(4) 0.385(2) 0.636(1)
+C3 C -0.260(5) 0.336(2) 0.519(1)
+C4 C -0.247(4) 0.341(2) 0.607(1)
+C5 C 0.093(5) 0.589(2) 0.798(1)
+C6 C -0.050(4) 0.447(2) 0.744(1)
+Bi2 Bi 0.2310(2) 0.8829(1) 0.9046(1)
+O8 O 0.278(3) 1.130(2) 0.9207(9)
+O9 O 0.175(3) 1.282(2) 0.8658(9)
+O10 O -0.367(3) 0.994(2) 0.9426(9)
+O11 O -0.094(3) 1.166(2) 0.9897(8)
+O12 O 0.057(3) 0.861(2) 0.6453(8)
+O13 O 0.235(3) 0.918(2) 0.7640(9)
+O14 O -0.038(3) 0.914(1) 0.8614(7)
+C7 C -0.026(5) 1.037(2) 0.832(1)
+C8 C 0.154(5) 1.157(2) 0.876(1)
+C9 C -0.211(4) 1.082(2) 0.932(1)
+C10 C -0.186(5) 1.083(2) 0.847(1)
+C11 C 0.097(5) 0.926(2) 0.717(1)
+C12 C -0.029(4) 1.010(2) 0.744(1)
+O15 O 0.464(4) 0.961(2) 0.606(1)
+O16 O 0.417(3) 0.699(2) 0.971(1)
+H1 H -0.26000 0.25000 0.62000
+H2 H -0.35000 0.37000 0.62000
+H3 H -0.01000 0.37000 0.76000
+H4 H -0.18000 0.44000 0.75000
+H5 H -0.30000 1.02000 0.81000
+H6 H -0.17000 1.18000 0.84000
+H7 H -0.16000 0.96000 0.72000
+H8 H 0.01000 1.10000 0.73000
+K1 K -0.232(1) 0.7070(6) 0.5226(3)
+K2 K 0.656(2) 0.7028(7) 0.8661(5)
+O17 O 0.531(4) 1.406(2) 0.843(1)
+O18 O 0.428(4) 1.199(2) 0.696(1)
+O19 O 0.217(4) 1.005(2) 0.469(1)
+O20 O 0.647(4) 0.651(2) 0.696(1)
+O21? O 0.814(4) 1.541(2) 0.986(1)
+Bi1A Bi -0.2498(2) 0.2935(1) 0.3541(1)
+O3A O 0.404(3) 0.647(2) 0.519(1)
+O4A O 0.130(3) 0.683(1) 0.5149(8)
+Bi2* Bi -0.7690(2) 0.8829(1) 0.9046(1)
+Bi2A Bi -0.2310(2) 1.1171(1) 1.0954(1)
+O10* O 0.633(3) 0.994(2) 0.9426(9)
+O10A O 0.367(3) 1.006(2) 1.0574(9)
+O11A O 0.094(3) 0.834(2) 1.0103(8)
+#END

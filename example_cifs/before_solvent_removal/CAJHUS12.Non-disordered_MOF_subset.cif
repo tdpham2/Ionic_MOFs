@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAJHUS12
+_audit_creation_date 2019-12-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAJHUS12
+_database_code_depnum_ccdc_archive 'CCDC 1861348'
+_chemical_formula_sum 'C6 H14 Fe2 N2 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Fe2 O12 2-)n,2(H4 N1 1+)
+;
+_journal_coden_Cambridge 1326
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 24465
+_journal_name_full 'Phys.Chem.Chem.Phys.(PCCP) '
+loop_
+_publ_author_name
+"I.E.Collings"
+"R.S.Manna"
+"A.A.Tsirlin"
+"M.Bykov"
+"E.Bykova"
+"M.Hanfland"
+"P.Gegenwart"
+"S.v.Smaalen"
+"L.Dubrovinsky"
+"N.Dubrovinskaia"
+_chemical_name_systematic
+;
+catena-[bis(ammonium) hexakis(\m~2~-formato)-di-iron]
+;
+_cell_volume    628.568
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.208
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 2800000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0883
+_refine_ls_wR_factor_gt 0.0883
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.558(6)
+_cell_length_b 6.9977(19)
+_cell_length_c 13.697(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.05(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.6380(13) 0.7141(12) 0.8522(5)
+Fe2 Fe 1.1355(12) 1.2193(11) 0.6481(5)
+O1 O 1.072(8) 1.087(5) 0.782(3)
+O2 O 0.507(8) 0.939(4) 0.935(3)
+O3 O 0.349(8) 0.587(5) 0.863(3)
+O4 O 0.278(8) 1.101(5) 1.020(3)
+O5 O 0.766(8) 0.476(5) 0.788(3)
+O6 O 0.417(7) 1.082(6) 0.640(3)
+O7 O 0.921(8) 0.845(6) 0.860(3)
+O8 O 0.275(8) 0.446(5) 0.725(4)
+O9 O 0.852(8) 0.342(5) 0.635(3)
+O10 O 1.005(7) 1.504(4) 0.428(3)
+O11 O 0.561(7) 0.844(5) 0.715(3)
+O12 O 1.220(8) 1.335(4) 0.510(3)
+C1 C 1.10(1) 1.350(9) 0.448(5)
+H1 H 1.07103 1.24195 0.41151
+C2 C 0.528(11) 1.017(8) 0.712(5)
+H2 H 0.58122 1.09910 0.75887
+C3 C 1.042(12) 0.920(8) 0.800(5)
+H3 H 1.11931 0.83438 0.76324
+C4 C 0.758(12) 0.451(7) 0.695(5)
+H4 H 0.66229 0.52955 0.66533
+C5 C 0.379(11) 1.086(9) 0.947(5)
+H5 H 0.36882 1.17837 0.89868
+C6 C 0.251(12) 0.481(7) 0.811(5)
+H6 H 0.14243 0.41935 0.84153
+N1 N 0.629(7) 0.205(7) 0.460(3)
+N2 N 0.133(7) 0.708(7) 1.027(3)
+Fe1A Fe 0.3620(13) 1.2141(12) 1.1478(5)
+Fe2* Fe 0.1355(12) 0.2193(11) 0.6481(5)
+Fe2** Fe 0.1355(12) 1.2193(11) 0.6481(5)
+Fe2*** Fe 1.1355(12) 0.2193(11) 0.6481(5)
+Fe2A Fe 0.8645(12) 1.7193(11) 0.3519(5)
+O4A O 0.722(8) 0.601(5) 0.980(3)
+O6* O 1.417(7) 1.082(6) 0.640(3)
+O8* O 1.275(8) 1.446(5) 0.725(4)
+O9* O 0.852(8) 1.342(5) 0.635(3)
+O10A O 0.995(7) 1.004(4) 0.572(3)
+#END

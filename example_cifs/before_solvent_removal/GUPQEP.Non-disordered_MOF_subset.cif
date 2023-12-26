@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUPQEP
+_audit_creation_date 2015-09-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUPQEP
+_database_code_depnum_ccdc_archive 'CCDC 1412669; CCDC 429900'
+_chemical_formula_sum 'C1 H5 Cl2 N1 Ni1 O2'
+_chemical_formula_moiety
+;
+(C1 H1 Cl2 Ni1 O2 1-)n,n(H4 N1 1+)
+;
+_journal_coden_Cambridge 208
+_journal_volume 236
+_journal_year 2016
+_journal_page_first 222
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"J.T.Greenfield"
+"V.Ovidiu Garlea"
+"S.Kamali"
+"Michael Chen"
+"K.Kovnir"
+_chemical_name_systematic
+;
+catena-[ammonium bis(\m-chloro)-(\m-formato)-nickel]
+;
+_cell_volume    554.170
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.309
+_exptl_special_details
+;
+Magnetic properties
+Hygroscopic
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'solvothermal'
+_diffrn_ambient_temperature 90
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0157
+_refine_ls_wR_factor_gt 0.0157
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.5980(15)
+_cell_length_b 11.336(2)
+_cell_length_c 6.7530(14)
+_cell_angle_alpha 90
+_cell_angle_beta 107.68(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.00000 0.00000 0.00000
+Cl1 Cl -0.22880(3) -0.04319(2) 0.17239(4)
+O1 O 0.00879(12) 0.17315(7) 0.08574(12)
+C1 C 0.00000 0.22251(14) 0.25000
+H1 H 0.00000 0.308(2) 0.25000
+N1 N 0.00000 0.32387(13) -0.25000
+H2 H 0.099(3) 0.369(2) -0.229(3)
+H3 H 0.017(3) 0.2785(18) -0.141(3)
+O1A O -0.00879(12) 0.17315(7) 0.41426(12)
+Cl1A Cl 0.22880(3) -0.04319(2) 0.32761(4)
+Ni1A Ni 0.00000 0.00000 0.50000
+Cl1D Cl 0.22880(3) 0.04319(2) -0.17239(4)
+Cl1E Cl -0.22880(3) 0.04319(2) -0.32761(4)
+O1D O -0.00879(12) -0.17315(7) -0.08574(12)
+H2A H -0.099(3) 0.369(2) -0.271(3)
+H3A H -0.017(3) 0.2785(18) -0.359(3)
+#END

@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DEGHIG
+_audit_creation_date 1986-07-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DEGHIG
+_database_code_depnum_ccdc_archive 'CCDC 1138117'
+_chemical_formula_sum 'C4 H12 Na2 Np2 O18'
+_chemical_formula_moiety
+;
+(C4 H4 Np2 O14 2-)n,2(Na1 1+),4(H2 O1)
+;
+_journal_coden_Cambridge 513
+_journal_volume 26
+_journal_year 1984
+_journal_page_first 734
+_journal_name_full 'Radiokhimiya(Russ.)(Radiochem.) '
+loop_
+_publ_author_name
+"S.V.Tomilin"
+"Yu.F.Volkov"
+"G.I.Visyashcheva"
+"I.I.Kapshukov"
+_chemical_name_systematic
+;
+catena-[di-sodium di-aqua-tetraoxo-bis(\m~2~-oxalato-O,O')-di-neptunium 
+tetrahydrate]
+;
+_cell_volume    465.524
+_exptl_crystal_density_diffrn 3.1
+_exptl_special_details
+;
+x(O5)=.1811 not .1211
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1116
+_refine_ls_wR_factor_gt 0.1116
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.54(2)
+_cell_length_b 10.42(2)
+_cell_length_c 5.69(2)
+_cell_angle_alpha 98.3(1)
+_cell_angle_beta 108.3(1)
+_cell_angle_gamma 76.2(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Na 0.97
+Np 1.55
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Np1 Np 0.1836(1) 0.2052(1) 0.1165(2)
+O1 O 0.3077(23) 0.2740(18) 0.4167(46)
+O2 O 0.0533(24) 0.1335(18) -0.1772(47)
+O3 O 0.3637(23) -0.0136(18) 0.1667(46)
+O4 O 0.4270(21) 0.1624(17) -0.0553(43)
+O5 O 0.1811(20) 0.4028(15) -0.0769(40)
+O6 O -0.0669(22) 0.3886(17) 0.1319(44)
+O7 O 0.0350(24) 0.1123(19) 0.3209(48)
+C1 C 0.4841(31) -0.0515(24) 0.0659(64)
+C2 C 0.0679(27) 0.5063(21) -0.0635(64)
+O8 O 0.3770(22) 0.5952(17) -0.2127(46)
+O9 O 0.6837(26) 0.2416(21) -0.3640(52)
+Na1 Na 0.4397(12) 0.3627(9) -0.1975(24)
+C1A C 0.5159(31) 0.0515(24) -0.0659(64)
+C2A C -0.0679(27) 0.4937(21) 0.0635(64)
+O4A O 0.5730(21) -0.1624(17) 0.0553(43)
+O6A O 0.0669(22) 0.6114(17) -0.1319(44)
+O3A O 0.6363(23) 0.0136(18) -0.1667(46)
+O5A O -0.1811(20) 0.5972(15) 0.0769(40)
+Np1A Np 0.8164(1) -0.2052(1) -0.1165(2)
+Np1A* Np -0.1836(1) 0.7948(1) -0.1165(2)
+O1A O 0.6923(23) -0.2740(18) -0.4167(46)
+O2A O 0.9467(24) -0.1335(18) 0.1772(47)
+O5A* O 0.8189(20) -0.4028(15) 0.0769(40)
+O6A* O 1.0669(22) -0.3886(17) -0.1319(44)
+O7A O 0.9650(24) -0.1123(19) -0.3209(48)
+#END

@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CETKUK
+_audit_creation_date 2018-02-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CETKUK
+_database_code_depnum_ccdc_archive 'CCDC 1571474'
+_chemical_formula_sum 'C20 H36 N2 O10 P2 Zn2'
+_chemical_formula_moiety
+;
+C12 H30 N2 2+,n(C8 H6 O10 P2 Zn2 2-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 57
+_journal_year 2018
+_journal_page_first 2390
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Chih-Min Wang"
+"Ming-Feng Pan"
+"Yong-Jie Lin"
+"Mei-Ying Chung"
+"Yuh-Sheng Wen"
+"Yung Chang"
+"Hsiu-Mei Lin"
+"Todd Hsu"
+_chemical_name_systematic
+;
+catena-[(1,12-diammoniododecane) 
+(\m-benzene-1,4-dicarboxylato)-bis(\m-phosphonato)-di-zinc(ii)]
+;
+_chemical_name_common
+;
+NTOU-2
+;
+_cell_volume   5839.544
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0343
+_refine_ls_wR_factor_gt 0.0343
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'I b a 2'
+_symmetry_Int_Tables_number 45
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,z
+5 1/2+x,1/2+y,1/2+z
+6 1/2-x,1/2-y,1/2+z
+7 x,-y,1/2+z
+8 -x,y,1/2+z
+_cell_length_a 19.5129(7)
+_cell_length_b 29.8029(11)
+_cell_length_c 10.0415(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+O 0.68
+P 1.05
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn -0.31554(2) -0.061372(13) -0.79812(4)
+Zn2 Zn -0.40724(2) -0.106680(14) -0.45174(5)
+P1 P -0.33802(6) 0.01547(3) -1.00856(10)
+H1 H -0.39780 -0.00110 -1.00060
+P2 P -0.47215(6) -0.08102(4) -0.74669(10)
+H2 H -0.49460 -0.04080 -0.78100
+O1 O -0.34145(17) 0.05925(9) -0.9314(3)
+O2 O -0.31457(19) 0.02078(11) -1.1466(3)
+O3 O -0.29396(14) -0.01853(9) -0.9382(3)
+O4 O -0.40774(15) -0.08659(11) -0.8243(3)
+O5 O -0.52950(16) -0.10908(9) -0.8026(3)
+O6 O -0.46394(16) -0.09031(12) -0.6025(3)
+O7 O -0.2680(2) -0.12008(10) -0.9832(4)
+O8 O -0.25701(17) -0.11378(10) -0.7687(3)
+O9 O -0.12521(16) -0.33234(9) -0.9731(3)
+O10 O -0.17455(18) -0.34308(10) -0.7795(4)
+C1 C -0.2479(3) -0.13385(16) -0.8779(5)
+C2 C -0.2190(3) -0.18177(14) -0.8705(4)
+C3 C -0.2273(3) -0.20727(16) -0.7500(5)
+H3 H -0.24550 -0.19490 -0.67270
+C4 C -0.2062(3) -0.25143(15) -0.7574(5)
+H4 H -0.21160 -0.26950 -0.68270
+C5 C -0.1918(3) -0.20042(15) -0.9785(4)
+H5 H -0.18890 -0.18350 -1.05620
+C6 C -0.1676(2) -0.24391(14) -0.9793(4)
+H6 H -0.14490 -0.25520 -1.05350
+C7 C -0.1777(2) -0.26996(15) -0.8703(4)
+C8 C -0.1572(2) -0.31923(14) -0.8729(5)
+Zn1F Zn -0.31554(2) 0.061372(13) -1.29812(4)
+Zn2E Zn -0.09276(2) -0.393320(14) -0.95174(5)
+Zn2F Zn -0.40724(2) 0.106680(14) -0.95174(5)
+Zn2G Zn -0.59276(2) -0.106680(14) -0.95174(5)
+O1F O -0.34145(17) -0.05925(9) -0.4314(3)
+O2F O -0.31457(19) -0.02078(11) -0.6466(3)
+O5G O -0.47050(16) -0.10908(9) -0.3026(3)
+O9E O -0.37479(16) -0.16766(9) -0.4731(3)
+#END

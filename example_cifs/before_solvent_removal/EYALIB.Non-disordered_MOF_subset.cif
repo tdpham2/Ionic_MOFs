@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EYALIB
+_audit_creation_date 2016-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EYALIB
+_database_code_depnum_ccdc_archive 'CCDC 959346'
+_chemical_formula_sum 'C24 H16 Cl4 Fe2 O8 S8 Se8'
+_chemical_formula_moiety
+;
+(C10 H8 S4 Se4 1+)2n,n(C4 Cl4 Fe2 O8 2-)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2016
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Zhang Bin"
+_chemical_name_systematic
+;
+catena-[bis(2-(5,6-dihydro-2H-[1,3]diselenolo[4,5-b][1,4]dithiin-2-ylidene)-5,
+6-dihydro-2H-[1,3]diselenolo[4,5-b][1,4]dithiin-1-ium) 
+bis(\m-oxalato)-tetrachloro-di-iron(iii)]
+;
+_cell_volume   1018.102
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.567
+_exptl_special_details
+;
+Organic Solid Laboratory, BNLMS, CMS & Institute of Chemistry, Chinese 
+Academy of Sciences, Beijing, 100190, P. R. China
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 173
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0436
+_refine_ls_wR_factor_gt 0.0436
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.605(2)
+_cell_length_b 10.645(2)
+_cell_length_c 11.933(3)
+_cell_angle_alpha 105.14(3)
+_cell_angle_beta 96.44(3)
+_cell_angle_gamma 101.53(5)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+O 0.68
+S 1.02
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.17287(7) 0.69321(5) 0.24312(5)
+Se2 Se 0.13290(7) 0.78536(5) 0.01224(5)
+Se3 Se 0.27459(7) 0.41596(5) 0.09230(5)
+Se4 Se 0.23508(7) 0.50560(5) -0.13996(5)
+S1 S 0.10126(19) 0.94714(14) 0.39532(12)
+S2 S 0.0502(2) 1.04647(15) 0.14867(13)
+S3 S 0.3965(2) 0.17378(15) -0.02482(15)
+S4 S 0.3627(2) 0.27701(14) -0.27985(13)
+C1 C 0.1801(7) 0.6552(5) 0.0825(5)
+C2 C 0.2229(7) 0.5435(5) 0.0210(4)
+C3 C 0.1163(7) 0.8601(5) 0.2539(5)
+C4 C 0.0943(7) 0.8945(5) 0.1535(5)
+C5 C 0.3286(7) 0.3112(5) -0.0465(5)
+C6 C 0.3118(7) 0.3498(5) -0.1441(5)
+C7 C 0.1156(8) 1.1201(6) 0.3906(5)
+H1 H 0.00760 1.13890 0.39280
+H2 H 0.18830 1.18150 0.46270
+C8 C 0.1750(8) 1.1517(6) 0.2861(5)
+H3 H 0.28640 1.14010 0.28660
+H4 H 0.17790 1.24670 0.29200
+C9 C 0.4462(8) 0.0994(6) -0.1670(5)
+H5 H 0.55780 0.14450 -0.16890
+H6 H 0.44350 0.00390 -0.17510
+C10 C 0.3366(8) 0.1072(5) -0.2711(6)
+H7 H 0.22330 0.07230 -0.26470
+H8 H 0.35900 0.04990 -0.34430
+Fe1 Fe -0.3018(1) 0.33860(7) 0.42829(7)
+Cl1 Cl -0.23552(19) 0.23147(14) 0.25730(12)
+Cl2 Cl -0.44779(17) 0.16444(13) 0.47431(12)
+C11 C 0.0212(7) 0.4498(5) 0.5337(5)
+C12 C -0.5441(7) 0.4794(5) 0.4358(5)
+O1 O 0.1630(5) 0.4785(4) 0.5864(3)
+O2 O -0.0876(5) 0.3498(4) 0.5270(3)
+O3 O -0.6621(5) 0.5259(4) 0.4155(3)
+O4 O -0.4911(5) 0.3985(4) 0.3605(3)
+C11A C -0.0212(7) 0.5502(5) 0.4663(5)
+O2A O 0.0876(5) 0.6502(4) 0.4730(3)
+O1A O -0.1630(5) 0.5215(4) 0.4136(3)
+C12A C -0.4559(7) 0.5206(5) 0.5642(5)
+O4A O -0.5089(5) 0.6015(4) 0.6395(3)
+O3A O -0.3379(5) 0.4741(4) 0.5845(3)
+Fe1A Fe -0.6982(1) 0.66140(7) 0.57171(7)
+Cl1A Cl -0.76448(19) 0.76853(14) 0.74270(12)
+Cl2A Cl -0.55221(17) 0.83556(13) 0.52569(12)
+Fe1A* Fe 0.3018(1) 0.66140(7) 0.57171(7)
+O1* O -0.8370(5) 0.4785(4) 0.5864(3)
+O2A* O -0.9124(5) 0.6502(4) 0.4730(3)
+#END

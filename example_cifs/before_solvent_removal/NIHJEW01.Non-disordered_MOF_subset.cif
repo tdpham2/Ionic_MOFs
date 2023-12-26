@@ -1,0 +1,160 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIHJEW01
+_audit_creation_date 2018-09-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIHJEW01
+_database_code_depnum_ccdc_archive 'CCDC 1858728'
+_chemical_formula_sum 'C22 H67 Cl3 Fe2 N9 O41'
+_chemical_formula_moiety
+;
+(C21 Cl3 Fe2 N3 O12 1-)n,C1 H9 N6 1+,29(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 140
+_journal_year 2018
+_journal_page_first 12611
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"S.A.Sahadevan"
+"A.Abherve"
+"N.Monni"
+"C.S.de Pipaon"
+"J.R.Galan-Mascaros"
+"J.C.Waerenborgh"
+"B.J.C.Vieira"
+"P.Auban-Senzier"
+"S.Pillet"
+"E.-E.Bendeif"
+"P.Alemany"
+"E.Canadell"
+"M.L.Mercuri"
+"N.Avarvari"
+_chemical_name_systematic
+;
+catena-[tris(amino)guanidinium 
+tris(\m-3-chloro-6-cyano-4,5-dioxocyclohexa-2,6-diene-1,2-bis(olato))-iron(ii)
+-iron(iii) nonacosahydrate]
+;
+_cell_volume   1514.054
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.461
+_exptl_crystal_description 'hexagon'
+_diffrn_ambient_temperature 150.0
+_refine_special_details
+;
+Disordered water solvent molecules were not modelled and the disordered 
+density was taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0396
+_refine_ls_wR_factor_gt 0.0396
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 3'
+_symmetry_Int_Tables_number 143
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+_cell_length_a 13.616(2)
+_cell_length_b 13.616(2)
+_cell_length_c 9.430(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1069(6) 0.5220(6) 0.6311(9)
+C2 C 0.1042(6) 0.5822(7) 0.4998(9)
+C3 C 0.0034(7) 0.5661(6) 0.4429(10)
+C4 C -0.0991(6) 0.4818(7) 0.5045(11)
+C5 C -0.0999(5) 0.4192(6) 0.6326(10)
+C6 C 0.0029(6) 0.4438(7) 0.6905(10)
+N1 N -0.0008(7) 0.3275(8) 0.9040(15)
+C7 C 0.0004(4) 0.3782(5) 0.8350(9)
+O1 O 0.2009(4) 0.5484(5) 0.6689(6)
+O2 O 0.2008(5) 0.6569(4) 0.4381(7)
+O3 O -0.2005(4) 0.4528(5) 0.4375(8)
+O4 O -0.1993(4) 0.3516(4) 0.6723(6)
+Cl1 Cl 0.0002(3) 0.6330(3) 0.2856(6)
+Fe1 Fe 0.33330 0.66670 0.5598(3)
+Fe2 Fe -0.33330 0.33330 0.5594(2)
+C8 C 0.33330 0.66670 0.054(3)
+N2 N 0.2157(13) 0.615(2) 0.066(3)
+H1 H 0.18170 0.54290 0.08180
+N3 N 0.1361(19) 0.666(2) 0.054(5)
+H2 H 0.16430 0.73710 0.03790
+H3 H 0.06410 0.62280 0.06350
+C1A C -0.5220(6) 0.5849(6) 0.6311(9)
+C2A C -0.5822(6) 0.5220(7) 0.4998(9)
+C3A C -0.5661(7) 0.4373(6) 0.4429(10)
+C4A C -0.4818(6) 0.4191(7) 0.5045(11)
+C5A C -0.4192(5) 0.4809(6) 0.6326(10)
+C6A C -0.4438(6) 0.5591(7) 0.6905(10)
+N1A N -0.3275(7) 0.6717(8) 0.9040(15)
+C7A C -0.3782(4) 0.6222(5) 0.8350(9)
+O1A O -0.5484(4) 0.6525(5) 0.6689(6)
+O2A O -0.6569(5) 0.5439(4) 0.4381(7)
+O3A O -0.4528(4) 0.3467(5) 0.4375(8)
+O4A O -0.3516(4) 0.4491(4) 0.6723(6)
+Cl1A Cl -0.6330(3) 0.3672(3) 0.2856(6)
+C1B C -0.5849(6) -0.1069(6) 0.6311(9)
+C2B C -0.5220(6) -0.1042(7) 0.4998(9)
+C3B C -0.4373(7) -0.0034(6) 0.4429(10)
+C4B C -0.4191(6) 0.0991(7) 0.5045(11)
+C5B C -0.4809(5) 0.0999(6) 0.6326(10)
+C6B C -0.5591(6) -0.0029(7) 0.6905(10)
+N1B N -0.6717(7) 0.0008(8) 0.9040(15)
+C7B C -0.6222(4) -0.0004(5) 0.8350(9)
+O1B O -0.6525(4) -0.2009(5) 0.6689(6)
+O2B O -0.5439(5) -0.2008(4) 0.4381(7)
+O3B O -0.3467(4) 0.2005(5) 0.4375(8)
+O4B O -0.4491(4) 0.1993(4) 0.6723(6)
+Cl1B Cl -0.3672(3) -0.0002(3) 0.2856(6)
+O1A* O 0.4516(4) 0.6525(5) 0.6689(6)
+O1B* O 0.3475(4) 0.7991(5) 0.6689(6)
+O2A* O 0.3431(5) 0.5439(4) 0.4381(7)
+O2B* O 0.4561(5) 0.7992(4) 0.4381(7)
+Fe1* Fe -0.66670 -0.33330 0.5598(3)
+Fe1** Fe -0.66670 0.66670 0.5598(3)
+N2A N 0.3850(13) 0.6007(20) 0.066(3)
+H1A H 0.45710 0.63880 0.08180
+N3A N 0.3340(19) 0.4701(20) 0.054(5)
+H2A H 0.26290 0.42720 0.03790
+H3A H 0.37720 0.44130 0.06350
+N2B N 0.3993(13) 0.7843(20) 0.066(3)
+H1B H 0.36120 0.81830 0.08180
+N3B N 0.5299(19) 0.8639(20) 0.054(5)
+H2B H 0.57280 0.83570 0.03790
+H3B H 0.55870 0.93590 0.06350
+#END

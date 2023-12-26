@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QUYNEF
+_audit_creation_date 2015-11-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QUYNEF
+_database_code_depnum_ccdc_archive 'CCDC 1404209'
+_chemical_formula_sum 'C16 H14 Eu1 N3 O9'
+_chemical_formula_moiety
+;
+(C4 H12 N2 2+)0.5n,n(C14 H8 Eu1 N2 O9 1-)
+;
+_journal_coden_Cambridge 208
+_journal_volume 233
+_journal_year 2016
+_journal_page_first 415
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"B.Ay"
+"S.Karaca"
+"E.Yildiz"
+"V.Lopez"
+"M.H.Nanao"
+"J.Zubieta"
+_chemical_name_systematic
+;
+catena-[hemikis(Piperazinediium) 
+bis(\m~2~-pyridine-2,6-dicarboxylato)-aqua-europium(iii)]
+;
+_cell_volume    851.927
+_exptl_special_details
+;
+Isomorphous with the Ce and Pr analogues.
+
+;
+_diffrn_ambient_temperature 293
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0779
+_refine_ls_wR_factor_gt 0.0779
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.9700(14)
+_cell_length_b 10.900(2)
+_cell_length_c 12.330(3)
+_cell_angle_alpha 112.70(3)
+_cell_angle_beta 95.85(3)
+_cell_angle_gamma 94.80(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.98
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.15115(7) 0.17872(4) 0.14124(3)
+O1 O 0.2152(12) 0.4256(7) 0.2386(6)
+O2 O 0.0774(12) 0.0434(6) -0.0810(6)
+O3 O -0.1907(11) 0.2200(6) 0.0814(6)
+O4 O 0.3502(14) -0.0167(8) 0.1207(8)
+O5 O 0.2847(12) 0.2059(7) 0.3457(6)
+N1 N 0.1747(14) 0.3095(9) 0.0048(8)
+N2 N -0.0692(16) 0.2653(8) 0.3056(9)
+O6 O 0.4993(14) 0.2308(7) 0.1170(6)
+C1 C 0.242(2) 0.5082(11) 0.188(1)
+C2 C 0.094(2) 0.0926(12) -0.1619(11)
+C3 C 0.2249(17) 0.4414(9) 0.0550(9)
+C4 C 0.1516(16) 0.2415(9) -0.1133(9)
+C5 C 0.681(2) 0.2484(10) 0.1518(9)
+O7 O 0.2795(12) 0.6287(7) 0.2374(6)
+O8 O 0.0576(15) 0.0274(8) -0.2693(7)
+C6 C 0.2603(18) 0.5143(11) -0.018(1)
+C7 C 0.1849(18) 0.3095(10) -0.1868(9)
+C8 C 0.758(2) 0.3007(11) 0.2825(11)
+H1 H 0.29720 0.60670 0.01610
+C9 C 0.2382(18) 0.4439(10) -0.1412(9)
+H2 H 0.17000 0.26140 -0.26860
+C10 C 0.649(2) 0.3710(12) 0.3695(12)
+H3 H 0.25970 0.48840 -0.19070
+C11 C 1.008(2) 0.2939(10) 0.4176(11)
+H4 H 0.52810 0.39400 0.35030
+C12 C 0.733(2) 0.4057(10) 0.4900(11)
+C13 C 1.196(2) 0.2496(11) 0.4361(12)
+C14 C 0.906(2) 0.3632(10) 0.5132(11)
+H5 H 0.67060 0.45680 0.55210
+O9 O 1.2577(14) 0.2537(10) 0.5368(7)
+H6 H 0.95670 0.37950 0.59090
+N3 N 0.5729(17) 0.1403(9) 0.5612(8)
+C15 C 0.645(2) 0.0577(11) 0.4501(11)
+H7 H 0.75990 0.02100 0.46910
+H8 H 0.68110 0.11300 0.40790
+C16 C 0.4842(19) -0.0573(10) 0.3714(8)
+H9 H 0.37190 -0.02050 0.34920
+H10 H 0.53110 -0.11290 0.29930
+O2A O -0.0774(12) -0.0434(6) 0.0810(6)
+Eu1A Eu -0.15115(7) -0.17872(4) -0.14124(3)
+O3* O 0.8093(11) 0.2200(6) 0.0814(6)
+Eu1* Eu 1.15115(7) 0.17872(4) 0.14124(3)
+N2* N 0.9308(16) 0.2653(8) 0.3056(9)
+O5* O 1.2847(12) 0.2059(7) 0.3457(6)
+N3A N 0.4271(17) -0.1403(9) 0.4388(8)
+C15A C 0.355(2) -0.0577(11) 0.5499(11)
+H7A H 0.24010 -0.02100 0.53090
+H8A H 0.31890 -0.11300 0.59210
+C16A C 0.5158(19) 0.0573(10) 0.6286(8)
+H9A H 0.62810 0.02050 0.65080
+H10A H 0.46890 0.11290 0.70070
+#END

@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEHWOJ
+_audit_creation_date 2006-08-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEHWOJ
+_database_code_depnum_ccdc_archive 'CCDC 604898'
+_chemical_formula_sum 'C12 H10 Ag2 N8 O14'
+_chemical_formula_moiety
+;
+(C12 H4 Ag1 N6 O14 1-)n,n(H6 Ag1 N2 1+)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2006
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"C.L.Nygren"
+"P.Coppens"
+_chemical_name_systematic
+;
+catena-(Diammine-silver bis(\m~2~-2,4,6-trinitrophenoxo)-silver)
+;
+_cell_volume   1965.429
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.386
+_exptl_special_details
+;
+contribution from Department of Chemistry, State University of New York at 
+Buffalo, Buffalo, NY, 14260-3000, USA
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0668
+_refine_ls_wR_factor_gt 0.0668
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 29.055(4)
+_cell_length_b 3.7258(5)
+_cell_length_c 22.972(3)
+_cell_angle_alpha 90
+_cell_angle_beta 127.782(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.59
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.00000 -0.4103(2) 0.25000
+Ag2 Ag 0.00000 0.00000 0.00000
+C1 C 0.1074(3) -0.8713(19) 0.2886(4)
+C2 C 0.1589(3) -0.9732(19) 0.3602(4)
+C3 C 0.2148(3) -0.936(2) 0.3829(4)
+H1 H 0.24710 -1.01620 0.43020
+C4 C 0.2231(3) -0.7775(19) 0.3350(4)
+C5 C 0.1767(3) -0.664(2) 0.2653(4)
+H2 H 0.18310 -0.55830 0.23320
+C6 C 0.1207(3) -0.709(2) 0.2432(4)
+N1 N 0.1528(3) -1.1184(17) 0.4139(3)
+N2 N 0.2822(3) -0.7435(18) 0.3585(4)
+N3 N 0.0742(3) -0.570(2) 0.1702(4)
+N4 N 0.0688(5) 0.084(3) -0.0063(8)
+H3 H 0.10330 0.03000 0.03780
+H4 H 0.06910 0.31830 -0.01740
+H5 H 0.06370 -0.05890 -0.04190
+O1 O 0.0568(2) -0.9133(16) 0.2690(4)
+O2 O 0.1107(3) -1.3087(19) 0.3929(3)
+O3 O 0.1910(2) -1.0447(18) 0.4791(3)
+O4 O 0.3213(2) -0.894(2) 0.4164(3)
+O5 O 0.2900(3) -0.5617(19) 0.3206(4)
+O6 O 0.0861(3) -0.463(3) 0.1305(4)
+O7 O 0.0246(3) -0.567(3) 0.1492(4)
+Ag1* Ag 0.00000 -1.4103(2) 0.25000
+Ag1** Ag 0.00000 0.5897(2) 0.25000
+C1* C 0.1074(3) 0.1287(19) 0.2886(4)
+C2* C 0.1589(3) 0.0268(19) 0.3602(4)
+C3* C 0.2148(3) 0.064(2) 0.3829(4)
+H1* H 0.24710 -0.01620 0.43020
+C4* C 0.2231(3) 0.2225(19) 0.3350(4)
+C5* C 0.1767(3) 0.336(2) 0.2653(4)
+H2* H 0.18310 0.44170 0.23320
+C6* C 0.1207(3) 0.291(2) 0.2432(4)
+N1* N 0.1528(3) -0.1184(17) 0.4139(3)
+N2* N 0.2822(3) 0.2565(18) 0.3585(4)
+N3* N 0.0742(3) 0.430(2) 0.1702(4)
+N4D N -0.0688(5) -0.084(3) 0.0063(8)
+H3D H -0.10330 -0.03000 -0.03780
+H4D H -0.06910 -0.31830 0.01740
+H5D H -0.06370 0.05890 0.04190
+O1* O 0.0568(2) 0.0867(16) 0.2690(4)
+O1B O -0.0568(2) -0.9133(16) 0.2310(4)
+O1B* O -0.0568(2) 0.0867(16) 0.2310(4)
+O2* O 0.1107(3) -0.3087(19) 0.3929(3)
+O3* O 0.1910(2) -0.0447(18) 0.4791(3)
+O4* O 0.3213(2) 0.106(2) 0.4164(3)
+O5* O 0.2900(3) 0.4383(19) 0.3206(4)
+O6* O 0.0861(3) 0.537(3) 0.1305(4)
+O7* O 0.0246(3) 0.433(3) 0.1492(4)
+#END

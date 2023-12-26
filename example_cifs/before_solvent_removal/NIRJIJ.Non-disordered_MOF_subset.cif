@@ -1,0 +1,170 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIRJIJ
+_audit_creation_date 2013-10-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIRJIJ
+_database_code_depnum_ccdc_archive 'CCDC 963980'
+_chemical_formula_sum 'C19 H42 In1 K1 N3 O6 Te3'
+_chemical_formula_moiety
+;
+(C18 H36 K1 N2 O6 1+)n,n(C1 H6 N1 1+),n(In1 Te3 2-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 52
+_journal_year 2013
+_journal_page_first 4424
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"J.Heine"
+"S.Santner"
+"S.Dehnen"
+_chemical_name_systematic
+;
+catena-[(4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane)-potassium
+ methanaminium (\m~2~-tellurido)-(\m~2~-ditellurido)-indium]
+;
+_chemical_name_common
+;
+catena-[(2,2,2-Cryptand)-potassium methanaminium 
+(mu!2$-tellurido)-(mu!2$-ditellurido)-indium]
+;
+_cell_volume   3165.155
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.979
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+C20,N4 and C21,N3 disordered over two sites with occupancies 0.50:0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0949
+_refine_ls_wR_factor_gt 0.0949
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 15.254(3)
+_cell_length_b 26.260(5)
+_cell_length_c 8.0687(16)
+_cell_angle_alpha 90
+_cell_angle_beta 101.68(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.42
+K 2.03
+N 0.68
+O 0.68
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.06343(9) 0.71012(6) 0.39574(15)
+Te2 Te 0.31416(8) 0.79496(6) 0.65904(16)
+Te3 Te 0.22755(9) 0.84938(5) 0.38708(16)
+In1 In 0.16523(9) 0.73854(6) 0.70253(15)
+K1 K 0.6934(3) 0.61727(17) 0.7493(4)
+N1 N 0.8932(9) 0.6212(6) 0.8434(15)
+N2 N 0.4922(9) 0.6142(7) 0.6577(18)
+O1 O 0.5906(8) 0.7021(5) 0.8293(14)
+O2 O 0.7908(8) 0.6270(6) 0.4886(14)
+O3 O 0.7873(8) 0.5347(5) 0.9109(14)
+O4 O 0.5983(9) 0.5359(5) 0.8804(17)
+O5 O 0.6037(8) 0.6010(6) 0.4014(15)
+O6 O 0.7772(8) 0.6952(5) 0.9726(15)
+C1 C 0.4547(13) 0.6644(9) 0.672(2)
+H1 H 0.39150 0.66100 0.67310
+H2 H 0.46020 0.68440 0.57380
+C2 C 0.5016(11) 0.6933(9) 0.835(3)
+H3 H 0.47150 0.72550 0.84340
+H4 H 0.49810 0.67320 0.93460
+C3 C 0.6351(12) 0.7326(8) 0.970(2)
+H5 H 0.63470 0.71480 1.07550
+H6 H 0.60330 0.76450 0.97230
+C4 C 0.7501(13) 0.6029(10) 0.331(2)
+H7 H 0.75510 0.56620 0.34270
+H8 H 0.78040 0.61350 0.24240
+C5 C 0.7287(12) 0.7431(7) 0.956(2)
+H9 H 0.72980 0.75840 0.84700
+H10 H 0.75640 0.76650 1.04410
+C6 C 0.8857(10) 0.6142(9) 0.530(2)
+H11 H 0.91480 0.62590 0.44050
+H12 H 0.89310 0.57760 0.54020
+C7 C 0.6490(13) 0.4891(8) 0.891(3)
+H13 H 0.65580 0.47860 0.77930
+H14 H 0.61810 0.46230 0.93910
+C8 C 0.4617(14) 0.5981(8) 0.478(2)
+H15 H 0.46600 0.56130 0.47270
+H16 H 0.39910 0.60710 0.44200
+C9 C 0.9269(13) 0.5693(8) 0.880(2)
+H17 H 0.98990 0.57110 0.93260
+H18 H 0.92210 0.55110 0.77380
+C10 C 0.4592(14) 0.5769(9) 0.771(2)
+H19 H 0.46440 0.59190 0.88260
+H20 H 0.39630 0.57000 0.72690
+C11 C 0.7400(13) 0.4985(8) 1.003(2)
+H21 H 0.73350 0.51280 1.11050
+H22 H 0.77320 0.46680 1.02380
+C12 C 0.8795(11) 0.5396(7) 0.992(2)
+H23 H 0.90640 0.50620 1.01290
+H24 H 0.88430 0.55690 1.09950
+C13 C 0.6528(12) 0.6182(8) 0.287(2)
+H25 H 0.64890 0.65500 0.28110
+H26 H 0.62670 0.60480 0.17590
+C14 C 0.9279(13) 0.6397(8) 0.696(2)
+H27 H 0.99200 0.63400 0.71660
+H28 H 0.91770 0.67610 0.68440
+C15 C 0.9200(15) 0.6569(9) 0.978(3)
+H29 H 0.98210 0.66570 0.98090
+H30 H 0.91810 0.63960 1.08340
+C16 C 0.5127(12) 0.6207(9) 0.358(3)
+H31 H 0.48530 0.61150 0.24270
+H32 H 0.51310 0.65760 0.36710
+C17 C 0.8682(12) 0.7064(9) 0.976(3)
+H33 H 0.89260 0.72620 1.07650
+H34 H 0.87350 0.72630 0.87750
+C18 C 0.5098(12) 0.5283(10) 0.786(3)
+H35 H 0.47960 0.50310 0.84250
+H36 H 0.51220 0.51560 0.67440
+C19 C 0.1997(18) 0.9618(11) 0.996(3)
+H37 H 0.24480 0.96320 1.10010
+H38 H 0.20730 0.99180 0.93060
+N3 N 0.218(2) 0.9132(12) 0.894(4)
+C20? C 0.106(2) 0.9644(15) 1.043(4)
+H39? H 0.09350 0.99760 1.08430
+H40? H 0.09800 0.93820 1.12300
+N4? N 0.046(2) 0.9522(16) 0.838(5)
+Te1C Te 0.06343(9) 0.78988(6) 0.89574(15)
+Te3C Te 0.22755(9) 0.65062(5) 0.88708(16)
+In1C In 0.16523(9) 0.76146(6) 0.20253(15)
+#END

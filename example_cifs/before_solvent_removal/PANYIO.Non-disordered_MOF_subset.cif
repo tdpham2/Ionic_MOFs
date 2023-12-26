@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PANYIO
+_audit_creation_date 2012-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PANYIO
+_database_code_depnum_ccdc_archive 'CCDC 837937'
+_chemical_formula_sum 'C15.5 H23.5 N4.5 O9.5 Zn1'
+_chemical_formula_moiety
+;
+(C12 H12 N3 O9 Zn1 1-)n,n(C2 H8 N1 1+),0.5n(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 11
+_journal_year 2011
+_journal_page_first 5182
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Peipei Cui"
+"Junling Wu"
+"Xiaoliang Zhao"
+"Di Sun"
+"Liangliang Zhang"
+"Jie Guo"
+"Daofeng Sun"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium (\m~5~-tris(2-carboxylatoethyl)isocyanuric 
+acid)-zinc dimethylformamide solvate)
+;
+_cell_volume   4248.138
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The SQUEEZE/PLATON program was used to model the disordered cation and 
+solvent molecule.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0314
+_refine_ls_wR_factor_gt 0.0314
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 24.665(2)
+_cell_length_b 10.7741(9)
+_cell_length_c 16.0097(14)
+_cell_angle_alpha 90
+_cell_angle_beta 93.126(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.523255(9) 0.73124(2) 0.166699(15)
+C1 C 0.42911(9) 0.5684(2) 0.19589(16)
+C2 C 0.38504(10) 0.4803(3) 0.16446(18)
+H1 H 0.40200 0.40080 0.14920
+H2 H 0.36700 0.51540 0.11300
+C3 C 0.34174(9) 0.4537(2) 0.22727(17)
+H3 H 0.35920 0.44520 0.28410
+H4 H 0.31580 0.52380 0.22780
+C4 C 0.33718(9) 0.2289(2) 0.22850(16)
+C5 C 0.26699(8) 0.3450(2) 0.15084(14)
+C6 C 0.26741(8) 0.1179(2) 0.14533(14)
+C7 C 0.34145(9) 0.0038(2) 0.22081(15)
+H5 H 0.31550 -0.06630 0.21640
+H6 H 0.35700 0.00720 0.27910
+C8 C 0.38669(10) -0.0174(2) 0.16142(16)
+H7 H 0.37050 -0.04930 0.10770
+H8 H 0.40390 0.06350 0.15000
+C9 C 0.42994(9) -0.1062(2) 0.19338(15)
+C10 C 0.19994(9) 0.2354(2) 0.05928(15)
+H9 H 0.20320 0.16360 0.02140
+H10 H 0.20270 0.31200 0.02550
+C11 C 0.14488(8) 0.2318(2) 0.09665(14)
+H11 H 0.14090 0.15240 0.12680
+H12 H 0.14240 0.30010 0.13760
+C12 C 0.09939(8) 0.24425(18) 0.02991(14)
+N1 N 0.31258(7) 0.12139(18) 0.20024(11)
+N2 N 0.24523(7) 0.23251(16) 0.12383(12)
+O1 O 0.46164(7) 0.60375(17) 0.14357(11)
+O2 O 0.43138(6) 0.59739(16) 0.27240(11)
+O3 O 0.10910(7) 0.26366(14) -0.04311(10)
+O4 O 0.05059(6) 0.23275(14) 0.05419(10)
+O5 O 0.42987(6) -0.14103(16) 0.26856(10)
+O6 O 0.46443(7) -0.13833(16) 0.14225(10)
+O7 O 0.24698(6) 0.44377(16) 0.12808(12)
+O8 O 0.24832(7) 0.02198(16) 0.11809(11)
+O9 O 0.37879(8) 0.22719(18) 0.27239(14)
+N3 N 0.31235(7) 0.33807(18) 0.20402(12)
+Zn1A Zn 0.476745(9) 0.73124(2) 0.333301(15)
+Zn1B Zn 0.023255(9) 0.23124(2) 0.166699(15)
+Zn1A* Zn 0.476745(9) -0.26876(2) 0.333301(15)
+Zn1* Zn 0.523255(9) -0.26876(2) 0.166699(15)
+O2A O 0.56862(6) 0.59739(16) 0.22760(11)
+O4B O 0.55059(6) 0.73275(14) 0.05419(10)
+O5A O 0.57013(6) 0.85897(16) 0.23144(10)
+O6* O 0.46443(7) 0.86167(16) 0.14225(10)
+#END

@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UFISOS
+_audit_creation_date 2008-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UFISOS
+_database_code_depnum_ccdc_archive 'CCDC 669724'
+_chemical_formula_sum 'C4 H8 Cl2 Fe2 Li2 O13'
+_chemical_formula_moiety
+;
+(Li1 1+)2n,n(C4 Cl2 Fe2 O9 2-),4n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 47
+_journal_year 2008
+_journal_page_first 3772
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"D.Armentano"
+"T.F.Mastropietro"
+"G.De Munno"
+"P.Rossi"
+"F.Lloret"
+"M.Julve"
+_chemical_name_systematic
+;
+catena-(dilithium bis(\m~2~-oxalato)-(\m~2~-oxo)-dichloro-di-iron(iii) 
+tetrahydrate)
+;
+_cell_volume   3162.363
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.935
+_exptl_special_details
+;
+magnetic properties
+
+;
+_exptl_crystal_description 'Rhombus'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0332
+_refine_ls_wR_factor_gt 0.0332
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/4+x,1/4-y,1/4+z
+4 1/4-x,1/4+y,1/4+z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 1/4+x,3/4-y,3/4+z
+8 1/4-x,3/4+y,3/4+z
+9 1/2+x,y,1/2+z
+10 1/2-x,-y,1/2+z
+11 3/4+x,1/4-y,3/4+z
+12 3/4-x,1/4+y,3/4+z
+13 1/2+x,1/2+y,z
+14 1/2-x,1/2-y,z
+15 3/4+x,3/4-y,1/4+z
+16 3/4-x,3/4+y,1/4+z
+_cell_length_a 14.8825(4)
+_cell_length_b 23.3281(9)
+_cell_length_c 9.1087(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cl 0.99
+Fe 1.34
+Li 1.17
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.577837(18) 0.054643(11) 0.26258(3)
+Cl1 Cl 0.68191(4) -0.00592(3) 0.16597(10)
+O1 O 0.50000 0.00000 0.3437(3)
+O2 O 0.66363(11) 0.12498(7) 0.20788(19)
+O3 O 0.63440(11) 0.07199(6) 0.46158(19)
+C1 C 0.70883(12) 0.14183(8) 0.3148(2)
+C2 C 0.69113(12) 0.11189(8) 0.4619(2)
+O4 O 0.73414(11) 0.13020(6) 0.56996(18)
+O5 O 0.76842(10) 0.18048(6) 0.31479(18)
+Li1 Li 0.9002(13) 0.0556(4) 0.0700(12)
+O6 O 0.7723(9) 0.1080(5) -0.0574(10)
+O7 O 0.8595(5) 0.2143(4) 0.0465(6)
+Fe1A Fe 0.422163(18) -0.054643(11) 0.26258(3)
+Fe1B Fe 0.827837(18) 0.195357(11) 0.51258(3)
+Fe1J Fe 0.327837(18) 0.195357(11) 0.01258(3)
+Cl1A Cl 0.31809(4) 0.00592(3) 0.16597(10)
+O2J O 0.41363(11) 0.12502(7) -0.04212(19)
+O2A O 0.33637(11) -0.12498(7) 0.20788(19)
+O3J O 0.38440(11) 0.17801(6) 0.21158(19)
+O3A O 0.36560(11) -0.07199(6) 0.46158(19)
+C1J C 0.45883(12) 0.10817(8) 0.0648(2)
+C2J C 0.44113(12) 0.13811(8) 0.2119(2)
+O4J O 0.48414(11) 0.11980(6) 0.31996(18)
+O4G O 0.51586(11) -0.11980(6) 0.31996(18)
+O5J O 0.51842(10) 0.06952(6) 0.06479(18)
+O5G O 0.48158(10) -0.06952(6) 0.06479(18)
+#END

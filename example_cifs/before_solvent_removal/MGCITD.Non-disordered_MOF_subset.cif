@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MGCITD
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MGCITD
+_database_code_depnum_ccdc_archive 'CCDC 1211672'
+_chemical_formula_sum 'C12 H30 Mg3 O24'
+_chemical_formula_moiety
+;
+(C6 H7 Mg1 O8 1-)2n,n(H12 Mg1 O6 2+),2n(H2 O1)
+;
+_journal_coeditor_code "IUCr A04690"
+_journal_coden_Cambridge 1
+_journal_volume 18
+_journal_year 1965
+_journal_page_first 1004
+_journal_name_full 'Acta Crystallogr. '
+loop_
+_publ_author_name
+"C.K.Johnson"
+_chemical_name_systematic
+;
+catena-(hexaaqua-magnesium bis((\m-citrato)-aqua-magnesium) dihydrate)
+;
+_cell_volume   1226.249
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 20.222
+_cell_length_b 6.686
+_cell_length_c 9.135
+_cell_angle_alpha 90
+_cell_angle_beta 96.86
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+Mg 1.10
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.32519 -0.62040 -0.21430
+C2 C 0.38515 -0.54110 -0.11620
+C3 C 0.36864 -0.34250 -0.04310
+C4 C 0.43330 -0.25010 0.03190
+C5 C 0.42480 -0.06030 0.11890
+C6 C 0.31872 -0.37770 0.07120
+H1 H 0.42300 -0.51500 -0.17500
+H2 H 0.40100 -0.63600 -0.03600
+H3 H 0.46100 -0.21500 -0.04500
+H4 H 0.45900 -0.35000 0.09900
+H5 H 0.31600 -0.25700 -0.21700
+H6 H 0.21800 0.11000 0.17600
+H7 H 0.26400 0.25800 0.14800
+Mg1 Mg 0.28212 0.00189 -0.03903
+O1 O 0.30934 -0.52730 -0.33400
+O2 O 0.29238 -0.76320 -0.17340
+O3 O 0.47383 -0.00290 0.20580
+O4 O 0.37011 0.03180 0.10180
+O5 O 0.26644 -0.27340 0.05750
+O6 O 0.33276 -0.50370 0.17130
+O7 O 0.33994 -0.19890 -0.15020
+O8 O 0.23827 0.16410 0.11070
+H8 H 0.12000 0.09700 -0.05700
+H9 H 0.10100 0.25600 0.00700
+H10 H -0.06800 0.29900 0.05100
+H11 H -0.02400 0.32000 0.16300
+H12 H 0.03400 -0.23200 0.23100
+H13 H 0.07800 -0.08700 0.23800
+Mg2 Mg 0.00000 0.00000 0.00000
+O9 O 0.08787 0.15470 -0.01820
+O10 O -0.04031 0.24090 0.09870
+O11 O 0.03990 -0.11290 0.20390
+H14 H 0.13500 -0.43700 0.16900
+H15 H 0.17500 -0.41000 0.06500
+O12 O 0.13837 -0.44990 0.07630
+O2* O 0.29238 0.23680 -0.17340
+Mg1A Mg 0.21788 -0.49811 -0.46097
+O1A O 0.19066 -0.02730 -0.16600
+Mg1* Mg 0.28212 -0.99811 -0.03903
+O9B O -0.08787 -0.15470 0.01820
+O10B O 0.04031 -0.24090 -0.09870
+O11B O -0.03990 0.11290 -0.20390
+H8B H -0.12000 -0.09700 0.05700
+H9B H -0.10100 -0.25600 -0.00700
+H10B H 0.06800 -0.29900 -0.05100
+H11B H 0.02400 -0.32000 -0.16300
+H12B H -0.03400 0.23200 -0.23100
+H13B H -0.07800 0.08700 -0.23800
+#END

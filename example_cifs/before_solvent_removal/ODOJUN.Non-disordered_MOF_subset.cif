@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ODOJUN
+_audit_creation_date 2007-09-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ODOJUN
+_database_code_depnum_ccdc_archive 'CCDC 623358'
+_chemical_formula_sum 'C5 H17 N2 O12 P4 Zn3'
+_chemical_formula_moiety
+;
+(C4 H8 O12 P4 Zn3 2-)n,n(H4 N1 1+),0.5n(C2 H10 N2 2+)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 7
+_journal_year 2007
+_journal_page_first 1134
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Ruibiao Fu"
+"Shengmin Hu"
+"Xintao Wu"
+_chemical_name_systematic
+;
+catena-[Ammonium hemikis(ethylene-1,2-diammonium) 
+bis(\m~6~-ethylene-1,2-diphosphonato)-tri-zinc(ii)]
+;
+_cell_volume   3574.833
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.294
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 130.15
+_refine_special_details
+;
+The diammonium cation is partially disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0306
+_refine_ls_wR_factor_gt 0.0306
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 28.419(5)
+_cell_length_b 8.5688(13)
+_cell_length_c 14.951(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.925(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+P 1.05
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.199019(14) 0.22593(5) 0.22132(3)
+Zn2 Zn 0.096280(14) -0.00486(4) 0.16133(3)
+Zn3 Zn 0.068330(14) -0.49564(4) 0.44610(3)
+P1 P 0.19523(3) -0.12673(10) 0.27132(6)
+P2 P 0.13970(3) -0.22085(10) 0.52467(6)
+P3 P 0.09865(3) 0.31207(10) 0.26967(6)
+P4 P 0.02737(3) 0.70000(9) 0.10383(6)
+O1 O 0.20546(10) 0.0427(3) 0.29970(17)
+O2 O 0.23699(9) -0.2007(3) 0.23664(18)
+O3 O 0.15011(9) -0.1434(3) 0.19701(17)
+O4 O 0.18812(9) -0.2035(3) 0.58902(16)
+O5 O 0.12499(9) -0.3934(3) 0.51688(16)
+O6 O 0.10093(9) -0.1174(3) 0.55243(16)
+O7 O 0.14832(9) 0.3523(3) 0.25237(18)
+O8 O 0.09170(9) 0.3631(3) 0.36340(16)
+O9 O 0.08709(9) 0.1360(3) 0.25815(16)
+O10 O 0.04024(9) 0.6549(3) 0.01238(16)
+O11 O -0.02515(9) 0.6686(3) 0.10598(17)
+O12 O 0.03786(8) 0.8744(3) 0.12283(16)
+C1 C 0.18600(13) -0.2292(4) 0.3721(2)
+H1 H 0.17760 -0.33690 0.35660
+H2 H 0.21550 -0.22880 0.41700
+C2 C 0.14581(12) -0.1530(4) 0.4134(2)
+H3 H 0.15140 -0.04130 0.41680
+H4 H 0.11560 -0.17020 0.37190
+C3 C 0.05606(12) 0.4140(4) 0.1857(2)
+H5 H 0.05900 0.37860 0.12540
+H6 H 0.02390 0.39030 0.19440
+C4 C 0.06425(12) 0.5919(4) 0.1926(2)
+H7 H 0.09760 0.61340 0.19110
+H8 H 0.05810 0.62770 0.25080
+C5? C 0.2727(6) 0.3338(19) 0.4898(10)
+C6 C 0.2186(6) 0.3261(17) 0.4552(10)
+C7 C 0.1957(5) 0.295(2) 0.5124(11)
+N1 N 0.54386(11) 1.4397(3) -0.0901(2)
+N2 N 0.2599(3) 0.4334(10) 0.4418(6)
+N3 N 0.1952(2) 0.3895(6) 0.5860(4)
+Zn1C Zn 0.300981(14) -0.27407(5) 0.27868(3)
+Zn1F Zn 0.199019(14) -0.22593(5) 0.72132(3)
+Zn2F Zn 0.096280(14) 0.00486(4) 0.66133(3)
+Zn2* Zn 0.096280(14) 0.99514(4) 0.16133(3)
+Zn3* Zn 0.068330(14) 0.50436(4) 0.44610(3)
+Zn3F Zn 0.068330(14) 0.49564(4) -0.05390(3)
+Zn3B Zn -0.068330(14) 0.50436(4) 0.05390(3)
+O2C O 0.26301(9) 0.2993(3) 0.26336(18)
+O4F O 0.18812(9) 0.2035(3) 0.08902(16)
+O6F O 0.10093(9) 0.1174(3) 0.05243(16)
+O8* O 0.09170(9) -0.6369(3) 0.36340(16)
+O10F O 0.04024(9) -0.6549(3) 0.51238(16)
+O11B O 0.02515(9) -0.3314(3) 0.39402(17)
+O12* O 0.03786(8) -0.1256(3) 0.12283(16)
+#END

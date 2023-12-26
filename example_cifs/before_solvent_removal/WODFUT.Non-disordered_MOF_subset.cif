@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WODFUT
+_audit_creation_date 2019-02-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WODFUT
+_database_code_depnum_ccdc_archive 'CCDC 1884108'
+_chemical_formula_sum 'C22 H36 In2 N2 O22'
+_chemical_formula_moiety
+;
+(C8 In2 O16 2-)n,2n(C7 H18 N1 O3 1+)
+;
+_journal_coden_Cambridge 179
+_journal_volume 58
+_journal_year 2019
+_journal_page_first 2889
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Fei-Yan Yi"
+"Huajun Yang"
+"Xiang Zhao"
+"Pingyun Feng"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-(bis(tris(2-hydroxyethyl)methylammonium) 
+tetrakis(\m-oxalato)-di-indium)
+;
+_chemical_name_common
+;
+CPM-521-ABW
+;
+_cell_volume   2542.920
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+We have assumed that the cation is the tempating 
+tris(2-hydroxyethyl)methylammonium
+;
+_exptl_crystal_description 'brick'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The cation and some guest molecules were taken into account using 
+PLATON/SQUEEZE.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0609
+_refine_ls_wR_factor_gt 0.0609
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 11.060(5)
+_cell_length_b 21.605(8)
+_cell_length_c 10.642(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+In 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.47378(11) 0.38985(6) 0.84385(13)
+O1 O 0.3567(11) 0.4149(5) 0.6798(12)
+O2 O 0.1683(11) 0.4037(6) 0.5984(11)
+O3 O 0.2762(11) 0.3829(6) 0.9057(12)
+O4 O 0.0897(12) 0.3797(6) 0.8334(12)
+O5 O 0.5043(15) 0.3034(6) 0.9527(16)
+O6 O 0.4105(18) 0.2009(8) 0.7360(15)
+O7 O 0.4866(11) 0.4913(6) 0.8378(13)
+O8 O 0.5255(11) 0.5747(6) 0.9503(11)
+C1 C 0.2453(19) 0.4038(7) 0.6977(17)
+C2 C 0.1946(19) 0.3848(8) 0.8179(16)
+C3 C 0.488(3) 0.25000 0.904(3)
+C4 C 0.437(3) 0.25000 0.790(3)
+C5 C 0.5060(15) 0.5189(9) 0.9458(17)
+O5F O 0.5043(15) 0.1966(6) 0.9527(16)
+O6F O 0.4105(18) 0.2991(8) 0.7360(15)
+O7D O 0.5134(11) 0.5087(6) 1.1622(13)
+O8D O 0.4745(11) 0.4253(6) 1.0497(11)
+C5D C 0.4940(15) 0.4811(9) 1.0542(17)
+In1D In 0.52622(11) 0.61015(6) 1.15615(13)
+O1D O 0.6433(11) 0.5851(5) 1.3202(12)
+O2D O 0.8317(11) 0.5963(6) 1.4016(11)
+O3D O 0.7238(11) 0.6171(6) 1.0943(12)
+O4D O 0.9103(12) 0.6203(6) 1.1666(12)
+C1D C 0.7547(19) 0.5962(7) 1.3023(17)
+C2D C 0.8054(19) 0.6152(8) 1.1821(16)
+In1A In 1.02622(11) 0.61015(6) 1.34385(13)
+In1E In -0.02622(11) 0.38985(6) 0.65615(13)
+In1F In 0.47378(11) 0.11015(6) 0.84385(13)
+O2A O 0.3317(11) 0.5963(6) 1.0984(11)
+O2E O 0.6683(11) 0.4037(6) 0.9016(11)
+O4A O 0.4103(12) 0.6203(6) 1.3334(12)
+O4E O 0.5897(12) 0.3797(6) 0.6666(12)
+O5D O 0.4957(15) 0.6966(6) 1.0473(16)
+O6B O 0.5895(18) 0.7009(8) 1.2640(15)
+#END

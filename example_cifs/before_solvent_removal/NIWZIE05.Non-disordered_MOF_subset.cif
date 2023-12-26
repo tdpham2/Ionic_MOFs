@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIWZIE05
+_audit_creation_date 2017-02-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIWZIE05
+_database_code_depnum_ccdc_archive 'CCDC 958241'
+_chemical_formula_sum 'C3 H7 Mg1 N1 O6'
+_chemical_formula_moiety
+;
+H4 N1 1+,n(C3 H3 Mg1 O6 1-)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 20
+_journal_year 2014
+_journal_page_first 1146
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Ran Shang"
+"Guan-Cheng Xu"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[ammonium tris(\m-formato)-magnesium(ii)]
+;
+_cell_volume   1119.956
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.578
+_exptl_crystal_description 'hexagonal block'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0318
+_refine_ls_wR_factor_gt 0.0318
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+_cell_length_a 12.5233(2)
+_cell_length_b 12.5233(2)
+_cell_length_c 8.2458(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mg 1.41
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg 0.33554(4) 0.33110(4) 0.58647(11)
+O1 O 0.42216(10) 0.26139(10) 0.44243(13)
+O2 O 0.42581(10) 0.15374(10) 0.22967(14)
+O3 O 0.39990(11) 0.48682(10) 0.43908(13)
+O4 O 0.50527(10) 0.59992(10) 0.22663(13)
+O5 O 0.17531(10) 0.23729(10) 0.44895(12)
+O6 O 0.07143(10) 0.24779(10) 0.23624(13)
+C1 C 0.37311(16) 0.18701(18) 0.3276(3)
+H1 H 0.28670 0.15260 0.31430
+C2 C 0.47167(16) 0.51191(16) 0.3214(2)
+H2 H 0.50360 0.45830 0.30280
+C3 C 0.13841(16) 0.29301(14) 0.3587(2)
+H3 H 0.16320 0.37600 0.38550
+N1 N 0.66670 0.33330 0.5385(4)
+H4 H 0.5888(8) 0.3087(19) 0.5031(12)
+H5 H 0.66670 0.33330 0.6489(7)
+N2 N 0.33330 0.66670 0.5356(4)
+H6 H 0.355(2) 0.6112(16) 0.5001(12)
+H7 H 0.33330 0.66670 0.6463(7)
+N3 N 0.00000 0.00000 0.1398(4)
+H8 H 0.0252(17) 0.0788(7) 0.1740(12)
+H9 H 0.00000 0.00000 0.0291(7)
+Mg1C Mg 0.66446(4) 0.66890(4) 0.08647(11)
+Mg1D Mg 0.33110(4) -0.00444(4) 0.08647(11)
+Mg1E Mg 0.00444(4) 0.33554(4) 0.08647(11)
+O2E O 0.27207(10) 0.42581(10) 0.72967(14)
+O4C O 0.49473(10) 0.40008(10) 0.72663(13)
+O6D O 0.24779(10) 0.17636(10) 0.73624(13)
+H4A H 0.6913(8) 0.2801(19) 0.5031(12)
+H4B H 0.7199(8) 0.4112(19) 0.5031(12)
+H6A H 0.3888(20) 0.7438(16) 0.5001(12)
+H6B H 0.2562(20) 0.6450(16) 0.5001(12)
+H8A H -0.0788(17) -0.0536(7) 0.1740(12)
+H8B H 0.0536(17) -0.0252(7) 0.1740(12)
+#END

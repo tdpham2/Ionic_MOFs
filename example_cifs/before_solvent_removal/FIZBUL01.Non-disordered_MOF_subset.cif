@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FIZBUL01
+_audit_creation_date 2000-03-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FIZBUL01
+_database_code_depnum_ccdc_archive 'CCDC 114419'
+_chemical_formula_sum 'C11 H20 Bi1 N5 O9'
+_chemical_formula_moiety
+;
+(C1 H6 N3 1+)n,n(C10 H14 Bi1 N2 O9 1-)
+;
+_journal_coden_Cambridge 1115
+_journal_volume 22
+_journal_year 1999
+_journal_page_first 275
+_journal_name_full 'Main Group Met.Chem. '
+loop_
+_publ_author_name
+"A.B.Ilyukhin"
+"R.L.Davidovich"
+"V.B.Logvinova"
+"Hoong-Kun Fun"
+"S.S.S.Raj"
+"I.A.Razak"
+"Sheng-Zhi Hu"
+"S.W.Ng"
+_chemical_name_systematic
+;
+catena[Guanidinium aqua-(\m~2~-ethylediaminetetra-acetato)-bismuthate(iii)]
+;
+_cell_volume   3439.754
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.222
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0317
+_refine_ls_wR_factor_gt 0.0317
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 x,1/2-y,1/2+z
+4 1/2-x,1/2+y,z
+5 -x,-y,-z
+6 -1/2-x,-y,-1/2+z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,-1/2-y,-z
+_cell_length_a 8.1316(1)
+_cell_length_b 19.2261(3)
+_cell_length_c 22.0019(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.62
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.16788(2) 0.122557(8) 0.13329(1)
+O1 O 0.2778(5) 0.1485(2) 0.0371(2)
+O2 O 0.3989(8) 0.2257(3) -0.0219(2)
+O3 O 0.0613(5) 0.2361(2) 0.1652(2)
+O4 O 0.1068(6) 0.3363(2) 0.2120(2)
+O5 O 0.2722(5) 0.1129(2) 0.2330(2)
+O6 O 0.4412(5) 0.0589(2) 0.2969(2)
+O7 O 0.1485(5) 0.0034(2) 0.0941(2)
+O8 O 0.2728(6) -0.0739(3) 0.0348(2)
+O9 O -0.0816(5) 0.1372(2) 0.0552(2)
+N1 N 0.3877(6) 0.2146(2) 0.1421(2)
+N2 N 0.4389(5) 0.0619(2) 0.1320(2)
+N3 N 0.3063(7) 0.1581(3) -0.1292(3)
+N4 N 0.1445(6) 0.0825(3) -0.0758(2)
+N5 N 0.1369(7) 0.0827(3) -0.1794(2)
+C1 C 0.3559(7) 0.2052(3) 0.0282(3)
+C2 C 0.3955(8) 0.2508(3) 0.0824(3)
+C3 C 0.1552(7) 0.2808(3) 0.1886(2)
+C4 C 0.3388(7) 0.2645(3) 0.1901(3)
+C5 C 0.3870(6) 0.0701(3) 0.2448(2)
+C6 C 0.4549(7) 0.0270(3) 0.1919(2)
+C7 C 0.5765(7) 0.1132(3) 0.1227(3)
+C8 C 0.5468(6) 0.1807(3) 0.1578(3)
+C9 C 0.4407(7) 0.0094(3) 0.0821(2)
+C10 C 0.2744(8) -0.0238(3) 0.0697(3)
+C11 C 0.1969(7) 0.1079(3) -0.1276(3)
+H1 H -0.07090 0.10360 0.02310
+H2 H -0.07960 0.18320 0.03830
+H3 H 0.34490 0.17480 -0.09590
+H4 H 0.33940 0.17420 -0.16360
+H5 H 0.18190 0.09860 -0.04200
+H6 H 0.07270 0.04960 -0.07550
+H7 H 0.16980 0.09920 -0.21360
+H8 H 0.06520 0.04980 -0.17860
+H9 H 0.50520 0.26980 0.07720
+H10 H 0.31910 0.28960 0.08310
+H11 H 0.40040 0.30730 0.18490
+H12 H 0.36690 0.24530 0.22950
+H13 H 0.57010 0.01720 0.19940
+H14 H 0.39700 -0.01710 0.19040
+H15 H 0.58650 0.12360 0.07970
+H16 H 0.67920 0.09250 0.13610
+H17 H 0.54820 0.17070 0.20100
+H18 H 0.63580 0.21280 0.14940
+H19 H 0.51870 -0.02690 0.09240
+H20 H 0.47910 0.03170 0.04520
+O6A O -0.0588(5) 0.0589(2) 0.2031(2)
+Bi1A Bi 0.66788(2) 0.122557(8) 0.36671(1)
+#END

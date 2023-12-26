@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UCIREF
+_audit_creation_date 2012-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UCIREF
+_database_code_depnum_ccdc_archive 'CCDC 857324'
+_chemical_formula_sum 'C8 H8 N4 Na1 Ni1 O2 S4'
+_chemical_formula_moiety
+;
+(C8 H4 N4 Ni1 S4 1-)n,n(Na1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 50
+_journal_year 2011
+_journal_page_first 6405
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"S.Takaishi"
+"N.Ishihara"
+"K.Kubo"
+"K.Katoh"
+"B.K.Breedlove"
+"H.Miyasaka"
+"M.Yamashita"
+_chemical_name_systematic
+;
+catena-(sodium 
+(\m~2~-pyrazine-2,3-dithiolato)-(pyrazine-2,3-dithiolato)-nickel dihydrate)
+;
+_cell_volume   1309.276
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.02
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 210
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.299(2)
+_cell_length_b 12.154(4)
+_cell_length_c 14.759(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.353(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 1.31
+Ni 1.24
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.20334(7) 0.01370(4) 0.52441(4)
+S1 S -0.07679(14) 0.00044(8) 0.60971(7)
+S2 S 0.37338(16) 0.03257(9) 0.64719(7)
+S3 S 0.22059(14) 0.19285(8) 0.49948(7)
+N1 N -0.0811(5) 0.1657(3) 0.7271(2)
+N2 N 0.2811(5) 0.3533(3) 0.6190(2)
+N3 N 0.3994(5) 0.2066(3) 0.7538(2)
+C1 C 0.3519(6) 0.1713(3) 0.6721(3)
+C2 C 0.2888(6) 0.2454(3) 0.6042(3)
+N4 N -0.2235(5) 0.3167(3) 0.5998(3)
+C3 C 0.3853(6) 0.3153(4) 0.7686(3)
+H1 H 0.41430 0.34290 0.82570
+C4 C -0.1252(6) 0.1352(3) 0.6427(3)
+C5 C 0.3293(6) 0.3873(4) 0.7020(3)
+H2 H 0.32480 0.46210 0.71510
+C6 C -0.1764(7) 0.3459(4) 0.6840(3)
+H3 H -0.18840 0.41930 0.70070
+C7 C -0.1105(7) 0.2716(4) 0.7476(3)
+H4 H -0.08600 0.29600 0.80620
+S4 S -0.27230(15) 0.16276(8) 0.47417(7)
+C8 C -0.2029(6) 0.2084(3) 0.5788(3)
+Na1 Na 0.2512(3) 0.50981(15) 0.50292(12)
+O1 O 0.5128(5) 0.5965(3) 0.5781(2)
+O2 O 0.0053(5) 0.4141(3) 0.4134(2)
+Ni1B Ni -0.20334(7) -0.01370(4) 0.47559(4)
+S1B S 0.07679(14) -0.00044(8) 0.39029(7)
+S4B S 0.27230(15) -0.16276(8) 0.52583(7)
+#END

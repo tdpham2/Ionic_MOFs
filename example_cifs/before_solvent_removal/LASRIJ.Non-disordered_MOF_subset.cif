@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LASRIJ
+_audit_creation_date 2017-04-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LASRIJ
+_database_code_depnum_ccdc_archive 'CCDC 1532627'
+_chemical_formula_sum 'C57 H43 Br1 Co1 Cu3 O18 P2'
+_chemical_formula_moiety
+;
+(C9 H3 Br1 Co1 Cu3 O18 2-)n,2n(C24 H20 P1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 46
+_journal_year 2017
+_journal_page_first 5260
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"B.Gil-Hernandez"
+"A.J.Calahorro"
+"P.Gili"
+"J.Sanchiz"
+_chemical_name_systematic
+;
+catena-(bis(tetraphenylphosphonium) (\m-bromo)-tris(\m-hydrogen 
+2,2-dioxypropane-1,3-dioato)-cobalt-tri-copper)
+;
+_cell_volume   5752.755
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.625
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 150
+_diffrn_special_details
+;
+twin
+
+;
+_refine_special_details
+;
+The SQUEEZE/PLATON program was used to take into account the cations.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 z,x,y
+6 1/2-z,-x,1/2+y
+7 1/2+z,1/2-x,-y
+8 -z,1/2+x,1/2-y
+9 y,z,x
+10 1/2+y,1/2-z,-x
+11 -y,1/2+z,1/2-x
+12 1/2-y,-z,1/2+x
+_cell_length_a 17.9181(7)
+_cell_length_b 17.9181(7)
+_cell_length_c 17.9181(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.26
+Cu 1.32
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.19836(14) 0.19836(14) 0.19836(14)
+Cu1 Cu 0.20336(15) 0.05267(16) 0.13614(14)
+Co1 Co 0.10651(14) -0.10651(14) 0.39349(14)
+O1 O 0.2328(7) -0.0083(7) 0.2200(8)
+O2 O 0.1866(6) -0.0669(7) 0.3179(7)
+O3 O 0.1068(6) 0.0414(7) 0.1795(7)
+O4 O 0.0699(6) -0.0728(8) 0.2011(7)
+H1 H 0.06452 -0.10586 0.23230
+O5 O 0.0387(7) -0.0216(8) 0.3548(8)
+O6 O 0.0304(8) 0.0835(8) 0.2969(8)
+C1 C 0.1764(18) -0.0312(13) 0.2624(16)
+C2 C 0.1042(15) -0.0089(14) 0.2354(14)
+C3 C 0.0521(14) 0.0143(9) 0.2935(17)
+Cu1D Cu 0.13614(15) 0.20336(16) 0.05267(14)
+O1D O 0.2200(7) 0.2328(7) -0.0083(8)
+O2D O 0.3179(6) 0.1866(7) -0.0669(7)
+O3D O 0.1795(6) 0.1068(7) 0.0414(7)
+O4D O 0.2011(6) 0.0699(8) -0.0728(7)
+H1D H 0.23230 0.06452 -0.10586
+O5D O 0.3548(7) 0.0387(8) -0.0216(8)
+O6D O 0.2969(8) 0.0304(8) 0.0835(8)
+C1D C 0.2624(18) 0.1764(13) -0.0312(16)
+C2D C 0.2354(15) 0.1042(14) -0.0089(14)
+C3D C 0.2935(14) 0.0521(9) 0.0143(17)
+Cu1H Cu 0.05267(15) 0.13614(16) 0.20336(14)
+O1H O -0.0083(7) 0.2200(7) 0.2328(8)
+O2H O -0.0669(6) 0.3179(7) 0.1866(7)
+O3H O 0.0414(6) 0.1795(7) 0.1068(7)
+O4H O -0.0728(6) 0.2011(8) 0.0699(7)
+H1H H -0.10586 0.23230 0.06452
+O5H O -0.0216(7) 0.3548(8) 0.0387(8)
+O6H O 0.0835(8) 0.2969(8) 0.0304(8)
+C1H C -0.0312(18) 0.2624(13) 0.1764(16)
+C2H C -0.0089(15) 0.2354(14) 0.1042(14)
+C3H C 0.0143(14) 0.2935(9) 0.0521(17)
+Co1A Co 0.39349(14) 0.10651(14) -0.10651(14)
+Co1C Co -0.10651(14) 0.39349(14) 0.10651(14)
+O2E O 0.1821(6) -0.1866(7) 0.4331(7)
+O2J O 0.0669(6) -0.1821(7) 0.3134(7)
+O5E O 0.1452(7) -0.0387(8) 0.4784(8)
+O5J O 0.0216(7) -0.1452(8) 0.4613(8)
+#END

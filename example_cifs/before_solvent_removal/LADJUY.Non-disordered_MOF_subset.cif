@@ -1,0 +1,193 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LADJUY
+_audit_creation_date 2016-02-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LADJUY
+_database_code_depnum_ccdc_archive 'CCDC 1026781'
+_chemical_formula_sum 'C42 H44 Cd2 N4 O30'
+_chemical_formula_moiety
+;
+(C22 H8 Cd1 O20 2-)n,n(C20 H24 Cd1 N4 O4 2+),6n(H2 O1)
+;
+_journal_coden_Cambridge 119
+_journal_volume 1114
+_journal_year 2016
+_journal_page_first 38
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"M.R.Shimpi"
+"S.N.Biswas"
+"S.Sarkar"
+"V.R.Pedireddi"
+_chemical_name_systematic
+;
+catena-(Tetra-aqua-bis(4,4'-bipyridine)-cadmium bis(\m-trihydrogen 
+benzenepentacarboxylato)-cadmium hexahydrate)
+;
+_cell_volume   2317.532
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Although the benzenepentacarboxylate ligands are reported to be 
+singly-protonated, this formulation does not appear to charge balance. We 
+have assumed that the ligands are in fact triply-protonated
+;
+_exptl_crystal_description 'Blocks'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0702
+_refine_ls_wR_factor_gt 0.0702
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.880(3)
+_cell_length_b 12.956(3)
+_cell_length_c 15.057(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.020(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2120(6) 0.6697(5) 0.7963(4)
+H1 H 0.17430 0.62220 0.83410
+C2 C 0.3275(6) 0.6794(5) 0.8012(4)
+C3 C 0.3857(6) 0.7476(4) 0.7451(5)
+C4 C 0.3233(6) 0.8093(5) 0.6849(4)
+C5 C 0.2055(5) 0.7999(5) 0.6808(4)
+C6 C 0.1493(6) 0.7298(5) 0.7356(5)
+C7 C 0.3910(6) 0.6140(5) 0.8693(5)
+C8 C 0.5104(6) 0.7571(5) 0.7499(4)
+C9 C 0.3869(6) 0.8811(5) 0.6248(4)
+C10 C 0.1419(5) 0.8706(5) 0.6192(5)
+C11 C 0.0252(6) 0.7117(5) 0.7275(5)
+Cd1 Cd 0.50000 0.50000 1.00000
+O1 O 0.3507(4) 0.5284(4) 0.8899(4)
+O2 O 0.4809(4) 0.6495(4) 0.8993(3)
+O3 O 0.5489(4) 0.8363(3) 0.7887(3)
+O4 O 0.5701(4) 0.6865(4) 0.7168(3)
+O5 O 0.3450(4) 0.9674(4) 0.6067(3)
+O6 O 0.4788(4) 0.8497(4) 0.5933(3)
+O7 O 0.1558(4) 0.8503(4) 0.5345(3)
+O8 O 0.0857(4) 0.9416(4) 0.6491(3)
+O9 O -0.0274(4) 0.7332(4) 0.6610(4)
+O10 O -0.0189(4) 0.6686(4) 0.7993(3)
+H2 H -0.08740 0.65610 0.79030
+C12 C 0.8385(6) 0.4755(6) 0.6358(5)
+H3 H 0.86540 0.49810 0.69190
+C13 C 0.7302(7) 0.4974(6) 0.6099(6)
+H4 H 0.68510 0.53740 0.64900
+C14 C 0.7520(6) 0.4121(6) 0.4795(5)
+H5 H 0.72190 0.38840 0.42470
+C15 C 0.8626(6) 0.3893(5) 0.4991(5)
+H6 H 0.90720 0.35240 0.45750
+C16 C 0.9087(6) 0.4201(5) 0.5790(4)
+C17 C 1.0271(6) 0.3982(5) 0.6037(5)
+C18 C 1.0743(6) 0.4403(5) 0.6813(5)
+H7 H 1.03050 0.48350 0.71880
+C19 C 1.1847(6) 0.4183(5) 0.7026(5)
+H8 H 1.21680 0.44650 0.75500
+C20 C 1.2046(6) 0.3154(5) 0.5746(5)
+H9 H 1.25080 0.27270 0.53850
+C21 C 1.0946(6) 0.3345(5) 0.5507(5)
+H10 H 1.06450 0.30440 0.49820
+Cd2 Cd 0.50000 0.50000 0.50000
+N1 N 0.6845(5) 0.4665(4) 0.5345(4)
+N2 N 1.2467(5) 0.3580(4) 0.6503(4)
+O11 O 0.5342(4) 0.6770(4) 0.4950(3)
+H11 H 0.54200 0.69570 0.44200
+O12 O 0.4595(4) 0.5273(4) 0.6468(3)
+H12 H 0.45500 0.47040 0.67320
+O13 O 0.7669(4) 0.6264(4) 0.8018(3)
+H13 H 0.703(6) 0.643(6) 0.785(5)
+H14 H 0.744(8) 0.572(5) 0.833(6)
+O14 O 0.1068(5) 0.4947(4) 0.9379(4)
+O15 O 0.2504(6) 0.1788(5) 0.4022(4)
+C1B C 0.7880(6) 0.3303(5) 1.2037(4)
+H1B H 0.82570 0.37780 1.16590
+C2B C 0.6725(6) 0.3206(5) 1.1988(4)
+C3B C 0.6143(6) 0.2524(4) 1.2549(5)
+C4B C 0.6767(6) 0.1907(5) 1.3151(4)
+C5B C 0.7945(5) 0.2001(5) 1.3192(4)
+C6B C 0.8507(6) 0.2702(5) 1.2644(5)
+C7B C 0.6090(6) 0.3860(5) 1.1307(5)
+C8B C 0.4896(6) 0.2429(5) 1.2501(4)
+C9B C 0.6131(6) 0.1189(5) 1.3752(4)
+C10B C 0.8581(5) 0.1294(5) 1.3808(5)
+C11B C 0.9748(6) 0.2883(5) 1.2725(5)
+O1B O 0.6493(4) 0.4716(4) 1.1101(4)
+O2B O 0.5191(4) 0.3505(4) 1.1007(3)
+O3B O 0.4511(4) 0.1637(3) 1.2113(3)
+O4B O 0.4299(4) 0.3135(4) 1.2832(3)
+O5B O 0.6550(4) 0.0326(4) 1.3933(3)
+O6B O 0.5212(4) 0.1503(4) 1.4067(3)
+O7B O 0.8442(4) 0.1497(4) 1.4655(3)
+O8B O 0.9143(4) 0.0584(4) 1.3509(3)
+O9B O 1.0274(4) 0.2668(4) 1.3390(4)
+O10B O 1.0189(4) 0.3314(4) 1.2007(3)
+H2B H 1.08740 0.34390 1.20970
+Cd1A Cd 0.50000 0.00000 1.50000
+Cd1A* Cd 0.50000 1.00000 0.50000
+O5A O 0.6550(4) 0.4674(4) 0.8933(3)
+O5C O 0.3450(4) 0.5326(4) 1.1067(3)
+O6A O 0.5212(4) 0.3497(4) 0.9067(3)
+O6C O 0.4788(4) 0.6503(4) 1.0933(3)
+C12B C 0.1615(6) 0.5245(6) 0.3642(5)
+H3B H 0.13460 0.50190 0.30810
+C13B C 0.2698(7) 0.5026(6) 0.3901(6)
+H4B H 0.31490 0.46260 0.35100
+C14B C 0.2480(6) 0.5879(6) 0.5205(5)
+H5B H 0.27810 0.61160 0.57530
+C15B C 0.1374(6) 0.6107(5) 0.5009(5)
+H6B H 0.09280 0.64760 0.54250
+C16B C 0.0913(6) 0.5799(5) 0.4210(4)
+C17B C -0.0271(6) 0.6018(5) 0.3963(5)
+C18B C -0.0743(6) 0.5597(5) 0.3187(5)
+H7B H -0.03050 0.51650 0.28120
+C19B C -0.1847(6) 0.5817(5) 0.2974(5)
+H8B H -0.21680 0.55350 0.24500
+C20B C -0.2046(6) 0.6846(5) 0.4254(5)
+H9B H -0.25080 0.72730 0.46150
+C21B C -0.0946(6) 0.6655(5) 0.4493(5)
+H10B H -0.06450 0.69560 0.50180
+N1B N 0.3155(5) 0.5335(4) 0.4655(4)
+N2B N -0.2467(5) 0.6420(4) 0.3497(4)
+O11B O 0.4658(4) 0.3230(4) 0.5050(3)
+H11B H 0.45800 0.30430 0.55800
+O12B O 0.5405(4) 0.4727(4) 0.3532(3)
+H12B H 0.54500 0.52960 0.32680
+#END

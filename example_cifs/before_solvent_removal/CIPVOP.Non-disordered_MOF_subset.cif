@@ -1,0 +1,171 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIPVOP
+_audit_creation_date 2018-11-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIPVOP
+_database_code_depnum_ccdc_archive 'CCDC 1571451'
+_chemical_formula_sum 'C36 H77 Bi2 I8 N5'
+_chemical_formula_moiety
+;
+2(C16 H36 N1 1+),n(C4 H5 Bi2 I8 N3 2-)
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4990
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"A.W.Kelly"
+"A.M.Wheaton"
+"A.D.Nicholas"
+"F.H.Barnes"
+"H.H.Patterson"
+"R.D.Pike"
+_chemical_name_systematic
+;
+catena-[bis(tetrabutylammonium) 
+(\m-2-aminopyrazine)-bis(\m-iodo)-hexaiodo-di-bismuth(iii)]
+;
+_cell_volume   3001.961
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.227
+_exptl_crystal_description 'blade'
+_exptl_crystal_preparation 'acetone/ethyl ether'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+I2A,I3A and I2B,I3B disordered over two sites with occupancies 
+0.512,0.513:0.488,0.487; N2 and H1 disordered over two sites with occupancies 
+0.5:0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0142
+_refine_ls_wR_factor_gt 0.0142
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.3647(9)
+_cell_length_b 16.7892(15)
+_cell_length_c 19.5638(18)
+_cell_angle_alpha 90
+_cell_angle_beta 102.591(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.48
+I 1.40
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi1 Bi 0.08156(2) 0.57118(2) 0.40421(2)
+I1 I 0.16864(2) 0.51251(2) 0.27581(2)
+I2 I 0.02303(2) 0.60659(2) 0.55598(2)
+N1 N 0.3652(2) 0.53349(17) 0.46911(12)
+I3 I 0.1657(4) 0.74135(9) 0.39472(4)
+I4 I -0.1929(3) 0.62365(16) 0.32277(12)
+N2 N 0.4841(5) 0.6186(3) 0.3973(3)
+H1 H 0.40170 0.64410 0.38060
+H2 H 0.56420 0.63200 0.38350
+C1 C 0.4879(3) 0.5544(2) 0.44764(14)
+C2 C 0.3787(3) 0.4806(2) 0.52081(14)
+H3 H 0.29380 0.46600 0.53700
+I5? I 0.2209(4) 0.72569(14) 0.39820(4)
+I6? I -0.2217(4) 0.61628(9) 0.33540(19)
+H4? H 0.48340 0.59260 0.41140
+N3 N 0.4415(2) 0.24255(12) 0.36931(11)
+C3 C 0.9535(3) 0.1232(2) 0.44390(19)
+H5 H 1.01850 0.08500 0.42810
+H6 H 0.93500 0.10580 0.48900
+H7 H 0.99990 0.17590 0.44930
+C4 C 0.8100(3) 0.12789(17) 0.39034(15)
+H8 H 0.76350 0.07460 0.38550
+H9 H 0.83020 0.14260 0.34440
+C5 C 0.7037(3) 0.18791(17) 0.40961(15)
+H10 H 0.69020 0.17680 0.45750
+H11 H 0.74440 0.24230 0.40920
+C6 C 0.5571(3) 0.18326(15) 0.35797(13)
+H12 H 0.51750 0.12880 0.35990
+H13 H 0.57390 0.19120 0.31020
+C7 C 0.4210(3) 0.24003(16) 0.44421(13)
+H14 H 0.34090 0.27700 0.44830
+H15 H 0.51160 0.25980 0.47560
+C8 C 0.3857(3) 0.15809(17) 0.46975(14)
+H16 H 0.29370 0.13810 0.43970
+H17 H 0.46500 0.12040 0.46610
+C9 C 0.3693(4) 0.1619(2) 0.54544(16)
+H18 H 0.28510 0.19640 0.54830
+H19 H 0.45830 0.18610 0.57480
+C10 C 0.3458(5) 0.0795(2) 0.57384(19)
+H20 H 0.33010 0.08440 0.62160
+H21 H 0.43240 0.04640 0.57440
+H22 H 0.26000 0.05460 0.54380
+C11 C 0.4885(3) 0.32739(15) 0.35652(14)
+H23 H 0.42120 0.36500 0.37250
+H24 H 0.58770 0.33650 0.38570
+C12 C 0.4910(3) 0.34689(17) 0.28097(15)
+H25 H 0.38970 0.34880 0.25260
+H26 H 0.54450 0.30470 0.26150
+C13 C 0.5656(3) 0.42701(18) 0.27695(18)
+H27 H 0.52020 0.46780 0.30200
+H28 H 0.67040 0.42290 0.30030
+C14 C 0.5522(5) 0.4528(2) 0.2011(2)
+H29 H 0.60930 0.50140 0.19970
+H30 H 0.44920 0.46310 0.17960
+H31 H 0.58940 0.41040 0.17520
+C15 C 0.3009(3) 0.22034(15) 0.31722(13)
+H32 H 0.31960 0.22320 0.26940
+H33 H 0.27690 0.16430 0.32570
+C16 C 0.1680(3) 0.27133(16) 0.31941(14)
+H34 H 0.19490 0.32840 0.31940
+H35 H 0.13430 0.26020 0.36300
+C17 C 0.0445(3) 0.25368(18) 0.25601(15)
+H36 H 0.07920 0.26480 0.21270
+H37 H 0.01920 0.19640 0.25600
+C18 C -0.0920(3) 0.30297(18) 0.25570(16)
+H38 H -0.16580 0.29160 0.21300
+H39 H -0.06700 0.35970 0.25710
+H40 H -0.13100 0.28940 0.29680
+N1B N 0.6348(2) 0.46651(17) 0.53089(12)
+N2B N 0.5159(5) 0.3814(3) 0.6027(3)
+H1B H 0.59830 0.35590 0.61940
+H2B H 0.43580 0.36800 0.61650
+C1B C 0.5121(3) 0.4456(2) 0.55236(14)
+C2B C 0.6213(3) 0.5194(2) 0.47919(14)
+H3B H 0.70620 0.53400 0.46300
+Bi1B Bi -0.08156(2) 0.42882(2) 0.59579(2)
+I1B I -0.16864(2) 0.48749(2) 0.72419(2)
+I2B I -0.02303(2) 0.39341(2) 0.44402(2)
+I3B I -0.1657(4) 0.25865(9) 0.60528(4)
+I4B I 0.1929(3) 0.37635(16) 0.67723(12)
+Bi1B* Bi 0.91844(2) 0.42882(2) 0.59579(2)
+N1B* N -0.3652(2) 0.46651(17) 0.53089(12)
+#END

@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUVCET
+_audit_creation_date 2020-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUVCET
+_database_code_depnum_ccdc_archive 'CCDC 1977240'
+_chemical_formula_sum 'C6 H12 Gd1 N1 O8'
+_chemical_formula_moiety
+;
+C2 H8 N1 1+,n(C4 H4 Gd1 O8 1-)
+;
+_journal_coden_Cambridge 979
+_journal_year 2020
+_journal_name_full 'J.Rare Earths '
+loop_
+_publ_author_name
+"Min Liu"
+"Zhifeng Li"
+"Jianhui Xiong"
+"Yefei Jiang"
+"Ting Tang"
+"Jinkai Qiu"
+"Junwei Yao"
+"Seik Weng Ng"
+"Chenghui Zeng"
+_chemical_name_systematic
+;
+catena-[dimethylammonium tetrakis(\m-formato)-gadolinium(iii)]
+;
+_cell_volume   1084.460
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.348
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0407
+_refine_ls_wR_factor_gt 0.0407
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 8.7908(5)
+_cell_length_b 18.2633(9)
+_cell_length_c 6.7547(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Gd 1.96
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Gd1 Gd 0.24404(4) 0.60541(2) 0.5004(8)
+O1 O 0.1534(8) 0.5010(4) 0.6865(14)
+O2 O -0.0059(8) 0.4293(3) 0.8558(12)
+O3 O 0.2215(10) 0.6543(7) 0.834(2)
+O4 O 0.2528(8) 0.6511(10) 1.159(3)
+O5 O 0.4423(7) 0.6922(3) 0.492(2)
+O6 O 0.6016(7) 0.7837(3) 0.504(2)
+O7 O 0.3549(7) 0.5098(3) 0.3159(13)
+O8 O 0.5304(7) 0.4376(3) 0.1874(11)
+C1 C 0.0329(15) 0.4777(6) 0.743(2)
+H1 H -0.04932 0.50237 0.68794
+C2 C 0.2379(9) 0.6225(7) 0.999(6)
+H2 H 0.23868 0.57154 0.99621
+C3 C 0.487(1) 0.7532(4) 0.4365(18)
+H3 H 0.43162 0.77733 0.33898
+C4 C 0.4858(16) 0.4964(6) 0.254(2)
+H4 H 0.55599 0.53448 0.25823
+N1 N 0.3292(11) 0.3218(5) 0.3210(16)
+H5 H 0.33513 0.27744 0.26687
+H6 H 0.39122 0.35117 0.25367
+C5 C 0.3804(18) 0.3176(7) 0.520(3)
+H7 H 0.48297 0.29960 0.52218
+H8 H 0.37706 0.36544 0.57850
+H9 H 0.31586 0.28499 0.59290
+C6 C 0.1733(19) 0.3487(8) 0.300(4)
+H10 H 0.14645 0.35010 0.16216
+H11 H 0.10498 0.31668 0.36901
+H12 H 0.16618 0.39713 0.35461
+Gd1* Gd 0.24404(4) 0.60541(2) 1.5004(8)
+Gd1A Gd -0.24404(4) 0.39459(2) 1.0004(8)
+Gd1A* Gd 0.75596(4) 0.39459(2) 0.0004(8)
+Gd1B Gd 0.74404(4) 0.89459(2) 0.5004(8)
+O2A O 0.0059(8) 0.5707(3) 0.3558(12)
+O4* O 0.2528(8) 0.6511(10) 0.159(3)
+O6B O 0.1016(7) 0.7163(3) 0.504(2)
+O8A O 0.4696(7) 0.5624(3) 0.6874(11)
+#END

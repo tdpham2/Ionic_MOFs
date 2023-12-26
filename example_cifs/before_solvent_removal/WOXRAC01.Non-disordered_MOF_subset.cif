@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WOXRAC01
+_audit_creation_date 2019-11-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WOXRAC01
+_database_code_depnum_ccdc_archive 'CCDC 1500286'
+_chemical_formula_sum 'C8 H8 Cd2 Na4 O20'
+_chemical_formula_moiety
+;
+(C8 Cd2 O16 4-)n,4(H2 O1),4(Na1 1+)
+;
+_journal_coden_Cambridge 1819
+_journal_volume 12
+_journal_year 2019
+_journal_page_first 423
+_journal_name_full 'Asian Journal of Pharmaceutical and Clinical Research '
+loop_
+_publ_author_name
+"D.francis"
+"S.C.Raj"
+_chemical_name_systematic
+;
+catena-[tetra-sodium tetrakis(\m-oxalato)-di-cadmium tetrahydrate]
+;
+_cell_volume   1908.856
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.578
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 273
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0159
+_refine_ls_wR_factor_gt 0.0159
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.8566(6)
+_cell_length_b 11.4338(5)
+_cell_length_c 14.1144(6)
+_cell_angle_alpha 90
+_cell_angle_beta 113.072(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd -0.213105(12) 0.136793(13) 0.819728(11)
+O1 O -0.00406(13) 0.13608(14) 0.87853(12)
+O2 O -0.15393(14) 0.15190(18) 0.68150(13)
+O3 O -0.33427(14) 0.00578(14) 0.70469(13)
+O4 O -0.15876(14) -0.05985(14) 0.87201(13)
+O5 O -0.13247(12) 0.14115(13) 1.00826(11)
+O6 O -0.35405(13) 0.15345(15) 0.88191(11)
+O7 O -0.34842(14) -0.17226(14) 0.63994(12)
+O8 O -0.14918(13) -0.22926(13) 0.79997(12)
+C1 C 0.03318(18) 0.16245(19) 0.81208(16)
+C2 C -0.05345(18) 0.1739(2) 0.69843(16)
+C3 C -0.30148(18) -0.09692(19) 0.70611(16)
+C4 C -0.19310(18) -0.13266(18) 0.80054(16)
+C5 C -0.20164(17) 0.15758(17) 1.04891(16)
+C6 C -0.32895(17) 0.16706(18) 0.97550(16)
+O9 O 0.13435(13) 0.18098(17) 0.82815(12)
+O10 O -0.01575(14) 0.20254(16) 0.63323(12)
+O11 O -0.17834(13) 0.16751(14) 1.14313(11)
+O12 O -0.39812(12) 0.18718(13) 1.01606(11)
+Cd2 Cd 0.177480(13) 0.263776(13) 0.694274(11)
+O13 O 0.09841(13) 0.46170(14) 0.67351(12)
+O14 O 0.27276(14) 0.38832(14) 0.83995(12)
+O15 O 0.32700(14) 0.57240(14) 0.88184(13)
+O16 O 0.15543(13) 0.64691(13) 0.70723(12)
+C7 C 0.16344(18) 0.53867(19) 0.72596(16)
+C8 C 0.26378(18) 0.49636(19) 0.82483(16)
+Na1 Na -0.50000 0.00000 1.00000
+O17 O -0.04620(15) 0.41054(16) 0.11352(14)
+H1 H -0.0921(18) 0.459(2) 0.0749(18)
+H2 H 0.0169(16) 0.442(3) 0.139(2)
+O18 O 0.16256(15) 0.37955(17) 0.99271(14)
+H3 H 0.219(2) 0.377(3) 1.0489(15)
+H4 H 0.179(3) 0.352(3) 0.9461(18)
+O19 O -0.17507(16) 0.39944(18) 0.49544(14)
+H5 H -0.182(3) 0.401(4) 0.5525(15)
+H6 H -0.2383(19) 0.389(3) 0.4479(17)
+O20 O 0.02667(19) 0.09380(18) 0.39204(18)
+H7 H -0.011(2) 0.033(2) 0.378(3)
+H8 H 0.0897(19) 0.087(3) 0.439(2)
+Na2 Na 0.00000 0.00000 1.00000
+Na3 Na -0.08298(8) 0.23063(8) 0.45321(7)
+Na4 Na -0.01000(8) 0.25835(9) 0.25095(7)
+Na5 Na 0.01263(8) 0.28310(8) 1.01357(7)
+Cd1A Cd -0.286895(12) -0.363207(13) 0.680272(11)
+O7A O -0.15158(14) 0.32774(14) 0.86006(12)
+O8A O -0.35082(13) 0.27074(13) 0.70003(12)
+O11C O 0.32166(13) 0.33249(14) 0.64313(11)
+O12C O 0.10188(12) 0.31282(13) 0.51606(11)
+Cd2A Cd 0.322520(13) 0.763776(13) 0.805726(11)
+Cd2C Cd -0.322520(13) 0.236224(13) 1.194274(11)
+O15A O 0.17300(14) 0.07240(14) 0.61816(13)
+O16A O 0.34457(13) 0.14691(13) 0.79277(12)
+#END

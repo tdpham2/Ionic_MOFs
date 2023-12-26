@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MACUFR26
+_audit_creation_date 2021-06-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MACUFR26
+_database_code_depnum_ccdc_archive 'CCDC 2067549'
+_chemical_formula_sum 'C5 H11 Cu1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cu1 O6 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 1695
+_journal_volume 9
+_journal_year 2021
+_journal_page_first 8051
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"R.Scatena"
+"M.Andrzejewski"
+"R.D.Johnson"
+"P.Macchi"
+_chemical_name_systematic
+;
+catena-(dimethylammonium tris(\m~2~-formato)-copper(ii))
+;
+_cell_volume    775.860
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 2.086
+_exptl_special_details
+;
+I2/a polymorph (alpha)
+The deposited CIF gives the pressure at 3.8 GPa although the paper suggests 
+the pressure is 4.75 GPa
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 3800000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0359
+_refine_ls_wR_factor_gt 0.0359
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'I 2/a'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,y,-z
+3 1/2+x,1/2+y,1/2+z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-y,z
+7 -1/2-x,-1/2-y,-1/2-z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 8.2878(9)
+_cell_length_b 8.4645(6)
+_cell_length_c 11.0942(3)
+_cell_angle_alpha 90
+_cell_angle_beta 94.521(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.75000 0.25000 0.75000
+O1 O 0.7582(3) 0.1314(3) 0.59938(14)
+O2 O 0.3632(4) 0.5288(3) 0.66991(18)
+O3 O 0.5398(3) 0.3342(3) 0.68611(16)
+C1 C 0.75000 0.2027(6) 0.50000
+H1 H 0.75000 0.31260 0.50000
+C2 C 0.4895(5) 0.4671(4) 0.7159(2)
+H2 H 0.55020 0.52280 0.77580
+N1 N 0.25000 0.3072(6) 0.50000
+C3 C 0.1384(6) 0.2145(7) 0.5642(3)
+H3 H 0.08210 0.14190 0.50920
+H4 H 0.06180 0.28320 0.59810
+H5 H 0.19720 0.15660 0.62780
+H6 H 0.20240 0.37910 0.45540
+O1A O 0.7418(3) 0.1314(3) 0.40062(14)
+O2C O 0.6368(4) 0.0288(3) 0.83009(18)
+O3C O 0.4602(3) -0.1658(3) 0.81389(16)
+C2C C 0.5105(5) -0.0329(4) 0.7841(2)
+H2C H 0.44980 0.02280 0.72420
+Cu1A Cu 0.75000 0.25000 0.25000
+Cu1C Cu 0.25000 -0.25000 0.75000
+Cu1C* Cu 0.25000 0.75000 0.75000
+O1F O 0.7418(3) 0.3686(3) 0.90062(14)
+O2E O 0.8632(4) 0.4712(3) 0.66991(18)
+O3F O 0.9602(3) 0.1658(3) 0.81389(16)
+C3A C 0.3616(6) 0.2145(7) 0.4358(3)
+H3A H 0.41790 0.14190 0.49080
+H4A H 0.43820 0.28320 0.40190
+H5A H 0.30280 0.15660 0.37220
+H6A H 0.29760 0.37910 0.54460
+#END

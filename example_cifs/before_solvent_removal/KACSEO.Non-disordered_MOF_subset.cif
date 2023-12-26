@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KACSEO
+_audit_creation_date 2011-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KACSEO
+_database_code_depnum_ccdc_archive 'CCDC 751742'
+_chemical_formula_sum 'C12 H4 Mn2 O14 Rb2'
+_chemical_formula_moiety
+;
+(C12 H4 Mn2 O14 2-)n,2n(Rb1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 49
+_journal_year 2010
+_journal_page_first 3441
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"S.M.Humphrey"
+"R.A.Mole"
+"R.I.Thompson"
+"P.T.Wood"
+_chemical_name_systematic
+;
+catena-[Di-rubidium (\m~8~-mellitato)-diaqua-di-manganese(ii)]
+;
+_cell_volume    779.572
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.782
+_exptl_special_details
+;
+isostructural with the K/Mn, K/Co, K/Ni, NH4/Co, Rb/Co and Rb/Ni analogues
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0662
+_refine_ls_wR_factor_gt 0.0662
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.5180(5)
+_cell_length_b 11.1848(6)
+_cell_length_c 9.1441(5)
+_cell_angle_alpha 90
+_cell_angle_beta 116.511(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+O 0.68
+Rb 1.56
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.73204(14) 0.89784(9) 0.81649(13)
+Rb1 Rb 0.48632(14) 1.17318(9) 0.85915(13)
+O1 O 0.4579(7) 0.9353(5) 0.7214(7)
+O2 O 0.2455(8) 0.7721(5) 0.4219(7)
+O3 O 0.0101(7) 0.8957(5) 0.8846(7)
+O4 O 0.2648(8) 0.9254(5) 0.2756(8)
+O5 O 0.2254(7) 1.0294(5) 0.9466(6)
+O6 O 0.3267(9) 0.7992(6) 0.8064(8)
+O7 O 0.6611(9) 0.8195(6) 0.5660(7)
+C1 C 0.1506(9) 0.9402(7) 0.6017(9)
+C2 C 0.1068(9) 0.9493(6) 0.4371(9)
+C3 C 0.0424(9) 0.9895(6) 0.6656(9)
+C4 C 0.3244(10) 0.8826(7) 0.7195(9)
+C5 C 0.2147(9) 0.8782(7) 0.3725(9)
+C6 C 0.0939(9) 0.9715(6) 0.8472(9)
+H1 H 0.624(10) 0.879(5) 0.502(9)
+H2 H 0.592(8) 0.760(4) 0.543(10)
+Mn1B Mn -0.73204(14) 1.10216(9) 0.18351(13)
+Mn1C Mn 0.23204(14) 0.60216(9) 0.31649(13)
+Mn1* Mn -0.26796(14) 0.89784(9) 0.81649(13)
+Mn1B* Mn 0.26796(14) 1.10216(9) 0.18351(13)
+Mn1B** Mn 0.26796(14) 1.10216(9) 1.18351(13)
+Mn1A Mn -0.23204(14) 1.39784(9) 0.68351(13)
+Mn1** Mn -0.26796(14) 0.89784(9) -0.18351(13)
+O1B O -0.4579(7) 1.0647(5) 0.2786(7)
+O2B O -0.2455(8) 1.2279(5) 0.5781(7)
+O2C O 0.7455(8) 0.7279(5) 0.9219(7)
+O2A O -0.7455(8) 1.2721(5) 0.0781(7)
+O3B O -0.0101(7) 1.1043(5) 0.1154(7)
+O3* O 1.0101(7) 0.8957(5) 0.8846(7)
+O3B* O -1.0101(7) 1.1043(5) 0.1154(7)
+O4B O -0.2648(8) 1.0746(5) 0.7244(8)
+O4B* O 0.7352(8) 1.0746(5) 0.7244(8)
+O4* O -0.7352(8) 0.9254(5) 0.2756(8)
+O5B O -0.2254(7) 0.9706(5) 0.0534(6)
+O5B* O 0.7746(7) 0.9706(5) 1.0534(6)
+O5* O -0.7746(7) 1.0294(5) -0.0534(6)
+O6B O -0.3267(9) 1.2008(6) 0.1936(8)
+O7B O -0.6611(9) 1.1805(6) 0.4340(7)
+C1B C -0.1506(9) 1.0598(7) 0.3983(9)
+C2B C -0.1068(9) 1.0507(6) 0.5629(9)
+C3B C -0.0424(9) 1.0105(6) 0.3344(9)
+C4B C -0.3244(10) 1.1174(7) 0.2805(9)
+C5B C -0.2147(9) 1.1218(7) 0.6275(9)
+C6B C -0.0939(9) 1.0285(6) 0.1528(9)
+H1B H -0.624(10) 1.121(5) 0.498(9)
+H2B H -0.592(8) 1.240(4) 0.457(10)
+#END

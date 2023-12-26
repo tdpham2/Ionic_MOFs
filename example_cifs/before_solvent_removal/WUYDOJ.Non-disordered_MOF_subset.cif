@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WUYDOJ
+_audit_creation_date 2003-07-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WUYDOJ
+_database_code_depnum_ccdc_archive 'CCDC 193252'
+_chemical_formula_sum 'C8 H34 Ga4 N8 Se7'
+_chemical_formula_moiety
+;
+(C4 H16 Ga4 N4 Se7 2-)n,2n(C2 H9 N2 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 42
+_journal_year 2003
+_journal_page_first 1794
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Yajie Dong"
+"Qing Peng"
+"Ruji Wang"
+"Yadong Li"
+_chemical_name_systematic
+;
+catena-(bis(Ethylenediammonium) 
+heptakis(\m~2~-selenido)-bis(ethylenediamine-N)-tetra-gallium)
+;
+_cell_volume   2675.317
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 2.667
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'from the melt'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0576
+_refine_ls_wR_factor_gt 0.0576
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 13.4928(9)
+_cell_length_b 10.9203(7)
+_cell_length_c 18.1866(13)
+_cell_angle_alpha 90
+_cell_angle_beta 93.282(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ga 1.22
+N 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga1 Ga 0.32356(6) 0.36042(7) 0.28198(5)
+Ga2 Ga 0.55969(6) 0.15287(7) 0.28204(5)
+Ga3 Ga 0.18219(6) 0.64529(7) 0.27844(5)
+Ga4 Ga 0.05416(6) 0.35220(8) 0.22025(5)
+Se1 Se 0.43799(6) 0.23439(7) 0.35717(5)
+Se2 Se 0.26088(6) 0.50592(7) 0.36650(5)
+Se3 Se 0.41077(6) 0.44652(7) 0.18234(5)
+Se4 Se 0.19624(6) 0.22404(7) 0.23368(5)
+Se5 Se 0.69925(6) 0.28079(7) 0.27339(5)
+Se6 Se 0.08033(6) 0.76988(8) 0.35386(5)
+Se7 Se 0.09109(6) 0.55132(7) 0.17726(5)
+N1 N 0.5068(5) 0.1437(6) 0.1755(4)
+H1 H 0.49010 0.22010 0.16090
+H2 H 0.55700 0.11950 0.14830
+N2 N 0.3870(7) 0.1484(8) 0.0310(5)
+N3 N 0.0124(5) 0.3732(6) 0.3236(4)
+H3 H -0.00610 0.29970 0.34050
+H4 H 0.06550 0.39800 0.35200
+N4 N -0.1213(9) 0.3556(9) 0.4411(6)
+N5 N 1.1450(7) 0.0958(10) 0.4082(5)
+N6 N 1.2379(6) 0.1623(8) 0.5581(5)
+N7 N 0.3207(7) -0.0347(7) 0.3832(5)
+N8 N 0.2466(7) -0.1046(8) 0.5272(5)
+C1 C 0.4212(6) 0.0636(8) 0.1567(5)
+H5 H 0.36210 0.10140 0.17440
+H6 H 0.43110 -0.01350 0.18260
+C2 C 0.4039(7) 0.0377(8) 0.0771(5)
+H7 H 0.34660 -0.01560 0.07030
+H8 H 0.46080 -0.00610 0.06020
+C3 C -0.0688(7) 0.4602(7) 0.3326(6)
+H9 H -0.12570 0.43500 0.30120
+H10 H -0.04840 0.54030 0.31610
+C4 C -0.1001(9) 0.4709(10) 0.4103(7)
+H11 H -0.04750 0.51010 0.44030
+H12 H -0.15860 0.52240 0.41090
+C5 C 1.0918(10) 0.1371(13) 0.4728(8)
+H13 H 1.03130 0.17860 0.45550
+H14 H 1.07290 0.06580 0.50050
+C6 C 1.1482(9) 0.2173(11) 0.5209(7)
+H15 H 1.10560 0.24690 0.55820
+H16 H 1.16820 0.28760 0.49270
+C7 C 0.3817(9) -0.0842(11) 0.4450(8)
+H17 H 0.40810 -0.01690 0.47490
+H18 H 0.43750 -0.12790 0.42610
+C8 C 0.3269(9) -0.1682(10) 0.4923(7)
+H19 H 0.29940 -0.23520 0.46260
+H20 H 0.37250 -0.20250 0.53000
+Se3C Se 0.58923(6) -0.05348(7) 0.31766(5)
+Se5C Se 0.30075(6) 0.78079(7) 0.22661(5)
+Se6C Se -0.08033(6) 0.26988(8) 0.14614(5)
+Ga2C Ga 0.44031(6) 0.65287(7) 0.21796(5)
+Ga3C Ga 0.81781(6) 0.14529(7) 0.22156(5)
+Ga4C Ga -0.05416(6) 0.85220(8) 0.27975(5)
+#END

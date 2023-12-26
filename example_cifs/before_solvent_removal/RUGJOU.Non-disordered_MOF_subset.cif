@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUGJOU
+_audit_creation_date 2015-03-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUGJOU
+_database_code_depnum_ccdc_archive 'CCDC 1053936'
+_chemical_formula_sum 'C5 H9 Ho1 N2 O8'
+_chemical_formula_moiety
+;
+(C4 H4 Ho1 O8 1-)n,C1 H5 N2 1+
+;
+_journal_coden_Cambridge 1147
+_journal_volume 15
+_journal_year 2015
+_journal_page_first 1119
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"P.Samarasekere"
+"Xiqu Wang"
+"W.Kaveevivitchai"
+"A.J.Jacobson"
+_chemical_name_systematic
+;
+catena-[aminomethaniminium tetrakis(\m~2~-formato)-holmium]
+;
+_cell_volume   1036.596
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 2.499
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0236
+_refine_ls_wR_factor_gt 0.0236
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -x,y,1/2-z
+4 x,-y,-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2-x,1/2+y,1/2-z
+8 1/2+x,1/2-y,-z
+_cell_length_a 6.6667(9)
+_cell_length_b 18.408(3)
+_cell_length_c 8.4468(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ho 1.92
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ho1 Ho 1.00000 0.64269(2) 0.25000
+O1 O 1.0127(13) 0.5498(2) 0.0696(6)
+O2 O 0.6648(7) 0.5946(2) 0.2283(8)
+O3 O 0.6804(7) 0.7578(3) 0.6522(6)
+O4 O 0.8249(8) 0.6834(3) 0.4818(6)
+C1 C 0.50000 0.6256(4) 0.25000
+H1 H 0.50000 0.67620 0.25000
+C2 C 0.7641(12) 0.7434(4) 0.5252(8)
+H2 H 0.78300 0.78190 0.45530
+C3 C 0.9253(15) 0.50000 0.00000
+H3 H 0.78580 0.50000 0.00000
+C4 C 1.00000 0.9045(5) 0.25000
+H4 H 1.00000 0.85400 0.25000
+N1 N 0.8625(11) 0.9379(4) 0.1679(9)
+H5 H 0.85920 0.98460 0.16590
+H6 H 0.77510 0.91330 0.11570
+O1C O 1.0127(13) 0.4502(2) -0.0696(6)
+O2B O 0.3352(7) 0.5946(2) 0.2717(8)
+O3G O 1.1804(7) 0.7422(3) 0.3478(6)
+O4G O 1.3249(8) 0.8166(3) 0.5182(6)
+C2G C 1.2641(12) 0.7566(4) 0.4748(8)
+H2G H 1.28300 0.71810 0.54470
+Ho1* Ho 0.00000 0.64269(2) 0.25000
+Ho1A Ho 1.00000 0.35731(2) -0.25000
+Ho1E Ho 0.50000 0.85731(2) 0.75000
+Ho1E* Ho 1.50000 0.85731(2) 0.75000
+O1B O 0.9873(13) 0.5498(2) 0.4304(6)
+O2B* O 1.3352(7) 0.5946(2) 0.2717(8)
+O3E O 0.8196(7) 0.7422(3) 0.1522(6)
+O4B O 1.1751(8) 0.6834(3) 0.0182(6)
+N1B N 1.1375(11) 0.9379(4) 0.3321(9)
+H5B H 1.14080 0.98460 0.33410
+H6B H 1.22490 0.91330 0.38430
+#END

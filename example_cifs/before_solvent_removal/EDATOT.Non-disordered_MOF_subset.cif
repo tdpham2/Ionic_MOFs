@@ -1,0 +1,152 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EDATOT
+_audit_creation_date 2007-09-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EDATOT
+_database_code_depnum_ccdc_archive 'CCDC 618990'
+_chemical_formula_sum 'C46 H31 Cr2 Fe1 Mn2 N15 O25'
+_chemical_formula_moiety
+;
+(C22 H18 Fe1 N10 2+)n,n(C12 Cr2 Mn2 O24 2-),n(C11 H9 N5),n(C1 H4 O1)
+;
+_journal_coden_Cambridge 580
+_journal_volume 26
+_journal_year 2007
+_journal_page_first 1838
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"E.Coronado"
+"J.R.Galan-Mascaros"
+"M.C.Gimenez-Lopez"
+"M.Almeida"
+"J.C.Waerenborgh"
+_chemical_name_systematic
+;
+catena-(bis(2,6-bis(Pyrazol-3-yl)pyridine)-iron 
+hexakis(\m~2~-oxalato)-di-chromium(iii)-di-manganese(ii) 
+2,6-bis(pyrazol-3-yl)pyridine methanol solvate)
+;
+_cell_volume   7377.416
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.318
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+The cations and solvent molecules could not be located due to severe 
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1281
+_refine_ls_wR_factor_gt 0.1281
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.0100(3)
+_cell_length_b 15.9880(4)
+_cell_length_c 21.9630(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90.3390(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.70
+Cr 1.35
+Fe 1.34
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.86400(14) 0.7201(2) -0.00053(15)
+N1 N 0.8751(8) 0.5853(8) -0.0004(9)
+N2 N 0.7879(7) 0.7095(11) -0.0704(8)
+N3 N 0.7901(7) 0.7195(12) 0.0708(8)
+N4 N 0.8469(8) 0.8582(8) 0.0027(9)
+N5 N 0.9403(7) 0.7318(12) 0.0691(8)
+N6 N 0.9331(8) 0.7358(11) -0.0772(8)
+Fe2 Fe 0.4980(3) 0.5185(5) 0.1481(4)
+N7 N 0.491(2) 0.6676(14) 0.145(2)
+N8 N 0.4171(16) 0.556(3) 0.2187(17)
+N9 N 0.5037(19) 0.3718(15) 0.131(2)
+N10 N 0.5766(16) 0.484(3) 0.2222(17)
+N11 N 0.4226(16) 0.493(3) 0.0698(16)
+N12 N 0.5753(16) 0.544(3) 0.0726(16)
+Cr1 Cr 0.12666(14) 0.5067(2) 0.24789(13)
+Cr2 Cr -0.24727(14) 0.76192(19) 0.37722(14)
+Mn1 Mn -0.13117(16) 0.5154(2) 0.24468(16)
+Mn2 Mn 0.25869(18) 0.7512(2) 0.12613(17)
+O1 O 0.1932(6) 0.5181(11) 0.1876(7)
+O2 O 0.1351(6) 0.6323(7) 0.2462(6)
+O3 O 0.1855(7) 0.7283(12) 0.1921(7)
+O4 O 0.2549(7) 0.6141(8) 0.1421(7)
+O5 O 0.1302(6) 0.3843(11) 0.2492(7)
+O6 O 0.1913(5) 0.483(1) 0.3156(5)
+O7 O 0.1678(6) 0.2755(11) 0.3034(5)
+O8 O 0.2380(7) 0.3874(10) 0.3664(7)
+O9 O 0.0558(7) 0.5153(8) 0.3049(6)
+O10 O 0.0582(8) 0.5141(8) 0.1937(6)
+O11 O -0.0526(8) 0.5133(9) 0.3081(7)
+O12 O -0.0509(7) 0.5270(9) 0.1816(7)
+O13 O -0.2482(7) 0.6365(9) 0.3709(7)
+O14 O -0.1839(6) 0.7521(9) 0.3108(6)
+O15 O -0.2009(8) 0.5345(11) 0.3173(7)
+O16 O -0.1426(7) 0.6555(9) 0.2472(7)
+O17 O -0.2536(7) 0.3826(8) 0.1269(7)
+O18 O -0.1837(6) 0.2794(11) 0.1838(6)
+O19 O -0.2026(6) 0.4964(11) 0.1695(7)
+O20 O -0.1383(8) 0.3764(12) 0.2393(8)
+O21 O 0.3143(6) 0.7447(7) -0.0561(7)
+O22 O 0.3209(6) 0.7408(7) 0.0456(7)
+O23 O 0.1951(7) 0.7405(8) -0.0558(8)
+O24 O 0.1919(6) 0.7464(8) 0.0500(6)
+C1 C 0.1735(10) 0.6549(17) 0.2116(11)
+C2 C 0.2126(10) 0.5927(18) 0.1759(10)
+C3 C 0.1602(11) 0.3520(13) 0.2860(11)
+C4 C 0.1984(12) 0.4138(14) 0.3266(12)
+C5 C 0.0010(12) 0.5140(13) 0.2791(11)
+C6 C -0.0028(13) 0.5203(15) 0.2125(13)
+C7 C -0.2136(11) 0.6011(19) 0.3320(12)
+C8 C -0.1735(10) 0.6800(18) 0.2915(10)
+C9 C -0.2097(13) 0.4173(19) 0.1623(11)
+C10 C -0.1750(15) 0.3558(17) 0.1990(13)
+C11 C 0.2877(11) 0.7421(10) -0.0049(10)
+C12 C 0.2201(11) 0.7413(11) -0.0021(10)
+Cr2A Cr -0.25273(14) 0.26192(19) 0.12278(14)
+Cr2C Cr 0.25273(14) 0.73808(19) -0.12278(14)
+Mn2A Mn 0.24131(18) 0.2512(2) 0.37387(17)
+O7A O 0.3322(6) 0.7755(11) 0.1966(5)
+O8A O 0.2620(7) 0.8874(10) 0.1336(7)
+O17A O -0.2464(7) 0.8826(8) 0.3731(7)
+O18A O -0.3163(6) 0.7794(11) 0.3162(6)
+O21C O -0.1857(6) 0.7553(7) 0.4439(7)
+O23C O -0.3049(7) 0.7595(8) 0.4442(8)
+#END

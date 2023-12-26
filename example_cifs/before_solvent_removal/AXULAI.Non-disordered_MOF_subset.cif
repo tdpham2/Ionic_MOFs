@@ -1,0 +1,189 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AXULAI
+_audit_creation_date 2016-10-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AXULAI
+_database_code_depnum_ccdc_archive 'CCDC 1482475'
+_chemical_formula_sum 'C43 H53 Cd4 N5 O18 S4'
+_chemical_formula_moiety
+;
+(C32 H12 Cd4 O16 S4 4-)n,4(C2 H8 N1 1+),x(C3 H7 N1 O1),x(H2 O1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 16
+_journal_year 2016
+_journal_page_first 6363
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"Bao-Xia Dong"
+"Meng Tang"
+"Wen-Long Liu"
+"Yi-Chen Wu"
+"Yong-Mei Pan"
+"Fan-Yan Bu"
+"Yun-Lei Teng"
+_chemical_name_systematic
+;
+catena-[tetrakis(dimethylammonium) 
+tetrakis(\m-5-thiolatoisophthalato)-tetra-cadmium N,N-dimethylformamide 
+solvate hydrate]
+;
+_cell_volume   9081.416
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+dye adsorption property
+
+;
+_exptl_crystal_description 'Rod'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Disordered dimethylammonium ions, water and N,N-dimethylformamide solvent 
+molecules were not modelled and the disordered density was taken into account 
+using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0311
+_refine_ls_wR_factor_gt 0.0311
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'I 2/a'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,y,-z
+3 1/2+x,1/2+y,1/2+z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-y,z
+7 -1/2-x,-1/2-y,-1/2-z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 14.425(5)
+_cell_length_b 33.813(5)
+_cell_length_c 19.194(4)
+_cell_angle_alpha 90
+_cell_angle_beta 104.061(18)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.82465(2) 0.21978(2) 0.20967(2)
+Cd2 Cd 0.25000 0.37664(2) 0.00000
+Cd3 Cd 1.25000 0.01640(2) 0.50000
+C1 C 0.58036(16) 0.25596(6) -0.0278(1)
+C2 C 0.51116(16) 0.28466(6) -0.03425(11)
+H1 H 0.48550 0.29630 -0.07870
+C3 C 0.47963(15) 0.29627(6) 0.02510(11)
+C4 C 0.52133(16) 0.27980(6) 0.09184(10)
+H2 H 0.50060 0.28780 0.13190
+C5 C 0.59314(16) 0.25177(6) 0.09973(10)
+C6 C 0.62139(16) 0.23937(6) 0.03852(11)
+H3 H 0.66790 0.21990 0.04230
+C7 C 0.61211(17) 0.24169(7) -0.09277(11)
+C8 C 0.39925(16) 0.32560(7) 0.01815(12)
+C9 C 0.92652(18) 0.11552(6) 0.32332(12)
+C10 C 0.86702(17) 0.09131(7) 0.35036(13)
+H4 H 0.80150 0.09600 0.33900
+C11 C 0.90493(17) 0.05993(7) 0.39465(14)
+C12 C 1.00286(16) 0.05318(6) 0.41147(12)
+H5 H 1.02810 0.03220 0.44150
+C13 C 1.06328(16) 0.07711(6) 0.38419(11)
+C14 C 1.02321(18) 0.10861(6) 0.33931(12)
+H6 H 1.06260 0.12500 0.32020
+C15 C 0.8864(2) 0.15126(7) 0.27833(13)
+C16 C 0.84106(18) 0.03452(7) 0.42687(16)
+O1 O 0.65445(12) 0.20962(5) -0.09123(8)
+O2 O 0.59530(15) 0.26310(5) -0.14765(8)
+O3 O 0.38237(11) 0.34919(5) -0.03448(9)
+O4 O 0.35076(11) 0.32554(5) 0.06400(8)
+O5 O 0.94026(14) 0.17155(5) 0.25091(8)
+O6 O 0.80000(16) 0.15941(6) 0.27008(12)
+O7 O 0.75385(13) 0.04023(6) 0.41251(13)
+O8 O 0.87805(12) 0.00741(6) 0.46782(13)
+S1 S 0.64132(4) 0.22927(2) 0.18402(3)
+S2 S 1.18898(4) 0.06973(2) 0.40239(3)
+Cd1A Cd -0.32465(2) 0.21978(2) -0.20967(2)
+C1A C -0.08036(16) 0.25596(6) 0.0278(1)
+C2A C -0.01116(16) 0.28466(6) 0.03425(11)
+H1A H 0.01450 0.29630 0.07870
+C3A C 0.02037(15) 0.29627(6) -0.02510(11)
+C4A C -0.02133(16) 0.27980(6) -0.09184(10)
+H2A H -0.00060 0.28780 -0.13190
+C5A C -0.09314(16) 0.25177(6) -0.09973(10)
+C6A C -0.12139(16) 0.23937(6) -0.03852(11)
+H3A H -0.16790 0.21990 -0.04230
+C7A C -0.11211(17) 0.24169(7) 0.09277(11)
+C8A C 0.10075(16) 0.32560(7) -0.01815(12)
+C9A C -0.42652(18) 0.11552(6) -0.32332(12)
+C10A C -0.36702(17) 0.09131(7) -0.35036(13)
+H4A H -0.30150 0.09600 -0.33900
+C11A C -0.40493(17) 0.05993(7) -0.39465(14)
+C12A C -0.50286(16) 0.05318(6) -0.41147(12)
+H5A H -0.52810 0.03220 -0.44150
+C13A C -0.56328(16) 0.07711(6) -0.38419(11)
+C14A C -0.52321(18) 0.10861(6) -0.33931(12)
+H6A H -0.56260 0.12500 -0.32020
+C15A C -0.3864(2) 0.15126(7) -0.27833(13)
+C16A C -0.34106(18) 0.03452(7) -0.42687(16)
+O1A O -0.15445(12) 0.20962(5) 0.09123(8)
+O2A O -0.09530(15) 0.26310(5) 0.14765(8)
+O3A O 0.11763(11) 0.34919(5) 0.03448(9)
+O4A O 0.14924(11) 0.32554(5) -0.06400(8)
+O5A O -0.44026(14) 0.17155(5) -0.25091(8)
+O6A O -0.30000(16) 0.15941(6) -0.27008(12)
+O7A O -0.25385(13) 0.04023(6) -0.41251(13)
+O8A O -0.37805(12) 0.00741(6) -0.46782(13)
+S1A S -0.14132(4) 0.22927(2) -0.18402(3)
+S2A S -0.68898(4) 0.06973(2) -0.40239(3)
+Cd1* Cd -0.17535(2) 0.21978(2) 0.20967(2)
+Cd1A* Cd 0.67535(2) 0.21978(2) -0.20967(2)
+Cd1F Cd 0.67535(2) 0.28022(2) 0.29033(2)
+Cd1G Cd -0.17535(2) 0.28022(2) -0.29033(2)
+Cd2F Cd -0.75000 0.12336(2) -0.50000
+Cd2F* Cd 1.25000 0.12336(2) 0.50000
+Cd3* Cd -0.75000 0.01640(2) -0.50000
+Cd3D Cd -0.25000 -0.01640(2) -0.50000
+Cd3D* Cd 0.75000 -0.01640(2) 0.50000
+O1* O -0.34555(12) 0.20962(5) -0.09123(8)
+O1A* O 0.84555(12) 0.20962(5) 0.09123(8)
+O2* O -0.40470(15) 0.26310(5) -0.14765(8)
+O2A* O 0.90470(15) 0.26310(5) 0.14765(8)
+O7D O 1.24615(13) -0.04023(6) 0.58749(13)
+O7E O 1.25385(13) -0.04023(6) 0.41251(13)
+O8D O 1.12195(12) -0.00741(6) 0.53218(13)
+O8E O 1.37805(12) -0.00741(6) 0.46782(13)
+S1F S 0.85868(4) 0.27073(2) 0.31598(3)
+S1G S -0.35868(4) 0.27073(2) -0.31598(3)
+S2A* S 1.31102(4) 0.06973(2) 0.59761(3)
+S2F S 0.31102(4) 0.43027(2) 0.09761(3)
+S2G S 0.18898(4) 0.43027(2) -0.09761(3)
+#END

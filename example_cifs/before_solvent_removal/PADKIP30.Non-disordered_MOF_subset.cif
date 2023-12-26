@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PADKIP30
+_audit_creation_date 2014-11-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PADKIP30
+_database_code_depnum_ccdc_archive 'CCDC 1036399'
+_chemical_formula_sum 'C6 H11 Mn1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Mn1 O6 1-)n,n(C3 H8 N1 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 136
+_journal_year 2014
+_journal_page_first 7801
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Wei Li"
+"A.Thirumurugan"
+"P.T.Barton"
+"Zheshuai Lin"
+"S.Henke"
+"H.H.-M Yeung"
+"M.T.Wharmby"
+"E.G.Bithell"
+"C.J.Howard"
+"A.K.Cheetham"
+_chemical_name_systematic
+;
+catena-[azetidinium tris(\m-formato)-manganese]
+;
+_cell_volume    955.354
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.725
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 373
+_refine_special_details
+;
+C3,C4,C5 disordered by symmetry over two configurations with occupancy 0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0496
+_refine_ls_wR_factor_gt 0.0496
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,-1/2+z
+8 x,-1/2-y,z
+_cell_length_a 8.7393(3)
+_cell_length_b 12.3416(4)
+_cell_length_c 8.8576(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.50000 0.50000
+O1 O 0.2153(3) 0.5497(2) 0.3915(3)
+O2 O 0.0177(3) 0.3392(2) 0.4041(3)
+O3 O 0.3825(3) 0.5546(2) 0.2069(3)
+C1 C 0.2729(5) 0.5146(3) 0.2736(4)
+H1 H 0.23110 0.45130 0.23410
+C2 C 0.0037(5) 0.25000 0.4625(7)
+H2 H -0.02790 0.25000 0.56240
+N1 N 0.4241(10) 0.75000 0.4012(8)
+C3 C 0.4282(11) 0.7765(10) 0.5615(10)
+H3 H 0.35010 0.74110 0.62170
+H4 H 0.43440 0.85340 0.58340
+C4 C 0.5870(12) 0.7162(11) 0.5584(12)
+H5 H 0.66200 0.74180 0.63090
+H6 H 0.58160 0.63780 0.55450
+C5 C 0.5889(12) 0.7717(14) 0.4097(11)
+H7 H 0.61480 0.84800 0.41480
+H8 H 0.64890 0.73480 0.33320
+H9 H 0.373(12) 0.694(6) 0.366(11)
+O2G O 0.0177(3) 0.1608(2) 0.4041(3)
+O1D O -0.2153(3) 0.4503(2) 0.6085(3)
+O3D O -0.3825(3) 0.4454(2) 0.7931(3)
+C1D C -0.2729(5) 0.4854(3) 0.7264(4)
+H1D H -0.23110 0.54870 0.76590
+Mn1A Mn -0.50000 0.50000 1.00000
+Mn1A* Mn 0.50000 0.50000 0.00000
+Mn1C Mn 0.00000 0.00000 0.50000
+O2D O -0.0177(3) 0.6608(2) 0.5959(3)
+O3A O 0.1175(3) 0.4454(2) 0.7069(3)
+O3E O -0.1175(3) 0.5546(2) 0.2931(3)
+C3G C 0.4282(11) 0.7235(10) 0.5615(10)
+H3G H 0.35010 0.75890 0.62170
+H4G H 0.43440 0.64660 0.58340
+C4G C 0.5870(12) 0.7838(11) 0.5584(12)
+H5G H 0.66200 0.75820 0.63090
+H6G H 0.58160 0.86220 0.55450
+C5G C 0.5889(12) 0.7283(14) 0.4097(11)
+H7G H 0.61480 0.65200 0.41480
+H8G H 0.64890 0.76520 0.33320
+H9G H 0.373(12) 0.806(6) 0.366(11)
+#END

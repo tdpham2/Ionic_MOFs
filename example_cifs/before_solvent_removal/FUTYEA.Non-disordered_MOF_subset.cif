@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUTYEA
+_audit_creation_date 2015-09-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUTYEA
+_database_code_depnum_ccdc_archive 'CCDC 1423777'
+_chemical_formula_sum 'C15 H19 N1 O6 Zn1'
+_chemical_formula_moiety
+;
+(C9 H3 O6 Zn1 1-)n,n(C6 H16 N1 1+)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 14
+_journal_year 2014
+_journal_page_first 5452
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"C.Ordonez"
+"M.Fonari"
+"J.Lindline"
+"Qiang Wei"
+"T.Timofeeva"
+_chemical_name_systematic
+;
+catena-[triethylammonium (\m-benzene-1,3,5-tricarboxylato)-zinc]
+;
+_cell_volume   1745.620
+_exptl_crystal_density_diffrn 1.426
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+C15B,C16B and C15A,C16A disordered over two sites with occupancies 
+0.712:0.288.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0761
+_refine_ls_wR_factor_gt 0.0761
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.460(16)
+_cell_length_b 15.98(3)
+_cell_length_c 11.574(20)
+_cell_angle_alpha 90
+_cell_angle_beta 93.89(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.14276(13) 0.91881(8) 0.45022(13)
+O1 O 0.9803(7) 0.9319(4) 0.3350(7)
+O2 O 0.2555(8) 0.8140(5) 0.2925(8)
+O3 O 0.3165(7) 0.9354(4) 0.3706(7)
+C1 C 0.5987(11) 0.9124(7) 0.3232(10)
+H1 H 0.57890 0.95620 0.37250
+O4 O 0.5872(8) 0.6726(5) 0.0459(8)
+C2 C 0.3456(13) 0.8719(8) 0.3138(12)
+O5 O 0.8217(8) 0.9838(5) 0.4507(8)
+C3 C 0.7671(13) 0.8363(8) 0.2206(12)
+H2 H 0.86030 0.82760 0.20280
+C4 C 0.5219(12) 0.8008(8) 0.1975(12)
+H3 H 0.44890 0.76730 0.16570
+C5 C 0.4906(11) 0.8626(7) 0.2740(11)
+C6 C 0.7392(11) 0.8954(7) 0.2971(11)
+C7 C 0.6933(16) 0.7176(8) 0.0870(13)
+C8 C 0.6592(12) 0.7867(8) 0.1659(12)
+C9 C 0.8545(13) 0.9418(7) 0.3643(13)
+O6 O 0.8167(10) 0.7032(7) 0.0646(12)
+C10 C 0.185(2) 0.7068(13) 0.053(2)
+H4 H 0.11020 0.71670 -0.00560
+H5 H 0.26730 0.68660 0.01810
+H6 H 0.20740 0.75810 0.09360
+N1 N 0.2060(18) 0.6480(8) 0.2547(17)
+H7 H 0.23310 0.70240 0.26330
+C11 C 0.141(2) 0.6480(13) 0.131(3)
+H8 H 0.15780 0.59320 0.09800
+H9 H 0.03940 0.65390 0.13380
+C12 C 0.350(2) 0.6038(11) 0.249(2)
+H10 H 0.39320 0.62130 0.17930
+H11 H 0.33490 0.54390 0.24430
+C13 C -0.028(2) 0.6609(13) 0.355(3)
+H12 H -0.00700 0.71740 0.37840
+H13 H -0.06990 0.63180 0.41680
+H14 H -0.09280 0.66110 0.28760
+C14 C 0.111(4) 0.6160(17) 0.327(4)
+H15 H 0.16310 0.60560 0.40030
+H16 H 0.08310 0.56160 0.29550
+C15 C 0.456(3) 0.6229(13) 0.356(2)
+H17 H 0.54240 0.59280 0.34880
+H18 H 0.41410 0.60570 0.42580
+H19 H 0.47500 0.68190 0.35970
+C16? C 0.204(9) 0.622(3) 0.371(3)
+H20? H 0.13990 0.66080 0.40490
+H21? H 0.29790 0.63680 0.40470
+C17? C 0.172(6) 0.535(3) 0.431(6)
+H22? H 0.08580 0.51200 0.39500
+H23? H 0.16090 0.54370 0.51170
+H24? H 0.24860 0.49700 0.42130
+Zn1* Zn 1.14276(13) 0.91881(8) 0.45022(13)
+Zn1B Zn 0.85724(13) 1.08119(8) 0.54978(13)
+Zn1C Zn 0.64276(13) 0.58119(8) -0.04978(13)
+O1* O -0.0197(7) 0.9319(4) 0.3350(7)
+O4C O 0.0872(8) 0.8274(5) 0.5459(8)
+O5B O 0.1783(8) 1.0162(5) 0.5493(8)
+#END

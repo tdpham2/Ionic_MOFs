@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GICXIB02
+_audit_creation_date 2013-05-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GICXIB02
+_database_code_depnum_ccdc_archive 'CCDC 879107'
+_chemical_formula_sum 'C12 H22 N2 O12 Zn2'
+_chemical_formula_moiety
+;
+(C6 H6 O12 Zn2 2-)n,2(C3 H8 N1 1+)
+;
+_journal_coden_Cambridge 920
+_journal_volume 7
+_journal_year 2012
+_journal_page_first 2786
+_journal_name_full 'Chem.Asian J. '
+loop_
+_publ_author_name
+"Yuji Imai"
+"Biao Zhou"
+"Y.Ito"
+"H.Fijimori"
+"A.Kobayashi"
+"Zhe-Ming Wang"
+"H.Kobayashi"
+_chemical_name_systematic
+;
+catena-(bis(Azetidinium) hexakis(\m~2~-formato-O,O')-di-zinc)
+;
+_cell_volume    897.318
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.914
+_exptl_special_details
+;
+P21/c polymorph
+phase transitions at 300 K and 250 K
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 226
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0405
+_refine_ls_wR_factor_gt 0.0405
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.0925(14)
+_cell_length_b 8.7896(10)
+_cell_length_c 8.4772(10)
+_cell_angle_alpha 90
+_cell_angle_beta 95.2
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 1.00000 1.00000 0.00000
+Zn2 Zn 0.50000 1.00000 0.00000
+O1 O 0.94708(13) 0.79956(19) 0.11154(19)
+O2 O 0.94569(12) 0.60676(19) 0.28128(18)
+O3 O 0.84207(14) 1.0905(2) 0.0145(2)
+O4 O 0.65874(14) 1.0858(2) 0.03080(19)
+O5 O 0.45969(13) 1.0961(2) 0.21942(18)
+O6 O 0.44915(14) 1.28551(19) 0.3900(2)
+C1 C 0.9862(2) 0.7282(2) 0.2314(3)
+C2 C 0.7491(2) 1.0279(2) 0.0000(3)
+C3 C 0.4924(2) 1.2190(3) 0.2794(3)
+H1 H 1.05090 0.76750 0.28930
+H2 H 0.74600 0.92760 -0.04210
+H3 H 0.55530 1.26540 0.24000
+N1 N 0.73865(17) 0.8979(2) 0.5664(2)
+C4 C 0.7625(2) 0.9095(3) 0.3954(3)
+C5 C 0.7838(2) 1.0769(3) 0.4151(3)
+C6 C 0.7251(2) 1.0689(3) 0.5657(3)
+H4 H 0.67390 0.84210 0.58520
+H5 H 0.79950 0.86290 0.63560
+H6 H 0.82460 0.85120 0.36980
+H7 H 0.70020 0.88650 0.32290
+H8 H 0.86030 1.10250 0.43220
+H9 H 0.74920 1.13950 0.33370
+H10 H 0.64980 1.10120 0.55190
+H11 H 0.76200 1.11970 0.65430
+O3B O 0.15793(14) 0.9095(2) -0.0145(2)
+O4B O 0.34126(14) 0.9142(2) -0.03080(19)
+O5B O 0.54031(13) 0.9039(2) -0.21942(18)
+O6B O 0.55085(14) 0.71449(19) -0.3900(2)
+C2B C 0.2509(2) 0.9721(2) 0.0000(3)
+C3B C 0.5076(2) 0.7810(3) -0.2794(3)
+H2B H 0.25400 1.07240 0.04210
+H3B H 0.44470 0.73460 -0.24000
+O1B O 1.05292(13) 1.20044(19) -0.11154(19)
+O2B O 1.05431(12) 1.39324(19) -0.28128(18)
+C1B C 1.0138(2) 1.2718(2) -0.2314(3)
+H1B H 0.94910 1.23250 -0.28930
+Zn1* Zn 0.00000 1.00000 0.00000
+Zn1A Zn 1.00000 0.50000 0.50000
+Zn1A* Zn 1.00000 1.50000 -0.50000
+Zn2A Zn 0.50000 0.50000 -0.50000
+Zn2A* Zn 0.50000 1.50000 0.50000
+O2A O 1.05431(12) 1.10676(19) 0.21872(18)
+O2C O 0.94569(12) 0.89324(19) -0.21872(18)
+O3B* O 1.15793(14) 0.9095(2) -0.0145(2)
+O6A O 0.55085(14) 0.78551(19) 0.1100(2)
+O6C O 0.44915(14) 1.21449(19) -0.1100(2)
+#END

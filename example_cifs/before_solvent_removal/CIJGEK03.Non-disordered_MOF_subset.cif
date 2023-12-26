@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIJGEK03
+_audit_creation_date 2018-07-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIJGEK03
+_database_code_depnum_ccdc_archive 'CCDC 1840717'
+_chemical_formula_sum 'C8 H18 N4 Ni1 O8'
+_chemical_formula_moiety
+;
+(C4 H4 Ni1 O8 2-)n,2n(C2 H7 N2 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 47
+_journal_year 2018
+_journal_page_first 11925
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Shu Liu"
+"Bing-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-(bis(acetamidinium) bis(\m-formato)-bis(hydrogen formato)-nickel(ii))
+;
+_cell_volume   1462.846
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.621
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 220
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0253
+_refine_ls_wR_factor_gt 0.0253
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c c n'
+_symmetry_Int_Tables_number 56
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,z
+3 -x,1/2+y,1/2-z
+4 1/2+x,-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,y,-1/2+z
+_cell_length_a 7.8166(1)
+_cell_length_b 22.0478(3)
+_cell_length_c 8.4882(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Ni 1.24
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.00000 0.00000 0.00000
+O1 O 0.07043(12) -0.02557(4) 0.22421(11)
+O2 O 0.25246(13) -0.01689(4) 0.42353(11)
+O3 O 0.04697(15) 0.08860(4) 0.06676(12)
+O4 O 0.0824(2) 0.18662(5) 0.02530(15)
+C1 C 0.20029(18) -0.00336(6) 0.28767(15)
+H1 H 0.26330 0.02540 0.23010
+C2 C 0.0874(2) 0.13288(7) -0.01605(18)
+H2 H 0.12510 0.12480 -0.11910
+C3 C -0.0495(2) 0.15895(7) 0.44089(18)
+C4 C -0.0993(3) 0.17132(8) 0.6070(2)
+H3 H -0.20820 0.19240 0.60890
+H4 H -0.01260 0.19630 0.65670
+H5 H -0.10960 0.13330 0.66370
+N1 N -0.07775(19) 0.10523(6) 0.38282(15)
+H6 H -0.05090 0.09740 0.28550
+H7 H -0.12350 0.07720 0.44140
+N2 N 0.0191(2) 0.20243(6) 0.35654(18)
+H8 H 0.04720 0.19580 0.25890
+H9 H 0.03660 0.23790 0.39820
+O1D O -0.07043(12) 0.02557(4) -0.22421(11)
+O2D O -0.25246(13) 0.01689(4) -0.42353(11)
+O3D O -0.04697(15) -0.08860(4) -0.06676(12)
+O4D O -0.0824(2) -0.18662(5) -0.02530(15)
+C1D C -0.20029(18) 0.00336(6) -0.28767(15)
+H1D H -0.26330 -0.02540 -0.23010
+C2D C -0.0874(2) -0.13288(7) 0.01605(18)
+H2D H -0.12510 -0.12480 0.11910
+Ni1C Ni -0.50000 0.00000 -0.50000
+Ni1C* Ni 0.50000 0.00000 0.50000
+O2C O -0.24754(13) 0.01689(4) 0.07647(11)
+O2G O 0.24754(13) -0.01689(4) -0.07647(11)
+#END

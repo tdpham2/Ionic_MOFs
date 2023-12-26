@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FICQIR
+_audit_creation_date 1999-07-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FICQIR
+_database_code_depnum_ccdc_archive 'CCDC 127861'
+_chemical_formula_sum 'C12 H27 N2 O19.5 Pb2 Sr1'
+_chemical_formula_moiety
+;
+(C12 H12 N2 O12 Pb2 2-)n,n(Sr1 2+),7.5n(H2 O1)
+;
+_journal_coden_Cambridge 41
+_journal_volume 43
+_journal_year 1998
+_journal_page_first 812
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"A.B.Ilyukhin"
+"A.L.Poznyak"
+"V.S.Sergienko"
+"L.V.Stopolyanskaya"
+_chemical_name_systematic
+;
+catena-(Strontium bis((\m~2~-nitrilotriacetato)-lead(ii)) hydrate)
+;
+_cell_volume   2546.123
+_exptl_crystal_density_diffrn 2.64
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The O20 position is partially occupied and was refined with s.o.f. equal to 
+0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.572(2)
+_cell_length_b 15.010(3)
+_cell_length_c 17.723(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.79(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+Pb 1.78
+Sr 1.42
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1 Pb 0.04572(4) 0.32007(3) -0.39401(2)
+Pb2 Pb 0.53998(4) 0.33792(3) -0.42825(2)
+O1 O 0.30605(73) 0.27211(52) -0.45486(42)
+O2 O 0.38456(67) 0.30867(44) -0.57031(39)
+O3 O 0.01304(89) 0.16327(59) -0.36051(53)
+O4 O 0.05165(72) 0.02080(51) -0.38835(43)
+O5 O -0.09184(75) 0.37251(51) -0.50404(43)
+O6 O -0.26246(81) 0.32370(54) -0.58053(50)
+O7 O 0.58152(75) 0.19406(49) -0.49034(44)
+O8 O 0.63148(85) 0.04863(60) -0.47595(50)
+O9 O 0.79240(72) 0.29486(50) -0.36892(43)
+O10 O 0.88913(79) 0.29284(52) -0.25411(46)
+O11 O 0.39538(75) 0.36055(54) -0.31284(43)
+O12 O 0.23371(84) 0.29112(55) -0.24847(51)
+N1 N 0.05248(74) 0.21573(52) -0.50273(46)
+N2 N 0.55757(77) 0.21336(56) -0.33047(47)
+C1 C 0.2872(12) 0.28152(80) -0.52486(80)
+C2 C 0.15454(88) 0.25546(66) -0.56661(55)
+H1 H 0.10862(88) 0.30811(66) -0.59104(55)
+H2 H 0.17534(88) 0.21007(66) -0.60620(55)
+C3 C 0.0508(11) 0.10209(81) -0.40445(69)
+C4 C 0.0973(10) 0.12403(65) -0.4821(6)
+H3 H 0.2012(10) 0.11825(65) -0.48435(60)
+H4 H 0.0553(10) 0.08156(65) -0.51948(60)
+C5 C -0.1489(11) 0.31097(67) -0.54080(63)
+C6 C -0.0923(10) 0.21866(71) -0.53995(62)
+H5 H -0.1577(10) 0.17877(71) -0.51224(62)
+H6 H -0.0864(10) 0.19643(71) -0.59300(62)
+C7 C 0.6063(11) 0.12100(81) -0.44498(62)
+C8 C 0.6063(12) 0.12443(71) -0.36438(63)
+H7 H 0.5448(12) 0.07601(71) -0.34478(63)
+H8 H 0.7034(12) 0.11253(71) -0.34552(63)
+C9 C 0.7862(10) 0.27744(70) -0.29965(63)
+C10 C 0.65333(94) 0.24457(72) -0.2710(6)
+H9 H 0.67405(94) 0.19451(72) -0.23534(60)
+H10 H 0.60655(94) 0.29296(72) -0.24192(60)
+C11 C 0.34556(97) 0.29145(65) -0.28563(60)
+C12 C 0.4114(10) 0.20143(68) -0.29920(59)
+H11 H 0.418(1) 0.16644(68) -0.25127(59)
+H12 H 0.351(1) 0.16741(68) -0.33556(59)
+Sr1 Sr 0.55957(9) 0.21888(6) -0.64333(5)
+O13 O 0.68711(75) 0.06290(51) -0.62468(44)
+O14 O 0.37330(82) 0.09927(57) -0.60757(49)
+O15 O 0.54787(77) 0.37430(56) -0.70953(48)
+O16 O 0.71552(93) -0.00032(60) -0.77749(50)
+O17 O -0.0257(12) 0.52219(81) -0.36834(69)
+O18 O 0.67442(94) 0.50693(69) -0.35710(55)
+O19 O 0.14712(90) 0.05126(63) -0.70123(55)
+O20 O 0.3259(21) 0.4878(12) -0.4583(12)
+O9* O -0.20760(72) 0.29486(50) -0.36892(43)
+Pb1* Pb 1.04572(4) 0.32007(3) -0.39401(2)
+#END

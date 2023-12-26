@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EHAGEA02
+_audit_creation_date 2017-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EHAGEA02
+_database_code_depnum_ccdc_archive 'CCDC 1537279'
+_chemical_formula_sum 'C10 H22 Al1 N2 Na1 O12'
+_chemical_formula_moiety
+;
+2(C2 H8 N1 1+),n(C6 H6 Al1 Na1 O12 2-)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 23
+_journal_year 2017
+_journal_page_first 9857
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Yao Yu"
+"Ran Shang"
+"Sa Chen"
+"Bin-Wu Wang"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) hexakis(\m-formato)-aluminium(iii)-sodium(i)]
+;
+_cell_volume    446.123
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.535
+_exptl_special_details
+;
+low-temperature antiferroelectric polymorph
+phase transition around 200 K.
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0617
+_refine_ls_wR_factor_gt 0.0617
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.9734(9)
+_cell_length_b 9.1046(9)
+_cell_length_c 8.8243(10)
+_cell_angle_alpha 54.170(11)
+_cell_angle_beta 53.813(11)
+_cell_angle_gamma 56.057(11)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.21
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1 Al 0.00000 0.00000 0.00000
+O1 O -0.1269(3) 0.2362(2) 0.0333(3)
+O2 O 0.2423(3) 0.0366(2) -0.1395(3)
+O3 O -0.0301(3) 0.1362(3) -0.2512(3)
+C1 C -0.2454(4) 0.2759(4) 0.1899(4)
+C2 C 0.2816(4) 0.1933(4) -0.2559(4)
+C3 C -0.1859(4) 0.2414(4) -0.2824(4)
+O4 O -0.3055(3) 0.4352(3) 0.1918(3)
+H1 H -0.29160 0.17760 0.31410
+O5 O 0.4395(3) 0.2086(3) -0.3312(3)
+H2 H 0.17820 0.30750 -0.28600
+O6 O -0.1950(3) 0.3387(3) -0.4514(3)
+H3 H -0.30560 0.24620 -0.16680
+Na1 Na -0.50000 0.50000 0.50000
+N1 N 0.1698(4) 0.3175(4) 0.2249(4)
+H4 H 0.04570 0.34420 0.32170
+H5 H 0.17280 0.42220 0.10460
+C4 C 0.2109(6) 0.1521(5) 0.1989(6)
+H6 H 0.33960 0.12760 0.08990
+H7 H 0.11100 0.17850 0.16350
+H8 H 0.20970 0.03940 0.32590
+C5 C 0.3079(5) 0.2890(5) 0.2858(5)
+H9 H 0.29800 0.18450 0.41940
+H10 H 0.27690 0.40710 0.29290
+H11 H 0.44110 0.25650 0.18570
+O2A O -0.2423(3) -0.0366(2) 0.1395(3)
+O3A O 0.0301(3) -0.1362(3) 0.2512(3)
+O1A O 0.1269(3) -0.2362(2) -0.0333(3)
+C2A C -0.2816(4) -0.1933(4) 0.2559(4)
+O5A O -0.4395(3) -0.2086(3) 0.3312(3)
+H2A H -0.17820 -0.30750 0.28600
+Na1* Na 0.50000 0.50000 -0.50000
+Na1** Na -0.50000 -0.50000 0.50000
+Na1*** Na -0.50000 0.50000 -0.50000
+O6* O -0.1950(3) 0.3387(3) 0.5486(3)
+O6A O -0.8050(3) 0.6613(3) 0.4514(3)
+O4A O -0.6945(3) 0.5648(3) 0.8082(3)
+O5* O -0.5605(3) 0.2086(3) 0.6688(3)
+O5A* O -0.4395(3) 0.7914(3) 0.3312(3)
+C3* C -0.1859(4) 0.2414(4) 0.7176(4)
+C3A C -0.8141(4) 0.7586(4) 0.2824(4)
+O3* O -0.0301(3) 0.1362(3) 0.7488(3)
+H3* H -0.30560 0.24620 0.83320
+O3A* O -0.9699(3) 0.8638(3) 0.2512(3)
+H3A H -0.69440 0.75380 0.16680
+Al1* Al 0.00000 0.00000 1.00000
+Al1** Al -1.00000 1.00000 0.00000
+#END

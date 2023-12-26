@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HAWWEJ
+_audit_creation_date 2012-07-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HAWWEJ
+_database_code_depnum_ccdc_archive 'CCDC 879218'
+_chemical_formula_sum 'C20 H26 N3 O11 S2 Yb1'
+_chemical_formula_moiety
+;
+(C15 H10 N2 O9 S2 Yb1 1-)n,n(C5 H14 N1 O1 1+),n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 51
+_journal_year 2012
+_journal_page_first 523
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Cai-Hong Zhan"
+"Fei Wang"
+"Yao Kang"
+"Jian Zhang"
+_chemical_name_systematic
+;
+catena-(2-Hydroxy-N,N,N-trimethylethanaminium 
+(\m~3~-thiophene-2,5-dicarboxylato)-(\m~2~-thiophene-2,5-dicarboxylato)-(imida
+zolidin-2-one)-ytterbium monohydrate)
+;
+_cell_volume   2548.110
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0248
+_refine_ls_wR_factor_gt 0.0248
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.0214(2)
+_cell_length_b 11.5047(2)
+_cell_length_c 20.4346(3)
+_cell_angle_alpha 90
+_cell_angle_beta 129.375(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+S 1.02
+Yb 1.62
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Yb1 Yb 0.352629(15) 0.111307(14) 0.014052(10)
+S1 S 0.02276(10) -0.21858(9) -0.24941(7)
+S2 S 0.41218(9) 0.34886(9) 0.25339(6)
+O1 O 0.2367(3) -0.0463(2) -0.03733(18)
+O2 O 0.2246(3) -0.2357(3) -0.0649(2)
+O3 O -0.1948(3) -0.2729(3) -0.42379(19)
+O4 O -0.2053(3) -0.1039(3) -0.4820(2)
+O5 O 0.4197(3) 0.2195(3) 0.13458(18)
+O6 O 0.2580(3) 0.1071(2) 0.0798(2)
+O7 O 0.3625(3) 0.4392(2) 0.41346(17)
+O8 O 0.4865(3) 0.5039(3) 0.38857(18)
+O9 O 0.4745(3) 0.2496(3) 0.0234(2)
+N1 N 0.6455(4) 0.3660(4) 0.1085(3)
+H1 H 0.70200 0.31510 0.11820
+N2 N 0.4693(4) 0.4302(3) 0.0694(3)
+H2 H 0.38710 0.43510 0.03930
+C1 C 0.1069(4) -0.1064(3) -0.1793(3)
+C2 C 0.0727(4) -0.0018(4) -0.2203(3)
+H3 H 0.10750 0.06880 -0.19280
+C3 C -0.0212(4) -0.0125(4) -0.3089(3)
+H4 H -0.05390 0.05030 -0.34590
+C4 C -0.0590(4) -0.1250(4) -0.3343(3)
+C5 C 0.1978(4) -0.1326(3) -0.0870(3)
+C6 C -0.1603(4) -0.1687(4) -0.4205(3)
+C7 C 0.3167(4) 0.2359(4) 0.1910(2)
+C8 C 0.2408(4) 0.2049(4) 0.2085(3)
+H5 H 0.18200 0.14630 0.18010
+C9 C 0.2616(4) 0.2714(4) 0.2741(3)
+H6 H 0.21880 0.26110 0.29450
+C10 C 0.3515(4) 0.3529(3) 0.3046(2)
+C11 C 0.3316(4) 0.1841(4) 0.1314(3)
+C12 C 0.4037(4) 0.4374(3) 0.3744(2)
+C13 C 0.5259(4) 0.3412(4) 0.0644(3)
+C14 C 0.5570(5) 0.5177(4) 0.1288(4)
+H7 H 0.57260 0.51230 0.18230
+H8 H 0.52840 0.59540 0.10600
+C15 C 0.6724(5) 0.4858(4) 0.1392(4)
+H9 H 0.68140 0.53560 0.10510
+H10 H 0.74660 0.49050 0.19790
+N3 N 0.7802(5) 0.2151(5) 0.3740(4)
+C16 C 0.7329(9) 0.3395(9) 0.3499(7)
+C17 C 0.7679(9) 0.1546(9) 0.3036(6)
+C18 C 0.7003(7) 0.1477(7) 0.3877(5)
+C19 C 0.9191(14) 0.2217(19) 0.4262(11)
+C20 C 0.967(3) 0.2594(19) 0.5021(16)
+O10 O 0.996(3) 0.3840(15) 0.5022(17)
+C21? C 0.9034(14) 0.2134(16) 0.4627(11)
+C22? C 0.9686(15) 0.1055(13) 0.5111(9)
+O11? O 1.0053(11) 0.0236(10) 0.4745(7)
+O12 O 0.9810(9) 0.4631(12) 0.4025(8)
+Yb1A Yb -0.352629(15) -0.388693(14) -0.514052(10)
+Yb1C Yb 0.352629(15) 0.388693(14) 0.514052(10)
+Yb1A* Yb 0.647371(15) 0.611307(14) 0.485948(10)
+O3A O 0.1948(3) 0.2271(3) -0.07621(19)
+O7C O 0.3625(3) 0.0608(2) -0.08654(17)
+O8A O 0.5135(3) 0.0039(3) 0.11143(18)
+#END

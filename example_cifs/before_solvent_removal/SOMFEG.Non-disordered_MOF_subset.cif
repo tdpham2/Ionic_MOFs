@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOMFEG
+_audit_creation_date 2009-03-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOMFEG
+_database_code_depnum_ccdc_archive 'CCDC 709883'
+_chemical_formula_sum 'C17 H19 In1 N2 O9 S2'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(C12 H4 In1 O8 S2 1-),n(C3 H7 N1 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 130
+_journal_year 2008
+_journal_page_first 12882
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Jian Zhang"
+"Shumei Chen"
+"Tao Wu"
+"Pingyun Feng"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-[Dimethylammonium 
+rac-bis(\m~2~-thiophene-2,5-dicarboxylato-O,O',O'',O''')-indium(iii) 
+dimethylformamide solvate]
+;
+_chemical_name_common
+;
+ATF-1
+;
+_cell_volume   2864.454
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+The racemic nature of the framework produced without chiral catalysis was 
+shown by determining the structure and Flack parameter for 7 crystals
+;
+_diffrn_ambient_temperature 293
+_diffrn_special_details
+;
+racemic twin
+
+;
+_refine_special_details
+;
+The authors state disordered dimethylformamide solvent is present in the 
+structure. No details are given on the stoichiometry of the solvent, or how 
+the disordered solvent was treated in the refinement. We calculate the 
+structure contains 34% void space.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0378
+_refine_ls_wR_factor_gt 0.0378
+loop_
+_citation_database_id_CSD
+_citation_special_details
+SOKKUZ "is a stereoisomer of this entry"
+SOMFAC "is a stereoisomer of this entry"
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 41 2 2'
+_symmetry_Int_Tables_number 91
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -y,x,1/4+z
+4 y,-x,3/4+z
+5 -x,y,-z
+6 x,-y,1/2-z
+7 y,x,3/4-z
+8 -y,-x,1/4-z
+_cell_length_a 13.5770(4)
+_cell_length_b 13.5770(4)
+_cell_length_c 15.5394(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+In 1.53
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5540(15) 0.1959(17) 0.0570(14)
+N1 N 0.50000 0.161(2) 0.00000
+In1 In 0.42385(3) 0.00000 0.25000
+S1 S 0.22330(12) 0.28496(12) 0.10754(10)
+O1 O 0.3067(3) 0.1052(3) 0.2903(3)
+O2 O 0.3529(3) 0.1149(3) 0.1560(3)
+O3 O 0.0262(2) 0.4970(3) 0.1233(2)
+O4 O 0.1207(3) 0.4531(3) 0.0155(3)
+C2 C 0.2300(4) 0.2249(4) 0.2036(4)
+C3 C 0.1652(5) 0.2625(5) 0.2627(4)
+H1 H 0.15540 0.23680 0.31750
+C4 C 0.1150(5) 0.3457(5) 0.2293(4)
+H2 H 0.07150 0.38360 0.26150
+C5 C 0.1366(4) 0.3644(4) 0.1464(4)
+C6 C 0.2998(5) 0.1432(4) 0.2167(4)
+C7 C 0.0925(4) 0.4429(4) 0.0913(4)
+C1D C 0.4460(15) 0.1959(17) -0.0570(14)
+In1C In 0.00000(3) 0.57615 0.00000
+In1B In 1.00000(3) 0.42385 0.50000
+S1B S 0.71504(12) 0.22330(12) 0.35754(10)
+O1B O 0.8948(3) 0.3067(3) 0.5403(3)
+O1E O 0.3067(3) -0.1052(3) 0.2097(3)
+O2B O 0.8851(3) 0.3529(3) 0.4060(3)
+O2E O 0.3529(3) -0.1149(3) 0.3440(3)
+O3B O 0.5030(2) 0.0262(3) 0.3733(2)
+O3G O 0.5030(2) -0.0262(3) 0.1267(2)
+O4B O 0.5469(3) 0.1207(3) 0.2655(3)
+O4G O 0.5469(3) -0.1207(3) 0.2345(3)
+C2B C 0.7751(4) 0.2300(4) 0.4536(4)
+C3B C 0.7375(5) 0.1652(5) 0.5127(4)
+H1B H 0.76320 0.15540 0.56750
+C4B C 0.6543(5) 0.1150(5) 0.4793(4)
+H2B H 0.61640 0.07150 0.51150
+C5B C 0.6356(4) 0.1366(4) 0.3964(4)
+C6B C 0.8568(5) 0.2998(4) 0.4667(4)
+C7B C 0.5571(4) 0.0925(4) 0.3413(4)
+#END

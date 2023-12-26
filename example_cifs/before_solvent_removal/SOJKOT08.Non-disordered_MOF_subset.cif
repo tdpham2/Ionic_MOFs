@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOJKOT08
+_audit_creation_date 2017-09-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOJKOT08
+_database_code_depnum_ccdc_archive 'CCDC 1565713'
+_chemical_formula_sum 'C3 H8 Co1 N2 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Co1 O6 1-)n,H5 N2 1+
+;
+_journal_coden_Cambridge 222
+_journal_volume 46
+_journal_year 2017
+_journal_page_first 13342
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"W.D.C.B.Gunatilleke"
+"Kaya Wei"
+"Zheng Niu"
+"L.Wojtas"
+"G.Nolas"
+"Shengqian Ma"
+_chemical_name_systematic
+;
+catena-[hydrazinium tris(\m-formato)-cobalt(ii)]
+;
+_cell_volume    784.478
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.922
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 393
+_refine_special_details
+;
+N7,N8 disordered by symmetry over two configurations with occupancy 0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0263
+_refine_ls_wR_factor_gt 0.0263
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 8.5650(9)
+_cell_length_b 11.6420(12)
+_cell_length_c 7.8673(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.50000 0.50000
+O1 O 0.59616(16) 0.43264(12) 0.27529(17)
+C1 C 0.7195(3) 0.4694(2) 0.2149(3)
+H1 H 0.76990 0.52754 0.27454
+O2 O 0.78208(16) 0.43558(13) 0.08184(17)
+O3 O 0.53142(17) 0.34452(11) 0.63171(18)
+C2 C 0.5222(3) 0.25000 0.5591(4)
+H2 H 0.50723 0.25000 0.44206
+N1 N 0.5693(5) 0.2621(18) -0.0145(4)
+H3 H 0.57376 0.28862 -0.12049
+H4 H 0.63743 0.20503 -0.00208
+H5 H 0.59256 0.31844 0.05773
+N2 N 0.4149(6) 0.2208(7) 0.0200(7)
+H6 H 0.413(5) 0.188(5) 0.125(4)
+H7 H 0.387(5) 0.168(4) -0.060(4)
+O3F O 0.53142(17) 0.15548(11) 0.63171(18)
+O1D O 0.40384(16) 0.56736(12) 0.72471(17)
+C1D C 0.2805(3) 0.5306(2) 0.7851(3)
+H1D H 0.23010 0.47246 0.72546
+O2D O 0.21792(16) 0.56442(13) 0.91816(17)
+Co1A Co 0.00000 0.50000 1.00000
+Co1A* Co 1.00000 0.50000 0.00000
+Co1B Co 0.50000 0.00000 0.50000
+O2A O 0.71792(16) 0.56442(13) 0.58184(17)
+O2E O 0.28208(16) 0.43558(13) 0.41816(17)
+O3D O 0.46858(17) 0.65548(11) 0.36829(18)
+N1F N 0.5693(5) 0.2379(18) -0.0145(4)
+H3F H 0.57376 0.21138 -0.12049
+H4F H 0.63743 0.29497 -0.00208
+H5F H 0.59256 0.18156 0.05773
+N2F N 0.4149(6) 0.2792(7) 0.0200(7)
+H6F H 0.413(5) 0.312(5) 0.125(4)
+H7F H 0.387(5) 0.332(4) -0.060(4)
+#END

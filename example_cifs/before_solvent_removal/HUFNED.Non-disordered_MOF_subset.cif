@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HUFNED
+_audit_creation_date 2015-07-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HUFNED
+_database_code_depnum_ccdc_archive 'CCDC 1046535'
+_chemical_formula_sum 'C13 H8 F4 N2 O8 Sr1'
+_chemical_formula_moiety
+;
+(C8 H2 F4 N1 O8 Sr1 1-)n,C5 H6 N1 1+
+;
+_journal_coden_Cambridge 182
+_journal_volume 51
+_journal_year 2015
+_journal_page_first 12185
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"L.H.Blair"
+"A.Colakel"
+"R.M.Vrcelj"
+"I.Sinclair"
+"S.J.Coles"
+_chemical_name_systematic
+;
+catena-[pyridinium 
+(\m-2,4,5,6-tetrafluoroisophthalato)-nitrato-aqua-strontium]
+;
+_cell_volume    798.946
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.011
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0574
+_refine_ls_wR_factor_gt 0.0574
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.3008(5)
+_cell_length_b 9.1264(5)
+_cell_length_c 13.1904(9)
+_cell_angle_alpha 101.118(6)
+_cell_angle_beta 93.830(5)
+_cell_angle_gamma 110.526(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+O 0.68
+Sr 1.95
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sr1 Sr 0.72286(4) 0.39605(3) 0.04057(2)
+F1 F 0.1311(3) 0.4485(2) 0.32275(16)
+F2 F 0.0069(3) 0.2196(3) 0.43296(17)
+F3 F -0.0343(3) -0.0853(3) 0.34890(18)
+F4 F 0.1930(3) 0.0679(3) 0.04424(16)
+O1 O 0.3901(3) 0.4319(3) 0.08724(19)
+O2 O 0.4348(4) 0.1955(3) -0.10444(19)
+H1 H 0.33190 0.22290 -0.10120
+H2 H 0.40390 0.09840 -0.09450
+O3 O 0.0876(4) 0.4362(3) 0.0910(2)
+O4 O -0.1290(4) -0.2969(3) 0.13589(19)
+O5 O 0.1881(4) -0.2152(3) 0.1068(2)
+O6 O 0.6512(4) 0.1369(3) 0.1230(2)
+O7 O 0.6774(4) 0.3512(3) 0.2379(2)
+O8 O 0.5952(5) 0.1207(4) 0.2815(2)
+N1 N 0.6404(5) 0.2020(4) 0.2154(2)
+C1 C 0.2211(5) 0.3880(4) 0.1147(3)
+C2 C 0.1668(5) 0.2624(4) 0.1800(3)
+C3 C 0.1154(5) 0.2981(4) 0.2785(3)
+C4 C 0.0503(5) 0.1816(4) 0.3351(3)
+C5 C 0.0285(5) 0.0250(4) 0.2909(3)
+C6 C 0.0735(5) -0.0199(4) 0.1922(3)
+C7 C 0.0429(5) -0.1932(4) 0.1411(3)
+C8 C 0.1457(5) 0.1044(4) 0.1401(3)
+N2 N 0.4763(5) 0.7537(4) 0.2934(3)
+H3 H 0.47180 0.76660 0.22900
+C9 C 0.5808(6) 0.6693(5) 0.3225(3)
+H4 H 0.64750 0.62430 0.27360
+C10 C 0.5912(6) 0.6481(5) 0.4226(3)
+H5 H 0.66540 0.58920 0.44390
+C11 C 0.4913(7) 0.7146(5) 0.4925(3)
+H6 H 0.49750 0.70170 0.56230
+C12 C 0.3827(6) 0.7993(5) 0.4606(3)
+H7 H 0.31220 0.84350 0.50750
+C13 C 0.3790(6) 0.8185(5) 0.3594(3)
+H8 H 0.30710 0.87790 0.33650
+Sr1* Sr -0.27714(4) -0.60395(3) 0.04057(2)
+Sr1** Sr -0.27714(4) 0.39605(3) 0.04057(2)
+Sr1A Sr 0.27714(4) -0.39605(3) -0.04057(2)
+Sr1A* Sr 0.27714(4) 0.60395(3) -0.04057(2)
+O1A O 0.6099(3) 0.5681(3) -0.08724(19)
+O3* O 1.0876(4) 0.4362(3) 0.0910(2)
+O3A O 0.9124(4) 0.5638(3) -0.0910(2)
+O4* O 0.8710(4) 0.7031(3) 0.13589(19)
+O5A O 0.8119(4) 0.2152(3) -0.1068(2)
+#END

@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CITJEV
+_audit_creation_date 2008-04-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CITJEV
+_database_code_depnum_ccdc_archive 'CCDC 624218'
+_chemical_formula_sum 'C10 H20 Cu3 N3 S7 W1'
+_chemical_formula_moiety
+;
+(C8 H20 N1 1+)n,n(C2 Cu3 N2 S7 W1 1-)
+;
+_journal_coden_Cambridge 580
+_journal_volume 27
+_journal_year 2008
+_journal_page_first 232
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"Zhi-Hua Li"
+"Ping Lin"
+"Shao-Wu Du"
+_chemical_name_systematic
+;
+catena-(Tetraethylammonium 
+(\m~5~-1,3,4-thiadiazole-2,5-dithiolato)-bis(\m~3~-sulfido)-bis(\m~2~-sulfido)
+-tri-copper-tungsten)
+;
+_cell_volume   2184.728
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 2.375
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0329
+_refine_ls_wR_factor_gt 0.0329
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.685(2)
+_cell_length_b 19.399(4)
+_cell_length_c 10.733(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.880(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.42
+N 0.68
+S 1.04
+W 0.82
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+W1 W 0.078013(18) 0.118187(9) 0.198219(14)
+Cu1 Cu 0.24435(6) 0.19882(3) 0.10511(5)
+Cu2 Cu 0.21470(6) 0.16337(3) 0.41920(5)
+Cu3 Cu -0.06593(7) 0.04966(3) 0.33134(6)
+S1 S 0.02776(14) 0.18602(7) 0.03440(11)
+S2 S 0.29168(13) 0.11271(6) 0.2540(1)
+S3 S -0.00464(12) 0.16070(6) 0.36036(10)
+S4 S -0.00167(15) 0.01455(6) 0.15518(11)
+S5 S 0.34295(11) 0.22937(5) -0.05732(9)
+S6 S 0.25259(13) 0.09143(6) -0.17600(9)
+S7 S 0.19029(14) 0.01119(6) -0.42869(11)
+N1 N 0.2787(4) 0.19844(17) -0.3064(3)
+N2 N 0.2463(4) 0.14446(18) -0.3925(3)
+N3 N -0.6951(4) -0.1490(2) 0.2686(4)
+C1 C 0.2890(4) 0.1781(2) -0.1892(4)
+C2 C 0.2288(4) 0.0854(2) -0.3403(4)
+C3 C -0.6994(8) -0.2171(4) 0.2028(8)
+H1 H -0.78590 -0.22400 0.15700
+H2 H -0.64520 -0.21390 0.14000
+C4 C -0.6625(11) -0.2785(5) 0.2774(12)
+H3 H -0.66970 -0.31800 0.22250
+H4 H -0.71730 -0.28430 0.33790
+H5 H -0.57590 -0.27400 0.32140
+C5 C -0.5660(8) -0.1357(5) 0.3441(9)
+H6 H -0.50530 -0.14050 0.28790
+H7 H -0.54730 -0.17170 0.40760
+C6 C -0.5413(8) -0.0674(5) 0.4111(10)
+H8 H -0.45450 -0.06570 0.45560
+H9 H -0.59760 -0.06220 0.47040
+H10 H -0.55600 -0.03070 0.34990
+C7 C -0.7354(8) -0.0957(5) 0.1679(8)
+H11 H -0.81740 -0.10950 0.11890
+H12 H -0.74810 -0.05260 0.20950
+C8 C -0.6468(10) -0.0823(6) 0.0768(10)
+H13 H -0.68200 -0.04680 0.01810
+H14 H -0.63660 -0.12370 0.03100
+H15 H -0.56540 -0.06770 0.12320
+C9 C -0.7897(9) -0.1471(5) 0.3589(8)
+H16 H -0.76200 -0.18090 0.42500
+H17 H -0.78260 -0.10220 0.39950
+C10 C -0.9234(7) -0.1594(4) 0.3096(6)
+H18 H -0.97050 -0.15570 0.37710
+H19 H -0.93410 -0.20480 0.27360
+H20 H -0.95430 -0.12590 0.24530
+Cu1C Cu 0.24435(6) 0.30118(3) -0.39489(5)
+Cu2C Cu 0.21470(6) 0.33663(3) -0.08080(5)
+Cu2* Cu 0.21470(6) 0.16337(3) -0.58080(5)
+Cu3B Cu 0.06593(7) -0.04966(3) -0.33134(6)
+S5C S 0.34295(11) 0.27063(5) 0.44268(9)
+S7B S -0.19029(14) -0.01119(6) 0.42869(11)
+N1C N 0.2787(4) 0.30156(17) 0.1936(3)
+N2* N 0.2463(4) 0.14446(18) 0.6075(3)
+#END

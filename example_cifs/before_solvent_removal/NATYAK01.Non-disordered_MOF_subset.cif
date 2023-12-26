@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NATYAK01
+_audit_creation_date 2012-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NATYAK01
+_database_code_depnum_ccdc_archive 'CCDC 735361'
+_chemical_formula_sum 'C8 H9 Cu1 F8 N4 Ta1'
+_chemical_formula_moiety
+;
+(C8 H9 Cu1 F2 N4 1+)n,n(F6 Ta1 1-)
+;
+_journal_coden_Cambridge 989
+_journal_volume 159
+_journal_year 2010
+_journal_page_first 15
+_journal_name_full 'J.Low Temp.Phys. '
+loop_
+_publ_author_name
+"J.L.Manson"
+"J.A.Schlueter"
+"R.D.McDonald"
+"J.Singleton"
+_chemical_name_systematic
+;
+catena-((\m~2~-hydrogen difluoride)-bis(\m~2~-pyrazine)-copper(ii) 
+hexafluorotantalate)
+;
+_cell_volume    330.823
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 2.799
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0299
+_refine_ls_wR_factor_gt 0.0299
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 -x,y,-z
+6 x,-y,-z
+7 y,x,-z
+8 -y,-x,-z
+9 -x,-y,-z
+10 x,y,-z
+11 y,-x,-z
+12 -y,x,-z
+13 x,-y,z
+14 -x,y,z
+15 -y,-x,z
+16 y,x,z
+_cell_length_a 6.8615(1)
+_cell_length_b 6.8615(1)
+_cell_length_c 7.0268(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.34
+F 0.64
+N 0.68
+Ta 1.62
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.50000 0.50000 0.50000
+F1 F 0.50000 0.50000 0.1632(4)
+H1 H 0.50000 0.50000 0.00000
+N1 N 0.7983(3) 0.50000 0.50000
+C1 C 0.8988(3) 0.50000 0.3378(3)
+H2 H 0.83220 0.50000 0.22260
+Ta1 Ta 0.00000 0.00000 0.00000
+F2 F 0.1941(4) 0.1941(4) 0.00000
+F3 F 0.00000 0.00000 -0.2672(9)
+Cu1* Cu 0.50000 0.50000 -0.50000
+Cu1** Cu 1.50000 0.50000 0.50000
+Cu1*** Cu -0.50000 0.50000 0.50000
+F1D F 0.50000 0.50000 -0.1632(4)
+F1D* F 0.50000 0.50000 0.8368(4)
+N1A N 1.2017(3) 0.50000 0.50000
+N1A* N 0.2017(3) 0.50000 0.50000
+N1* N -0.2017(3) 0.50000 0.50000
+N1B N 0.5000(3) 0.79830 0.50000
+N1C N 0.5000(3) 0.20170 0.50000
+C1A C 1.1012(3) 0.50000 0.3378(3)
+C1D C 1.1012(3) 0.50000 0.6622(3)
+C1E C 0.8988(3) 0.50000 0.6622(3)
+C1A* C 0.1012(3) 0.50000 0.3378(3)
+C1* C -0.1012(3) 0.50000 0.3378(3)
+C1E* C -0.1012(3) 0.50000 0.6622(3)
+C1D* C 0.1012(3) 0.50000 0.6622(3)
+H2E H 0.83220 0.50000 0.77740
+H2D H 1.16780 0.50000 0.77740
+H2A H 1.16780 0.50000 0.22260
+H2A* H 0.16780 0.50000 0.22260
+H2D* H 0.16780 0.50000 0.77740
+H2E* H -0.16780 0.50000 0.77740
+H2* H -0.16780 0.50000 0.22260
+F2A F -0.1941(4) -0.1941(4) 0.00000
+F2B F -0.1941(4) 0.1941(4) 0.00000
+F2C F 0.1941(4) -0.1941(4) 0.00000
+F3D F 0.00000 0.00000 0.2672(9)
+#END

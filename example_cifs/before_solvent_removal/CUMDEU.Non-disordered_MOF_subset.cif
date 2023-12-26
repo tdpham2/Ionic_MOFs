@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUMDEU
+_audit_creation_date 2010-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUMDEU
+_database_code_depnum_ccdc_archive 'CCDC 761643'
+_chemical_formula_sum 'C8 H24 Ce1 N2 Na1 O10 P2'
+_chemical_formula_moiety
+;
+(Na1 1+)n,n(C8 H16 Ce1 N2 O6 P2 1-),4n(H2 O1)
+;
+_journal_coden_Cambridge 208
+_journal_volume 182
+_journal_year 2009
+_journal_page_first 2769
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"J.P.S.Mowat"
+"J.A.Groves"
+"M.T.Wharmby"
+"S.R.Miller"
+"Yang Li"
+"P.Lightfoot"
+"P.A.Wright"
+_chemical_name_systematic
+;
+catena-(sodium 
+(\m~6~-(2,5-dimethylpiperazine-1,4-diylbis(methylene))-bis(phosphonato))-ceriu
+m tetrahydrate)
+;
+_cell_volume   1801.354
+_exptl_crystal_colour 'grey'
+_exptl_special_details
+;
+powder data
+The paper describes a number of bonds involving the Na atom which have not 
+been represented in the 2D diagram
+;
+_diffrn_ambient_temperature 100
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+C4 and C5 disordered over two sites with occupancies 0.5:0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0857
+_refine_ls_wR_factor_gt 0.0857
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 22.9150(5)
+_cell_length_b 14.28020(32)
+_cell_length_c 5.64514(10)
+_cell_angle_alpha 90
+_cell_angle_beta 102.8006(10)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Ce 1.72
+N 0.68
+Na 0.74
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ce1 Ce -0.50000 0.10305(20) -0.25000
+P1 P -0.41567(26) 0.1322(5) 0.2736(10)
+O1 O -0.4486(5) 0.0381(10) 0.1596(23)
+O2 O -0.4329(5) 0.1998(9) 0.0328(24)
+O3 O -0.4387(5) 0.1619(8) 0.5027(23)
+O4 O -0.1853(13) 0.2693(28) -0.827(7)
+O5 O -0.0858(9) -0.0900(26) -0.230(5)
+C1 C -0.3336(6) 0.103(1) 0.3605(27)
+C2 C -0.2354(6) 0.15288(35) 0.4682(23)
+C3 C -0.2217(7) 0.0919(7) 0.703(4)
+C4 C -0.30456(33) 0.2780(7) 0.3365(21)
+C5? C -0.3527(5) 0.3550(11) -0.663(5)
+N1 N -0.29855(33) 0.1858(6) 0.4799(27)
+O6 O -0.0049(22) 0.092(4) 0.026(7)
+Na1 Na -0.50000 0.3304(10) -0.75000
+Ce1D Ce -0.50000 -0.10305(20) 0.25000
+Ce1* Ce -0.50000 0.10305(20) 0.75000
+Ce1F Ce 0.00000 0.39695(20) 1.25000
+Ce1B Ce 0.00000 0.60305(20) 0.75000
+Ce1F* Ce 0.00000 0.39695(20) 0.25000
+P1F P -0.08433(26) 0.3678(5) 0.7264(10)
+O1F O -0.0514(5) 0.4619(10) 0.8404(23)
+O1D O -0.5514(5) -0.0381(10) -0.1596(23)
+O1A O -0.5514(5) 0.0381(10) -0.6596(23)
+O1E O -0.4486(5) -0.0381(10) -0.3404(23)
+O2F O -0.0671(5) 0.3002(9) 0.9672(24)
+O2A O -0.5671(5) 0.1998(9) -0.5328(24)
+O3F O -0.0613(5) 0.3381(8) 0.4973(23)
+O3* O -0.4387(5) 0.1619(8) -0.4973(23)
+O3A O -0.5613(5) 0.1619(8) -0.0027(23)
+C1F C -0.1664(6) 0.397(1) 0.6395(27)
+C2F C -0.2646(6) 0.34712(35) 0.5318(23)
+C3F C -0.2783(7) 0.4081(7) 0.297(4)
+C4F C -0.19544(33) 0.2220(7) 0.6635(21)
+N1F N -0.20145(33) 0.3142(6) 0.5201(27)
+#END

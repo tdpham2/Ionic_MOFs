@@ -1,0 +1,166 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NUDNUW04
+_audit_creation_date 2013-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NUDNUW04
+_database_code_depnum_ccdc_archive 'CCDC 945083'
+_chemical_formula_sum 'C8 H14 Fe2 N1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Fe2 O12 1-)n,n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 4
+_journal_volume 134
+_journal_year 2012
+_journal_page_first 19772
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"L.Canadillas-Delgado"
+"O.Fabelo"
+"J.Alberto Rodriguez-Velamazan"
+"M.-H.Lemee-Cailleau"
+"S.A.Mason"
+"E.Pardo"
+"F.Lloret"
+"Jiong-Peng Zhao"
+"Xian-He Bu"
+"V.Simonet"
+"C.V.Colin"
+"J.Rodriguez-Carvajal"
+_chemical_name_systematic
+;
+catena-[hexakis(\m~2~-Formato)-iron(ii)-iron(iii)]
+;
+_cell_volume    819.782
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.733
+_exptl_special_details
+;
+P-31c trigonal polymorph
+Undergoes a phase-transition around 155 K
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 220
+_diffrn_radiation_probe 'neutron'
+_diffrn_special_details
+;
+Laue data
+
+;
+_refine_special_details
+;
+N1 disordered by symmetry over three sites with occupancy 0.33.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.18
+_refine_ls_wR_factor_gt 0.18
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -y,-x,1/2-z
+4 -x+y,-x,z
+5 x,x-y,1/2-z
+6 -x+y,y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 y,x,-1/2+z
+10 x-y,x,-z
+11 -x,-x+y,-1/2+z
+12 x-y,-y,-1/2+z
+_cell_length_a 8.2550(12)
+_cell_length_b 8.2550(12)
+_cell_length_c 13.891(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.66670 0.33330 0.25000
+Fe2 Fe 1.00000 0.00000 0.00000
+O1 O 0.8865(5) 0.3422(6) 0.1668(4)
+O2 O 1.0123(5) 0.2065(5) 0.0817(3)
+C1 C 0.8752(4) 0.2114(5) 0.1182(3)
+H1 H 0.7374(13) 0.0914(18) 0.1048(14)
+C2 C 0.33330 0.66670 0.156(3)
+N1 N 0.2796(12) 0.559(2) 0.25000
+H2 H 0.327(11) 0.480(8) 0.260(8)
+H3 H 0.468(6) 0.732(7) 0.129(6)
+O1A O 0.6578(5) -0.4557(6) 0.1668(4)
+O2A O 0.7935(5) -0.1942(5) 0.0817(3)
+C1A C 0.7886(4) -0.3362(5) 0.1182(3)
+H1A H 0.9086(13) -0.3540(18) 0.1048(14)
+O1A* O 0.6578(5) 0.5443(6) 0.1668(4)
+O2A* O 0.7935(5) 0.8058(5) 0.0817(3)
+C1A* C 0.7886(4) 0.6638(5) 0.1182(3)
+H1A* H 0.9086(13) 0.6460(18) 0.1048(14)
+O1B O 0.6578(5) 0.1135(6) 0.3332(4)
+O2B O 0.7935(5) -0.0123(5) 0.4183(3)
+C1B C 0.7886(4) 0.1248(5) 0.3818(3)
+H1B H 0.9086(13) 0.2626(18) 0.3952(14)
+O1C O 0.4557(5) 0.1135(6) 0.1668(4)
+O2C O 0.1942(5) -0.0123(5) 0.0817(3)
+C1C C 0.3362(4) 0.1248(5) 0.1182(3)
+H1C H 0.3540(13) 0.2626(18) 0.1048(14)
+O1C* O 1.4557(5) 0.1135(6) 0.1668(4)
+O2C* O 1.1942(5) -0.0123(5) 0.0817(3)
+C1C* C 1.3362(4) 0.1248(5) 0.1182(3)
+H1C* H 1.3540(13) 0.2626(18) 0.1048(14)
+Fe1* Fe 0.66670 -0.66670 0.25000
+Fe1** Fe 1.66670 0.33330 0.25000
+Fe2* Fe 0.00000 0.00000 0.00000
+Fe2** Fe 1.00000 1.00000 0.00000
+Fe2B Fe 1.00000 0.00000 0.50000
+O1D O 0.8865(5) 0.5443(6) 0.3332(4)
+O1E O 0.4557(5) 0.3422(6) 0.3332(4)
+O2F O 0.9877(5) -0.2065(5) -0.0817(3)
+O2G O 1.2065(5) 0.1942(5) -0.0817(3)
+O2I O 0.8058(5) 0.0123(5) -0.0817(3)
+N1A N 0.4410(12) 0.7206(20) 0.25000
+H2A H 0.520(11) 0.847(8) 0.260(8)
+H3A H 0.268(6) 0.736(7) 0.129(6)
+C2B C 0.33330 0.66670 0.344(3)
+H2B H 0.520(11) 0.673(8) 0.240(8)
+H3B H 0.268(6) 0.532(7) 0.371(6)
+N1C N 0.2794(12) 0.7204(20) 0.25000
+H2C H 0.153(11) 0.673(8) 0.260(8)
+H3C H 0.264(6) 0.532(7) 0.129(6)
+H2D H 0.327(11) 0.847(8) 0.240(8)
+H3D H 0.468(6) 0.736(7) 0.371(6)
+H2E H 0.153(11) 0.480(8) 0.240(8)
+H3E H 0.264(6) 0.732(7) 0.371(6)
+#END

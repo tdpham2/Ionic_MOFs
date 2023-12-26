@@ -1,0 +1,204 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OHAYEC
+_audit_creation_date 2010-07-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OHAYEC
+_database_code_depnum_ccdc_archive 'CCDC 731443'
+_chemical_formula_sum 'C18 H42 Cu4 N18 O16'
+_chemical_formula_moiety
+;
+(C1 H6 N3 1+)2n,n(C8 H15 Cu2 N6 O8 1-),n(C8 H15 Cu2 N6 O8 1-)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 11
+_journal_year 2009
+_journal_page_first 2601
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"S.A.Moggach"
+"K.W.Galloway"
+"A.R.Lennie"
+"P.Parois"
+"N.Rowantree"
+"E.K.Brechin"
+"J.E.Warren"
+"M.Murrie"
+"S.Parsons"
+_chemical_name_systematic
+;
+catena-(bis(Guanidinium) 
+(\m~4~-citrato)-(\m~2~-hydroxo)-bis(guanidine)-di-copper(ii) 
+(\m~3~-citrato)-(\m~2~-hydroxo)-bis(guanidine)-di-copper(ii))
+;
+_cell_volume   3030.570
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 2.237
+_exptl_special_details
+;
+phase transitions at 2.9 GPa and 4.2 GPa
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 4230000.0
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_diffrn_special_details
+;
+twinned
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0722
+_refine_ls_wR_factor_gt 0.0722
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 16.3031(13)
+_cell_length_b 11.9204(5)
+_cell_length_c 17.1330(8)
+_cell_angle_alpha 90
+_cell_angle_beta 114.469(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+Cu 1.50
+N 0.68
+O 0.82
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.58836(16) 0.36697(9) 0.68739(11)
+Cu2 Cu 0.58960(17) 0.12764(9) 0.69549(11)
+C1 C 0.4386(6) 0.2467(5) 0.6879(4)
+C2 C 0.3971(9) 0.3527(6) 0.7058(7)
+C3 C 0.4142(7) 0.4580(5) 0.6657(7)
+C4 C 0.4075(6) 0.2363(8) 0.5903(4)
+C5 C 0.6315(7) 0.5504(7) 0.5953(6)
+C6 C 0.4036(9) 0.1453(6) 0.7203(6)
+C7 C 0.4114(7) 0.0384(6) 0.6778(7)
+C8 C 0.6431(7) -0.0760(6) 0.6313(6)
+N1 N 0.6576(8) 0.4792(6) 0.6591(6)
+N2 N 0.5500(8) 0.5962(6) 0.5634(6)
+N3 N 0.6884(8) 0.5780(6) 0.5600(6)
+N4 N 0.6630(9) 0.0093(6) 0.6824(6)
+N5 N 0.5622(8) -0.0846(6) 0.5673(6)
+N6 N 0.7021(8) -0.1576(6) 0.6449(6)
+O1 O 0.5333(6) 0.2499(5) 0.7265(4)
+O2 O 0.4831(7) 0.4628(4) 0.6493(5)
+O3 O 0.3651(7) 0.5404(5) 0.6571(5)
+O4 O 0.4665(7) 0.2444(5) 0.5616(5)
+O5 O 0.3256(7) 0.2164(5) 0.5473(5)
+O6 O 0.6688(8) 0.2454(5) 0.6918(6)
+O7 O 0.4784(7) 0.0281(5) 0.6581(5)
+O8 O 0.3549(7) -0.0359(5) 0.6644(5)
+H1 H 0.71710 0.48380 0.69680
+H2 H 0.71990 0.01440 0.71710
+H3 H 0.53520 0.64210 0.52040
+H4 H 0.51230 0.57930 0.58630
+H5 H 0.74230 0.54850 0.57910
+H6 H 0.66980 0.62420 0.51600
+H7 H 0.75690 -0.15170 0.68740
+H8 H 0.68880 -0.21730 0.61200
+H9 H 0.54940 -0.14420 0.53320
+H10 H 0.52150 -0.03350 0.55970
+H11 H 0.42260 0.36380 0.76860
+H12 H 0.33140 0.34110 0.68350
+H13 H 0.43830 0.13860 0.78280
+H14 H 0.33890 0.15890 0.70750
+H15 H 0.71680 0.26880 0.73070
+Cu3 Cu 0.07684(18) 0.37646(10) 0.39640(12)
+Cu4 Cu 0.08331(18) 0.14835(10) 0.35909(12)
+C9 C -0.0740(6) 0.2657(5) 0.2656(4)
+C10 C -0.1260(8) 0.3750(6) 0.2343(5)
+C11 C -0.0990(7) 0.4721(6) 0.2972(5)
+C12 C -0.0958(6) 0.2157(7) 0.3386(5)
+C13 C 0.1316(7) 0.5670(6) 0.5234(6)
+C14 C -0.1051(8) 0.1832(6) 0.1914(5)
+C15 C -0.0835(6) 0.0642(5) 0.2208(5)
+C16 C 0.1304(8) -0.0499(7) 0.4692(7)
+N7 N 0.1449(10) 0.4664(6) 0.4977(6)
+N8 N 0.0548(8) 0.6226(6) 0.4790(6)
+N9 N 0.1972(8) 0.6152(6) 0.5910(6)
+N10 N 0.1565(10) 0.0338(6) 0.4347(7)
+N11 N 0.0427(9) -0.0688(7) 0.4456(7)
+N12 N 0.1908(9) -0.1136(7) 0.5309(6)
+O9 O 0.0202(7) 0.2829(4) 0.2973(5)
+O10 O -0.0286(7) 0.4654(5) 0.3677(5)
+O11 O -0.1445(8) 0.5598(5) 0.2783(5)
+O12 O -0.0326(7) 0.2029(5) 0.4120(5)
+O13 O -0.1737(7) 0.1789(5) 0.3198(5)
+O14 O 0.1647(11) 0.2647(6) 0.4145(8)
+O15 O -0.0103(7) 0.0427(4) 0.2870(5)
+O16 O -0.1400(7) -0.0106(4) 0.1848(5)
+H16 H 0.19340 0.43200 0.53420
+H17 H 0.21320 0.03750 0.44740
+H18 H 0.04640 0.69000 0.49590
+H19 H 0.01260 0.59270 0.43280
+H20 H 0.18890 0.68210 0.60770
+H21 H 0.24860 0.57980 0.61800
+H22 H 0.17130 -0.16950 0.55280
+H23 H 0.24750 -0.09980 0.54820
+H24 H 0.02350 -0.12480 0.46810
+H25 H 0.00090 -0.02550 0.40670
+H26 H -0.19080 0.35980 0.21840
+H27 H -0.11770 0.39910 0.18290
+H28 H -0.17160 0.18990 0.15840
+H29 H -0.07500 0.20180 0.15350
+H30 H 0.21470 0.24940 0.45460
+C17 C 0.3639(11) 0.7712(6) 0.5175(5)
+N13 N 0.3928(10) 0.7586(6) 0.6006(6)
+N14 N 0.3565(11) 0.8703(6) 0.4844(7)
+N15 N 0.3346(10) 0.6836(7) 0.4673(6)
+H31 H 0.40820 0.81700 0.63490
+H32 H 0.39720 0.69040 0.62290
+H33 H 0.37210 0.92970 0.51810
+H34 H 0.33730 0.87820 0.42870
+H35 H 0.33470 0.61680 0.48950
+H36 H 0.31480 0.69130 0.41140
+C18 C -0.1548(13) 0.8220(6) 0.3477(10)
+N16 N -0.1771(12) 0.9279(7) 0.3482(8)
+N17 N -0.1666(13) 0.7513(7) 0.3993(9)
+N18 N -0.1075(12) 0.7929(6) 0.3053(9)
+H37 H -0.19910 0.95170 0.38390
+H38 H -0.16840 0.97580 0.31270
+H39 H -0.18890 0.77480 0.43530
+H40 H -0.15170 0.68100 0.39890
+H41 H -0.09090 0.84430 0.27830
+H42 H -0.09250 0.72260 0.30490
+Cu1A Cu 0.41164(16) -0.13303(9) 0.81261(11)
+Cu2A Cu 0.41040(17) 0.62764(9) 0.80451(11)
+O3A O 0.6349(7) 0.0404(5) 0.8429(5)
+O8A O 0.6451(7) 0.4641(5) 0.8356(5)
+Cu3A Cu -0.07684(18) -0.12354(10) 0.10360(12)
+O16A O 0.1400(7) 0.4894(4) 0.3152(5)
+#END

@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOZYAN
+_audit_creation_date 2010-03-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOZYAN
+_database_code_depnum_ccdc_archive 'CCDC 737122'
+_chemical_formula_sum 'C4 H16 B1 N1 O12 Sr1'
+_chemical_formula_moiety
+;
+(C4 H8 B1 O10 Sr1 1-)n,n(H4 N1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 48
+_journal_year 2009
+_journal_page_first 4806
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Xiaoyun Fan"
+"Shilie Pan"
+"Xueling Hou"
+"Gang Liu"
+"Jide Wang"
+_chemical_name_systematic
+;
+catena-(Ammonium (\m~3~-L-(+)-dihydrogen tartratoborato)-diaqua-strontium 
+dihydrate)
+;
+_cell_volume    301.340
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.031
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a 6.4633(10)
+_cell_length_b 7.0452(13)
+_cell_length_c 7.0745(12)
+_cell_angle_alpha 85.351(5)
+_cell_angle_beta 77.678(5)
+_cell_angle_gamma 73.276(4)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+N 0.68
+O 0.68
+Sr 1.83
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sr1 Sr 0.86550 0.22330 0.48860
+O1 O 0.7047(12) 0.2616(12) 0.8841(12)
+O2 O 1.1008(8) 0.0577(7) 0.1680(8)
+O3 O 0.7318(7) 0.4875(7) 0.2212(8)
+O4 O 0.5132(7) 0.7905(7) 0.1841(7)
+O5 O 0.4430(7) 0.4085(7) 0.5420(7)
+O6 O 0.2029(7) 0.3835(6) 0.3438(7)
+O7 O -0.0609(7) 0.8510(7) 0.5795(7)
+O8 O -0.1531(7) 0.5663(7) 0.6182(8)
+O9 O 0.5582(7) 0.1254(7) 0.3500(8)
+O10 O 0.2374(7) 0.1577(8) 0.6106(8)
+N1 N 0.4426(10) 0.7986(12) 0.8021(9)
+O11 O 0.9170(9) 0.8321(9) 0.9776(8)
+O12 O 0.1900(11) 0.4134(11) 0.9383(10)
+C1 C 0.5596(10) 0.6194(10) 0.2695(10)
+C2 C 0.3843(10) 0.5903(9) 0.4415(10)
+H1 H 0.35020 0.69880 0.53150
+C3 C 0.1702(10) 0.5861(9) 0.3799(10)
+H2 H 0.15740 0.66320 0.25920
+C4 C -0.0314(10) 0.6743(10) 0.5356(10)
+B1 B 0.3635(14) 0.2585(11) 0.4609(13)
+H3 H 0.571(19) 0.742(17) 0.748(17)
+H4 H 0.258(16) 0.093(17) 0.514(16)
+H5 H 0.693(15) 0.204(14) 0.942(14)
+H6 H 0.559(18) -0.01(2) 0.370(17)
+H7 H 0.770(16) 0.840(16) 1.000(15)
+Sr1* Sr -0.13450 0.22330 0.48860
+Sr1** Sr -0.13450 1.22330 0.48860
+O6* O 1.2029(7) 0.3835(6) 0.3438(7)
+O7* O 0.9391(7) -0.1490(7) 0.5795(7)
+O8* O 0.8469(7) 0.5663(7) 0.6182(8)
+O10* O 1.2374(7) 0.1577(8) 0.6106(8)
+H4* H 1.258(16) 0.093(17) 0.514(16)
+#END

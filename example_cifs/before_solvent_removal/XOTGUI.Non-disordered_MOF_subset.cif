@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOTGUI
+_audit_creation_date 2002-10-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOTGUI
+_database_code_depnum_ccdc_archive 'CCDC 193274'
+_chemical_formula_sum 'C16 H30 N4 Nd2 O22'
+_chemical_formula_moiety
+;
+(C3 H12 N2 2+)2n,n(C10 H2 Nd2 O20 4-),2n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 41
+_journal_year 2002
+_journal_page_first 4496
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"R.Vaidhyanathan"
+"S.Natarajan"
+"C.N.R.Rao"
+_chemical_name_systematic
+;
+catena-(bis(Propane-1,2-diammonium) 
+tetrakis(\m~2~-oxalato)-bis(formato)-di-neodymium dihydrate)
+;
+_cell_volume   1367.561
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+The density is given as 2.080 in the paper
+
+;
+_exptl_crystal_description 'rod'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The terminal carbonyl oxygen from the formate group is disordered and was not 
+included in the refinement, we have calculated approximate coordinates for 
+this atom (O10). The ammonium cation is also disordered and the atom N10 lies 
+close to the formate group and has been suppressed.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0229
+_refine_ls_wR_factor_gt 0.0229
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.0279(4)
+_cell_length_b 18.1362(8)
+_cell_length_c 8.5631(4)
+_cell_angle_alpha 90
+_cell_angle_beta 102.735(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+Nd 1.81
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nd1 Nd 0.26854(3) 0.119235(14) 0.06426(3)
+O1 O 0.4879(4) 0.0409(2) 0.1806(4)
+O2 O 0.4164(4) 0.1866(2) 0.3027(4)
+O3 O 0.1476(4) 0.3255(2) 0.3028(4)
+O4 O 0.1433(4) 0.2324(2) 0.1346(5)
+O5 O 0.4207(4) 0.2814(2) 0.4712(5)
+O6 O 0.1899(4) -0.0129(2) -0.0041(5)
+O7 O 0.0099(4) -0.0960(2) -0.0038(5)
+O8 O 0.5969(4) -0.0647(2) 0.1357(4)
+O9 O 0.2022(5) 0.0627(3) 0.3077(5)
+C1 C 0.2036(6) 0.2690(3) 0.2536(6)
+C2 C 0.3621(6) 0.2430(3) 0.3512(6)
+C3 C 0.5249(6) -0.0070(3) 0.0913(6)
+C4 C 0.0574(6) -0.0313(3) -0.0027(6)
+C5 C 0.2723(8) 0.0537(4) 0.4485(8)
+O10 O -0.2705(6) 0.1904(3) -0.0208(7)
+N1? N 0.2946(10) -0.0100(4) 0.5197(7)
+C6 C 0.3087(15) -0.0752(7) 0.4168(17)
+C7? C 0.1789(16) -0.0742(7) 0.4693(14)
+C8 C 0.1637(19) -0.1187(8) 0.4248(15)
+C9? C 0.2629(17) -0.1205(7) 0.3663(20)
+N2 N 0.1659(7) -0.1864(3) 0.3168(9)
+C10 C 0.1365(11) -0.1259(5) 0.5976(10)
+O11 O 0.32000 0.11000 0.52000
+C3B C 0.4751(6) 0.0070(3) -0.0913(6)
+O1B O 0.5121(4) -0.0409(2) -0.1806(4)
+O8B O 0.4031(4) 0.0647(2) -0.1357(4)
+C4B C -0.0574(6) 0.0313(3) 0.0027(6)
+O6B O -0.1899(4) 0.0129(2) 0.0041(5)
+O7B O -0.0099(4) 0.0960(2) 0.0038(5)
+O2A O 0.4164(4) 0.3134(2) -0.1973(4)
+O3A O 0.1476(4) 0.1745(2) -0.1972(4)
+O4A O 0.1433(4) 0.2676(2) -0.3654(5)
+O5A O 0.4207(4) 0.2186(2) -0.0288(5)
+C1A C 0.2036(6) 0.2310(3) -0.2464(6)
+C2A C 0.3621(6) 0.2570(3) -0.1488(6)
+Nd1B Nd 0.73146(3) -0.119235(14) -0.06426(3)
+O9B O 0.7978(5) -0.0627(3) -0.3077(5)
+C5B C 0.7277(8) -0.0537(4) -0.4485(8)
+O11B O 0.68000 -0.11000 -0.52000
+Nd1A Nd 0.26854(3) 0.380765(14) 0.56426(3)
+Nd1B* Nd -0.26854(3) -0.119235(14) -0.06426(3)
+Nd1A* Nd 0.26854(3) 0.380765(14) -0.43574(3)
+O2B O 0.5836(4) -0.1866(2) -0.3027(4)
+O3C O 0.8524(4) -0.1745(2) 0.1972(4)
+O4B O 0.8567(4) -0.2324(2) -0.1346(5)
+O5C O 0.5793(4) -0.2186(2) 0.0288(5)
+O6B* O 0.8101(4) 0.0129(2) 0.0041(5)
+O7* O 1.0099(4) -0.0960(2) -0.0038(5)
+#END

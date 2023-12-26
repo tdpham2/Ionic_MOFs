@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAHMUT
+_audit_creation_date 1984-04-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAHMUT
+_database_code_depnum_ccdc_archive 'CCDC 1119378'
+_chemical_formula_sum 'C3 H3 Cd1 K1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cd1 O6 1-)n,n(K1 1+)
+;
+_journal_coden_Cambridge 367
+_journal_volume 9
+_journal_year 1983
+_journal_page_first 855
+_journal_name_full 'Koord.Khim.(Russ.)(Coord.Chem.) '
+loop_
+_publ_author_name
+"A.S.Antsyshkina"
+"M.A.Porai-Koshits"
+"V.N.Ostrikova"
+"G.G.Sadikov"
+_chemical_name_systematic
+;
+catena-[Potassium tris(\m~2~-formato)-cadmium]
+;
+_cell_volume    657.138
+_exptl_special_details
+;
+Cd1-O2 bond distance should be 2.22, not 2.27; Cd1-O3 bond distance should be 
+2.13, not 2.31
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.07
+_refine_ls_wR_factor_gt 0.07
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.059(3)
+_cell_length_b 9.171(2)
+_cell_length_c 7.145(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.46(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cd 1.69
+K 1.33
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.75000 0.25000 0.50000
+O1 O 0.75710 0.03060 0.34570
+O2 O 0.83510 0.32220 0.23690
+O3 O 0.55610 0.31290 0.38510
+C1 C 0.68420 -0.07010 0.37010
+C2 C 0.50000 0.24840 0.25000
+K1 K 0.00000 0.09920 0.25000
+O1E O 0.74290 0.46940 0.65430
+O2E O 0.66490 0.17780 0.76310
+O3E O 0.94390 0.18710 0.61490
+C1C C 0.81580 0.42990 0.12990
+O2C O 0.66490 -0.17780 0.26310
+O3B O 0.44390 0.31290 0.11490
+O1C O 0.74290 0.53060 0.15430
+Cd1B Cd 0.25000 0.25000 0.00000
+Cd1C Cd 0.75000 -0.25000 0.00000
+Cd1C* Cd 0.75000 0.75000 0.00000
+#END

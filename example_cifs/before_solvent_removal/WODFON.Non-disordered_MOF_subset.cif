@@ -1,0 +1,203 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WODFON
+_audit_creation_date 2019-02-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WODFON
+_database_code_depnum_ccdc_archive 'CCDC 1884107'
+_chemical_formula_sum 'C11 H16 In1 N1 O10'
+_chemical_formula_moiety
+;
+(C4 In1 O8 1-)n,n(C7 H16 N1 O2 1+)
+;
+_journal_coden_Cambridge 179
+_journal_volume 58
+_journal_year 2019
+_journal_page_first 2889
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"Fei-Yan Yi"
+"Huajun Yang"
+"Xiang Zhao"
+"Pingyun Feng"
+"Xianhui Bu"
+_chemical_name_systematic
+;
+catena-(acetylcholinium bis(\m-oxalato)-indium unknown solvate)
+;
+_chemical_name_common
+;
+CPM-519-RHO
+;
+_cell_volume  22701.246
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+We have assumed that the cation is the tempating acetylcholine
+
+;
+_exptl_crystal_description 'polyhedron'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The cation and some guest molecules were taken into account using 
+PLATON/SQUEEZE.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0228
+_refine_ls_wR_factor_gt 0.0228
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'I m -3 m'
+_symmetry_Int_Tables_number 229
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 1/2+x,1/2+y,1/2+z
+26 1/2-x,1/2-y,1/2+z
+27 1/2-x,1/2+y,1/2-z
+28 1/2+x,1/2-y,1/2-z
+29 1/2+z,1/2+x,1/2+y
+30 1/2+z,1/2-x,1/2-y
+31 1/2-z,1/2-x,1/2+y
+32 1/2-z,1/2+x,1/2-y
+33 1/2+y,1/2+z,1/2+x
+34 1/2-y,1/2+z,1/2-x
+35 1/2+y,1/2-z,1/2-x
+36 1/2-y,1/2-z,1/2+x
+37 1/2+y,1/2+x,1/2-z
+38 1/2-y,1/2-x,1/2-z
+39 1/2+y,1/2-x,1/2+z
+40 1/2-y,1/2+x,1/2+z
+41 1/2+x,1/2+z,1/2-y
+42 1/2-x,1/2+z,1/2+y
+43 1/2-x,1/2-z,1/2-y
+44 1/2+x,1/2-z,1/2+y
+45 1/2+z,1/2+y,1/2-x
+46 1/2+z,1/2-y,1/2+x
+47 1/2-z,1/2+y,1/2+x
+48 1/2-z,1/2-y,1/2-x
+49 -x,-y,-z
+50 x,y,-z
+51 x,-y,z
+52 -x,y,z
+53 -z,-x,-y
+54 -z,x,y
+55 z,x,-y
+56 z,-x,y
+57 -y,-z,-x
+58 y,-z,x
+59 -y,z,x
+60 y,z,-x
+61 -y,-x,z
+62 y,x,z
+63 -y,x,-z
+64 y,-x,-z
+65 -x,-z,y
+66 x,-z,-y
+67 x,z,y
+68 -x,z,-y
+69 -z,-y,x
+70 -z,y,-x
+71 z,-y,-x
+72 z,y,x
+73 -1/2-x,-1/2-y,-1/2-z
+74 -1/2+x,-1/2+y,-1/2-z
+75 -1/2+x,-1/2-y,-1/2+z
+76 -1/2-x,-1/2+y,-1/2+z
+77 -1/2-z,-1/2-x,-1/2-y
+78 -1/2-z,-1/2+x,-1/2+y
+79 -1/2+z,-1/2+x,-1/2-y
+80 -1/2+z,-1/2-x,-1/2+y
+81 -1/2-y,-1/2-z,-1/2-x
+82 -1/2+y,-1/2-z,-1/2+x
+83 -1/2-y,-1/2+z,-1/2+x
+84 -1/2+y,-1/2+z,-1/2-x
+85 -1/2-y,-1/2-x,-1/2+z
+86 -1/2+y,-1/2+x,-1/2+z
+87 -1/2-y,-1/2+x,-1/2-z
+88 -1/2+y,-1/2-x,-1/2-z
+89 -1/2-x,-1/2-z,-1/2+y
+90 -1/2+x,-1/2-z,-1/2-y
+91 -1/2+x,-1/2+z,-1/2+y
+92 -1/2-x,-1/2+z,-1/2-y
+93 -1/2-z,-1/2-y,-1/2+x
+94 -1/2-z,-1/2+y,-1/2-x
+95 -1/2+z,-1/2-y,-1/2-x
+96 -1/2+z,-1/2+y,-1/2+x
+_cell_length_a 28.315(9)
+_cell_length_b 28.315(9)
+_cell_length_c 28.315(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 48
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+In 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.75000 0.10443(2) 0.60443(2)
+C1 C 0.80088(12) 0.19912(12) 0.59848(17)
+C2 C 0.83369(13) 0.16631(13) 0.62779(16)
+C3 C 0.72486(17) 0.11137(16) 0.50000
+C4 C 0.77797(19) 0.10251(17) 0.50000
+O1 O 0.76099(8) 0.18282(8) 0.58840(8)
+O2 O 0.81785(8) 0.12669(8) 0.63877(8)
+O3 O 0.70532(7) 0.11458(8) 0.53917(8)
+O4 O 0.79792(7) 0.09922(8) 0.53965(8)
+O1HB O 0.81718(8) 0.23901(8) 0.58840(8)
+O2HB O 0.87331(8) 0.18215(8) 0.63877(8)
+O3WA O 0.70532(7) 0.11458(8) 0.46083(8)
+O4WA O 0.79792(7) 0.09922(8) 0.46035(8)
+In1WA In 0.75000 0.10443(2) 0.39557(2)
+In1HB In 0.89557 0.25000(2) 0.60443(2)
+O1OA O 0.73901(8) 0.08840(8) 0.68282(8)
+O2OA O 0.68215(8) 0.13877(8) 0.62669(8)
+O3OA O 0.79468(7) 0.03917(8) 0.61458(8)
+O4OA O 0.70208(7) 0.03965(8) 0.59922(8)
+#END

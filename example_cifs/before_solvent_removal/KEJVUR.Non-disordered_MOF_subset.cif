@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KEJVUR
+_audit_creation_date 2006-09-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KEJVUR
+_database_code_depnum_ccdc_archive 'CCDC 289213'
+_chemical_formula_sum 'C3 H9 Co1 N7 O2'
+_chemical_formula_moiety
+;
+(C2 H8 N1 1+)n,n(C1 H1 Co1 N6 O2 1-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 45
+_journal_year 2006
+_journal_page_first 2782
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Tao Liu"
+"Yanjuan Zhang"
+"Zheming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-(Dimethylammonium bis(\m~2~-azido)-(\m~2~-formato)-cobalt)
+;
+_cell_volume    891.836
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.744
+_exptl_crystal_description 'thin column'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0346
+_refine_ls_wR_factor_gt 0.0346
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.0878(5)
+_cell_length_b 13.8377(5)
+_cell_length_c 6.4100(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.6525(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co -0.25004(3) 0.24932(3) 0.02389(4)
+O1 O -0.2490(2) 0.10229(14) 0.4505(3)
+O2 O -0.2474(2) 0.10147(13) 0.0985(3)
+N1 N -0.3869(3) 0.27023(18) 0.2571(3)
+N2 N -0.4949(3) 0.30374(19) 0.2425(3)
+N3 N -0.6017(4) 0.3343(3) 0.2266(5)
+N4 N -0.1134(3) 0.22523(16) -0.2094(3)
+N5 N -0.0345(3) 0.1611(2) -0.1992(4)
+N6 N 0.0405(3) 0.0982(3) -0.1851(5)
+C1 C -0.2507(3) 0.0624(2) 0.2735(4)
+H1 H -0.25510 -0.00480 0.27330
+N7 N -0.2386(3) 0.5382(2) 0.2644(3)
+H2 H -0.23450 0.49070 0.16900
+H3 H -0.20500 0.51470 0.38860
+C2 C -0.1545(4) 0.6198(3) 0.2045(6)
+H4 H -0.18660 0.64320 0.06880
+H5 H -0.06430 0.59820 0.20070
+H6 H -0.15800 0.67080 0.30530
+C3 C -0.3784(4) 0.5641(3) 0.2802(5)
+H7 H -0.38450 0.61060 0.39010
+H8 H -0.42790 0.50730 0.31090
+H9 H -0.41440 0.59130 0.14990
+Co1C Co -0.25004(3) 0.25068(3) -0.47611(4)
+Co1C* Co -0.25004(3) 0.25068(3) 0.52389(4)
+O1C O -0.2490(2) 0.39771(14) -0.0495(3)
+N1C N -0.3869(3) 0.22977(18) -0.2429(3)
+N4C N -0.1134(3) 0.27477(16) 0.2906(3)
+#END

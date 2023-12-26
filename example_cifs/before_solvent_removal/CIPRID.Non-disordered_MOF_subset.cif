@@ -1,0 +1,190 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIPRID
+_audit_creation_date 2008-01-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIPRID
+_database_code_depnum_ccdc_archive 'CCDC 608933'
+_chemical_formula_sum 'C40 H79 La2 N12 Ni4 O37 S4'
+_chemical_formula_moiety
+;
+(C20 H32 La1 N6 Ni2 O16 S2 3-)n,n(C20 H32 La1 N6 Ni2 O16 S2 2-),5n(H3 O1 1+)
+;
+_journal_coden_Cambridge 1295
+_journal_volume 10
+_journal_year 2007
+_journal_page_first 1181
+_journal_name_full 'Inorg.Chem.Commun. '
+loop_
+_publ_author_name
+"Yan Ouyang"
+"Wei Zhang"
+"Yu-Hua Feng"
+"Gong-Feng Xu"
+"Dai-Zheng Liao"
+"Shi-Ping Yan"
+_chemical_name_systematic
+;
+catena-(pentakis(oxonium) 
+(\m~6~-triethylenetetra-aminehexa-acetato-O)-tetra-aqua-bis(isothiocyanato)-di
+-nickel-lanthanum(iii))
+;
+_cell_volume   3722.129
+_exptl_crystal_density_diffrn 1.747
+_exptl_special_details
+;
+magnetic properties
+isomorphous with the copper analogue
+
+;
+_diffrn_ambient_temperature 294
+_refine_special_details
+;
+An isothiocyanate ligand and water molecule are disordered over two sites 
+with respective occupancies of 0.585:0.415 and 0.202:0.798.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0454
+_refine_ls_wR_factor_gt 0.0454
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c c n'
+_symmetry_Int_Tables_number 56
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,z
+3 -x,1/2+y,1/2-z
+4 1/2+x,-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,y,-1/2+z
+_cell_length_a 15.739(3)
+_cell_length_b 16.611(3)
+_cell_length_c 14.237(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+La 1.87
+N 0.68
+Ni 1.50
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1083(7) 0.4714(7) 0.9882(7)
+O2 O 0.2515(19) 0.511(2) 0.070(3)
+La1 La 0.25000 0.25000 0.89144(3)
+Ni1 Ni 0.44005(5) 0.11599(5) 0.71258(5)
+O3 O 0.3900(2) 0.1913(2) 0.8172(3)
+O4 O 0.4140(3) 0.3093(3) 0.8833(3)
+O5 O 0.3615(3) 0.1666(3) 0.6149(3)
+O6 O 0.3418(3) 0.2784(3) 0.5318(3)
+O7 O 0.5267(3) 0.0683(3) 0.8052(3)
+O8 O 0.6164(4) -0.0355(3) 0.8175(4)
+O9 O 0.2632(3) 0.3963(3) 0.9498(4)
+H1 H 0.26530 0.42960 0.90380
+H2 H 0.22720 0.40720 0.99250
+O10 O 0.2820(3) 0.3335(3) 0.7412(3)
+H3 H 0.24220 0.33460 0.70160
+H4 H 0.30790 0.37670 0.75380
+N1 N 0.5124(3) 0.2188(3) 0.6899(4)
+N2 N 0.5216(3) 0.0601(3) 0.6118(3)
+C1 C 0.4367(4) 0.2529(4) 0.8320(4)
+C2 C 0.5216(4) 0.2563(4) 0.7826(4)
+H5 H 0.53980 0.31180 0.77570
+H6 H 0.56410 0.22780 0.81910
+C3 C 0.4649(4) 0.2714(4) 0.6247(5)
+H7 H 0.50120 0.28380 0.57150
+H8 H 0.45240 0.32170 0.65650
+C4 C 0.3828(4) 0.2364(4) 0.5883(4)
+C5 C 0.5925(4) 0.1903(4) 0.6485(5)
+H9 H 0.62810 0.16670 0.69680
+H10 H 0.62300 0.23510 0.62070
+C6 C 0.5726(4) 0.1273(4) 0.5731(5)
+H11 H 0.54150 0.15260 0.52220
+H12 H 0.62530 0.10640 0.54770
+C7 C 0.5748(4) 0.0016(4) 0.6640(5)
+H13 H 0.63310 0.00670 0.64270
+H14 H 0.55590 -0.05240 0.64890
+C8 C 0.5726(5) 0.0125(4) 0.7702(5)
+C9 C 0.4731(4) 0.0188(4) 0.5382(4)
+H15 H 0.43450 0.05710 0.50960
+H16 H 0.43900 -0.02310 0.56710
+N3 N 0.3655(4) 0.0246(3) 0.7327(5)
+C10 C 0.3413(11) -0.0290(7) 0.7669(13)
+S1 S 0.2972(4) -0.1162(3) 0.8145(9)
+C11? C 0.3271(18) -0.0305(10) 0.723(2)
+S2? S 0.2801(6) -0.1274(5) 0.7205(13)
+O11? O 0.014(3) 0.438(2) 0.971(2)
+La1F La 0.25000 0.25000 0.39144(3)
+La1E La 0.75000 -0.25000 0.10856(3)
+La1B La 0.75000 -0.25000 0.60856(3)
+Ni1D Ni 0.55995(5) -0.11599(5) 0.28742(5)
+O3D O 0.6100(2) -0.1913(2) 0.1828(3)
+O3A O 0.1100(2) 0.3087(2) 0.8172(3)
+O4D O 0.5860(3) -0.3093(3) 0.1167(3)
+O4A O 0.0860(3) 0.1907(3) 0.8833(3)
+O5D O 0.6385(3) -0.1666(3) 0.3851(3)
+O6D O 0.6582(3) -0.2784(3) 0.4682(3)
+O6F O 0.3418(3) 0.2216(3) 1.0318(3)
+O6G O 0.1582(3) 0.2784(3) 1.0318(3)
+O7D O 0.4733(3) -0.0683(3) 0.1948(3)
+O8D O 0.3836(4) 0.0355(3) 0.1825(4)
+O9A O 0.2368(3) 0.1037(3) 0.9498(4)
+H1A H 0.23470 0.07040 0.90380
+H2A H 0.27280 0.09280 0.99250
+O10A O 0.2180(3) 0.1665(3) 0.7412(3)
+H3A H 0.25780 0.16540 0.70160
+H4A H 0.19210 0.12330 0.75380
+N1D N 0.4876(3) -0.2188(3) 0.3101(4)
+N2D N 0.4784(3) -0.0601(3) 0.3882(3)
+C1D C 0.5633(4) -0.2529(4) 0.1680(4)
+C2D C 0.4784(4) -0.2563(4) 0.2174(4)
+H5D H 0.46020 -0.31180 0.22430
+H6D H 0.43590 -0.22780 0.18090
+C3D C 0.5351(4) -0.2714(4) 0.3753(5)
+H7D H 0.49880 -0.28380 0.42850
+H8D H 0.54760 -0.32170 0.34350
+C4D C 0.6172(4) -0.2364(4) 0.4117(4)
+C5D C 0.4075(4) -0.1903(4) 0.3515(5)
+H9D H 0.37190 -0.16670 0.30320
+H10D H 0.37700 -0.23510 0.37930
+C6D C 0.4274(4) -0.1273(4) 0.4269(5)
+H11D H 0.45850 -0.15260 0.47780
+H12D H 0.37470 -0.10640 0.45230
+C7D C 0.4252(4) -0.0016(4) 0.3360(5)
+H13D H 0.36690 -0.00670 0.35730
+H14D H 0.44410 0.05240 0.35110
+C8D C 0.4274(5) -0.0125(4) 0.2298(5)
+C9D C 0.5269(4) -0.0188(4) 0.4618(4)
+H15D H 0.56550 -0.05710 0.49040
+H16D H 0.56100 0.02310 0.43290
+N3D N 0.6345(4) -0.0246(3) 0.2673(5)
+C10D C 0.6587(11) 0.0290(7) 0.2331(13)
+S1D S 0.7028(4) 0.1162(3) 0.1855(9)
+#END

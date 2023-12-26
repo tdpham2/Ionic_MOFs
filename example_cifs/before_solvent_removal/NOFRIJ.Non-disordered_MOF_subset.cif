@@ -1,0 +1,179 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOFRIJ
+_audit_creation_date 1998-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOFRIJ
+_database_code_depnum_ccdc_archive 'CCDC 130002'
+_chemical_formula_sum 'C12 H24 Cu2 I3 K1 O6'
+_chemical_formula_moiety
+;
+(C12 H24 K1 O6 1+)n,n(Cu2 I3 1-)
+;
+_journal_coeditor_code "IUCr SX1046"
+_journal_coden_Cambridge 591
+_journal_volume 54
+_journal_year 1998
+_journal_page_first 597
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"A.K.Nurtaeva"
+"G.Hu"
+"E.M.Holt"
+_chemical_name_systematic
+;
+catena(18-Crown-6-potassium (\m~2~-iodo)-bis(\m~3~-iodo)-di-copper(i))
+;
+_cell_volume   2275.397
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.368
+_exptl_crystal_description 'rod'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The crown ether is disordered, with two conformations having equal 
+occupancies.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.086
+_refine_ls_wR_factor_gt 0.086
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 15.440(7)
+_cell_length_b 17.635(6)
+_cell_length_c 8.422(3)
+_cell_angle_alpha 90
+_cell_angle_beta 97.14(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.38
+I 1.25
+K 1.76
+O 0.69
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.7296(1) 0.5801(1) 1.0741(1)
+I2 I 0.6168(1) 0.7960(1) 1.1440(1)
+I3 I 0.8588(1) 0.7901(1) 0.9745(1)
+Cu1 Cu 0.7730(2) 0.7152(1) 1.1988(3)
+Cu2 Cu 0.6993(2) 0.7101(1) 0.9217(3)
+K1 K 0.7631(2) 0.4078(2) 0.9071(4)
+O1 O 0.9242(13) 0.3482(11) 1.012(3)
+C1 C 0.932(3) 0.336(3) 1.196(5)
+H1 H 0.97240 0.29490 1.21900
+H2 H 0.96030 0.38080 1.24010
+C2 C 0.871(3) 0.324(3) 1.271(5)
+H3 H 0.88210 0.27580 1.32040
+H4 H 0.87610 0.36080 1.35620
+O2 O 0.797(2) 0.3237(13) 1.196(3)
+C3 C 0.718(3) 0.291(2) 1.242(5)
+H5 H 0.72970 0.23920 1.22010
+H6 H 0.71780 0.29520 1.35580
+C4 C 0.647(6) 0.295(5) 1.15(1)
+H7 H 0.61700 0.24830 1.13000
+H8 H 0.61770 0.32440 1.22300
+O3 O 0.623(3) 0.336(2) 1.035(4)
+C5 C 0.551(2) 0.374(2) 1.010(4)
+H9 H 0.50630 0.34510 1.05030
+H10 H 0.55860 0.42160 1.06600
+C6 C 0.5318(15) 0.3875(12) 0.817(2)
+H11 H 0.52070 0.33910 0.76640
+H12 H 0.48040 0.41810 0.79320
+O4 O 0.597(2) 0.4246(13) 0.756(3)
+C7 C 0.576(4) 0.430(2) 0.589(6)
+H13 H 0.57170 0.38360 0.53000
+H14 H 0.52070 0.45640 0.57860
+C8 C 0.648(2) 0.484(2) 0.551(5)
+H15 H 0.63840 0.50450 0.44460
+H16 H 0.65180 0.52520 0.62510
+O5 O 0.728(2) 0.4420(12) 0.575(3)
+C9 C 0.791(7) 0.483(6) 0.56(1)
+H17 H 0.79710 0.46290 0.45850
+H18 H 0.76140 0.53070 0.55120
+C10 C 0.894(3) 0.489(2) 0.628(5)
+H19 H 0.94010 0.49270 0.56030
+H20 H 0.89560 0.53460 0.69110
+O6 O 0.898(2) 0.4361(12) 0.745(3)
+C11 C 0.970(3) 0.395(3) 0.782(5)
+H21 H 0.96860 0.34540 0.73460
+H22 H 1.01880 0.42020 0.74300
+C12 C 0.9956(14) 0.3852(11) 0.9550(2)
+H23 H 1.00930 0.43150 1.01280
+H24 H 1.04550 0.35230 0.96750
+O7? O 0.903(2) 0.335(1) 1.120(2)
+C13? C 0.856(3) 0.282(3) 1.226(6)
+H25? H 0.86300 0.23200 1.18240
+H26? H 0.89140 0.28250 1.32820
+C14? C 0.785(3) 0.285(2) 1.252(5)
+H27? H 0.76310 0.23390 1.24530
+H28? H 0.78710 0.29990 1.36170
+O8? O 0.728(2) 0.327(2) 1.176(3)
+C15? C 0.643(4) 0.321(3) 1.206(7)
+H29? H 0.63320 0.26790 1.21770
+H30? H 0.63240 0.34480 1.30410
+C16? C 0.592(3) 0.338(3) 1.100(5)
+H31? H 0.54450 0.30310 1.09900
+H32? H 0.57210 0.38500 1.14020
+O9? O 0.599(2) 0.350(2) 0.918(4)
+C17? C 0.569(4) 0.393(4) 0.625(8)
+H33? H 0.52720 0.42510 0.56290
+H34? H 0.57080 0.34510 0.57290
+O10? O 0.640(2) 0.435(2) 0.645(3)
+C18? C 0.677(3) 0.456(2) 0.498(5)
+H35? H 0.68840 0.41040 0.44050
+H36? H 0.63420 0.48480 0.43290
+C19? C 0.764(3) 0.498(3) 0.5390(7)
+H37? H 0.78100 0.51650 0.44020
+H38? H 0.75590 0.53980 0.60690
+O11? O 0.822(2) 0.452(2) 0.604(3)
+C20? C 0.899(6) 0.461(5) 0.577(10)
+H39? H 0.90830 0.43760 0.47840
+H40? H 0.90800 0.51490 0.56650
+C21? C 0.955(3) 0.434(2) 0.707(4)
+H41? H 0.96740 0.38260 0.67740
+H42? H 1.00780 0.46190 0.70460
+O12? O 0.937(2) 0.429(1) 0.883(3)
+C22? C 0.970(3) 0.376(2) 1.126(5)
+H43? H 1.01600 0.34580 1.18100
+H44? H 0.96790 0.42370 1.18100
+I2C I 0.6168(1) 0.7040(1) 0.6440(1)
+Cu1C Cu 0.7730(2) 0.7848(1) 0.6988(3)
+I3C I 0.8588(1) 0.7099(1) 1.4745(1)
+Cu2C Cu 0.6993(2) 0.7899(1) 1.4217(3)
+#END

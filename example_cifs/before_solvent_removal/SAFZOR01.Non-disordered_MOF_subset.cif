@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAFZOR01
+_audit_creation_date 2016-01-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAFZOR01
+_database_code_depnum_ccdc_archive 'CCDC 1436539'
+_chemical_formula_sum 'C10 H22 Fe1 N2 Na1 O12'
+_chemical_formula_moiety
+;
+(C6 H6 Fe1 Na1 O12 2-)n,2n(C2 H8 N1 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 45
+_journal_year 2016
+_journal_page_first 2574
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"M.Ptak"
+"M.Maczka"
+"A.Gagor"
+"A.Sieradzki"
+"A.Stroppa"
+"D.Di Sante"
+"J.M.Perez-Mato"
+"L.Macalik"
+_chemical_name_systematic
+;
+catena-[bis(ethylammonium) hexakis(\m-formato)-iron-sodium]
+;
+_cell_volume    922.849
+_exptl_crystal_density_diffrn 1.588
+_exptl_special_details
+;
+high-temperature polymorph
+Second-order phase transition at about 360 K.
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 377
+_refine_special_details
+;
+C6,C7,N1 and C4,C5,N2 disordered over two sites with occupancies 0.582:0.418.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0425
+_refine_ls_wR_factor_gt 0.0425
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.1102(2)
+_cell_length_b 9.3794(4)
+_cell_length_c 12.1341(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.125(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 0.00000 0.50000
+O1 O 0.1187(2) 0.0243(2) 0.35774(16)
+O2 O 0.1994(2) -0.1009(3) 0.56381(17)
+O3 O 0.0916(2) 0.1857(2) 0.55675(17)
+C1 C 0.0634(4) 0.0116(3) 0.2606(2)
+C2 C 0.2725(4) -0.2104(4) 0.5329(3)
+C3 C 0.2191(4) 0.2527(4) 0.5253(3)
+O4 O 0.1397(3) 0.0376(3) 0.17761(17)
+H1 H -0.04460 -0.02020 0.25140
+O5 O 0.3920(3) -0.2676(3) 0.5765(2)
+H2 H 0.23090 -0.25360 0.46920
+O6 O 0.2637(3) 0.3676(3) 0.5608(2)
+H3 H 0.28250 0.21040 0.47130
+Na1 Na 0.00000 0.00000 0.00000
+C4 C 0.5522(10) -0.0222(6) 0.2084(7)
+H4 H 0.67160 -0.01600 0.20920
+H5 H 0.51630 -0.05700 0.13650
+C5 C 0.4982(12) -0.1238(9) 0.2959(8)
+H6 H 0.39330 -0.09410 0.32320
+H7 H 0.57820 -0.12460 0.35530
+H8 H 0.48840 -0.21790 0.26530
+N1 N 0.482(3) 0.1188(8) 0.2276(11)
+H9 H 0.37260 0.11220 0.22920
+H10 H 0.51060 0.17730 0.17350
+H11 H 0.52000 0.15270 0.29170
+C6? C 0.5332(13) -0.0291(8) 0.2838(8)
+H12? H 0.47300 -0.05630 0.34890
+H13? H 0.64970 -0.02630 0.30330
+C7? C 0.5035(18) -0.1368(12) 0.1943(11)
+H14? H 0.47540 -0.22690 0.22650
+H15? H 0.60160 -0.14740 0.15200
+H16? H 0.41450 -0.10530 0.14700
+N2? N 0.479(4) 0.1115(11) 0.2464(14)
+H17? H 0.36920 0.11450 0.24410
+H18? H 0.51730 0.12810 0.17940
+H19? H 0.51720 0.17760 0.29290
+O2B O -0.1994(2) 0.1009(3) 0.43619(17)
+O3B O -0.0916(2) -0.1857(2) 0.44325(17)
+O1B O -0.1187(2) -0.0243(2) 0.64226(16)
+C2B C -0.2725(4) 0.2104(4) 0.4671(3)
+C3B C -0.2191(4) -0.2527(4) 0.4747(3)
+C1B C -0.0634(4) -0.0116(3) 0.7394(2)
+O5B O -0.3920(3) 0.2676(3) 0.4235(2)
+H2B H -0.23090 0.25360 0.53080
+O6B O -0.2637(3) -0.3676(3) 0.4392(2)
+H3B H -0.28250 -0.21040 0.52870
+O4B O -0.1397(3) -0.0376(3) 0.82239(17)
+H1B H 0.04460 0.02020 0.74860
+Na1A Na 0.50000 -0.50000 0.50000
+Na1A* Na 0.50000 0.50000 0.50000
+Na1A** Na -0.50000 0.50000 0.50000
+Na1A*** Na -0.50000 -0.50000 0.50000
+Na1* Na 0.00000 0.00000 1.00000
+O5A O 0.1080(3) 0.2324(3) 0.9235(2)
+O4* O 0.1397(3) 0.0376(3) 1.17761(17)
+O6A O 0.2363(3) -0.1324(3) 0.9392(2)
+O6C O -0.2363(3) 0.1324(3) 1.0608(2)
+O5C O -0.1080(3) -0.2324(3) 1.0765(2)
+#END

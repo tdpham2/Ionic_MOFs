@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MUPKUF02
+_audit_creation_date 2015-10-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MUPKUF02
+_database_code_depnum_ccdc_archive 'CCDC 1420164'
+_chemical_formula_sum 'C4 H9 Cd1 N3 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Cd1 O6 1-)n,n(C1 H6 N3 1+)
+;
+_journal_coden_Cambridge 222
+_journal_volume 45
+_journal_year 2016
+_journal_page_first 4169
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"I.E.Collings"
+"J.A.Hill"
+"A.B.Cairns"
+"R.I.Cooper"
+"A.L.Thompson"
+"J.E.Parker"
+"C.C.Tang"
+"A.L.Goodwin"
+_chemical_name_systematic
+;
+catena-(Guanidinium tris(\m~2~-formato-O,O')-cadmium)
+;
+_cell_volume   1441.781
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.125
+_exptl_crystal_description 'lath'
+_diffrn_ambient_temperature 300
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.019
+_refine_ls_wR_factor_gt 0.019
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3 c'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/3+x,2/3+y,2/3+z
+3 2/3+x,1/3+y,1/3+z
+4 x-y,-y,1/2-z
+5 1/3+x-y,2/3-y,1/6-z
+6 2/3+x-y,1/3-y,5/6-z
+7 y,x,1/2-z
+8 1/3+y,2/3+x,1/6-z
+9 2/3+y,1/3+x,5/6-z
+10 -y,x-y,z
+11 1/3-y,2/3+x-y,2/3+z
+12 2/3-y,1/3+x-y,1/3+z
+13 -x+y,-x,z
+14 1/3-x+y,2/3-x,2/3+z
+15 2/3-x+y,1/3-x,1/3+z
+16 -x,-x+y,1/2-z
+17 1/3-x,2/3-x+y,1/6-z
+18 2/3-x,1/3-x+y,5/6-z
+19 -x,-y,-z
+20 -1/3-x,-2/3-y,-2/3-z
+21 -2/3-x,-1/3-y,-1/3-z
+22 -x+y,y,-1/2+z
+23 -1/3-x+y,-2/3+y,-1/6+z
+24 -2/3-x+y,-1/3+y,-5/6+z
+25 -y,-x,-1/2+z
+26 -1/3-y,-2/3-x,-1/6+z
+27 -2/3-y,-1/3-x,-5/6+z
+28 y,-x+y,-z
+29 -1/3+y,-2/3-x+y,-2/3-z
+30 -2/3+y,-1/3-x+y,-1/3-z
+31 x-y,x,-z
+32 -1/3+x-y,-2/3+x,-2/3-z
+33 -2/3+x-y,-1/3+x,-1/3-z
+34 x,x-y,-1/2+z
+35 -1/3+x,-2/3+x-y,-1/6+z
+36 -2/3+x,-1/3+x-y,-5/6+z
+_cell_length_a 9.2146(3)
+_cell_length_b 9.2146(3)
+_cell_length_c 19.6072(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cd 1.44
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cd1 Cd 0.66670 0.33330 0.33330
+O1 O 0.8838(3) 0.5391(3) 0.39431(12)
+C1 C 0.8869(5) 0.66670 0.41670
+H1 H 0.78180 0.66670 0.41670
+C2 C 0.66670 0.33330 0.08330
+N1 N 0.8105(5) 0.33330 0.08330
+H2 H 0.80950 0.24040 0.08030
+O1E O 1.011367(300) 0.794233(300) 0.439023(120)
+O1T O 0.449533(300) 0.127567(300) 0.272357(120)
+C1T C 0.446433(500) -0.00003 0.24997
+H1T H 0.55153 -0.00003 0.24997
+O1V O 0.321967(300) -0.127567(300) 0.227643(120)
+O1I O 0.4609(3) 0.3447(3) 0.39431(12)
+C1H C 0.333367(500) 0.22023 0.41663
+H1H H 0.33337 0.11513 0.41663
+O1H O 0.205767(300) 0.217133(300) 0.439023(120)
+Cd1C Cd 0.33340 -0.33330 0.16670
+Cd1W Cd -0.00007 -0.00003 0.49997
+Cd1W* Cd 0.99993 0.99997 0.49997
+O1CA O 0.872433(300) 0.321967(300) 0.272357(120)
+O1L O 0.6553(3) 0.1162(3) 0.39431(12)
+O1FA O 0.678033(300) 0.550467(300) 0.272357(120)
+H2D H 0.90243 0.42627 0.08637
+N1G N 0.666633(500) 0.47717 0.08337
+H2G H 0.57373 0.47617 0.08637
+H2I H 0.75960 0.56910 0.08030
+N1L N 0.5228(5) 0.18950 0.08330
+H2L H 0.43090 0.19050 0.08030
+H2P H 0.52383 0.09757 0.08637
+#END

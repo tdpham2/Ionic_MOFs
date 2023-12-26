@@ -1,0 +1,158 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOBRUB
+_audit_creation_date 2014-02-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOBRUB
+_database_code_depnum_ccdc_archive 'CCDC 948008'
+_chemical_formula_sum 'C23 H21 Cu1 N2 Na1 O8'
+_chemical_formula_moiety
+;
+(C16 H8 Cu1 Na1 O8 1-)n,n(C7 H13 N2 1+)
+;
+_journal_coden_Cambridge 1295
+_journal_volume 38
+_journal_year 2013
+_journal_page_first 62
+_journal_name_full 'Inorg.Chem.Commun. '
+loop_
+_publ_author_name
+"Zuo-Juan Xiahou"
+"Yu-Ling Wang"
+"Qing-Yan Liu"
+"Jia-Jia Wei"
+"Li-Li Chen"
+_chemical_name_systematic
+;
+catena-[1,3-diethyl-1H-imidazol-3-ium bis(\m-terephthalato)-copper-sodium]
+;
+_cell_volume   2200.447
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.63
+_exptl_special_details
+;
+Air-sensitive
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0417
+_refine_ls_wR_factor_gt 0.0417
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.7637(17)
+_cell_length_b 11.7135(12)
+_cell_length_c 11.2193(12)
+_cell_angle_alpha 90
+_cell_angle_beta 109.508(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+Na 1.66
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.00000 -0.13528(4) 0.25000
+Na1 Na 0.00000 0.00000 0.50000
+O1 O 0.07353(10) -0.01557(17) 0.22779(16)
+O2 O 0.11396(11) -0.04738(19) 0.43388(17)
+O3 O 0.44317(12) 0.3087(2) 0.47574(19)
+O4 O 0.43194(11) 0.24915(17) 0.2809(2)
+C1 C 0.20056(14) 0.0557(2) 0.3501(2)
+C2 C 0.22059(16) 0.0791(3) 0.2432(3)
+H1 H 0.18770 0.05380 0.16450
+C3 C 0.28932(17) 0.1399(3) 0.2528(3)
+H2 H 0.30280 0.15340 0.18080
+C4 C 0.33833(15) 0.1808(2) 0.3691(2)
+C5 C 0.31828(18) 0.1561(3) 0.4758(3)
+H3 H 0.35070 0.18230 0.55450
+C6 C 0.25060(18) 0.0929(3) 0.4667(3)
+H4 H 0.23870 0.07550 0.53930
+C7 C 0.12446(14) -0.0068(2) 0.3387(2)
+C8 C 0.41069(15) 0.2532(2) 0.3796(3)
+N1 N 0.0446(2) 0.3595(3) 0.2054(3)
+C9 C 0.0279(3) 0.4696(4) 0.2233(6)
+H5 H 0.05150 0.53370 0.20190
+C10 C 0.00000 0.2956(5) 0.25000
+H6 H 0.00000 0.21620 0.25000
+C11 C 0.1037(4) 0.3188(8) 0.1556(6)
+H7 H 0.15460 0.33340 0.22100
+H8 H 0.09750 0.23650 0.15110
+C12 C 0.1136(8) 0.348(1) 0.0514(11)
+H9 H 0.15620 0.30400 0.03980
+H10 H 0.12670 0.42770 0.05430
+H11 H 0.06520 0.33420 -0.01780
+O1A O -0.07353(10) -0.01557(17) 0.27221(16)
+O2A O -0.11396(11) -0.04738(19) 0.06612(17)
+O3A O -0.44317(12) 0.3087(2) 0.02426(19)
+O4A O -0.43194(11) 0.24915(17) 0.2191(2)
+C1A C -0.20056(14) 0.0557(2) 0.1499(2)
+C2A C -0.22059(16) 0.0791(3) 0.2568(3)
+H1A H -0.18770 0.05380 0.33550
+C3A C -0.28932(17) 0.1399(3) 0.2472(3)
+H2A H -0.30280 0.15340 0.31920
+C4A C -0.33833(15) 0.1808(2) 0.1309(2)
+C5A C -0.31828(18) 0.1561(3) 0.0242(3)
+H3A H -0.35070 0.18230 -0.05450
+C6A C -0.25060(18) 0.0929(3) 0.0333(3)
+H4A H -0.23870 0.07550 -0.03930
+C7A C -0.12446(14) -0.0068(2) 0.1613(2)
+C8A C -0.41069(15) 0.2532(2) 0.1204(3)
+Cu1B Cu -0.50000 0.36472(4) 0.25000
+Cu1B* Cu 0.50000 0.36472(4) 0.25000
+Na1A Na 0.00000 0.00000 0.00000
+Na1B Na 0.50000 0.50000 0.50000
+Na1C Na -0.50000 0.50000 0.00000
+O1E O 0.07353(10) 0.01557(17) 0.72779(16)
+O2D O -0.11396(11) 0.04738(19) 0.56612(17)
+O3B O -0.05683(12) -0.1913(2) 0.47574(19)
+O3F O 0.05683(12) 0.1913(2) 0.52426(19)
+O4B O -0.06806(11) -0.25085(17) 0.2809(2)
+O4C O 0.06806(11) -0.25085(17) 0.2191(2)
+N1A N -0.0446(2) 0.3595(3) 0.2946(3)
+C9A C -0.0279(3) 0.4696(4) 0.2767(6)
+H5A H -0.05150 0.53370 0.29810
+C11A C -0.1037(4) 0.3188(8) 0.3444(6)
+H7A H -0.15460 0.33340 0.27900
+H8A H -0.09750 0.23650 0.34890
+C12A C -0.1136(8) 0.348(1) 0.4486(11)
+H9A H -0.15620 0.30400 0.46020
+H10A H -0.12670 0.42770 0.44570
+H11A H -0.06520 0.33420 0.51780
+#END

@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XORHOC
+_audit_creation_date 2009-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XORHOC
+_database_code_depnum_ccdc_archive 'CCDC 1297616'
+_chemical_formula_sum 'C3 H1 N1 O6.5 Rb1 S1 U1'
+_chemical_formula_moiety
+;
+(Rb1 1+)n,n(C3 N1 O6 S1 U1 1-),0.5n(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 53
+_journal_year 2008
+_journal_page_first 1121
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"I.V.Medrish"
+"E.V.Peresypkina"
+"A.V.Virovets"
+"L.B.Serezhkina"
+_chemical_name_systematic
+;
+catena-(Rubidium 
+(\m~2~-oxalato-O,O',O'',O''')-isothiocyanato-dioxo-uranium(vi) hemihydrate)
+;
+_cell_volume   1048.198
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 3.236
+_exptl_special_details
+;
+isostructural with the cesium analogue
+
+;
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0226
+_refine_ls_wR_factor_gt 0.0226
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.0624(5)
+_cell_length_b 13.1242(7)
+_cell_length_c 8.9204(5)
+_cell_angle_alpha 90
+_cell_angle_beta 98.897(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+Rb 1.47
+S 1.02
+U 1.38
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U 0.00000 0.158640(16) 0.25000
+O1 O 0.1274(4) 0.1596(3) 0.1202(4)
+O2 O -0.1179(3) 0.3113(2) 0.1308(4)
+O3 O -0.2937(3) 0.3758(2) -0.0482(4)
+N1 N 0.00000 -0.0242(5) 0.25000
+S1 S 0.00000 -0.23466(14) 0.25000
+C1 C 0.00000 -0.1119(5) 0.25000
+C2 C -0.2247(4) 0.3042(3) 0.0240(4)
+O4 O 0.50000 -0.0280(9) -0.25000
+Rb1 Rb 0.35081(12) 0.07836(8) -0.05302(14)
+U1F U -0.50000 0.341360(16) -0.25000
+O1A O -0.1274(4) 0.1596(3) 0.3798(4)
+O2F O -0.3821(3) 0.1887(2) -0.1308(4)
+O2A O 0.1179(3) 0.3113(2) 0.3692(4)
+O3F O -0.2063(3) 0.1242(2) 0.0482(4)
+O3G O 0.2063(3) 0.1242(2) 0.4518(4)
+C2F C -0.2753(4) 0.1958(3) -0.0240(4)
+#END

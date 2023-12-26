@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HESJOE
+_audit_creation_date 1995-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HESJOE
+_database_code_depnum_ccdc_fiz 'CSD 400680'
+_chemical_formula_sum 'C8 H40 Cu1 Na2 O20'
+_chemical_formula_moiety
+;
+(C4 H6 Cu1 O4 2-)n,n(C4 H10 O4),2n(Na1 1+),12n(H2 O1)
+;
+_journal_coden_Cambridge 179
+_journal_volume 33
+_journal_year 1994
+_journal_page_first 1742
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"P.Klufers"
+"J.Schuhmacher"
+_chemical_name_systematic
+;
+catena-(Di-sodium (\m~2~-erythritol-O,O',O'',O'''')-copper(ii) erythritol 
+dodecahydrate)
+;
+_cell_volume    583.821
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.604
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.057
+_refine_ls_wR_factor_gt 0.057
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.809(5)
+_cell_length_b 9.469(8)
+_cell_length_c 9.500(9)
+_cell_angle_alpha 95.04(7)
+_cell_angle_beta 90.57(7)
+_cell_angle_gamma 106.76(6)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.52
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 1.00000 0.50000 0.00000
+Na1 Na 0.7427(3) 0.9898(2) -0.0114(2)
+O1 O 0.9132(5) 0.5991(4) 0.1610(4)
+O2 O 0.7245(5) 0.4563(4) -0.0769(3)
+O3 O 0.1773(5) 0.3909(4) 0.2908(4)
+O4 O 0.0839(5) 0.6685(4) 0.4049(4)
+O5 O 0.5359(7) 0.1175(6) 0.6024(5)
+O6 O 0.1378(10) 0.1238(6) 0.5540(8)
+O7 O 0.4421(6) 0.8531(4) 0.0981(4)
+O8 O 0.6253(7) 0.8330(5) -0.2400(5)
+O9 O 0.8045(7) 1.1630(6) 0.1965(6)
+O10 O 1.0401(6) 1.1091(5) -0.1260(4)
+C1 C 0.6937(7) 0.5519(6) 0.1595(5)
+H1 H 0.6442(7) 0.6231(6) 0.2153(5)
+H2 H 0.6460(7) 0.4584(6) 0.1986(5)
+C2 C 0.6155(6) 0.5371(5) 0.0081(5)
+H3 H 0.6440(6) 0.6346(5) -0.0230(5)
+C3 C 0.2529(8) 0.4759(6) 0.4182(5)
+H4 H 0.3783(8) 0.5496(6) 0.4011(5)
+H5 H 0.2848(8) 0.4129(6) 0.4832(5)
+C4 C 0.1042(7) 0.5531(6) 0.4870(5)
+H6 H 0.1643(7) 0.5994(6) 0.5775(5)
+H7 H 0.217(11) 0.4605(81) 0.2148(79)
+H8 H 0.019(11) 0.6216(79) 0.3143(81)
+H9 H 0.6152(76) 0.1733(57) 0.6011(88)
+H10 H 0.110(13) 0.1789(62) 0.5804(83)
+H11 H 0.384(11) 0.7446(87) 0.0724(75)
+H12 H 0.449(11) 0.8748(79) 0.1990(86)
+H13 H 0.695(13) 0.7894(90) -0.2394(82)
+H14 H 0.604(13) 0.8608(95) -0.2953(89)
+H15 H 0.909(11) 1.2337(85) 0.2474(77)
+H16 H 0.7121(46) 1.1570(93) 0.2133(86)
+H17 H 1.057(11) 1.2078(90) -0.1252(77)
+H18 H 1.063(12) 1.0829(88) -0.2028(86)
+O1A O 1.0868(5) 0.4009(4) -0.1610(4)
+O2A O 1.2755(5) 0.5437(4) 0.0769(3)
+C2A C 0.3845(6) 0.4629(5) -0.0081(5)
+O2A* O 0.2755(5) 0.5437(4) 0.0769(3)
+Cu1A Cu 0.00000 0.50000 0.00000
+C1A C 0.3063(7) 0.4481(6) -0.1595(5)
+O1A* O 0.0868(5) 0.4009(4) -0.1610(4)
+H1A H 0.3558(7) 0.3769(6) -0.2153(5)
+H2A H 0.3540(7) 0.5416(6) -0.1986(5)
+H3A H 0.3560(6) 0.3654(5) 0.0230(5)
+C4A C -0.1042(7) 0.4469(6) 0.5130(5)
+O4A O -0.0839(5) 0.3315(4) 0.5951(4)
+H8A H -0.019(11) 0.3784(79) 0.6857(81)
+C3A C -0.2529(8) 0.5241(6) 0.5818(5)
+O3A O -0.1773(5) 0.6091(4) 0.7092(4)
+H7A H -0.217(11) 0.5395(81) 0.7852(79)
+H4A H -0.3783(8) 0.4504(6) 0.5989(5)
+H5A H -0.2848(8) 0.5871(6) 0.5168(5)
+H6A H -0.1643(7) 0.4006(6) 0.4225(5)
+#END

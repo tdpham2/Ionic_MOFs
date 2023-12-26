@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SIWPUL02
+_audit_creation_date 2013-12-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SIWPUL02
+_database_code_depnum_ccdc_archive 'CCDC 958454'
+_chemical_formula_sum 'C3 H8 Mn1 N2 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Mn1 O6 1-)n,H5 N2 1+
+;
+_journal_coden_Cambridge 1747
+_journal_volume 1
+_journal_year 2014
+_journal_page_first 83
+_journal_name_full 'Inorg.Chem.Front. '
+loop_
+_publ_author_name
+"Sa Chen"
+"Ran Shang"
+"Ke-Li Hu"
+"Zhe-Ming Wang"
+"Song Gao"
+_chemical_name_systematic
+;
+catena-(hydrazinium tris(\m-formato)-manganese)
+;
+_cell_volume    825.212
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.795
+_exptl_special_details
+;
+Pna21 polymorph
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 290
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0259
+_refine_ls_wR_factor_gt 0.0259
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 8.9448(3)
+_cell_length_b 7.8403(3)
+_cell_length_c 11.7669(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.52998(3) 0.49962(6) 0.11114(7)
+O1 O 0.31465(16) 0.4190(2) 0.18025(16)
+O2 O 0.12801(17) 0.2338(2) 0.17933(16)
+O3 O 0.42954(18) 0.7309(2) 0.04103(15)
+O4 O 0.24321(16) 0.9163(2) 0.03842(17)
+O5 O 0.55866(19) 0.6443(3) 0.26943(14)
+O6 O 0.5146(2) 0.6394(3) 0.45445(15)
+C1 C 0.2577(3) 0.2806(3) 0.1536(2)
+H1 H 0.31570 0.20560 0.11120
+C2 C 0.3133(3) 0.7929(3) 0.0785(2)
+H2 H 0.27370 0.74240 0.14340
+C3 C 0.5360(3) 0.5690(3) 0.3619(3)
+H3 H 0.53520 0.45040 0.36070
+N1 N 0.0699(4) 0.5063(2) 0.3433(3)
+H4 H 0.08240 0.61030 0.31440
+H5 H 0.08460 0.42880 0.28920
+H6 H 0.13530 0.48980 0.39930
+N2 N -0.0788(4) 0.4903(3) 0.3868(3)
+H7 H -0.100(2) 0.5839(18) 0.427(2)
+H8 H -0.084(2) 0.400(2) 0.432(2)
+Mn1A Mn 0.47002(3) 0.50038(6) 0.61114(7)
+Mn1B Mn 0.02998(3) 0.00038(6) 0.11114(7)
+Mn1B* Mn 0.02998(3) 1.00038(6) 0.11114(7)
+O2B O 0.62801(17) 0.2662(2) 0.17933(16)
+O4B O 0.74321(16) 0.5837(2) 0.03842(17)
+O6A O 0.4854(2) 0.3606(3) -0.04555(15)
+#END

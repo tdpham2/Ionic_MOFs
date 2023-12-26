@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YAWMIT
+_audit_creation_date 2006-01-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YAWMIT
+_database_code_depnum_ccdc_archive 'CCDC 268924'
+_chemical_formula_sum 'C12 H32 Eu1 N8 O12'
+_chemical_formula_moiety
+;
+(C1 H6 N3 1+)2n,n(C10 H12 Eu1 N2 O8 2-),4n(H2 O1)
+;
+_journal_coden_Cambridge 29
+_journal_volume 631
+_journal_year 2005
+_journal_page_first 2475
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"R.Janicki"
+"A.Mondry"
+"P.Starynowicz"
+_chemical_name_systematic
+;
+catena-(bis(Guanidinium) 
+(\m~3~-N,N,N',N'-ethylenediaminetetra-acetato)-europium(ii) tetrahydrate)
+;
+_cell_volume   2456.926
+_exptl_crystal_colour 'lemon-yellow'
+_exptl_crystal_density_diffrn 1.71
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0419
+_refine_ls_wR_factor_gt 0.0419
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 x,-y,1/2-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 -x,y,-1/2+z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 9.060(4)
+_cell_length_b 10.827(6)
+_cell_length_c 25.047(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.99
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.50185(4) 0.50000 0.25000
+O1 O 0.7223(2) 0.3551(2) 0.23446(8)
+O2 O 0.8817(3) 0.2015(2) 0.22164(8)
+O3 O 1.0227(2) 0.0571(2) 0.34938(8)
+O4 O 0.9286(3) 0.0592(2) 0.43167(9)
+O5 O 0.8156(2) -0.0765(2) 0.51384(8)
+O6 O 0.8721(3) 0.2383(2) 0.51155(8)
+N1 N 0.7427(3) 0.0619(3) 0.30413(10)
+N2 N 0.9765(3) 0.2777(2) 0.11623(10)
+H1 H 0.96380 0.25180 0.14840
+H2 H 1.04080 0.24290 0.09600
+N3 N 0.7974(3) 0.4247(3) 0.12934(11)
+H3 H 0.74790 0.48720 0.11810
+H4 H 0.78270 0.39660 0.16100
+N4 N 0.9192(3) 0.4146(3) 0.04914(11)
+H5 H 0.86970 0.47720 0.03780
+H6 H 0.98340 0.38010 0.02870
+C1 C 0.7804(3) 0.2557(3) 0.24708(16)
+C2 C 0.7287(4) 0.1982(3) 0.29997(13)
+H7 H 0.62590 0.22000 0.30540
+H8 H 0.78480 0.23520 0.32880
+C3 C 0.9169(4) 0.0505(3) 0.38114(13)
+C4 C 0.7613(4) 0.0264(3) 0.36020(12)
+H9 H 0.69120 0.07210 0.38180
+H10 H 0.73900 -0.06080 0.36400
+C5 C 0.6140(3) -0.0010(4) 0.28046(10)
+H11 H 0.61260 -0.08610 0.29250
+H12 H 0.52460 0.03850 0.29330
+C6 C 0.8964(4) 0.3715(3) 0.09790(13)
+Eu1E Eu 1.00185(4) 0.00000 0.25000
+Eu1* Eu 0.50185(4) -0.50000 0.25000
+O1B O 0.7223(2) -0.3551(2) 0.26554(8)
+O1B* O 0.7223(2) 0.6449(2) 0.26554(8)
+O2B O 0.8817(3) -0.2015(2) 0.27836(8)
+O2E O 0.3817(3) 0.7015(2) 0.27836(8)
+O2G O 0.3817(3) 0.2985(2) 0.22164(8)
+O3B O 1.0227(2) -0.0571(2) 0.15062(8)
+O3E O 0.5227(2) 0.5571(2) 0.15062(8)
+O3G O 0.5227(2) 0.4429(2) 0.34938(8)
+O4B O 0.9286(3) -0.0592(2) 0.06833(9)
+N1B N 0.7427(3) -0.0619(3) 0.19587(10)
+N1E N 0.2427(3) 0.5619(3) 0.19587(10)
+N1G N 0.2427(3) 0.4381(3) 0.30413(10)
+C1B C 0.7804(3) -0.2557(3) 0.25292(16)
+C2B C 0.7287(4) -0.1982(3) 0.20003(13)
+H7B H 0.62590 -0.22000 0.19460
+H8B H 0.78480 -0.23520 0.17120
+C3B C 0.9169(4) -0.0505(3) 0.11886(13)
+C4B C 0.7613(4) -0.0264(3) 0.13980(12)
+H9B H 0.69120 -0.07210 0.11820
+H10B H 0.73900 0.06080 0.13600
+C5B C 0.6140(3) 0.0010(4) 0.21954(10)
+H11B H 0.61260 0.08610 0.20750
+H12B H 0.52460 -0.03850 0.20670
+#END

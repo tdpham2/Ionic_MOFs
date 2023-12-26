@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOSGOT
+_audit_creation_date 2014-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOSGOT
+_database_code_depnum_ccdc_archive 'CCDC 1018016'
+_chemical_formula_sum 'C6 H9 F2 K1 O14 P2 U2'
+_chemical_formula_moiety
+;
+(C6 H5 F2 O12 P2 U2 1-)n,n(K1 1+),2n(H2 O1)
+;
+_journal_coden_Cambridge 1290
+_journal_year 2015
+_journal_page_first 340
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"P.O.Adelani"
+"N.A.Martinez"
+"N.D.Cook"
+"P.C.Burns"
+_chemical_name_systematic
+;
+catena-[potassium 
+(\m-(2,5-dihydroxy-4-(hydroxyphosphonato)phenyl)phosphonato)-bis(\m-fluoro)-te
+traoxo-di-uranium dihydrate]
+;
+_cell_volume    873.637
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 3.479
+_exptl_special_details
+;
+Luminescent
+The phosphonate H atom has not been located; the paper describes partial 
+protonation of 0.5 H at each phosphonate
+;
+_exptl_crystal_description 'platelets'
+_exptl_crystal_preparation 'hydrothermal'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0204
+_refine_ls_wR_factor_gt 0.0204
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.842(3)
+_cell_length_b 8.419(4)
+_cell_length_c 15.540(7)
+_cell_angle_alpha 90
+_cell_angle_beta 102.586(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+K 2.03
+O 0.68
+P 1.05
+U 1.96
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U 0.61091(2) -0.008199(18) 0.755965(11)
+P1 P 0.91117(17) 0.35776(14) 0.80250(8)
+F1 F 0.5334(4) -0.2690(3) 0.70826(19)
+O1 O 0.6563(5) -0.0707(4) 0.8679(2)
+O2 O 0.5594(5) 0.0528(4) 0.6432(2)
+O3 O 0.8651(5) 0.1814(3) 0.8102(2)
+O4 O 1.0933(4) 0.3807(4) 0.7634(2)
+O5 O 0.7318(5) 0.4481(4) 0.7503(2)
+O6 O 0.9748(6) 0.1750(4) 0.9818(2)
+H1 H 0.93960 0.14910 0.92850
+C1 C 0.9851(8) 0.3376(6) 0.9886(4)
+C2 C 0.9766(8) 0.5988(6) 0.9267(3)
+H2 H 0.96030 0.66800 0.87730
+C3 C 0.9619(7) 0.4347(6) 0.9131(3)
+K1 K 1.4621(7) 0.2580(6) 0.9842(3)
+O7 O 0.7351(8) 0.4750(7) 0.5747(4)
+P1B P 1.08883(17) 0.64224(14) 1.19750(8)
+O3B O 1.1349(5) 0.8186(3) 1.1898(2)
+O4B O 0.9067(4) 0.6193(4) 1.2366(2)
+O5B O 1.2682(5) 0.5519(4) 1.2497(2)
+O6B O 1.0252(6) 0.8250(4) 1.0182(2)
+H1B H 1.06040 0.85090 1.07150
+C1B C 1.0149(8) 0.6624(6) 1.0114(4)
+C2B C 1.0234(8) 0.4012(6) 1.0733(3)
+H2B H 1.03970 0.33200 1.12270
+C3B C 1.0381(7) 0.5653(6) 1.0869(3)
+U1B U 1.38909(2) 1.008199(18) 1.244035(11)
+F1B F 1.4666(4) 1.2690(3) 1.29174(19)
+O1B O 1.3437(5) 1.0707(4) 1.1321(2)
+O2B O 1.4406(5) 0.9472(4) 1.3568(2)
+U1A U 0.38909(2) -0.508199(18) 0.744035(11)
+U1A* U 0.38909(2) 0.491801(18) 0.744035(11)
+U1A** U 1.38909(2) 0.491801(18) 0.744035(11)
+U1C U 0.61091(2) 0.508199(18) 1.255965(11)
+U1C* U 1.61091(2) 0.508199(18) 1.255965(11)
+U1C** U 1.61091(2) 1.508199(18) 1.255965(11)
+F1A F 0.4666(4) 0.2310(3) 0.79174(19)
+F1C F 1.5334(4) 0.7690(3) 1.20826(19)
+O4A O 0.9067(4) -0.1193(4) 0.7366(2)
+O4C O 1.0933(4) 1.1193(4) 1.2634(2)
+O5A O 0.2682(5) -0.0519(4) 0.7497(2)
+O5C O 1.7318(5) 1.0519(4) 1.2503(2)
+#END

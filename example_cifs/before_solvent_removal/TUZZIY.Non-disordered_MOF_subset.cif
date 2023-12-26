@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TUZZIY
+_audit_creation_date 2011-03-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TUZZIY
+_database_code_depnum_ccdc_archive 'CCDC 750176'
+_chemical_formula_sum 'C2 H2 K1 O6 P1 Zn1'
+_chemical_formula_moiety
+;
+(K1 1+)n,n(C2 H2 O6 P1 Zn1 1-)
+;
+_journal_coden_Cambridge 9
+_journal_volume 49
+_journal_year 2010
+_journal_page_first 761
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"R.M.P.Colodrero"
+"P.Olivera-Pastor"
+"A.Cabeza"
+"M.Papadaki"
+"K.D.Demadis"
+"M.A.G.Aranda"
+_chemical_name_systematic
+;
+catena-(potassium (\m~4~-2-hydroxy-2-phosphonoacetato)-zinc(ii))
+;
+_cell_volume    635.807
+_exptl_special_details
+;
+powder data
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0823
+_refine_ls_wR_factor_gt 0.0823
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2+z
+3 1/2+x,1/2-y,z
+4 -x,-y,1/2+z
+_cell_length_a 10.28057(14)
+_cell_length_b 12.28914(17)
+_cell_length_c 5.03253(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+K 1.53
+O 0.68
+P 1.05
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.10116(18) 0.11444(11) 0.1513(7)
+P1 P 0.17854(33) -0.01474(27) -0.3467(13)
+C1 C 0.3444(6) -0.0488(6) -0.4639(17)
+C2 C 0.3872(12) -0.1601(6) -0.3685(23)
+O1 O 0.1929(8) -0.0070(6) -0.0419(11)
+O2 O 0.1428(7) 0.0928(5) -0.4747(13)
+O3 O 0.0895(7) -0.1087(5) -0.4245(15)
+O4 O 0.4290(6) 0.0304(5) -0.3680(26)
+O5 O 0.3332(8) -0.2413(6) -0.4709(15)
+O6 O 0.4490(8) -0.1703(6) -0.1542(14)
+K1 K 0.3568(3) 0.26105(21) -0.3654(15)
+Zn1* Zn 0.10116(18) 0.11444(11) -0.8487(7)
+Zn1C Zn -0.10116(18) -0.11444(11) -0.3487(7)
+Zn1A Zn 0.39884(18) -0.38556(11) -0.3487(7)
+O2* O 0.1428(7) 0.0928(5) 0.5253(13)
+O3C O -0.0895(7) 0.1087(5) 0.0755(15)
+O5A O 0.1668(8) 0.2587(6) 0.0291(15)
+#END

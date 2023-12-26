@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUGDEM
+_audit_creation_date 2020-04-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUGDEM
+_database_code_depnum_ccdc_archive 'CCDC 1974340'
+_chemical_formula_sum 'C20 H40 Mg2 N4 O22'
+_chemical_formula_moiety
+;
+(C8 Mg2 O16 4-)n,2(C6 H14 N2 2+),6(H2 O1)
+;
+_journal_coden_Cambridge 1695
+_journal_volume 8
+_journal_year 2020
+_journal_page_first 6254
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"K.Pasinska"
+"A.Ciupa"
+"A.Pikul"
+"A.Gagor"
+"A.Pietraszko"
+"A.Cizman"
+_chemical_name_systematic
+;
+catena-(bis(1,4-diazoniabicyclo[2.2.2]octane) 
+bis(\m-oxalato)-bis(oxalato)-di-magnesium hexahydrate)
+;
+_cell_volume   1550.299
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.579
+_exptl_special_details
+;
+P21/n polymorph
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 250.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0431
+_refine_ls_wR_factor_gt 0.0431
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.4358(3)
+_cell_length_b 16.8165(6)
+_cell_length_c 9.7722(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.174(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mg 1.41
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg 0.09931(7) 0.45533(4) 0.25132(6)
+O1 O -0.07912(14) 0.44298(9) 0.37021(14)
+O2 O 0.04497(15) 0.55739(8) 0.14303(13)
+O3 O 0.30854(15) 0.46142(9) 0.19573(14)
+O4 O 0.17037(15) 0.34416(9) 0.31543(14)
+O5 O -0.02926(14) 0.59487(8) -0.06652(14)
+O6 O -0.15968(14) 0.47717(9) 0.57612(14)
+C1 C -0.06955(19) 0.47661(12) 0.48410(19)
+C2 C 0.3773(2) 0.39826(13) 0.2163(2)
+C3 C 0.2936(2) 0.32795(13) 0.2774(2)
+C4 C 0.0047(2) 0.54414(11) 0.02208(19)
+O7 O 0.35343(19) 0.26235(10) 0.2835(2)
+O8 O 0.50303(18) 0.38770(12) 0.1895(2)
+O9 O 0.4404(2) 0.58199(14) 0.4842(2)
+H1 H 0.34345 0.56924 0.45873
+H2 H 0.42789 0.56308 0.58448
+O10 O 0.14981(18) 0.14028(12) 0.3192(2)
+H3 H 0.21975 0.16993 0.30039
+H4 H 0.17655 0.09191 0.32230
+O11 O 0.67680(14) 0.50379(11) 0.08799(18)
+H5 H 0.66321 0.51053 0.00226
+H6 H 0.60934 0.47598 0.11936
+N1 N -0.12085(8) 0.17503(5) 0.23411(10)
+H7 H -0.03375 0.14330 0.23821
+N2 N -0.34098(8) 0.25509(5) 0.22342(11)
+H8 H -0.42790 0.28698 0.21984
+C5 C -0.22578(8) 0.29974(5) 0.15634(11)
+H9 H -0.20116 0.34652 0.20982
+H10 H -0.25695 0.31688 0.06585
+C6 C -0.09789(8) 0.24566(5) 0.14555(7)
+H11 H -0.08640 0.22908 0.05135
+H12 H -0.01281 0.27366 0.17525
+C7 C -0.23820(9) 0.12550(5) 0.17435(12)
+H13 H -0.26043 0.08233 0.23614
+H14 H -0.20953 0.10280 0.08796
+C8 C -0.36741(8) 0.17805(6) 0.15207(9)
+H15 H -0.38376 0.18711 0.05500
+H16 H -0.45064 0.15245 0.18857
+C9 C -0.15574(10) 0.20114(7) 0.37387(8)
+H17 H -0.08575 0.23912 0.40713
+H18 H -0.15542 0.15589 0.43544
+C10 C -0.30111(10) 0.23921(7) 0.36910(9)
+H19 H -0.36989 0.20392 0.40964
+H20 H -0.29958 0.28857 0.42048
+O1B O 0.07912(14) 0.55702(9) 0.62979(14)
+O6B O 0.15968(14) 0.52283(9) 0.42388(14)
+C1B C 0.06955(19) 0.52339(12) 0.51590(19)
+O2B O -0.04497(15) 0.44261(8) -0.14303(13)
+O5B O 0.02926(14) 0.40513(8) 0.06652(14)
+C4B C -0.0047(2) 0.45586(11) -0.02208(19)
+Mg1B Mg -0.09931(7) 0.54467(4) -0.25132(6)
+O3B O -0.30854(15) 0.53858(9) -0.19573(14)
+O4B O -0.17037(15) 0.65584(9) -0.31543(14)
+C2B C -0.3773(2) 0.60174(13) -0.2163(2)
+C3B C -0.2936(2) 0.67205(13) -0.2774(2)
+O7B O -0.35343(19) 0.73765(10) -0.2835(2)
+O8B O -0.50303(18) 0.61230(12) -0.1895(2)
+Mg1B* Mg -0.09931(7) 0.54467(4) 0.74868(6)
+O1B* O 0.07912(14) 0.55702(9) -0.37021(14)
+O6* O -0.15968(14) 0.47717(9) -0.42388(14)
+#END

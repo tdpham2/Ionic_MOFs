@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEDWIX
+_audit_creation_date 2012-09-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEDWIX
+_database_code_depnum_ccdc_archive 'CCDC 892752'
+_chemical_formula_sum 'C24 H31 Co1 N3 O4'
+_chemical_formula_moiety
+;
+(C19 H19 Co1 N2 O4 1-)n,n(C5 H12 N1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 51
+_journal_year 2012
+_journal_page_first 6396
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"V.Gomez"
+"L.Vendier"
+"M.Corbella"
+"J.-P.Costes"
+_chemical_name_systematic
+;
+catena-(Piperidinium 
+(\m~2~-2-oxy-N-(2-((2-oxy-3-methoxybenzylidene)amino)-2-methylpropyl)benzeneca
+rboximidato)-cobalt(ii))
+;
+_cell_volume   2192.238
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.468
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1857
+_refine_ls_wR_factor_gt 0.1857
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.4005(10)
+_cell_length_b 9.2090(7)
+_cell_length_c 23.2616(18)
+_cell_angle_alpha 90
+_cell_angle_beta 100.273(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4634(14) 0.4018(17) 0.1639(6)
+H1 H 0.55330 0.42770 0.15910
+H2 H 0.41030 0.49160 0.16000
+C2 C 0.4050(15) 0.293(2) 0.1161(8)
+C3 C 0.4987(14) 0.1725(16) 0.1111(7)
+H3 H 0.50180 0.10600 0.14420
+H4 H 0.58590 0.21290 0.11120
+H5 H 0.46960 0.11950 0.07450
+C4 C 0.3741(16) 0.377(2) 0.0597(7)
+H6 H 0.36420 0.30880 0.02670
+H7 H 0.44540 0.44450 0.05710
+H8 H 0.29260 0.43080 0.05850
+C5 C 0.5544(13) 0.3938(19) 0.2647(7)
+C6 C 0.5607(15) 0.3389(16) 0.3257(7)
+C7 C 0.6791(15) 0.3595(16) 0.3611(7)
+H9 H 0.74950 0.39860 0.34500
+C8 C 0.6987(15) 0.3243(15) 0.4203(7)
+H10 H 0.78140 0.33740 0.44470
+C9 C 0.5899(14) 0.2679(16) 0.4430(7)
+H11 H 0.59960 0.24070 0.48290
+C10 C 0.4709(15) 0.2532(16) 0.4066(7)
+H12 H 0.39740 0.22480 0.42300
+C11 C 0.4540(14) 0.2782(16) 0.3471(7)
+C12 C 0.1871(13) 0.1970(17) 0.1008(6)
+H13 H 0.18950 0.20910 0.06040
+C13 C 0.0667(13) 0.1418(16) 0.1147(7)
+C14 C -0.0292(13) 0.0912(16) 0.0689(7)
+H14 H -0.01080 0.09090 0.03030
+C15 C -0.1463(15) 0.0431(17) 0.0777(8)
+H15 H -0.20820 0.00710 0.04580
+C16 C -0.1770(13) 0.0460(17) 0.1341(7)
+H16 H -0.26040 0.01570 0.14080
+C17 C -0.0819(13) 0.0947(17) 0.1802(7)
+C18 C 0.0423(13) 0.1424(17) 0.1721(7)
+C19 C -0.2340(12) 0.0870(17) 0.2429(7)
+H17 H -0.28850 0.16420 0.22220
+H18 H -0.23840 0.09090 0.28460
+H19 H -0.26590 -0.00760 0.22700
+C20 C 0.1329(15) -0.0211(18) 0.3382(8)
+H20 H 0.19520 -0.05540 0.31360
+H21 H 0.04850 -0.07150 0.32550
+C21 C 0.1855(17) -0.056(2) 0.4020(8)
+H22 H 0.19870 -0.16180 0.40670
+H23 H 0.27100 -0.00750 0.41420
+C22 C 0.0935(18) -0.0057(19) 0.4393(8)
+H24 H 0.12800 -0.03010 0.48060
+H25 H 0.00830 -0.05520 0.42760
+C23 C 0.0748(18) 0.1629(19) 0.4325(7)
+H26 H 0.01240 0.19720 0.45710
+H27 H 0.15930 0.21270 0.44550
+C24 C 0.0234(13) 0.1981(18) 0.3693(7)
+H28 H -0.06410 0.15410 0.35730
+H29 H 0.01430 0.30470 0.36440
+N1 N 0.4660(11) 0.3393(12) 0.2209(6)
+N2 N 0.2888(11) 0.2310(14) 0.1356(5)
+N3 N 0.1137(12) 0.1417(15) 0.3311(6)
+H30 H 0.19330 0.18750 0.34060
+H31 H 0.07990 0.16250 0.29270
+O1 O 0.3394(9) 0.2532(11) 0.3151(4)
+O2 O 0.1247(9) 0.1928(12) 0.2189(4)
+O3 O 0.6352(11) 0.4951(12) 0.2565(5)
+O4 O -0.1084(9) 0.1055(14) 0.2356(5)
+Co1 Co 0.31947(17) 0.2027(2) 0.22731(9)
+O3A O 0.3648(11) -0.0049(12) 0.2435(5)
+Co1A Co 0.68053(17) 0.7027(2) 0.27269(9)
+#END

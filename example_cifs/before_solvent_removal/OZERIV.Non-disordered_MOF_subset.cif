@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OZERIV
+_audit_creation_date 2012-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OZERIV
+_database_code_depnum_ccdc_archive 'CCDC 778167'
+_chemical_formula_sum 'C18 H22 Cl1 Fe1 N13'
+_chemical_formula_moiety
+;
+(C6 Cl1 Fe1 N9 2-)n,2n(C6 H11 N2 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 50
+_journal_year 2011
+_journal_page_first 3946
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"S.Begel"
+"F.W.Heinemann"
+"G.Stopa"
+"G.Stochel"
+"R.van Eldik"
+_chemical_name_systematic
+;
+catena-(3-Ethyl-1-methylimidazolium 
+bis(\m~2~-dicyanamido-N,N'')-chloro-(dicyanamido-N')-iron(ii))
+;
+_cell_volume   2370.357
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.434
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0305
+_refine_ls_wR_factor_gt 0.0305
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 17.674(2)
+_cell_length_b 11.6448(14)
+_cell_length_c 12.0016(15)
+_cell_angle_alpha 90
+_cell_angle_beta 106.334(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.288394(13) 0.503274(18) 0.168054(18)
+Cl1 Cl 0.42872(2) 0.53872(4) 0.21174(4)
+N1 N 0.26951(8) 0.66928(12) 0.23456(12)
+C1 C 0.26527(9) 0.76029(13) 0.26993(13)
+N2 N 0.26116(10) 0.86806(12) 0.29852(12)
+C2 C 0.26132(9) 0.89569(13) 0.40449(14)
+N3 N 0.26162(9) 0.93125(12) 0.49420(12)
+N4 N 0.29459(9) 0.42517(12) 0.33379(11)
+C3 C 0.28007(10) 0.38710(13) 0.41383(14)
+N5 N 0.26099(12) 0.35577(13) 0.50750(14)
+C4 C 0.27803(11) 0.25235(14) 0.54960(14)
+N6 N 0.29036(9) 0.16502(12) 0.59623(12)
+C5 C 0.10726(10) 0.43252(15) 0.04269(15)
+N7 N 0.06877(10) 0.39030(17) -0.04121(15)
+N8 N 0.15591(8) 0.47973(12) 0.13629(12)
+C6 C 0.12495(10) 0.51516(14) 0.21904(14)
+N9 N 0.10354(9) 0.54922(15) 0.29558(13)
+C7 C 0.62301(12) 0.61146(18) 0.16230(18)
+H1 H 0.64920 0.65260 0.23400
+H2 H 0.66190 0.59140 0.12120
+H3 H 0.59870 0.54120 0.18130
+N10 N 0.56227(8) 0.68477(12) 0.08842(12)
+C8 C 0.52512(11) 0.66620(17) -0.02706(16)
+H4 H 0.53550 0.60570 -0.07380
+N11 N 0.47618(8) 0.81915(12) 0.03341(12)
+C9 C 0.47111(11) 0.74999(17) -0.06133(16)
+H5 H 0.43600 0.75960 -0.13690
+C10 C 0.53159(10) 0.77748(14) 0.12274(15)
+H6 H 0.54680 0.80890 0.19890
+C11 C 0.42312(11) 0.91528(15) 0.03802(17)
+H7 H 0.40310 0.94970 -0.04020
+H8 H 0.45260 0.97520 0.09130
+C12 C 0.35481(13) 0.87452(17) 0.0794(2)
+H9 H 0.32040 0.93970 0.08280
+H10 H 0.37470 0.84070 0.15700
+H11 H 0.32490 0.81660 0.02560
+C13 C 0.10491(12) 0.74477(16) -0.00138(16)
+H12 H 0.11430 0.77770 -0.07150
+H13 H 0.05870 0.69420 -0.02330
+H14 H 0.15120 0.70040 0.04100
+N12 N 0.09067(9) 0.83760(12) 0.07304(12)
+C14 C 0.06452(11) 0.82334(16) 0.16968(16)
+H15 H 0.05140 0.75250 0.19900
+N13 N 0.08284(9) 1.00562(12) 0.14401(13)
+C15 C 0.06089(11) 0.92813(16) 0.21521(16)
+H16 H 0.04600 0.94520 0.28350
+C16 C 0.10145(11) 0.94875(16) 0.05927(15)
+H17 H 0.11940 0.98210 -0.00090
+C17 C 0.08663(12) 1.13128(16) 0.15981(18)
+H18 H 0.04220 1.15700 0.18880
+H19 H 0.08150 1.16910 0.08410
+C18 C 0.16321(13) 1.16593(19) 0.24444(18)
+H20 H 0.16530 1.24980 0.25200
+H21 H 0.20720 1.13940 0.21630
+H22 H 0.16720 1.13130 0.32030
+Fe1C Fe 0.288394(13) 0.996726(18) 0.668054(18)
+Fe1C* Fe 0.288394(13) -0.003274(18) 0.668054(18)
+N3C N 0.26162(9) 0.56875(12) -0.00580(12)
+N6C N 0.29036(9) 0.33498(12) 0.09623(12)
+#END

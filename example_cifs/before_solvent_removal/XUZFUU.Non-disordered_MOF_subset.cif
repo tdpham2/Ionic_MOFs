@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XUZFUU
+_audit_creation_date 2011-02-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XUZFUU
+_database_code_depnum_ccdc_archive 'CCDC 721332'
+_chemical_formula_sum 'C12 H38 Ho1 Na5 O25'
+_chemical_formula_moiety
+;
+(Na1 1+)5n,n(C12 H4 Ho1 O8 5-),17n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 48
+_journal_year 2009
+_journal_page_first 8647
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"K.Nakabayashi"
+"S.Ohkoshi"
+_chemical_name_systematic
+;
+catena-[Penta-sodium(i) bis(\m~2~-benzene-1,2,4,5-tetrolato)-holmium(iii) 
+heptadecahydrate]
+;
+_cell_volume   2732.180
+_exptl_crystal_colour 'black'
+_exptl_special_details
+;
+The paper gives a formula with seven solvent water molecules per penta-sodium 
+unit. The formula given in the paper and deposited cif has 25 oxygen per 5 
+sodium, requiring there to be a total of 17 solvent water. The authors do not 
+discuss the bonding of the sodium cations, stating sodium and non-coordinated 
+water molecules occupy channels in the holmium framework
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 93.1
+_refine_special_details
+;
+A solvent water molecule is disordered by two-fold symmetry. A second water 
+molecule is modelled over two sites of equal occupancy.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0568
+_refine_ls_wR_factor_gt 0.0568
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'I m m a'
+_symmetry_Int_Tables_number 74
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,z
+3 x,-y,-z
+4 -x,1/2+y,-z
+5 1/2+x,1/2+y,1/2+z
+6 1/2-x,-y,1/2+z
+7 1/2+x,1/2-y,1/2-z
+8 1/2-x,y,1/2-z
+9 -x,-y,-z
+10 x,-1/2+y,-z
+11 -x,y,z
+12 x,-1/2-y,z
+13 -1/2-x,-1/2-y,-1/2-z
+14 -1/2+x,y,-1/2-z
+15 -1/2-x,-1/2+y,-1/2+z
+16 -1/2+x,-y,-1/2+z
+_cell_length_a 16.6995(15)
+_cell_length_b 16.7106(16)
+_cell_length_c 9.7907(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ho 1.92
+Na 0.57
+O 0.56
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ho1 Ho 0.00000 0.75000 0.11987(7)
+Na1 Na 0.00000 0.75000 0.5071(7)
+Na2 Na -0.1381(5) 0.6865(5) -0.1717(9)
+O1 O 0.0902(4) 0.75000 0.3100(7)
+O2 O 0.1360(4) 0.75000 0.0513(8)
+O3 O 0.00000 0.6170(4) 0.1956(8)
+O4 O 0.00000 0.6603(4) -0.0664(8)
+O5 O -0.0742(8) 0.7960(8) 0.7016(12)
+O6 O 0.00000 0.5995(8) 0.4684(10)
+O7 O 0.1690(5) 0.5598(5) 0.2434(11)
+O8 O -0.1945(5) 0.5862(6) -0.0565(10)
+O9 O -0.1482(16) 0.601(1) -0.364(2)
+O10? O -0.1489(10) 0.5686(13) -0.4052(18)
+O11 O -0.25000 0.75000 -0.25000
+C1 C 0.1676(6) 0.75000 0.2878(11)
+C2 C 0.1928(6) 0.75000 0.1422(11)
+C3 C 0.00000 0.4780(6) 0.1384(11)
+C4 C 0.00000 0.5831(6) -0.0389(9)
+C5 C 0.00000 0.5585(6) 0.1046(10)
+C6 C 0.2253(6) 0.75000 0.390(1)
+H1 H 0.00000 0.46340 0.23220
+H2 H 0.20910 0.75000 0.48300
+Ho1F Ho 0.50000 0.75000 0.38013(7)
+Ho1B Ho 0.00000 0.25000 -0.11987(7)
+O1G O 0.4098(4) 0.75000 0.1900(7)
+O1A O -0.0902(4) 0.75000 0.3100(7)
+O2G O 0.3640(4) 0.75000 0.4487(8)
+O2A O -0.1360(4) 0.75000 0.0513(8)
+O3B O 0.00000 0.3830(4) -0.1956(8)
+O3A O 0.00000 0.8830(4) 0.1956(8)
+O4B O 0.00000 0.3397(4) 0.0664(8)
+O4A O 0.00000 0.8397(4) -0.0664(8)
+C1G C 0.3324(6) 0.75000 0.2122(11)
+C2G C 0.3072(6) 0.75000 0.3578(11)
+C3B C 0.00000 0.5220(6) -0.1384(11)
+C4B C 0.00000 0.4169(6) 0.0389(9)
+C5B C 0.00000 0.4415(6) -0.1046(10)
+C6G C 0.2747(6) 0.75000 0.110(1)
+H1B H 0.00000 0.53660 -0.23220
+H2G H 0.29090 0.75000 0.01700
+#END

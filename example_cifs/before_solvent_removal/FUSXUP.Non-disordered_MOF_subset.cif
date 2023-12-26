@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUSXUP
+_audit_creation_date 2020-08-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUSXUP
+_database_code_depnum_ccdc_archive 'CCDC 2000693'
+_chemical_formula_sum 'C10 H34 Cu3 N2 O18 P4'
+_chemical_formula_moiety
+;
+(C4 H8 Cu3 O14 P4 2-)n,4(H2 O1),C6 H18 N2 2+
+;
+_journal_coden_Cambridge 119
+_journal_volume 1224
+_journal_year 2021
+_journal_page_first 129027
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"R.Kanagaraj"
+"A.K.Jana"
+"P.D.Babu"
+"V.Siruguri"
+"P.K.Maji"
+"S.K.Panda"
+"A.K.Paul"
+_chemical_name_systematic
+;
+catena-[hexane-1,6-bis(aminium) 
+bis(\m-(1-hydroxyethane-1,1-diyl)bis(phosphonato))-tri-copper(ii) 
+tetrahydrate]
+;
+_cell_volume    545.321
+_exptl_crystal_colour 'blue'
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The cation is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.4890(2)
+_cell_length_b 8.0174(2)
+_cell_length_c 9.9864(2)
+_cell_angle_alpha 111.688(1)
+_cell_angle_beta 96.053(1)
+_cell_angle_gamma 97.149(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cu 1.32
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.37203(9) 0.72350(9) 0.50586(7)
+Cu2 Cu 0.50000 0.50000 0.00000
+P1 P 0.60803(19) 0.50546(18) 0.31260(14)
+P2 P 0.5573(2) 0.85837(19) 0.29676(15)
+O1 O 0.7303(5) 0.4152(5) 0.3879(4)
+O2 O 0.4209(5) 0.5058(5) 0.3586(4)
+O3 O 0.3820(6) 0.8453(5) 0.3631(4)
+O4 O 0.5998(6) 0.4198(5) 0.1479(4)
+O5 O 0.6459(6) 1.0552(5) 0.3357(5)
+O6 O 0.5276(7) 0.7564(6) 0.1322(4)
+O7 O 0.7160(6) 0.8201(6) 0.5341(4)
+H1 H 0.77940 0.76680 0.57080
+C1 C 0.7126(8) 0.7482(7) 0.3772(6)
+C2 C 0.9029(9) 0.7741(9) 0.3393(8)
+H2 H 0.89570 0.72570 0.23510
+H3 H 0.97910 0.71120 0.38030
+H4 H 0.95410 0.90170 0.37870
+O8 O 0.1586(9) 0.5044(8) 0.0915(7)
+O9? O 0.4067(17) 0.982(2) 0.9872(19)
+C3? C 0.005(2) 0.871(2) 0.8415(17)
+C4? C 0.093(2) 0.979(6) 0.9732(19)
+C5? C -0.0509(9) 0.6714(11) 0.7198(7)
+N1? N 0.214(3) 0.997(4) 1.062(2)
+Cu1A Cu 0.62797(9) 0.27650(9) -0.50586(7)
+P1A P 0.39197(19) 0.49454(18) -0.31260(14)
+P2A P 0.4427(2) 0.14163(19) -0.29676(15)
+O1A O 0.2697(5) 0.5848(5) -0.3879(4)
+O2A O 0.5791(5) 0.4942(5) -0.3586(4)
+O3A O 0.6180(6) 0.1547(5) -0.3631(4)
+O4A O 0.4002(6) 0.5802(5) -0.1479(4)
+O5A O 0.3541(6) -0.0552(5) -0.3357(5)
+O6A O 0.4724(7) 0.2436(6) -0.1322(4)
+O7A O 0.2840(6) 0.1799(6) -0.5341(4)
+H1A H 0.22060 0.23320 -0.57080
+C1A C 0.2874(8) 0.2518(7) -0.3772(6)
+C2A C 0.0971(9) 0.2259(9) -0.3393(8)
+H2A H 0.10430 0.27430 -0.23510
+H3A H 0.02090 0.28880 -0.38030
+H4A H 0.04590 0.09830 -0.37870
+Cu1* Cu 0.37203(9) -0.27650(9) -0.49414(7)
+Cu1** Cu 0.37203(9) 0.72350(9) -0.49414(7)
+Cu1A* Cu 0.62797(9) 0.27650(9) 0.49414(7)
+Cu1A** Cu 0.62797(9) 1.27650(9) 0.49414(7)
+O1* O 0.7303(5) 0.4152(5) -0.6121(4)
+O1A* O 0.2697(5) 0.5848(5) 0.6121(4)
+O5* O 0.6459(6) 0.0552(5) -0.6643(5)
+O5A* O 0.3541(6) 0.9448(5) 0.6643(5)
+#END

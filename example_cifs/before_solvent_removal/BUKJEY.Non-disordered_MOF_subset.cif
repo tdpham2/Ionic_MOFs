@@ -1,0 +1,169 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BUKJEY
+_audit_creation_date 2015-07-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BUKJEY
+_database_code_depnum_ccdc_archive 'CCDC 1416340'
+_chemical_formula_sum 'C30 H32 Br2 Cu2 N6 O2 S2'
+_chemical_formula_moiety
+;
+C14 H16 N2 2+,(C12 H4 Br2 Cu2 N4 2-)n,2(C2 H6 O1 S1)
+;
+_journal_coden_Cambridge 1147
+_journal_volume 15
+_journal_year 2015
+_journal_page_first 2437
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"B.F.Abrahams"
+"R.W.Elliott"
+"T.A.Hudson"
+"R.Robson"
+"A.L.Sutton"
+_chemical_name_systematic
+;
+catena-[1,1'-but-2-ene-1,4-diyldipyridinium 
+(\m~4~-2,2'-cyclohexa-2,5-diene-1,4-diylidenedimalononitrile)-dibromo-di-coppe
+r dimethyl sulfoxide solvate]
+;
+_cell_volume   1743.081
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.638
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+Br1 and Br1' disordered over two sites with occupancies 0.73:0.27; C9 
+disordered by symmetry over two configurations with occupancy 0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0279
+_refine_ls_wR_factor_gt 0.0279
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'I 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,1/2+z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,z
+7 -1/2-x,-1/2-y,-1/2-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 16.446(5)
+_cell_length_b 7.763(5)
+_cell_length_c 13.690(5)
+_cell_angle_alpha 90
+_cell_angle_beta 94.214(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cu 1.32
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4749(2) 0.0558(5) 0.4783(3)
+H1 H 0.49270 0.16870 0.46360
+H2 H 0.3618(16) 0.096(4) 0.4769(19)
+C2 C 0.35860(13) 0.1509(3) 0.29613(16)
+H3 H 0.36520 0.25600 0.33140
+C3 C 0.34038(14) 0.1538(4) 0.19596(16)
+H4 H 0.33430 0.26030 0.16200
+C4 C 0.3311(2) 0.00000 0.1460(2)
+H5 H 0.31830 0.00000 0.07720
+C5 C 0.3869(2) 0.00000 0.4521(2)
+N1 N 0.36697(15) 0.00000 0.34386(18)
+C6 C 0.21439(17) 0.1734(5) 0.6159(2)
+H6 H 0.27360 0.16270 0.61320
+H7 H 0.20060 0.16920 0.68430
+H8 H 0.19610 0.28330 0.58670
+O1 O 0.19637(15) 0.00000 0.44963(17)
+S1 S 0.16489(5) 0.00000 0.54927(6)
+C7 C 0.44225(12) 0.1532(3) 0.74024(14)
+C8 C 0.45196(17) 0.00000 0.7925(2)
+C9 C 0.47587(16) 0.00000 0.8983(2)
+C10 C 0.48823(12) 0.1540(3) 0.95031(13)
+H9 H 0.48030 0.26070 0.91690
+N2 N 0.43485(12) 0.2836(3) 0.70000(12)
+Cu1 Cu 0.42347(3) 0.50000 0.63649(3)
+Br1 Br 0.3617(5) 0.50000 0.4761(3)
+Br2? Br 0.3867(13) 0.50000 0.4650(5)
+C1A C 0.5251(2) 0.0558(5) 0.5217(3)
+H1A H 0.50730 0.16870 0.53640
+H2A H 0.6382(16) 0.096(4) 0.5231(19)
+C2A C 0.64140(13) 0.1509(3) 0.70387(16)
+H3A H 0.63480 0.25600 0.66860
+C3A C 0.65962(14) 0.1538(4) 0.80404(16)
+H4A H 0.66570 0.26030 0.83800
+C4A C 0.6689(2) 0.00000 0.8540(2)
+H5A H 0.68170 0.00000 0.92280
+C5A C 0.6131(2) 0.00000 0.5479(2)
+N1A N 0.63303(15) 0.00000 0.65614(18)
+C1D C 0.5251(2) -0.0558(5) 0.5217(3)
+H1D H 0.50730 -0.16870 0.53640
+H2D H 0.6382(16) -0.096(4) 0.5231(19)
+C2D C 0.64140(13) -0.1509(3) 0.70387(16)
+H3D H 0.63480 -0.25600 0.66860
+C3D C 0.65962(14) -0.1538(4) 0.80404(16)
+H4D H 0.66570 -0.26030 0.83800
+C1E C 0.4749(2) -0.0558(5) 0.4783(3)
+H1E H 0.49270 -0.16870 0.46360
+H2E H 0.3618(16) -0.096(4) 0.4769(19)
+C2E C 0.35860(13) -0.1509(3) 0.29613(16)
+H3E H 0.36520 -0.25600 0.33140
+C3E C 0.34038(14) -0.1538(4) 0.19596(16)
+H4E H 0.33430 -0.26030 0.16200
+C6E C 0.21439(17) -0.1734(5) 0.6159(2)
+H6E H 0.27360 -0.16270 0.61320
+H7E H 0.20060 -0.16920 0.68430
+H8E H 0.19610 -0.28330 0.58670
+C7A C 0.55775(12) 0.1532(3) 1.25976(14)
+C8A C 0.54804(17) 0.00000 1.2075(2)
+C9A C 0.52413(16) 0.00000 1.1017(2)
+C10A C 0.51177(12) 0.1540(3) 1.04969(13)
+H9A H 0.51970 0.26070 1.08310
+N2A N 0.56515(12) 0.2836(3) 1.30000(12)
+C7D C 0.55775(12) -0.1532(3) 1.25976(14)
+C10D C 0.51177(12) -0.1540(3) 1.04969(13)
+H9D H 0.51970 -0.26070 1.08310
+N2D N 0.56515(12) -0.2836(3) 1.30000(12)
+C7E C 0.44225(12) -0.1532(3) 0.74024(14)
+C10E C 0.48823(12) -0.1540(3) 0.95031(13)
+H9E H 0.48030 -0.26070 0.91690
+N2E N 0.43485(12) -0.2836(3) 0.70000(12)
+Cu1A Cu 0.57653(3) 0.50000 1.36351(3)
+Br1A Br 0.6383(5) 0.50000 1.5239(3)
+N2D* N 0.56515(12) 0.7164(3) 1.30000(12)
+N2E* N 0.43485(12) 0.7164(3) 0.70000(12)
+Cu1* Cu 0.42347(3) -0.50000 0.63649(3)
+Cu1A* Cu 0.57653(3) -0.50000 1.36351(3)
+#END

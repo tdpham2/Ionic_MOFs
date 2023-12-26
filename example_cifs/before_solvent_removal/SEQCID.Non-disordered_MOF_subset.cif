@@ -1,0 +1,159 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEQCID
+_audit_creation_date 2017-11-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEQCID
+_database_code_depnum_ccdc_archive 'CCDC 1491090'
+_chemical_formula_sum 'C24 H16 Cl6 Cr1 Mn1 N1 O12'
+_chemical_formula_moiety
+;
+(C18 Cl6 Cr1 Mn1 O12 1-)n,C6 H16 N1 1+
+;
+_journal_coden_Cambridge 9
+_journal_volume 56
+_journal_year 2017
+_journal_page_first 13865
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Palacios-Corella"
+"A.Fernandez-Espejo"
+"M.Bazaga-Garcia"
+"E.R.Losilla"
+"A.Cabeza"
+"M.Clemente-Leon"
+"E.Coronado"
+_chemical_name_systematic
+;
+catena-[triethylammonium 
+tris(\m-2,5-dichloro-3,6-dioxocyclohexa-1,4-diene-1,4-bis(olato))-chromium(iii
+)-manganese(ii)]
+;
+_cell_volume   1491.202
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.813
+_exptl_special_details
+;
+, Magnetic properties
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'slow diffusion'
+_diffrn_ambient_temperature 180
+_refine_special_details
+;
+C5 disordered by symmetry over two configurations with occupancy 0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0689
+_refine_ls_wR_factor_gt 0.0689
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2-z
+5 x,x-y,1/2-z
+6 -x+y,y,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 y,x,-1/2+z
+11 -x,-x+y,-1/2+z
+12 x-y,-y,-1/2+z
+_cell_length_a 13.6939(15)
+_cell_length_b 13.6939(15)
+_cell_length_c 9.1823(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cl 0.99
+Cr 1.39
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2392(4) 0.1525(4) 0.3181(5)
+C2 C 0.3432(4) 0.2332(5) 0.3781(6)
+C3 C 0.4426(4) 0.2522(4) 0.3182(5)
+O1 O 0.1457(3) 0.1292(3) 0.3666(4)
+O2 O 0.5417(3) 0.3229(3) 0.3670(4)
+Cl1 Cl 0.34321(13) 0.3032(2) 0.5340(2)
+Mn1 Mn 0.00000 0.00000 0.25000
+Cr1 Cr 0.66670 0.33330 0.25000
+C4 C 0.6055(4) 0.3945(4) 0.75000
+C5 C 0.5141(12) 0.3806(13) 0.8221(14)
+N1 N 0.66670 0.33330 0.75000
+C1D C 0.2392(4) 0.0867(4) 0.1819(5)
+C2D C 0.3432(4) 0.1100(5) 0.1219(6)
+C3D C 0.4426(4) 0.1904(4) 0.1818(5)
+O1D O 0.1457(3) 0.0165(3) 0.1334(4)
+O2D O 0.5417(3) 0.2188(3) 0.1330(4)
+Cl1D Cl 0.34321(13) 0.04001(20) -0.0340(2)
+C1A C -0.1525(4) 0.0867(4) 0.3181(5)
+C2A C -0.2332(4) 0.1100(5) 0.3781(6)
+C3A C -0.2522(4) 0.1904(4) 0.3182(5)
+O1A O -0.1292(3) 0.0165(3) 0.3666(4)
+O2A O -0.3229(3) 0.2188(3) 0.3670(4)
+Cl1A Cl -0.30320(13) 0.04001(20) 0.5340(2)
+C1E C -0.0867(4) 0.1525(4) 0.1819(5)
+C2E C -0.1100(4) 0.2332(5) 0.1219(6)
+C3E C -0.1904(4) 0.2522(4) 0.1818(5)
+O1E O -0.0165(3) 0.1292(3) 0.1334(4)
+O2E O -0.2188(3) 0.3229(3) 0.1330(4)
+Cl1E Cl -0.04001(13) 0.3032(2) -0.0340(2)
+C1B C -0.0867(4) -0.2392(4) 0.3181(5)
+C2B C -0.1100(4) -0.3432(5) 0.3781(6)
+C3B C -0.1904(4) -0.4426(4) 0.3182(5)
+O1B O -0.0165(3) -0.1457(3) 0.3666(4)
+O2B O -0.2188(3) -0.5417(3) 0.3670(4)
+Cl1B Cl -0.04001(13) -0.34321(20) 0.5340(2)
+C1C C -0.1525(4) -0.2392(4) 0.1819(5)
+C2C C -0.2332(4) -0.3432(5) 0.1219(6)
+C3C C -0.2522(4) -0.4426(4) 0.1818(5)
+O1C O -0.1292(3) -0.1457(3) 0.1334(4)
+O2C O -0.3229(3) -0.5417(3) 0.1330(4)
+Cl1C Cl -0.30320(13) -0.34321(20) -0.0340(2)
+O2A* O 0.6771(3) 0.2188(3) 0.3670(4)
+O2B* O 0.7812(3) 0.4583(3) 0.3670(4)
+O2C* O 0.6771(3) 0.4583(3) 0.1330(4)
+O2E* O 0.7812(3) 0.3229(3) 0.1330(4)
+Cr1* Cr -0.33330 -0.66670 0.25000
+Cr1** Cr -0.33330 0.33330 0.25000
+C4A C 0.6055(4) 0.2110(4) 0.75000
+C5A C 0.6194(12) 0.1335(13) 0.8221(14)
+C4B C 0.7890(4) 0.3945(4) 0.75000
+C5B C 0.8665(12) 0.4859(13) 0.8221(14)
+C5C C 0.6194(12) 0.4859(13) 0.6779(14)
+C5D C 0.5141(12) 0.1335(13) 0.6779(14)
+C5E C 0.8665(12) 0.3806(13) 0.6779(14)
+#END

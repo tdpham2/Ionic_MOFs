@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DOHDOU01
+_audit_creation_date 2018-11-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DOHDOU01
+_database_code_depnum_ccdc_archive 'CCDC 1811241'
+_chemical_formula_sum 'C5 H11 Mg1 N1 O6'
+_chemical_formula_moiety
+;
+(C3 H3 Mg1 O6 1-)n,C2 H8 N1 1+
+;
+_journal_coden_Cambridge 1856
+_journal_volume 6
+_journal_year 2018
+_journal_page_first 100701
+_journal_name_full 'APL Mater. '
+loop_
+_publ_author_name
+"M.Szafranski"
+"Wen-Juan Wei"
+"Zhe-Ming Wang"
+"Wei Li"
+"A.Katrusiak"
+_chemical_name_systematic
+;
+catena-[dimethylammonium tris(\m-formato)-magnesium(ii)]
+;
+_cell_volume    856.996
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.592
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0515
+_refine_ls_wR_factor_gt 0.0515
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 13.990(6)
+_cell_length_b 8.120(3)
+_cell_length_c 8.803(3)
+_cell_angle_alpha 90
+_cell_angle_beta 121.02(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mg 1.41
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg 0.08573(18) 0.2486(2) 0.6799(3)
+C1 C 0.0503(3) 0.0148(6) 0.9144(5)
+H1 H 0.065(5) -0.067(7) 0.854(8)
+O1 O 0.0407(2) 0.1600(4) 0.8569(4)
+O2 O 0.0491(3) -0.0255(4) 1.0517(4)
+O3 O 0.1341(3) 0.3430(4) 0.5053(4)
+C2 C 0.1038(3) 0.4763(6) 0.4245(6)
+H2 H 0.056(5) 0.532(7) 0.448(8)
+O4 O 0.1329(3) 0.5306(4) 0.3206(4)
+C3 C 0.3367(5) 0.2272(4) 0.9301(9)
+H3 H 0.325(6) 0.346(7) 0.936(10)
+O5 O 0.2456(2) 0.1553(4) 0.8417(4)
+O6 O 0.4276(2) 0.1581(4) 1.0196(4)
+N1 N -0.2205(3) 0.3138(5) -0.0880(5)
+H4 H -0.275(5) 0.254(8) -0.081(9)
+H5 H -0.236(6) 0.386(9) -0.090(9)
+C4 C -0.2227(5) 0.2481(7) -0.2477(8)
+H6 H -0.16083 0.29200 -0.25313
+H7 H -0.29120 0.27966 -0.35219
+H8 H -0.21750 0.13012 -0.24072
+C5 C -0.1161(5) 0.2773(8) 0.0763(8)
+H9 H -0.047(6) 0.320(9) 0.086(10)
+H10 H -0.111(6) 0.167(11) 0.084(10)
+H11 H -0.121(6) 0.340(9) 0.150(11)
+Mg1A Mg 0.08573(18) -0.2486(2) 1.1799(3)
+Mg1A* Mg 0.08573(18) 0.7514(2) 0.1799(3)
+Mg1C Mg 0.58573(18) 0.2514(2) 1.1799(3)
+O2A O 0.0491(3) 0.0255(4) 0.5517(4)
+O4A O 0.1329(3) 0.4694(4) 0.8206(4)
+O6C O -0.0724(2) 0.3419(4) 0.5196(4)
+#END

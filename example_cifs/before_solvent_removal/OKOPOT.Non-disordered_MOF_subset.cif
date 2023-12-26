@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OKOPOT
+_audit_creation_date 2004-02-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OKOPOT
+_database_code_depnum_ccdc_archive 'CCDC 208059'
+_chemical_formula_sum 'C8 H28 Ho1 Mo2 N1 O26'
+_chemical_formula_moiety
+;
+(C8 H16 Ho1 Mo2 O22 1-)n,n(H4 N1 1+),4n(H2 O1)
+;
+_journal_coden_Cambridge 222
+_journal_year 2003
+_journal_page_first 3192
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"Chuan-De Wu"
+"Can-Zhong Lu"
+"Shao-Fang Lu"
+"Hong-Hui Zhuang"
+"Jin-Shun Huang"
+_chemical_name_systematic
+;
+catena-(Ammonium 
+bis(\m~3~-L-tartrato)-hexa-aqua-tetraoxo-di-molybdenum(vi)-holmium(iii) 
+tetrahydrate)
+;
+_cell_volume   3761.519
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 2.413
+_exptl_special_details
+;
+Isostructural with the hydroxonium, europium, gadolinium, samarium, ytterbium 
+and yttrium analogues
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0509
+_refine_ls_wR_factor_gt 0.0509
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 65 2 2'
+_symmetry_Int_Tables_number 179
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,-1/3+z
+3 -x+y,-x,1/3+z
+4 -x,-y,1/2+z
+5 y,-x+y,1/6+z
+6 x-y,x,-1/6+z
+7 y,x,-1/3-z
+8 x-y,-y,-z
+9 -x,-x+y,1/3-z
+10 -y,-x,1/6-z
+11 -x+y,y,1/2-z
+12 x,x-y,-1/6-z
+_cell_length_a 15.3017(2)
+_cell_length_b 15.3017(2)
+_cell_length_c 18.5504(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ho 1.74
+Mo 1.41
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ho1 Ho 0.72771(4) 0.27229(4) 0.08330
+Mo1 Mo 0.8733(1) 0.15297(10) 0.35518(6)
+O1 O 0.8298(8) 0.2239(8) 0.2667(5)
+O2 O 0.7038(7) 0.1997(7) 0.1960(5)
+O3 O 0.7276(8) 0.0624(7) 0.3407(4)
+O4 O 0.7014(7) -0.0094(7) 0.1941(5)
+O5 O 0.4968(9) -0.1240(9) 0.3173(6)
+O6 O 0.5798(7) -0.1799(8) 0.2514(6)
+O7 O 0.9303(9) 0.1136(8) 0.2945(5)
+O8 O 0.8751(9) 0.0967(9) 0.4337(5)
+O9 O 0.5555(9) 0.1583(10) 0.0582(6)
+O10 O 0.7073(14) 0.1092(10) 0.0668(7)
+O11 O 0.6353(9) 0.3262(9) 0.1613(6)
+O12 O 0.9350(14) 0.4974(15) 0.6006(9)
+O13 O 0.8587(17) 0.1413(17) 0.58330
+O14 O 0.968(3) -0.0160(13) 0.41670
+O15 O 0.617(3) -0.076(3) 0.4596(12)
+N1 N 1.00000 0.2195(13) 0.16670
+C1 C 0.7426(13) 0.1777(11) 0.2465(8)
+C2 C 0.6712(12) 0.0781(12) 0.2878(8)
+H1 H 0.61720 0.08460 0.31110
+C3 C 0.6257(11) -0.0080(11) 0.2350(6)
+H2 H 0.58210 0.00320 0.20220
+C4 C 0.5601(13) -0.1107(12) 0.2732(8)
+O1I O 0.7761(8) 0.1702(8) -0.100033(500)
+O2I O 0.8003(7) 0.2962(7) -0.029333(500)
+O3I O 0.9376(8) 0.2724(7) -0.174033(400)
+O4I O 1.0094(7) 0.2986(7) -0.027433(500)
+O5I O 1.1240(9) 0.5032(9) -0.150633(600)
+O6I O 1.1799(7) 0.4202(8) -0.084733(600)
+C1I C 0.8223(13) 0.2574(11) -0.079833(800)
+C2I C 0.9219(12) 0.3288(12) -0.121133(800)
+H1I H 0.91540 0.38280 -0.14443
+C3I C 1.0080(11) 0.3743(11) -0.068333(600)
+H2I H 0.99680 0.41790 -0.03553
+C4I C 1.1107(13) 0.4399(12) -0.106533(800)
+O9I O 0.8417(9) 0.4445(10) 0.108467(600)
+O10I O 0.8908(14) 0.2927(10) 0.099867(700)
+O11I O 0.6738(9) 0.3647(9) 0.005367(600)
+Mo1I Mo 0.84703(10) 0.1267(1) -0.188513(60)
+O7I O 0.8864(9) 0.0697(8) -0.127833(500)
+O8I O 0.9033(9) 0.1249(9) -0.267033(500)
+O4D O 0.9906(7) 0.2892(7) 0.360767(500)
+O6D O 0.8201(7) 0.2403(8) 0.418067(600)
+Mo1E Mo 0.72033(10) -0.1267(1) 0.188513(60)
+Mo1H Mo 1.1267(1) 0.27967(10) -0.021847(60)
+O4G O 0.7108(7) 0.0094(7) -0.1941(5)
+O6G O 0.7597(7) 0.1799(8) -0.2514(6)
+#END

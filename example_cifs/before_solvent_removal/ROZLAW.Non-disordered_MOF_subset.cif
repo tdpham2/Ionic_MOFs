@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ROZLAW
+_audit_creation_date 2019-12-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ROZLAW
+_database_code_depnum_ccdc_archive 'CCDC 1972381'
+_chemical_formula_sum 'C15 H22 N3 Na1 O7 S2'
+_chemical_formula_moiety
+;
+C1 H6 N3 1+,n(C14 H16 Na1 O7 S2 1-)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2019
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Chunhua Tony Hu"
+"A.C.Soegiarto"
+"M.D.Ward"
+_chemical_name_systematic
+;
+catena-[Guanidinium 
+(\m-aqua)-(\m-4-methylbenzene-1-sulfonato-O,O)-(\m-4-methylbenzene-1-sulfonato
+-O,O')-sodium]
+;
+_cell_volume    982.057
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.5
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0252
+_refine_ls_wR_factor_gt 0.0252
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.8796(5)
+_cell_length_b 7.2167(3)
+_cell_length_c 13.0998(6)
+_cell_angle_alpha 90
+_cell_angle_beta 107.289(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+Na 1.66
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na 0.00092(10) 0.50924(15) 0.49851(9)
+S1 S 0.07991(3) 0.76267(8) 0.30814(2)
+S2 S 0.28383(3) 0.76286(8) 0.62716(2)
+O1 O 0.15765(16) 0.5940(2) 0.32103(13)
+O2 O 0.16026(15) 0.9293(2) 0.32337(13)
+O3 O -0.00764(10) 0.7614(3) 0.37354(8)
+O4 O 0.21115(15) 0.5945(2) 0.58788(13)
+O5 O 0.21237(15) 0.9323(2) 0.58783(12)
+O6 O 0.41007(10) 0.7635(3) 0.60899(8)
+O7 O 0.08388(12) 0.2617(3) 0.40070(9)
+H1 H 0.116(3) 0.348(3) 0.374(2)
+H2 H 0.100(4) 0.163(3) 0.373(3)
+C1 C -0.01611(13) 0.7671(3) 0.17317(11)
+C2 C 0.03697(16) 0.8373(3) 0.09631(14)
+H3 H 0.12223 0.88483 0.11722
+C3 C -0.03493(17) 0.8374(3) -0.01049(14)
+H4 H 0.00176 0.88468 -0.06254
+C4 C -0.16037(14) 0.7689(4) -0.04260(11)
+C5 C -0.23741(16) 0.7711(4) -0.15912(12)
+H5 H -0.23352 0.64867 -0.19035
+H6 H -0.20160 0.86403 -0.19687
+H7 H -0.32719 0.80210 -0.16589
+C6 C -0.21214(17) 0.7006(3) 0.03539(14)
+H8 H -0.29775 0.65427 0.01454
+C7 C -0.14112(16) 0.6986(3) 0.14325(13)
+H9 H -0.17761 0.65126 0.19541
+C8 C 0.31460(13) 0.7643(4) 0.7672(1)
+C9 C 0.23097(17) 0.6766(3) 0.81392(15)
+H10 H 0.15746 0.61269 0.77086
+C10 C 0.25612(18) 0.6835(3) 0.92449(15)
+H11 H 0.19862 0.62494 0.95654
+C11 C 0.36429(16) 0.7750(4) 0.98884(12)
+C12 C 0.44723(18) 0.8616(3) 0.94050(15)
+H12 H 0.52146 0.92420 0.98338
+C13 C 0.42223(16) 0.8569(3) 0.83018(14)
+H13 H 0.47884 0.91722 0.79787
+C14 C 0.3926(2) 0.7839(4) 1.10848(14)
+H14 H 0.36912 0.90655 1.12889
+H15 H 0.48455 0.76215 1.14264
+H16 H 0.34240 0.68883 1.13175
+N1 N 0.43958(18) 0.6035(2) 0.37662(15)
+H17 H 0.35497 0.60359 0.35906
+H18 H 0.48186 0.49784 0.38600
+N2 N 0.63154(12) 0.7631(4) 0.41471(12)
+H19 H 0.67400 0.86847 0.42238
+H20 H 0.67365 0.65729 0.42406
+N3 N 0.44034(18) 0.9233(2) 0.37493(15)
+H21 H 0.48285 1.02869 0.38260
+H22 H 0.35577 0.92380 0.35791
+C15 C 0.50382(13) 0.7637(4) 0.38902(10)
+Na1A Na -0.00092(10) 0.00924(15) 0.50149(9)
+Na1A* Na -0.00092(10) 1.00924(15) 0.50149(9)
+O3A O 0.00764(10) 0.2614(3) 0.62646(8)
+O5A O -0.21237(15) 0.4323(2) 0.41217(12)
+O7A O -0.08388(12) 0.7617(3) 0.59930(9)
+#END

@@ -1,0 +1,161 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AWORUC01
+_audit_creation_date 2021-06-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AWORUC01
+_database_code_depnum_ccdc_archive 'CCDC 2068848'
+_chemical_formula_sum 'C16 H24 Mn1 N10'
+_chemical_formula_moiety
+;
+(C10 H24 N1 1+)n,n(C6 Mn1 N9 1-)
+;
+_journal_coden_Cambridge 1741
+_journal_year 2021
+_journal_name_full 'Materials Horizons '
+loop_
+_publ_author_name
+"S.Burger"
+"S.Grover"
+"K.Butler"
+"H.Bostrom"
+"R.Grau-Crespo"
+"G.Kieslich"
+_chemical_name_systematic
+;
+catena-(N-methyl-tri-n-propylammonium tris(\m-dicyanamide)-manganese)
+;
+_cell_volume   3100.630
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.322
+_exptl_special_details
+;
+suitable crystal prepared from bulk in perfluoroether oil under a microscope
+R3c polymorph
+;
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'high entropy crystallisation from water precursor solution at 95 degrees C'
+_diffrn_ambient_temperature 100
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0396
+_refine_ls_wR_factor_gt 0.0396
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R 3 c'
+_symmetry_Int_Tables_number 161
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,1/2+z
+5 -x+y,y,1/2+z
+6 x,x-y,1/2+z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3-y,1/3-x,5/6+z
+11 2/3-x+y,1/3+y,5/6+z
+12 2/3+x,1/3+x-y,5/6+z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3-y,2/3-x,1/6+z
+17 1/3-x+y,2/3+y,1/6+z
+18 1/3+x,2/3+x-y,1/6+z
+_cell_length_a 12.8301(13)
+_cell_length_b 12.8301(13)
+_cell_length_c 21.750(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.33333 0.66667 0.64252(6)
+N1 N 0.8553(4) 0.8546(3) 0.53183(19)
+N2 N 0.6496(3) 0.6832(3) 0.52921(19)
+N3 N 0.4762(3) 0.6743(4) 0.5829(2)
+C1 C 0.7565(4) 0.7775(4) 0.5317(2)
+C2 C 0.5608(4) 0.6842(4) 0.5589(2)
+N4 N 0.66667 0.33333 0.5485(3)
+C3 C 0.5832(4) 0.3765(4) 0.5248(2)
+H1 H 0.60752 0.45572 0.54358
+H2 H 0.59482 0.38882 0.47980
+C4 C 0.4501(4) 0.2932(4) 0.5372(2)
+H3 H 0.43866 0.26470 0.58029
+H4 H 0.41890 0.22220 0.50986
+C5 C 0.66667 0.33333 0.6180(4)
+C6 C 0.3802(4) 0.3589(4) 0.5261(2)
+H5 H 0.40107 0.39741 0.48559
+H6 H 0.40100 0.42029 0.55792
+H7 H 0.29367 0.30111 0.52769
+H8 H 0.585(6) 0.269(5) 0.631(3)
+N1A N 0.1454(4) 1.0007(3) 0.53183(19)
+N2A N 0.3168(3) 0.9664(3) 0.52921(19)
+N3A N 0.3257(3) 0.8019(4) 0.5829(2)
+C1A C 0.2225(4) 0.9790(4) 0.5317(2)
+C2A C 0.3158(4) 0.8766(4) 0.5589(2)
+N1B N -0.0007(4) 0.1447(3) 0.53183(19)
+N2B N 0.0336(3) 0.3504(3) 0.52921(19)
+N3B N 0.1981(3) 0.5238(4) 0.5829(2)
+C1B C 0.0210(4) 0.2435(4) 0.5317(2)
+C2B C 0.1234(4) 0.4392(4) 0.5589(2)
+Mn1I Mn -0.00000 0.00000 0.475853(60)
+Mn1I* Mn -0.00000 1.00000 0.475853(60)
+Mn1I** Mn 1.00000 1.00000 0.475853(60)
+N1O N 0.478733(400) 0.811367(300) 0.698497(190)
+N1P N 0.332633(400) 0.521267(300) 0.698497(190)
+N1Q N 0.188633(400) 0.667367(300) 0.698497(190)
+C3A C 0.6235(4) 0.2067(4) 0.5248(2)
+H1A H 0.54428 0.15180 0.54358
+H2A H 0.61118 0.20600 0.47980
+C4A C 0.7068(4) 0.1569(4) 0.5372(2)
+H3A H 0.73530 0.17396 0.58029
+H4A H 0.77780 0.19670 0.50986
+C6A C 0.6411(4) 0.0213(4) 0.5261(2)
+H5A H 0.60259 0.00365 0.48559
+H6A H 0.57971 -0.01928 0.55792
+H7A H 0.69889 -0.00744 0.52769
+H8A H 0.731(6) 0.316(5) 0.631(3)
+C3B C 0.7933(4) 0.4168(4) 0.5248(2)
+H1B H 0.84820 0.39248 0.54358
+H2B H 0.79400 0.40518 0.47980
+C4B C 0.8431(4) 0.5499(4) 0.5372(2)
+H3B H 0.82604 0.56134 0.58029
+H4B H 0.80329 0.58110 0.50986
+C6B C 0.9787(4) 0.6198(4) 0.5261(2)
+H5B H 0.99635 0.59893 0.48559
+H6B H 1.01928 0.59900 0.55792
+H7B H 1.00744 0.70633 0.52769
+H8B H 0.684(6) 0.415(5) 0.631(3)
+#END

@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAVFEV03
+_audit_creation_date 2016-10-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAVFEV03
+_database_code_depnum_ccdc_archive 'CCDC 1012765'
+_chemical_formula_sum 'C12 H32 Eu2 N2 O24'
+_chemical_formula_moiety
+;
+(C8 H4 Eu2 O18 2-)n,2(C2 H8 N1 1+),6(H2 O1)
+;
+_journal_coden_Cambridge 1699
+_journal_volume 4
+_journal_year 2016
+_journal_page_first 16484
+_journal_name_full 'J.Mater.Chem.A '
+loop_
+_publ_author_name
+"Xin Wang"
+"Tao Qin"
+"Song-Song Bao"
+"Yu-Chi Zhang"
+"Xuan Shen"
+"Li-Min Zheng"
+"Dunru Zhu"
+_chemical_name_systematic
+;
+catena-[bis(dimethylammonium) tetrakis(\m-oxalato)-diaqua-di-europium 
+hexahydrate]
+;
+_cell_volume   1381.283
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.145
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0313
+_refine_ls_wR_factor_gt 0.0313
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.6706(10)
+_cell_length_b 11.7551(13)
+_cell_length_c 12.3115(13)
+_cell_angle_alpha 90
+_cell_angle_beta 99.269(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Eu 1.98
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu1 Eu 0.28617(2) 1.015537(13) 0.169091(15)
+O1 O 0.3605(3) 1.2154(2) 0.1563(2)
+O2 O 0.4545(3) 1.0231(2) 0.3460(2)
+H1 H 0.48110 0.96110 0.37810
+H2 H 0.40660 1.05910 0.38700
+O3 O 0.1921(3) 1.14080(18) 0.2943(2)
+O4 O 0.3160(3) 1.39480(19) 0.2001(2)
+O5 O 0.1339(3) 1.31971(19) 0.3278(2)
+O6 O 0.3186(2) 1.0118(2) -0.0227(2)
+O7 O 0.4664(3) 0.9863(2) -0.14230(19)
+O8 O 0.1023(3) 0.8911(2) 0.0671(2)
+O9 O -0.0839(3) 0.8819(2) -0.0666(2)
+C1 C 0.3012(4) 1.2890(3) 0.2061(3)
+C2 C 0.1998(4) 1.2452(3) 0.2822(3)
+C3 C 0.4379(4) 0.9990(3) -0.0469(3)
+C4 C 0.0059(4) 0.9341(3) 0.0008(3)
+O10 O 0.4189(4) 1.1575(2) 0.5347(3)
+H3 H 0.44900 1.21440 0.50280
+H4 H 0.34120 1.17640 0.55340
+O11 O 0.1725(4) 0.9928(3) 0.5083(3)
+H5 H 0.16160 1.06390 0.51600
+H6 H 0.12670 0.98030 0.44450
+O12 O -0.0822(4) 0.7824(3) 0.4687(3)
+H7 H -0.04140 0.73440 0.43300
+H8 H -0.11720 0.74620 0.51750
+C5 C 0.6933(6) 1.2451(4) 0.3332(5)
+H9 H 0.61410 1.24170 0.37110
+H10 H 0.66980 1.28980 0.26750
+H11 H 0.77110 1.27930 0.38010
+C6 C 0.8506(5) 1.1227(5) 0.2447(4)
+H12 H 0.86800 1.04430 0.22950
+H13 H 0.93210 1.15470 0.28900
+H14 H 0.83010 1.16400 0.17670
+N1 N 0.7311(4) 1.1304(3) 0.3039(3)
+H15 H 0.65630 1.09850 0.26210
+H16 H 0.75060 1.08900 0.36600
+O6B O 0.6814(2) 0.9882(2) 0.0227(2)
+O7B O 0.5336(3) 1.0137(2) 0.14230(19)
+C3B C 0.5621(4) 1.0010(3) 0.0469(3)
+O8B O -0.1023(3) 1.1089(2) -0.0671(2)
+O9B O 0.0839(3) 1.1181(2) 0.0666(2)
+C4B C -0.0059(4) 1.0659(3) -0.0008(3)
+Eu1B Eu -0.28617(2) 0.984463(13) -0.169091(15)
+O1B O -0.3605(3) 0.7846(2) -0.1563(2)
+O2B O -0.4545(3) 0.9769(2) -0.3460(2)
+H1B H -0.48110 1.03890 -0.37810
+H2B H -0.40660 0.94090 -0.38700
+O3B O -0.1921(3) 0.85920(18) -0.2943(2)
+O4B O -0.3160(3) 0.60520(19) -0.2001(2)
+O5B O -0.1339(3) 0.68029(19) -0.3278(2)
+C1B C -0.3012(4) 0.7110(3) -0.2061(3)
+C2B C -0.1998(4) 0.7548(3) -0.2822(3)
+Eu1A Eu 0.21383(2) 1.515537(13) 0.330909(15)
+Eu1B* Eu 0.71383(2) 0.984463(13) -0.169091(15)
+Eu1C Eu -0.21383(2) 0.484463(13) -0.330909(15)
+O4A O 0.1840(3) 0.89480(19) 0.2999(2)
+O4C O -0.1840(3) 1.10520(19) -0.2999(2)
+O5A O 0.3661(3) 0.81971(19) 0.1722(2)
+O5C O -0.3661(3) 1.18029(19) -0.1722(2)
+O6B* O -0.3186(2) 0.9882(2) 0.0227(2)
+O7* O -0.5336(3) 0.9863(2) -0.14230(19)
+#END

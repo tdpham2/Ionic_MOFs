@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       NaCrC2O4C2O4C2O4
+_chemical_formula_sum              "Na1 Cr1 C6 O12"
+_cell_length_a       8.8372
+_cell_length_b       9.5138
+_cell_length_c       18.1928
+_cell_angle_alpha    81.938
+_cell_angle_beta     77.483
+_cell_angle_gamma    68.091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.32140  0.81290  0.00293  1.0000
+  Cr  Cr1       1.0  0.67501  0.19461  0.99816  1.0000
+  C   C1        1.0  0.54040  0.49250  0.03680  1.0000
+  C   C2        1.0  0.48220  0.49030  0.96100  1.0000
+  O   O1        1.0  0.48630  0.61000  0.06980  1.0000
+  O   O2        1.0  0.38240  0.60560  0.93690  1.0000
+  O   O3        1.0  0.55260  0.36170  0.93100  1.0000
+  O   O4        1.0  0.64150  0.36520  0.05860  1.0000
+  C   C3        1.0  0.43970  0.05810  0.03530  1.0000
+  C   C4        1.0  0.56820  0.97650  0.96540  1.0000
+  O   O5        1.0  0.32860  0.00970  0.06490  1.0000
+  O   O6        1.0  0.55410  0.86660  0.94270  1.0000
+  O   O7        1.0  0.67910  0.03420  0.93790  1.0000
+  O   O8        1.0  0.46550  0.16940  0.05460  1.0000
+  C   C5        1.0  0.95420  0.97240  0.03930  1.0000
+  C   C6        1.0  0.01390  0.05440  0.96270  1.0000
+  O   O9        1.0  0.05540  0.86080  0.06630  1.0000
+  O   O10       1.0  0.15830  0.00130  0.93020  1.0000
+  O   O11       1.0  0.89990  0.17600  0.94170  1.0000
+  O   O12       1.0  0.80220  0.03460  0.06680  1.0000

@@ -1,0 +1,154 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SULVUS
+_audit_creation_date 2015-08-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SULVUS
+_database_code_depnum_ccdc_archive 'CCDC 1402128'
+_chemical_formula_sum 'C18 H32 Au2 N8 O1 S4'
+_chemical_formula_moiety
+;
+(C8 Au2 N4 S4 2-)n,2(C5 H12 N1 1+),2(H3 N1),H2 O1
+;
+_journal_coden_Cambridge 182
+_journal_volume 51
+_journal_year 2015
+_journal_page_first 14299
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"R.J.Roberts"
+"D.Le"
+"D.B.Leznoff"
+_chemical_name_systematic
+;
+catena-(bis(piperidinium) bis(\m-2,2-dicyanoethene-1,1-dithiolato)-di-gold 
+bis(ammonia) monohydrate)
+;
+_cell_volume   2824.142
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.114
+_exptl_special_details
+;
+Luminescent
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'Re-crystallisation from solvent'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0278
+_refine_ls_wR_factor_gt 0.0278
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.5756(14)
+_cell_length_b 23.180(3)
+_cell_length_c 11.6908(16)
+_cell_angle_alpha 90
+_cell_angle_beta 99.794(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Au 1.36
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Au1 Au 0.79222(3) 0.75400(2) 0.27398(2)
+Au2 Au 0.79142(3) 0.74347(2) 0.51468(2)
+S1 S 0.9013(2) 0.66898(9) 0.26968(15)
+S2 S 0.9528(2) 0.67576(9) 0.53839(16)
+S3 S 0.6829(2) 0.83983(9) 0.26046(16)
+S4 S 0.6263(2) 0.80878(9) 0.50554(16)
+N1 N 1.0860(9) 0.5409(3) 0.2288(6)
+N2 N 1.1429(9) 0.5412(4) 0.5954(6)
+N3 N 0.5048(9) 0.9708(3) 0.2071(6)
+N4 N 0.4296(7) 0.9299(3) 0.5541(6)
+C1 C 0.9661(8) 0.6440(3) 0.4066(6)
+C2 C 1.0380(9) 0.5936(3) 0.4104(6)
+C3 C 1.0614(9) 0.5647(3) 0.3076(7)
+C4 C 1.0959(10) 0.5665(4) 0.5158(7)
+C5 C 0.6133(8) 0.8517(3) 0.3823(6)
+C6 C 0.5403(8) 0.9008(3) 0.3810(6)
+C7 C 0.5210(9) 0.9397(4) 0.2843(7)
+C8 C 0.4789(8) 0.9163(3) 0.4774(7)
+O1 O 0.8045(6) 0.9953(2) 0.4858(5)
+H1 H 0.731(5) 1.013(4) 0.446(7)
+H2 H 0.769(9) 0.989(4) 0.553(5)
+N5 N 0.5354(8) 0.8552(3) -0.0665(7)
+H3 H 0.59190 0.88810 -0.03880
+H4 H 0.58160 0.81930 -0.03890
+C9 C 0.4164(10) 0.8592(4) -0.0141(8)
+H5 H 0.37270 0.89630 -0.03620
+H6 H 0.43920 0.85790 0.07160
+C10 C 0.3275(10) 0.8102(4) -0.0554(8)
+H7 H 0.24750 0.81390 -0.02270
+H8 H 0.36860 0.77310 -0.02870
+C11 C 0.2963(10) 0.8110(5) -0.1878(8)
+H9 H 0.25060 0.84720 -0.21390
+H10 H 0.23930 0.77820 -0.21530
+C12 C 0.4202(11) 0.8068(5) -0.2402(8)
+H11 H 0.46220 0.76920 -0.21980
+H12 H 0.39890 0.80940 -0.32590
+C13 C 0.5108(11) 0.8553(5) -0.1943(8)
+H13 H 0.59280 0.85050 -0.22340
+H14 H 0.47280 0.89270 -0.22280
+N6 N 0.9967(7) 0.9266(3) 0.4226(5)
+H15 H 1.06560 0.95280 0.45970
+H16 H 0.91530 0.94860 0.40940
+C14 C 1.0266(9) 0.9063(4) 0.3079(6)
+H17 H 1.03430 0.93990 0.25730
+H18 H 0.95610 0.88150 0.26870
+C15 C 1.1507(9) 0.8728(4) 0.3278(7)
+H19 H 1.22200 0.89910 0.35910
+H20 H 1.16740 0.85760 0.25270
+C16 C 1.1473(11) 0.8230(4) 0.4117(8)
+H21 H 1.08570 0.79350 0.37520
+H22 H 1.23320 0.80500 0.42930
+C17 C 1.1076(11) 0.8439(4) 0.5233(7)
+H23 H 1.09680 0.81030 0.57290
+H24 H 1.17660 0.86850 0.56590
+C18 C 0.9851(9) 0.8776(4) 0.5012(6)
+H25 H 0.91400 0.85210 0.46570
+H26 H 0.96510 0.89220 0.57560
+N7 N 0.6866(10) 0.9468(4) 0.0148(7)
+H27 H 0.65320 0.96700 0.06940
+H28 H 0.65980 0.96290 -0.05630
+H29 H 0.77380 0.94790 0.03160
+N8 N 0.7295(7) 0.9612(3) 0.6850(6)
+H30 H 0.756(7) 0.928(3) 0.705(6)
+H31 H 0.756(7) 0.980(3) 0.745(6)
+H32 H 0.656(7) 0.961(3) 0.677(7)
+Au1C Au 0.79222(3) 0.74600(2) 0.77398(2)
+Au2C Au 0.79142(3) 0.75653(2) 0.01468(2)
+#END

@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_REBDOR
+_audit_creation_date 2001-11-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD REBDOR
+_chemical_formula_sum 'C20 H16 Br5 Cu4 N4'
+_chemical_formula_moiety
+;
+(C20 H16 Br1 Cu1 N4 1+)n,n(Br4 Cu3 1-)
+;
+_journal_coden_Cambridge 1109
+_journal_volume 547
+_journal_year 1999
+_journal_page_first 493
+_journal_name_full 'Mat.Res.Soc.Symp.Proc. '
+loop_
+_publ_author_name
+"B.R.Cabrera"
+"Ru-Ji Wang"
+"Jing Li"
+"Tan Yuen"
+_chemical_name_systematic
+;
+catena-(Bromo-bis(2,2'-bipyridine-N,N')-copper(ii) 
+bis(\m~4~-bromo)-bis(\m~2~-bromo)-tri-copper(i))
+;
+_cell_volume   2583.515
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.484
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0771
+_refine_ls_wR_factor_gt 0.0771
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 16.769(2)
+_cell_length_b 23.873(6)
+_cell_length_c 6.523(2)
+_cell_angle_alpha 90
+_cell_angle_beta 98.37(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Br 1.36
+Cu 1.23
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 Cu 0.1927(1) 0.11914(6) -0.3921(2)
+Cu2 Cu 0.6738(2) 0.12833(9) -0.7711(4)
+Cu3 Cu 0.6831(1) 0.24963(9) -0.2416(3)
+Cu4 Cu 0.6894(2) 0.12904(9) -0.2727(4)
+Br1 Br 0.1232(1) 0.14316(7) -0.1024(2)
+Br2 Br 0.77087(9) 0.20076(6) -0.4590(2)
+Br3 Br 0.6084(1) 0.07762(6) -0.5340(2)
+Br4 Br 0.7676(1) 0.09254(6) 0.0261(2)
+Br5 Br 0.59210(9) 0.19844(6) -0.0267(2)
+N1 N 0.2857(7) 0.1539(4) -0.526(2)
+C1 C 0.360(1) 0.1417(6) -0.435(2)
+C2 C 0.428(1) 0.1609(6) -0.506(3)
+C3 C 0.421(1) 0.1930(7) -0.683(3)
+C4 C 0.345(1) 0.2045(6) -0.782(2)
+C5 C 0.2774(9) 0.1847(5) -0.700(2)
+N2 N 0.2880(7) 0.0894(5) -0.212(2)
+C6 C 0.363(1) 0.1057(6) -0.249(2)
+C7 C 0.430(1) 0.0881(6) -0.128(3)
+C8 C 0.426(1) 0.0541(7) 0.043(3)
+C9 C 0.351(1) 0.0386(7) 0.083(3)
+C10 C 0.2845(9) 0.0566(5) -0.045(2)
+N3 N 0.0979(6) 0.1489(4) -0.579(2)
+C11 C 0.0450(8) 0.1113(5) -0.667(2)
+C12 C -0.0301(8) 0.1289(6) -0.769(2)
+C13 C -0.0519(9) 0.1838(6) -0.777(2)
+C14 C 0.0046(9) 0.2213(6) -0.690(2)
+C15 C 0.0783(9) 0.2041(5) -0.591(2)
+N4 N 0.1468(7) 0.0450(4) -0.533(2)
+C16 C 0.0742(8) 0.0527(5) -0.646(2)
+C17 C 0.0293(9) 0.0084(5) -0.736(2)
+C18 C 0.055(1) -0.0454(7) -0.713(2)
+C19 C 0.129(1) -0.0532(5) -0.595(2)
+C20 C 0.1701(8) -0.0077(6) -0.508(2)
+Br5C Br 0.59210(9) 0.30156(6) -0.5267(2)
+Br4* Br 0.7676(1) 0.09254(6) -0.9739(2)
+Br5* Br 0.59210(9) 0.19844(6) -1.0267(2)
+Cu3C Cu 0.6831(1) 0.25037(9) -0.7416(3)
+Cu2* Cu 0.6738(2) 0.12833(9) 0.2289(4)
+Cu3C* Cu 0.6831(1) 0.25037(9) 0.2584(3)
+Br2C Br 0.77087(9) 0.29924(6) 0.0410(2)
+#END

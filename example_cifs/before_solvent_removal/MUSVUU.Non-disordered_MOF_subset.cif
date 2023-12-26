@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MUSVUU
+_audit_creation_date 2020-08-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MUSVUU
+_database_code_depnum_ccdc_archive 'CCDC 1991956'
+_chemical_formula_sum 'C14 H14 K2 O16 S3 Zn1'
+_chemical_formula_moiety
+;
+(C14 H14 O16 S3 Zn1 2-)n,2(K1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 59
+_journal_year 2020
+_journal_page_first 12314
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Xue-Yun Zeng"
+"Yu-Ling Wang"
+"Zhao-Ting Lin"
+"Qing-Yan Liu"
+_chemical_name_systematic
+;
+catena-[di-potassium 
+(\m-3,3'-sulfonylbis(6-carboxylatobenzene-1-sulfonato))-tetra-aqua-zinc(ii)]
+;
+_cell_volume   4351.180
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.07
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0469
+_refine_ls_wR_factor_gt 0.0469
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 28.1759(11)
+_cell_length_b 5.1633(2)
+_cell_length_c 29.9090(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+K 2.03
+O 0.68
+S 1.02
+Zn 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 0.34488(2) 0.20541(9) 0.93906(2)
+O1 O 0.35316(10) 0.4676(5) 0.88644(8)
+O2 O 0.39690(11) 0.4149(7) 0.97443(10)
+O3 O 0.39316(10) -0.0408(6) 0.90701(10)
+O4 O 0.28874(10) -0.0196(6) 0.91518(10)
+O5 O 0.29317(10) 0.4745(6) 0.96715(10)
+O6 O 0.34671(10) -0.0521(5) 0.99472(9)
+C1 C 0.33123(14) 0.4262(8) 0.85001(13)
+O7 O 0.30082(12) 0.2577(7) 0.84367(11)
+C2 C 0.34111(13) 0.6063(8) 0.81088(12)
+C3 C 0.38616(13) 0.6521(7) 0.79267(12)
+C4 C 0.30189(14) 0.7228(8) 0.79235(14)
+S1 S 0.43838(3) 0.49942(19) 0.81388(3)
+C5 C 0.39077(13) 0.8231(7) 0.75706(13)
+C6 C 0.30629(14) 0.8938(8) 0.75677(14)
+H1 H 0.27194 0.68651 0.80382
+O8 O 0.4539(1) 0.6506(6) 0.85182(10)
+O9 O 0.42584(10) 0.2356(6) 0.82552(11)
+O10 O 0.47348(10) 0.5123(6) 0.77799(9)
+H2 H 0.42048 0.85600 0.74477
+C7 C 0.35074(13) 0.9444(7) 0.73997(12)
+H3 H 0.27963 0.97279 0.74452
+S2 S 0.35623(3) 1.16383(18) 0.69448(3)
+O11 O 0.31686(12) 1.3376(6) 0.69603(10)
+O12 O 0.40404(11) 1.2642(6) 0.69474(10)
+C8 C 0.35031(13) 0.9676(8) 0.64647(12)
+C9 C 0.39055(13) 0.8783(8) 0.62480(13)
+C10 C 0.30514(14) 0.8996(8) 0.63195(13)
+C11 C 0.38579(13) 0.7191(8) 0.58752(12)
+H4 H 0.42054 0.92430 0.63509
+H5 H 0.27840 0.95831 0.64710
+C12 C 0.30054(14) 0.7437(9) 0.59475(14)
+S3 S 0.43938(3) 0.5960(2) 0.56322(3)
+C13 C 0.34040(13) 0.6533(8) 0.57239(12)
+H6 H 0.27047 0.69882 0.58456
+O13 O 0.42956(11) 0.3292(6) 0.55134(11)
+O14 O 0.45120(11) 0.7552(6) 0.5250(1)
+O15 O 0.47496(10) 0.6177(7) 0.59816(10)
+C14 C 0.33048(14) 0.4810(8) 0.53249(14)
+O16 O 0.30546(13) 0.2889(7) 0.53927(11)
+K1 K 0.52102(3) 0.1157(2) 0.56345(3)
+K2 K 0.51391(3) -0.00055(19) 0.81141(3)
+O6F O 0.34671(10) 0.5521(5) 0.49472(9)
+Zn1F Zn 0.34488(2) 0.29459(9) 0.43906(2)
+#END

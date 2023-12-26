@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EXEDAN
+_audit_creation_date 2011-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EXEDAN
+_database_code_depnum_ccdc_archive 'CCDC 840940'
+_chemical_formula_sum 'C4 H9 Cs1 O16 P2 U2'
+_chemical_formula_moiety
+;
+(C4 H7 O15 P2 U2 1-)n,n(Cs1 1+),n(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 48
+_journal_year 2009
+_journal_page_first 11079
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"A.N.Alsobrook"
+"T.E.Albrecht-Schmitt"
+_chemical_name_systematic
+;
+catena-(cesium 
+(\m~4~-phosphonatoacetato)-(\m~3~-(carboxymethyl)phosphonato)-tetraoxo-aqua-di
+-uranium monohydrate)
+;
+_chemical_name_common
+;
+CsUPAA
+;
+_cell_volume    854.524
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 3.809
+_exptl_crystal_description 'tablet'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0203
+_refine_ls_wR_factor_gt 0.0203
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.4688(4)
+_cell_length_b 9.0850(5)
+_cell_length_c 11.4791(6)
+_cell_angle_alpha 83.587(1)
+_cell_angle_beta 77.438(1)
+_cell_angle_gamma 84.684(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cs 1.94
+O 0.68
+P 1.05
+U 1.48
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U -0.708550(19) -0.367700(18) -0.144400(14)
+U2 U -0.263060(19) -0.197870(18) -0.418090(14)
+Cs1 Cs -0.65037(5) -0.86207(4) -0.19324(3)
+P1 P -0.29712(14) -0.47838(13) -0.16456(10)
+P2 P 0.13614(14) -0.11683(14) -0.36781(11)
+O1 O -0.4695(4) -0.5192(4) -0.1543(3)
+O2 O -0.2703(4) -0.3232(4) -0.2282(3)
+O3 O -0.2462(4) -0.4904(4) -0.0439(3)
+O4 O -0.0361(5) -0.8084(4) -0.1551(4)
+H1 H -0.03670 -0.76110 -0.09820
+O5 O -0.2589(5) -0.8375(4) -0.2183(4)
+O6 O -0.0398(4) -0.1169(4) -0.3745(3)
+O7 O 0.1653(4) -0.1670(4) -0.2430(3)
+O8 O 0.2004(4) 0.0347(4) -0.4120(3)
+O9 O 0.5336(4) -0.2270(4) -0.5362(3)
+O10 O 0.4592(4) -0.3183(4) -0.3496(3)
+O11 O -0.6282(4) -0.2305(4) -0.0803(3)
+O12 O -0.7932(4) -0.5063(4) -0.2047(3)
+O13 O -0.3820(4) -0.0511(4) -0.3451(3)
+O14 O -0.1502(5) -0.3497(4) -0.4884(3)
+O15 O -0.9942(4) -0.3214(4) -0.0347(3)
+O16 O -0.7672(6) -0.9055(5) 0.0978(4)
+C1 C -0.1588(6) -0.6009(6) -0.2580(5)
+H2 H -0.19340 -0.59950 -0.33330
+H3 H -0.05210 -0.56260 -0.27570
+C2 C -0.1449(7) -0.7573(6) -0.2054(5)
+C3 C 0.2497(6) -0.2536(6) -0.4635(4)
+H4 H 0.24430 -0.22290 -0.54630
+H5 H 0.20250 -0.34860 -0.44100
+C4 C 0.4223(6) -0.2691(5) -0.4511(4)
+U1A U -0.291450(19) -0.632300(18) 0.144400(14)
+U1* U 0.291450(19) -0.367700(18) -0.144400(14)
+U2A U 0.263060(19) 0.197870(18) -0.581910(14)
+U2* U 0.736940(19) -0.197870(18) -0.418090(14)
+O3A O -0.7538(4) -0.5096(4) 0.0439(3)
+O7* O -0.8347(4) -0.1670(4) -0.2430(3)
+O8A O -0.2004(4) -0.0347(4) -0.5880(3)
+O9* O -0.4664(4) -0.2270(4) -0.5362(3)
+O10* O -0.5408(4) -0.3183(4) -0.3496(3)
+#END

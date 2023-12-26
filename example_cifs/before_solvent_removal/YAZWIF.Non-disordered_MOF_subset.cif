@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YAZWIF
+_audit_creation_date 1994-10-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YAZWIF
+_database_code_depnum_ccdc_archive 'CCDC 1300395'
+_database_code_depnum_ccdc_fiz 'CSD 400007'
+_chemical_formula_sum 'C12 H21 Cs2 O13 Pr1'
+_chemical_formula_moiety
+;
+(C10 H15 O10 Pr1 2-)n,2n(Cs1 1+),n(C2 H3 O2 1-),n(H3 O1 1+)
+;
+_journal_coden_Cambridge 29
+_journal_volume 619
+_journal_year 1993
+_journal_page_first 2021
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"A.Lossin"
+"G.Meyer"
+_chemical_name_systematic
+;
+catena(tris(\m~3~-Acetato)-(\m~2~-acetato)-bis(acetato-cesium)-praseodymium 
+oxonium)
+;
+_cell_volume   1258.747
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C m'
+_symmetry_Int_Tables_number 8
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,z
+4 1/2+x,1/2-y,z
+_cell_length_a 15.404(4)
+_cell_length_b 6.913(2)
+_cell_length_c 12.215(4)
+_cell_angle_alpha 90
+_cell_angle_beta 104.60(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.64
+Cs 1.40
+O 0.75
+Pr 1.82
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pr1 Pr 0.00000 0.00000 0.00000
+O1 O 0.06251 0.16022 -0.15364
+O2 O 0.15072 0.15779 0.10035
+O3 O -0.03010 -0.34338 0.01841
+O4 O 0.01053 0.00000 0.21204
+O5 O -0.12587 0.00000 0.10641
+O6 O -0.26643 0.00000 -0.27991
+O7 O -0.13583 0.00000 -0.15262
+C1 C 0.07943 0.00000 -0.18860
+C2 C 0.12689 0.00000 -0.28627
+C3 C 0.18906 0.00000 0.12178
+C4 C 0.29171 0.00000 0.16489
+C5 C -0.06218 -0.50000 -0.02588
+C6 C -0.14746 -0.50000 -0.11580
+C7 C -0.07435 0.00000 0.19921
+C8 C -0.10335 0.00000 0.31382
+C9 C -0.18340 0.00000 -0.25169
+C10 C -0.13819 0.00000 -0.34721
+Cs1 Cs 0.68451 0.00000 0.95244
+Cs2 Cs 0.59346 0.00000 0.25031
+O8 O 0.48778 0.00000 0.43038
+O9 O 0.62701 0.00000 0.52728
+C11 C 0.54705 0.00000 0.52252
+C12 C 0.51899 0.00000 0.63119
+O10 O 0.179(2) 0.00000 0.416(2)
+O1B O 0.06251 -0.16022 -0.15364
+O2B O 0.15072 -0.15779 0.10035
+O3B O -0.03010 -0.65662 0.01841
+Pr1B Pr 0.00000 -1.00000 0.00000
+O3B* O -0.03010 0.34338 0.01841
+#END

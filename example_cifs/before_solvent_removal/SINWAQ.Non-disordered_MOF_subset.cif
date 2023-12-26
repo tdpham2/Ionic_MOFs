@@ -1,0 +1,214 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SINWAQ
+_audit_creation_date 2018-08-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SINWAQ
+_database_code_depnum_ccdc_archive 'CCDC 1862551'
+_chemical_formula_sum 'C36 H70 In35 N15 O8 S48'
+_chemical_formula_moiety
+;
+2(C9 H18 N2 2+),C6 H18 N3 3+,2(C3 H5 N2 1+),n(C6 H6 In35 N4 O8 S48 9-)
+;
+_journal_coden_Cambridge 4
+_journal_volume 140
+_journal_year 2018
+_journal_page_first 11189
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Huajun Yang"
+"Jiaxu Zhang"
+"Min Luo"
+"Wei Wang"
+"Haiping Lin"
+"Youyong Li"
+"Dongsheng Li"
+"Pingyun Feng"
+"Tao Wu"
+_chemical_name_systematic
+;
+catena-[bis(1,8-diazoniabicyclo[5.4.0]undec-7-ene) 
+(1-(2-ammonioethyl)piperazine-1,4-diium) bis(imidazolium) 
+(M)-octakis(\m-oxo)-octatetracontakis(\m-sulfido)-bis(\m-imidazolyl)-pentatria
+conta-indium]
+;
+_chemical_name_common
+;
+IOS-2(M)
+;
+_cell_volume  16580.441
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+The paper states that charge-balancing protonated amine molecules are fully 
+disordered in the structure. The synthesis contains several moieties that 
+could act as charge-balancing cations, the CSD entry has included examples of 
+each as no further information is given in the paper
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+Protonated amine molecules, required for charge balance, have not been 
+modelled from the diffraction data.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0314
+_refine_ls_wR_factor_gt 0.0314
+loop_
+_citation_database_id_CSD
+_citation_special_details
+SINWEU "is a stereoisomer of this entry"
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 31 1 2'
+_symmetry_Int_Tables_number 151
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 -y,-x,2/3-z
+5 -x+y,y,1/3-z
+6 x,x-y,-z
+_cell_length_a 21.5809(19)
+_cell_length_b 21.5809(19)
+_cell_length_c 41.108(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+In 1.42
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.98790(14) 0.88784(14) 0.60938(6)
+O1 O 0.878(1) 0.8159(11) 0.6283(4)
+S1 S 0.9292(5) 0.8274(5) 0.5571(2)
+S2 S 1.1104(5) 0.9719(7) 0.5864(2)
+O2 O 1.0187(11) 0.8391(11) 0.6438(4)
+S3 S 0.9555(7) 0.9823(5) 0.6214(2)
+In2 In 0.81313(14) 0.75374(15) 0.58629(5)
+In3 In 0.87586(10) 0.7517(2) 0.66670
+In4 In 0.83582(19) 0.88801(14) 0.64242(6)
+In5 In 0.97962(15) 0.75202(15) 0.53734(6)
+In6 In 1.18887(15) 1.05065(21) 0.63122(6)
+In7 In 1.16299(15) 0.89770(21) 0.56669(6)
+In8 In 1.02926(14) 0.75001(14) 0.63334(5)
+In9 In 1.03108(10) 1.06216(14) 0.66670
+S4 S 0.7551(5) 0.8279(5) 0.5944(2)
+S5 S 0.7399(5) 0.6871(5) 0.5370(2)
+O3 O 0.7917(11) 0.6663(11) 0.6155(4)
+O4 O 0.9208(11) 0.6868(11) 0.6515(4)
+S6 S 0.7894(7) 0.9723(5) 0.6559(2)
+S7 S 0.9758(5) 0.6752(5) 0.5833(2)
+S8 S 0.9065(5) 0.6771(6) 0.4942(2)
+S9 S 1.1002(6) 0.8283(6) 0.5192(2)
+S10 S 1.1508(5) 1.1338(8) 0.6481(2)
+S11 S 1.3101(5) 1.1257(8) 0.6132(2)
+S12 S 1.1570(5) 0.8179(7) 0.6124(2)
+S13 S 1.2841(6) 0.9703(8) 0.5476(2)
+S14 S 1.0462(7) 0.6753(5) 0.6747(2)
+In10 In 0.62825(14) 0.75136(16) 0.61289(6)
+In11 In 0.78789(14) 0.60958(15) 0.51646(6)
+In12 In 0.61287(15) 0.60582(15) 0.55427(6)
+In13 In 0.85483(14) 0.61614(14) 0.60990(5)
+In14 In 0.69819(20) 0.61524(14) 0.64389(6)
+In15 In 0.66307(25) 0.89730(21) 0.67567(6)
+In16 In 1.34161(15) 1.03978(22) 0.59632(6)
+S15 S 0.5827(5) 0.8268(5) 0.6322(2)
+S16 S 0.5585(5) 0.6753(6) 0.5690(2)
+S17 S 0.7892(5) 0.5347(5) 0.5625(2)
+S18 S 0.7170(6) 0.5392(6) 0.4706(2)
+S19 S 0.5374(6) 0.5268(7) 0.5119(3)
+S20 S 0.6134(7) 0.5319(5) 0.6012(2)
+S21 S 0.8472(5) 0.5215(5) 0.6478(2)
+S22 S 0.6141(9) 0.9702(8) 0.6939(2)
+In17 In 0.66100(15) 0.45481(15) 0.58094(6)
+In18 In 0.60367(16) 0.46741(16) 0.49665(6)
+In19 In 0.72118(10) 0.4424(2) 0.66670
+S23 S 0.6494(6) 0.3709(6) 0.6218(2)
+S24 S 0.5955(6) 0.3803(6) 0.5354(2)
+N1 N 0.5395(15) 0.3987(15) 0.4565(6)
+C1 C 0.552(2) 0.356(2) 0.4380(9)
+C2 C 0.4708(19) 0.385(2) 0.4473(8)
+C3 C 0.498(2) 0.3184(19) 0.4168(8)
+N2 N 0.4484(15) 0.3407(15) 0.4223(6)
+In1D In 0.89994(14) 0.88784(14) 0.723953(60)
+O1D O 0.9379(10) 0.8159(11) 0.705033(400)
+S1D S 0.8982(5) 0.8274(5) 0.776233(200)
+S2D S 0.8615(5) 0.9719(7) 0.746933(200)
+O2D O 0.8204(11) 0.8391(11) 0.689533(400)
+S3D S 1.0268(7) 0.9823(5) 0.711933(200)
+In2D In 0.94061(14) 0.75374(15) 0.747043(50)
+In4D In 1.05219(19) 0.88801(14) 0.690913(60)
+In5D In 0.77240(15) 0.75202(15) 0.795993(60)
+In6D In 0.86178(15) 1.05065(21) 0.702113(60)
+In7D In 0.73471(15) 0.89770(21) 0.766643(60)
+In8D In 0.72075(14) 0.75001(14) 0.699993(50)
+S4D S 1.0728(5) 0.8279(5) 0.738933(200)
+S5D S 0.9472(5) 0.6871(5) 0.796333(200)
+O3D O 0.8746(11) 0.6663(11) 0.717833(400)
+O4D O 0.7660(11) 0.6868(11) 0.681833(400)
+S6D S 1.1829(7) 0.9723(5) 0.677433(200)
+S7D S 0.6994(5) 0.6752(5) 0.750033(200)
+S8D S 0.7706(5) 0.6771(6) 0.839133(200)
+S9D S 0.7281(6) 0.8283(6) 0.814133(200)
+S10D S 0.9830(5) 1.1338(8) 0.685233(200)
+S11D S 0.8156(5) 1.1257(8) 0.720133(200)
+S12D S 0.6609(5) 0.8179(7) 0.720933(200)
+S13D S 0.6862(6) 0.9703(8) 0.785733(200)
+S14D S 0.6291(7) 0.6753(5) 0.658633(200)
+In10D In 1.12311(14) 0.75136(16) 0.720443(60)
+In11D In 0.82169(14) 0.60958(15) 0.816873(60)
+In12D In 0.99295(15) 0.60582(15) 0.779063(60)
+In13D In 0.76131(14) 0.61614(14) 0.723433(50)
+In14D In 0.91705(20) 0.61524(14) 0.689443(60)
+In15D In 1.23423(25) 0.89730(21) 0.657663(60)
+In16D In 0.69817(15) 1.03978(22) 0.737013(60)
+S15D S 1.2441(5) 0.8268(5) 0.701133(200)
+S16D S 1.1168(5) 0.6753(6) 0.764333(200)
+S17D S 0.7455(5) 0.5347(5) 0.770833(200)
+S18D S 0.8222(6) 0.5392(6) 0.862733(200)
+S19D S 0.9894(6) 0.5268(7) 0.821433(300)
+S20D S 0.9185(7) 0.5319(5) 0.732133(200)
+S21D S 0.6743(5) 0.5215(5) 0.685533(200)
+S22D S 1.3561(9) 0.9702(8) 0.639433(200)
+In17D In 0.79381(15) 0.45481(15) 0.752393(60)
+In18D In 0.86374(16) 0.46741(16) 0.836683(60)
+S23D S 0.7215(6) 0.3709(6) 0.711533(200)
+S24D S 0.7848(6) 0.3803(6) 0.797933(200)
+N1D N 0.8592(15) 0.3987(15) 0.876833(600)
+C1D C 0.804(2) 0.356(2) 0.895333(900)
+C2D C 0.9142(19) 0.385(2) 0.886033(800)
+C3D C 0.8204(20) 0.3184(19) 0.916533(800)
+N2D N 0.8923(15) 0.3407(15) 0.911033(600)
+In16A In 0.96022(15) 0.30183(22) 0.929653(60)
+In16E In 0.34161(15) 0.30183(22) 0.40368(6)
+N2A N 0.6593(15) 1.1077(15) 0.755633(600)
+N2E N 1.4484(15) 1.1077(15) 0.5777(6)
+#END
